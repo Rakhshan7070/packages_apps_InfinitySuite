@@ -1,0 +1,861 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2">
+
+    
+
+    
+    <string name="button_title">Nupud</string>
+    <string name="gestures_title">Viiped</string>
+    <string name="lockscreen_title">Lukustuskuva</string>
+    <string name="misc_title">Mitmesugust</string>
+    <string name="navbar_title">Navigeerimisriba</string>
+    <string name="powermenu_title">Toitemenüü</string>
+    <string name="quicksettings_title">Kiirsätted</string>
+    <string name="themes_title">Teemad</string>
+    <string name="statusbar_title">Olekuriba</string>
+    <string name="notifications_title">Teavitused</string>
+    <string name="ambient_text_category_title">Ambient-Aod Kohandamine</string>
+    <string name="fingerprint_category">Sõrmejälg</string>
+
+    
+    <string name="ok">Ok</string>
+    <string name="reset">Lähtesta</string>
+    <string name="cancel">Loobu</string>
+    <string name="save">Salvesta</string>
+    
+    
+    <string name="notif_title">Teatised</string>
+    <string name="power_title">Toitemenüü</string>
+    <string name="gesture_title">Žestid</string>
+
+     
+     <string name="unit_seconds">sekundit</string>
+     <string name="unit_milliseconds">millisekundit</string>
+     <string name="unit_pixels">Dp</string>
+    
+    
+    <string name="team_title">Meeskonna Kohta</string>
+    
+    
+    <string name="lead_devs">Juhtiv Arendajad</string>
+    <string name="honorable_mentions">Auväärsed Mainimised</string>
+    <string name="designers">Projekteerijad</string>
+    
+    
+    <string name="general_category">Üld-</string>
+    <string name="media_category">Meediakomisjon</string>
+    <string name="statusbar_icons">Ikoonid</string>
+    <string name="pocket_category">Tasku</string>
+    
+    
+    <string name="statusbar_items_title">Olekuriba Imsems</string>
+    <string name="statusbar_items_summary">Häälestage Standkäik</string>
+    
+    
+    <string name="qs_quick_pulldown">Kiire Qs -Ripp</string>
+    <string name="quick_pulldown_none">Puudega</string>
+    <string name="quick_pulldown_right">Paremalt Küljelt Rippuv Oletusriba</string>
+    <string name="quick_pulldown_left">Rippuvast Oletusriba Vasakult Küljest</string>
+    
+    
+    <string name="power_menu_title">Toitemenüü</string>
+    <string name="power_menu_title_summary">Menüüde Kanded Kuvavad Või Muutke</string>
+    <string name="powermenu_screenshot">Ekraanipilt</string>
+    <string name="powermenu_power">Võimsus</string>
+    <string name="powermenu_advanced">Täpsemad Taaskäivitusvalikud</string>
+    <string name="powermenu_restart">Taaskäivitama</string>
+    <string name="powermenu_airplane">Lennuk</string>
+    <string name="powermenu_settings">Sätted</string>
+    <string name="powermenu_lockdown">Täielik Sulgemine</string>
+    <string name="powermenu_soundpanel">Helipaneel</string>
+    <string name="powermenu_users">Kasutajad</string>
+    <string name="powermenu_logout">Väljalogimine</string>
+    <string name="powermenu_emergency">Hädaolukord</string> 
+    
+    
+    <string name="lockscreen_enable_power_menu_title">Toitemenüü</string>
+    <string name="lockscreen_enable_power_menu_summary">Luba toitemenüü ligipääs turvalisel lukustuskuval</string>
+          
+    
+    <string name="system_navigation_summary">Seadistage Navigeerimismenüüd</string>
+    
+    
+    <string name="monet_engine_custom_color_title">Aktsentvärv</string>
+    <string name="monet_engine_custom_color_summary">Vali kohandatud rõhuvärv</string>
+    <string name="monet_engine_custom_bgcolor_title">Taustavärv</string>
+    <string name="monet_engine_custom_bgcolor_summary">Vali kohandatud taustavärv</string>
+    <string name="monet_engine_color_override_title">Kohandatud värv</string>
+    <string name="monet_engine_luminance_factor_title">Heledus</string>
+    <string name="monet_engine_luminance_factor_summary">Suuremad väärtused loovad eredamaid värve</string>
+    <string name="monet_engine_chroma_factor_title">Kroomifaktor</string>
+    <string name="monet_engine_chroma_factor_summary">Suuremad väärtused loovad tugevamaid värve</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
+    <string name="monet_engine_tint_background_title">Toonita taust</string>
+    <string name="monet_engine_tint_background_summary">Heleduse ja kromaatika valik mõjutab ka taustavärve</string>
+    <string name="monet_engine_style_title">Teema stiil</string>
+    <string name="monet_engine_style_tonal_spot">Tonal Spot (vaikimisi)</string>
+    <string name="monet_engine_style_vibrant">Erksavärviline</string>
+    <string name="monet_engine_style_expressive">Väljenduslik</string>
+    <string name="monet_engine_style_spritz">Spritz</string>
+    <string name="monet_engine_style_rainbow">Vikerkaar</string>
+    <string name="monet_engine_style_fruit_salad">Puuviljasalat</string>
+    <string name="monet_engine_style_monochromatic">Monochromatic</string>
+    <string name="monet_engine_color_source_title">Color source</string>
+    <string name="monet_engine_color_source_both">Both (Default)</string>
+    <string name="monet_engine_color_source_home">Home wallpaper</string>
+    <string name="monet_engine_color_source_lock">Lock wallpaper</string>
+    <string name="monet_engine_color_source_preset">Preset</string>
+    
+    
+     <string name="theme_customization_font_title">Fondi stiil</string>
+     <string name="theme_customization_font_summary">Määra süsteemi fondi stiil</string>
+     <string name="theme_customization_icon_pack_title">Ikoonipakk</string>
+     <string name="theme_customization_icon_pack_summary">Määra kohandatud ikoonipaki stiil</string>
+     <string name="theme_customization_icon_shape_title">Ikoonide kuju</string>
+     <string name="theme_customization_icon_shape_summary">Määra süsteemiikoonide kuju stiil</string>
+     <string name="theme_customization_signal_icon_title">Signaaliikooni stiil</string>
+     <string name="theme_customization_signal_icon_summary">Määra kohandatud signaaliikooni stiil</string>
+     <string name="theme_customization_wifi_icon_title">WiFi-ikooni stiil</string>
+     <string name="theme_customization_wifi_icon_summary">Määra kohandatud WiFi-ikooni stiil</string>
+     <string name="theme_customization_navbar_title">Navigeerimisriba stiil</string>
+     <string name="theme_customization_navbar_summary">Määra kohandatud navigeerimisriba stiil</string>
+     <string name="theme_customization_data_title">Andmeikooni Stiil</string>
+     <string name="theme_customization_data_summary">Seadke Kohandatud Andmete Ikooni Stiil</string>
+     <string name="theme_customization_lock_clock_title">Kella teksti suurus</string>
+     <string name="theme_customization_lock_clock_summary">Määra lukustuskuva kella fondi stiil</string>
+          
+    
+     <string name="lockscreen_battery_info_title">Aku teave</string>
+     <string name="lockscreen_battery_info_summary">Kuva laadimise ajal aku teavet</string>
+    
+        
+    <string name="status_bar_battery_category_title">Akukohandused</string>
+    <string name="status_bar_battery_style_title">Aku ikooni stiil</string>
+    <string name="status_bar_battery_style_summary">Olekuriba Ja Qs Aku Stiilid</string>
+    <string name="status_bar_battery_style_icon_portrait">Ikoon püstasendis</string>
+    <string name="status_bar_battery_style_icon_rlandscape">Ikoon rõhtasendis (paremale)</string>
+    <string name="status_bar_battery_style_icon_landscape">Ikoon rõhtasendis (vasakule)</string>
+    <string name="status_bar_battery_style_circle">Ring</string>
+    <string name="status_bar_battery_style_dotted_circle">Täppidest ring</string>
+    <string name="status_bar_battery_style_filled_circle">Täidetud ring</string>
+    <string name="status_bar_battery_style_big_circle">Suur Ring</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Suur Punktiirring</string>
+    <string name="status_bar_battery_style_land_a">Maastik Lihtsalt</string>
+    <string name="status_bar_battery_style_land_b">Maastik Nenine</string>
+    <string name="status_bar_battery_style_land_c">Maastikuvärvid</string>
+    <string name="status_bar_battery_style_land_d">Maastikuarmastus</string>
+    <string name="status_bar_battery_style_land_e">Maastiku Pesapall</string>
+    <string name="status_bar_battery_style_land_f">Maastik Pool Täidis</string>
+    <string name="status_bar_battery_style_land_g">Maastiku Lasteaed On Sõbralik</string>
+    <string name="status_bar_battery_style_land_h">Maastik Miui</string>
+    <string name="status_bar_battery_style_land_i">Maastikusõber</string>
+    <string name="status_bar_battery_style_land_j">Maastiku Ribatee</string>
+    <string name="status_bar_battery_style_land_k">Maastik Ios Neliteist</string>
+    <string name="status_bar_battery_style_land_l">Maastik Ios Kuusteist</string>
+    <string name="status_bar_battery_style_land_m">Maastik Ios -I Kontuur</string>
+    <string name="status_bar_battery_style_land_n">Maastiku Valitseja</string>
+    <string name="status_bar_battery_style_land_o">Maastikuaknad</string>
+    <string name="status_bar_battery_style_text">Tekst</string>
+    <string name="status_bar_battery_style_hidden">Peidetud</string>
+    <string name="status_bar_battery_percent_title">Akuprotsent</string>
+    <string name="status_bar_battery_percent_hidden">Peidetud</string>
+    <string name="status_bar_battery_percent_text_inside">Ikooni sees</string>
+    <string name="status_bar_battery_percent_text_next_right">Ikooni kõrval (paremal)</string>
+    <string name="status_bar_battery_percent_text_next_left">Ikooni kõrval (vasakul)</string>
+    <string name="status_bar_battery_text_charging_title">Aku protsent laadimisel</string>
+    <string name="status_bar_battery_text_charging_summary">Kuva aku protsenti laadimise ajal alati</string>
+
+    
+    <string name="qs_battery_category_title">Qs Aku Kohandamine</string>
+    <string name="qs_use_status_bar_battery_style">Järgi olekuriba stiili</string>
+    
+    
+    <string name="color_default">Vaikimisi</string>
+    <string name="custom_battery_charging_icon_title">Laadimisikoonid</string>
+    <string name="custom_battery_charging_icon_summary">Kuva Aku Küljele Laadimisikoon</string>
+    <string name="custom_battery_charging_icon_style_title">Laadimisikoonide Stiil</string>
+    <string name="custom_battery_charging_icon_wh_title">Skaala Laius Ja Kõrgus</string>
+
+    
+    <string name="custom_icon_charging_symbol_title">Laadimissümbol Aku Teksti Jaoks</string>
+    <string name="custom_symbol_charging_default">Vaikimisi (Polt)</string>
+    <string name="custom_symbol_charging_type1">Bioharja</string>
+    <string name="custom_symbol_charging_type2">Staar</string>
+    <string name="custom_symbol_charging_type3">Naeratama</string>
+    <string name="custom_symbol_charging_type4">Taaskasutamine</string>
+    <string name="custom_symbol_charging_type5">Lõpmatu</string>
+    <string name="custom_symbol_charging_type6">Päikeselill</string>
+    <string name="custom_symbol_charging_type7">Pisardus Tilk</string>
+    <string name="custom_symbol_charging_type8">Lund</string>
+    <string name="custom_symbol_charging_type9">Kolmekordne Tilde</string>
+
+    
+    <string name="flip_batre_image_title">Aku Pilt</string>
+    <string name="flip_batre_image_summary">Pöörake Aku Pilt</string>
+    <string name="flip_batre_title">Aku Paigutus</string>
+    <string name="flip_batre_summary">Pöörake Aku Paigutus</string>
+
+    
+    <string name="custom_battery_drawable_title">Misc Aku Joonistamisel</string>
+    <string name="custom_battery_scaled_perimeter_alpha_title">Skaleeritud Perimeetri Alfa</string>
+    <string name="custom_battery_scaled_perimeter_alpha_summary">Kasutage Skaleeritud Perimeetri Alfa</string>
+    <string name="custom_battery_scaled_fill_alpha_title">Kasutage Skaleeritud Tagasivoolu Alfa</string>
+    <string name="custom_battery_scaled_fill_alpha_summary">Skaleeritud Tagasi Täida Alfa</string>
+    <string name="custom_battery_color_title">Aku Kohandatud Värv</string>
+    <string name="custom_battery_color_summary">Vaikimisi Segu Värvi Jaoks Seatud #Ff000000</string>
+    <string name="custom_battery_charging_color_title">Värvi Muutmine</string>
+    <string name="custom_battery_fill_color_title">Täitke Kohandatud Värv</string>
+    <string name="custom_battery_fill_grad_color_title">Täitke Gradientvärv</string>
+    <string name="custom_battery_fill_grad_color_summary">#Ff000000 Puude Gradiendi Jaoks</string>
+    <string name="custom_battery_powersave_color_title">Powersave Värv</string>
+    <string name="custom_battery_powersave_fill_color_title">Powersave Täitevärv</string>
+    <string name="custom_battery_rainbow_fill_title">Vikerkaare Täitevärv</string>
+    <string name="custom_battery_rainbow_fill_summary">Ainult Stiilisõbra Ja Ribatee Jaoks</string>
+    <string name="sthumb_new_tint_picker_summary">Kasutage Rgb Värvi Valijat</string>
+
+    
+    <string name="custom_battery_layout_title">Misc Aku Paigutuse Korral</string>
+    <string name="custom_battery_rotation_title">Aku Pildi Pöörlemine</string>
+    <string name="custom_battery_rotation_summary">Maastiku Aku Pööramiseks</string>
+    <string name="custom_battery_leftpct_title">Vasaku Aku Protsent</string>
+    <string name="custom_battery_leftpct_summary">Panna Aku Protsent Vasakule</string>
+
+    
+    <string name="custom_battery_dimension_title">Aku Kohandatud Mõõde</string>
+    <string name="custom_battery_dimension_summary">Kasutage Kohandatud Lisatavate Dimeni Väärtusi</string>
+    <string name="custom_battery_height">Kõrgus</string>
+    <string name="custom_battery_width">Laius</string>
+    <string name="custom_battery_top">Marginaal</string>
+    <string name="custom_battery_bottom">Ääreosa</string>
+    <string name="custom_battery_left">Jäänud Varu</string>
+    <string name="custom_battery_right">Marginaal</string>
+     
+    
+     <string name="qs_show_brightness_slider_title">Heleduse liugur</string>
+     <string name="qs_show_brightness_slider_never">Ära kuva kunagi</string>
+     <string name="qs_show_brightness_slider_expanded">Kuva laiendamisel</string>
+     <string name="qs_show_brightness_slider_always">Kuva alati</string>
+     <string name="qs_show_brightness_slider_not_expanded">Kuva, kui pole laiendatud</string>
+     <string name="qs_brightness_slider_position_title">Asukoht</string>
+     <string name="qs_brightness_slider_position_top">Üleval</string>
+     <string name="qs_brightness_slider_position_bottom">All</string>
+
+    
+     <string name="qs_show_auto_brightness_title">Automaatse heleduse ikoon</string>
+     <string name="qs_show_auto_brightness_summary">Kuva kohanduva heleduse lülitit liuguri lähedal</string>
+    
+    
+     <string name="status_bar_clock_title">Kellaaeg ja kuupäev</string>
+     <string name="status_bar_clock_summary">Kohanda kella ja kuupäeva</string>
+     <string name="status_bar_clock_seconds_title">Kella sekundid</string>
+     <string name="status_bar_clock_seconds_summary">Kuva olekuriba kella kõrval sekundid</string>
+     <string name="status_bar_clock_position_title">Kella stiil</string>
+     <string name="status_bar_clock_position_right">Paremal</string>
+     <string name="status_bar_clock_position_left">Vasakul</string>
+     <string name="status_bar_clock_position_center">Keskel</string>
+     <string name="status_bar_clock_position_hidden">Peidetud</string>
+     <string name="status_bar_clock_auto_hide_title">Peida automaatselt</string>
+     <string name="status_bar_clock_auto_hide_launcher_summary">Peida kell, kui avakuva on nähtaval</string>
+     <string name="status_bar_clock_auto_hide_summary">Peida kell regulaarse intervalli tagant</string>
+     <string name="status_bar_clock_auto_hide_hdur_title">Peitmise kestus</string>
+     <string name="status_bar_clock_auto_hide_hdur_summary">Aeg sekundites, kauaks kell peita</string>
+     <string name="status_bar_clock_auto_hide_sdur_title">Kuvamise kestus</string>
+     <string name="status_bar_clock_auto_hide_sdur_summary">Aeg sekundites, kauaks kella näidata</string>
+     <string name="status_bar_am_pm_title">AM/PM stiil</string>
+     <string name="status_bar_am_pm_info">24-tunnine kell on valitud</string>
+     <string name="status_bar_am_pm_normal">Tavaline</string>
+     <string name="status_bar_am_pm_small">Väike</string>
+     <string name="status_bar_am_pm_hidden">Peidetud</string>
+     <string name="status_bar_date_title">Kuupäev</string>
+     <string name="status_bar_date_none">Peidetud</string>
+     <string name="status_bar_date_small">Väike</string>
+     <string name="status_bar_date_normal">Tavaline</string>
+     <string name="status_bar_date_format_title">Kuupäeva vorming</string>
+     <string name="status_bar_date_style">Kuupäeva stiil</string>
+     <string name="status_bar_date_style_normal">Tavaline</string>
+     <string name="status_bar_date_style_lowercase">Väiketähed</string>
+     <string name="status_bar_date_style_uppercase">Suurtähed</string>
+     <string name="status_bar_date_format_custom">Kohandatud Java vorming</string>
+     <string name="status_bar_date_string_edittext_title">Peab olema DateFormat, näiteks MM/dd/yy</string>
+     <string name="status_bar_date_string_edittext_summary">Sisesta string</string>
+     <string name="clock_date_position">Kuupäeva asukoht</string>
+     <string name="clock_date_right">Kellast paremal</string>
+     <string name="clock_date_left">Kellast vasakul</string>
+
+    
+    <string name="qs_footer_text_title">Qs Jaluse Tekst</string>
+    <string name="qs_footer_text_summary">Kuva Tekst Qs Paneeli Allosas</string>
+    <string name="qs_footer_text_string_title">Kohandage Jaluse Teksti</string>
+    <string name="qs_footer_text_string_summary">Vaikimisi Lõpmatuse Jaoks Tühjendama</string>
+
+   
+    <string name="qs_show_data_usage_title">Näidata Andmete Kasutamist</string>
+    <string name="qs_show_data_usage_summary">Näidake Daily Cellular/Wifi Andmete Kasutamist Qs Jaluse Korral</string>
+    
+   
+    <string name="laboratory_ignore_window_secure_title">Ignore Aken Turvalised Lipud</string>
+    <string name="laboratory_ignore_window_secure_summary">See Eemaldab Kõigi Rakenduste Jaoks Ekraanipildid Ja Ekraanikirju.Tavaliselt Asendatakse Spetsiaalsed Rakendused Kirjetes Mustade Aladega.See Võib Mõnel Juhul Olla Mugav, Kuid Võib Põhjustada Privaatsuse Lekkeid.Pärast Selle Sisselülituse Muutmist Peate Võib -Olla Taaskäivitama Rakendused Muudatuse Jõustumiseks.</string>
+    
+    
+    <string name="app_downgrade_title">Luba Rakenduse Alandamine</string>
+    <string name="app_downgrade_summary">See Võimaldab Teil Rakendusi Alandada.Pange Tähele, Et See Võib Põhjustada Lennuõnnetusi Ja Andmete Rikkumist.</string>
+
+   
+    <string name="statusbar_colored_icons_title">Värvilised ikoonid</string>
+    <string name="statusbar_colored_icons_summary">Kuva õigeid rakenduse ikoone olekuriba teavituste ikoonidena</string>
+    
+   
+    <string name="status_bar_logo_title">Logo</string>
+    <string name="default_string">Täitmata Jätmine</string>
+    <string name="status_bar_logo_summary">Kuva kohandatud logo olekuribast vasakul või paremal</string>
+    <string name="status_bar_logo_primary_switch_title">Kasutage Logo</string>
+    <string name="status_bar_logo_position_title">Logo asukoht</string>
+    <string name="status_bar_logo_position_summary">Valige Logo Kuvamiseks, Vasakul Või Paremal Kuvamiseks</string>
+    <string name="status_bar_logo_position_right">Paremale</string>
+    <string name="status_bar_logo_position_left">Vasakul</string>
+    <string name="status_bar_logo_color_title">Värv</string>
+    <string name="status_bar_logo_color_default">Vaikimisi (Valge)</string>
+    <string name="status_bar_logo_color_accent">Aktsent</string>
+    <string name="status_bar_logo_color_custom">Kohandatud</string>
+    <string name="status_bar_logo_style_title">Logo stiil</string>
+    <string name="status_bar_logo_style_adidas">Adidas</string>
+    <string name="status_bar_logo_style_airjordan">Air Jordan</string>
+    <string name="status_bar_logo_style_alien">Tulnukas</string>
+    <string name="status_bar_logo_style_amogus">Amogus</string>
+    <string name="status_bar_logo_style_apple">Apple</string>
+    <string name="status_bar_logo_style_avengers">Tasujad</string>
+    <string name="status_bar_logo_style_batman">Batman</string>
+    <string name="status_bar_logo_style_batman_tdk">Batman: Pimeduse rüütel</string>
+    <string name="status_bar_logo_style_beats">Beats</string>
+    <string name="status_bar_logo_style_biohazard">Bioloogiline oht</string>
+    <string name="status_bar_logo_style_blackberry">BlackBerry</string>
+    <string name="status_bar_logo_style_captain_america">Kapten Ameerika</string>
+    <string name="status_bar_logo_style_cannabis">Kanep</string>
+    <string name="status_bar_logo_style_flash">Välk</string>
+    <string name="status_bar_logo_style_fire">Tuli</string>
+    <string name="status_bar_logo_style_ghost">Kummitus</string>
+    <string name="status_bar_logo_style_heart">Süda</string>
+    <string name="status_bar_logo_style_ironman">Raudmees</string>
+    <string name="status_bar_logo_style_mint">Linux Mint</string>
+    <string name="status_bar_logo_style_nike">Nike</string>
+    <string name="status_bar_logo_style_ninja">Ninja</string>
+    <string name="status_bar_logo_style_pac_man">Pac-Mees</string>
+    <string name="status_bar_logo_style_puma">Puma</string>
+    <string name="status_bar_logo_style_robot">Robot</string>
+    <string name="status_bar_logo_style_rog">ROG</string>
+    <string name="status_bar_logo_style_spiderman">Ämblikmees</string>
+    <string name="status_bar_logo_style_superman">Superman</string>
+    <string name="status_bar_logo_style_tux">Tux</string>
+    <string name="status_bar_logo_style_ubuntu">Ubuntu</string>
+    <string name="status_bar_logo_style_windows">Windows</string>
+    <string name="status_bar_logo_style_xbox">Xbox</string>
+    
+    
+    <string name="qs_transparency_summary">Valige, Kui Läbipaistev Soovite, Et Teie Qs Oleks</string>
+    <string name="qs_transparency_title">Qs Läbipaistvus</string>
+
+    
+    <string name="statusbar_clock_chip_title">Taustakiip</string>
+    <string name="statusbar_clock_chip_summary">Kuva kella taga rõhuvärviga kiipi</string>
+    <string name="solid_accent">Aktsent</string>
+    <string name="outline">Kontuur</string>
+    <string name="solid_accent_gradient">Gradient</string>
+    <string name="solid_gradient">Tahke Gradiendi Pool</string>
+    <string name="solid_gradient_corner">Tahke Aktsendi Gradient Terav</string>
+    <string name="solid_gradient_void">Gradient Tühine</string>
+    <string name="solid_gradient_neumorph">Neumorfi Gradient</string>
+    <string name="solid_gradient_stroke">Terav Gradient</string>
+    <string name="solid_accent_transperent">Aktsent Läbipaistev</string>    
+    <string name="solid_gradient_light">Gradientvalgus</string>
+    <string name="solid_gradient_shape">Terav Gradiendi Nurk</string>
+    <string name="solid_gradient_void_light">Gradient Tühine Tuli</string>
+    
+    
+    <string name="haptic_on_volume_slider_title">Helitugevuse Liugur Haptiline</string>
+    <string name="haptic_on_volume_slider_summary">Andke Haptiline Tagasiside Liuguri Abil Helitugevuse Muutmise Kohta</string>
+    
+    
+    <string name="volume_panel_on_left_title">Helitugevuse paneel vasakul</string>
+    <string name="volume_panel_on_left_summary">Kuva Helitugevuse Paneel Ekraani Vasakus Servas</string>
+    
+    
+    <string name="data_disabled_icon_title">Andmeside keelamise indikaator</string>
+    <string name="data_disabled_icon_summary">Kuva andmeside keelamise korral signaaliikooni kõrval vastav ikoon</string>
+    
+    
+    <string name="status_bar_4g_icon_title">4G Ikoon</string>
+
+    
+    <string name="roaming_indicator_icon_title">Näidake Rändlusnäitaja Ikooni</string>
+    <string name="roaming_indicator_icon_summary">Kuva Rändlusnäitaja Signaali Ikooni Kohal Ringi Rändlusrežiimis</string>
+
+    
+    <string name="wifi_standard_icon_title">WiFi standard</string>
+    <string name="wifi_standard_icon_summary">Luba WiFi signaali kõrval WiFi standardit</string>
+    
+    
+    <string name="bluetooth_battery_title">Bluetoothi aku olek</string>
+    <string name="bluetooth_battery_summary">Kuva ühendatud Bluetooth-seadme aku olek, kui see on saadaval</string> 
+    
+    
+    <string name="show_fiveg_icon_summary">Näidata Jõuliselt 5G Võrguikooni Lte Ja 4G Asemel</string>
+    <string name="show_fiveg_icon_title">Stud 5G Indikaator</string>
+    
+    
+    <string name="qs_brightness_slider_haptic_title">Värintagasiside</string>
+    <string name="qs_brightness_slider_haptic_summary">Liuguri abil heledust muutes kasuta värintagasisidet</string>
+    
+    
+    <string name="statusbar_padding">Olekuriba Polsterdus</string>
+    <string name="statusbar_top_padding">Ülemine Polsterdus</string>
+    <string name="statusbar_left_padding">Vasak Polsterdus</string>
+    <string name="statusbar_right_padding">Õige Polsterdus</string>
+    
+    
+    <string name="less_boring_heads_up_title">Vähem igav</string>
+    <string name="less_boring_heads_up_summary">Kuva hüpikteateid ainult äratuse, telefoni ja sõnumside rakenduste jaoks</string>
+
+    
+    <string name="headsup_category">Headsupi Sätted</string>
+    <string name="heads_up_notifications">Suundub Üles</string>
+    <string name="heads_up_notifications_summary">Kohandatud Juhib Teatiste Sätted</string>
+    <string name="summary_heads_up_enabled">Hüpikteated On Lubatud</string>
+    <string name="summary_heads_up_disabled">Hüpikteated On Keelatud</string>
+    <string name="add_heads_up_package">Lisage Rakendus</string>
+    <string name="add_heads_up_stoplist_summary">Keela Nendes Rakendustes Märguanded</string>
+    <string name="add_heads_up_blacklist_summary">Keela Neist Rakendustest Üles</string>
+    <string name="heads_up_stoplist_title">Stoppist</string>
+    <string name="heads_up_blacklist_title">Musta Nimekiri</string>
+    <string name="profile_choose_app">Valige Rakendus</string>
+    <string name="dialog_delete_title">Kustutama</string>
+    <string name="dialog_delete_message">Kas Eemaldada Valitud Üksus?</string>
+
+    
+    <string name="heads_up_time_out_title">Aeg</string>
+    <string name="heads_up_time_out_summary">Peekingi Teatised Näitavad<ns0:g id="number">%d</ns0:g> seconds</string>
+    <string name="heads_up_time_out_2sec">2 Sekundit</string>
+    <string name="heads_up_time_out_4sec">4 Sekundit</string>
+    <string name="heads_up_time_out_5sec">5 Sekundit</string>
+    <string name="heads_up_time_out_6sec">6 Sekundit</string>
+    <string name="heads_up_time_out_8sec">8 Sekundit</string>
+    <string name="heads_up_time_out_10sec">10 Sekundit</string>
+
+    
+    <string name="heads_up_snooze_title">Snooze Timer</string>
+    <string name="heads_up_snooze_summary_one_minute">Peekingi Teatiste Pühkimine Lükkab Sellest Rakendusest Pead Üles 1 Minutiks</string>
+    <string name="heads_up_snooze_summary">Peekingi Teatiste Pühkimine Edasi Lükkab Selle Rakenduse Eest Pead Üles<ns0:g id="number">%d</ns0:g> minutes</string>
+    <string name="heads_up_snooze_disabled_summary">Snooze Taimer On Keelatud</string>
+    <string name="heads_up_snooze_1min">1 Minut</string>
+    <string name="heads_up_snooze_5min">5 Minutit</string>
+    <string name="heads_up_snooze_10min">10 Minutit</string>
+    <string name="heads_up_snooze_15min">15 Minutit</string>
+    <string name="heads_up_snooze_20min">20 Minutit</string>
+    
+    
+    <string name="volume_button_music_control_title">Taasesituse Kontroll</string>
+    <string name="volume_button_music_control_summary">Kui Ekraan On Välja Lülitatud, Jätavad Pikapressimismahu Klahvid Muusika Palad Vahele</string>
+    
+    
+    <string name="volume_rocker_wake_title">Helitugevus</string>
+    <string name="volume_rocker_wake_summary">Ärka Oma Seade Üles, Vajutades Helitugevuse Klahve</string>
+    
+    
+    <string name="volume_answer_call_title">Vasta kõnele</string>
+    <string name="volume_answer_call_summary">Vasta sissetulevatele kõnedele helitugevuse nuppude vajutusega</string>
+    
+    
+    <string name="pulse_help_policy_notice_title">Pulse kohta</string>
+    <string name="pulse_help_policy_notice_summary">Pulse on hiilgav heli graafiline ekvalaiser, kui seadmes mängib muusika</string>
+    <string name="pulse_settings">Pulseerimine</string>
+    <string name="pulse_settings_summary">Heli graafiline ekvalaiser navigeerimisribal ja lukustuskuval</string>
+    <string name="show_navbar_pulse_title">Navigeerimisriba Pulse</string>
+    <string name="show_navbar_pulse_summary">Heli graafiline ekvalaiser navigeerimisribal</string>
+    <string name="show_lockscreen_pulse_title">Lukustuskuva Pulse</string>
+    <string name="show_lockscreen_pulse_summary">Heli graafiline ekvalaiser lukustusekraanil</string>
+    <string name="show_ambient_pulse_title">Säästliku ekraani Pulse</string>
+    <string name="show_ambient_pulse_summary">Heli graafiline ekvalaiser säästlikul ekraanil</string>
+    <string name="pulse_render_mode_title">Renderdusviis</string>
+    <string name="pulse_render_mode_fading_bars">Hääbuvad kastid</string>
+    <string name="pulse_render_mode_solid_lines">Pidevjooned</string>
+    <string name="pulse_legacy_mode_advanced_category">Hääbuvate kastide režiimi seaded</string>
+    <string name="pulse_custom_fudge_factor">Mõistlikkuse tase</string>
+    <string name="pulse_lavalamp_speed_title">Laavalambi kiirus</string>
+    <string name="pulse_solid_units_count">Pidevjoonte arv</string>
+    <string name="pulse_solid_units_opacity">Pidevjoonte läbipaistmatus</string>
+    <string name="pulse_solid_dimen_category">Pidevjoonte režiimi seaded</string>
+    <string name="pulse_color_mode_title">Värv</string>
+    <string name="pulse_color_accent">Rõhuvärv</string>
+    <string name="pulse_color_custom">Kohandatud</string>
+    <string name="pulse_color_lava_lamp">Laavalamp</string>
+    <string name="pulse_color_user_title">Vali värv</string>
+    <string name="pulse_color_auto">Album</string>
+    <string name="pulse_smoothing_enabled_title">Lülita silumine sisse</string>
+    <string name="pulse_smoothing_enabled_summary">Iga riba animeeritakse sujuvamalt</string>
+    <string name="pulse_custom_dimen">Riba laius</string>
+    <string name="pulse_custom_div">Riba vahed</string>
+    <string name="pulse_filled_block_size">Ploki suurus</string>
+    <string name="pulse_empty_block_size">Ploki vahed</string>
+    <string name="pulse_solid_units_rounded_title">Ümarad nurgad</string>
+    <string name="pulse_solid_units_rounded_summary">Ümara tipuga pidevjooned</string>
+
+    
+    <string name="pulse_custom_gravity_title">Gravitatsioon</string>
+    <string name="pulse_custom_gravity_bottom">Alumine</string>
+    <string name="pulse_custom_gravity_top">Tipus</string>
+    <string name="pulse_custom_gravity_center">Keskpunkt</string>
+    <string name="visualizer_center_mirrored_title">Keskpunkt Peegelpildis</string>
+    <string name="visualizer_center_mirrored_summary">Seadke Visualiseerija Keskosas Peegelrežiimis</string>
+    <string name="pulse_vertical_mirror_title">Vertikaalne Peegel</string>
+    <string name="pulse_vertical_mirror_summary">Looge Muud Impulsi Ja Klapp Vertikaalselt</string>
+
+    
+    <string name="pocket_mode">Taskurežiim</string>
+    <string name="pocket_mode_summary">Plokkige Ekraanisisendid, Kui Seade On Taskus</string>
+    
+    
+    <string name="status_bar_notif_count_title">Teadete Arv</string>
+    <string name="status_bar_notif_count_summary">Kuvage Iga Rakenduse Ikooni Lugemata Teadete Arv</string>
+
+    
+    <string name="mic_camera_privacy_indicator_title">Mikrofoni ja kaamera privaatsusindikaator</string>
+    <string name="mic_camera_privacy_indicator_summary">Kuva eraldi indikaator, kui mõni rakendus kasutab mikrofoni või kaamerat</string>
+    <string name="location_privacy_indicator_title">Asukoha privaatsuse indikaator</string>
+    <string name="location_privacy_indicator_summary">Kuva eraldi indikaator, kui mõni rakendus kasutab asukohta</string>
+    <string name="projection_privacy_indicator_title">Meedia projitseerimise privaatsusindikaator</string>
+    <string name="projection_privacy_indicator_summary">Kuva indikaator seadme ekraani projitseerimisel</string>
+    
+    
+    <string name="battery_bar_title">Akuriba</string>
+    <string name="battery_bar_summary">Kuva ja kohanda olekuriba kohal olevat akuriba</string>
+    <string name="battery_bar_color">Värv</string>
+    <string name="battery_bar_charging_color">Laadimise värv</string>
+    <string name="battery_bar_battery_low_color">Tühjeneva aku värv</string>
+    <string name="battery_bar_style_title">Joondus</string>
+    <string name="battery_bar_thickness_title">Paksus</string>
+    <string name="battery_bar_animate_title">Laadimise animatsioon</string>
+    <string name="battery_bar_style_regular">Tavaline</string>
+    <string name="battery_bar_style_center_mirrored">Keskpeegeldatud</string>
+    <string name="battery_bar_style_reversed">Pööratud</string>
+    <string name="battery_bar_use_charging_color">Kohandatud laadimisvärv</string>
+    <string name="battery_bar_blend_color_title">Sega värvid</string>
+    <string name="battery_bar_blend_color_summary">Sega täis/tühjad värvid vastavalt aku protsendile</string>
+    <string name="battery_bar_blend_color_reverse_title">Pööra värvi suund</string>
+    <string name="battery_bar_blend_color_reverse_summary_off">Täis → tühi: punane ← roheline ← sinine ← punane</string>
+    <string name="battery_bar_blend_color_reverse_summary_on">Täis → tühi: punane → roheline → sinine → punane</string>
+
+    
+    <string name="network_traffic_state_title">Võrguliikluse Indikaator</string>
+    <string name="network_traffic_state_summary">Luba Või Keelake Võrgukiiruse Indikaator Olekuribal</string>
+    <string name="network_traffic_title">Võrguliikluse Indikaator</string>
+    <string name="network_traffic_master_switch_title">Kasutage Võrguliikluse Indikaatorit</string>
+    <string name="network_options_title">Valikud</string>
+    <string name="network_traffic_autohide_title">Peida Võrguliikluse Indikaator, Kui See On Passiivne</string>
+    <string name="network_traffic_autohide_summary">Peida võrguliikluse jälgija ebaaktiivsuse korral</string>
+    
+    
+    <string name="ambient_text_category">Teksti Kohandamine</string>
+    <string name="ambient_image_category">Kujutise Kohandamine</string>
+    <string name="ambient_text_category_summary">Ambient-Aod Välimuse Kohandamine</string>
+    <string name="ambient_text_title">Ümbritsev Tekst</string>
+    <string name="ambient_text_summary">Näidake Aod -S Ümbritsevat Teksti</string>
+    <string name="ambient_text_animation_title">Ümbritsev Teksti Animatsioon</string>
+    <string name="ambient_text_animation_summary">Näita Animatsiooni, Kui Näidata Aod</string>
+    <string name="ambient_text_size_title">Ümbritseva Teksti Suurus</string>
+    <string name="ambient_text_font_title">Ümbritseva Teksti Font</string>
+    <string name="ambient_text_string_title">Määra Ümbritsev Tekst</string>
+    <string name="ambient_text_align_title">Ümbritseva Tekst Joondamine</string>
+    <string name="ambient_text_align_start_top">Paremal N Ülaosa</string>
+    <string name="ambient_text_align_start_center">Paremal N Keskus</string>
+    <string name="ambient_text_align_start_bottom">Paremal Ja Alt</string>
+    <string name="ambient_text_align_center">Keskpunkt</string>
+    <string name="ambient_text_align_end_top">Vasakule N Ülaosa</string>
+    <string name="ambient_text_align_end_center">Vasak N Keskus</string>
+    <string name="ambient_text_align_end_bottom">Vasak N Põhi</string>
+    <string name="ambient_text_type_color_title">Ümbritseva Teksti Tüüpi Värv</string>
+    <string name="ambient_text_color_title">Ümbritseva Teksti Värv</string>
+    <string name="ambient_notification_light_color_mode_accent">Süsteemi Aktsentvärv</string>
+    <string name="ambient_notification_light_color_mode_custom">Kohandatud Värv</string>
+    <string name="ambient_notification_light_color_mode_wall">Tapeedi Värv</string>
+    <string name="ambient_image_title">Ümbritsev Pilt</string>
+    <string name="file_header_select_title">Valige Kohalik Pilt</string>
+    <string name="file_header_select_summary">Valige Salvestusest Pilt</string>
+    
+    
+    <string name="qs_compact_media_player_mode_title">Kompaktne Qs Meediumipleier</string>
+    <string name="qs_compact_media_player_mode_summary">Luba Kompaktne Režiim Quicksettings Media Playeri Jaoks</string>
+
+    
+    <string name="smart_pixels_warning_text">Targad pikslid on akusäästmise funktsioon. Sõltuvalt sellest, mitu pikslit soovid välja lülitada, võid näha aku kasutusaja paranemist. Pane tähele, et mõnel juhul võib see põhjustada puuteekraanil mittereageerivaid alasid</string>
+    <string name="smart_pixels_title">Targad pikslid</string>
+    <string name="smart_pixels_summary">Säästa akut, lülitades täiendavad pikslid välja</string>
+    <string name="smart_pixels_enable_title">Luba targad pikslid</string>
+    <string name="smart_pixels_enable_summary">Lülita osa piksleid välja, et vähendada voolutarvet</string>
+    <string name="smart_pixels_on_power_save_title">Luba akusäästjaga automaatselt</string>
+    <string name="smart_pixels_on_power_save_summary">Lülita targad pikslid sisse, kui akusäästja on sisse lülitatud</string>
+    <string name="smart_pixels_percent">Keelatavate pikslite protsent</string>
+    <string name="smart_pixels_shift_title">Sissepõlemise kaitse</string>
+    <string name="smart_pixels_shift_summary">Väldib OLED-ekraanidel sissepõlemist, nihutades aeg-ajalt piksleid</string>
+    
+    
+    <string name="custom_timeout_summary_never">Mitte kunagi</string>
+    <string name="custom_timeout_summary_15secs">15 sekundit</string>
+    <string name="custom_timeout_summary_30secs">30 sekundit</string>
+    <string name="custom_timeout_summary_1min">1 minut</string>
+    <string name="custom_timeout_summary_2mins">2 minutit</string>
+    <string name="custom_timeout_summary_5mins">5 minutit</string>
+    <string name="custom_timeout_summary_10mins">10 minutit</string>
+    <string name="custom_timeout_summary_20mins">20 minutit</string>
+    <string name="custom_timeout_summary_30mins">30 minutit</string>
+    <string name="custom_timeout_summary_1hour">1 tund</string>
+    <string name="custom_timeout_summary_2hours">2 tundi</string>
+    
+    
+    <string name="pulse_on_new_tracks_title">Muusika tiksuja</string>
+    <string name="pulse_on_new_tracks_summary">Kuva säästlikul ekraanil muusikatiksujat, kui lugu vahetub</string>
+
+    
+    <string name="screen_off_animation_title">Ekraani väljalülituse animatsioon</string>
+    <string name="screen_off_animation_default">Vaikimisi</string>
+    <string name="screen_off_animation_crt">Kineskoop</string>
+    <string name="screen_off_animation_scale">Sissetõmbumine</string>
+
+    
+    <string name="system_charging">Süsteemi Laadimisvalikud</string>
+    <string name="charging_animation_bg_title">Laadimistaust</string>
+    <string name="charging_animation_bg_summary">Selle Valiku Lubamine Muudab Süsteemi Animatsiooni Tausta Mustaks</string>
+    
+    
+    <string name="hide_screen_capture_status_title">Peida Ekraani Jäädvustamise Olek</string>
+    <string name="hide_screen_capture_status_summary">Peitke Kõigi Rakenduste Ekraani Jäädvustamise Ja Ekraaniplaadi Oleku.Võib Mõnel Juhul Olla Mugav, Kuid Võib Põhjustada Privaatsuse Lekkeid.Muutuse Jõustumiseks On Vaja Taaskäivitada Rakendused.</string>
+
+    
+    <string name="no_storage_restrict_title">Säiliv Piiramine Pole</string>
+    <string name="no_storage_restrict_summary">Eemaldage Kaustade Valimisel Piirangu Salvestusruumi Raamistiku Kaudu.Võib Mõnel Juhul Olla Mugav, Kuid Võib Põhjustada Privaatsuse Lekkeid.</string>
+    
+    
+    <string name="hide_developer_status_title">Peida Arendaja Olek</string>
+    <string name="hide_developer_status_summary">Vältige Rakendustel Adb Ja Arendaja Režiimi Oleku Kontrollimist</string>
+    <string name="search">Otsima</string>
+    <string name="search_apps">Otsirakendused</string>
+
+    
+    <string name="spoof_storage_encryption_status_summary">Krüptitud Kelmuse Krüptimise Olek</string>
+    
+    
+    <string name="media_controls_always_show_time_title">Meedia Näituse Aeg</string>
+    <string name="media_controls_always_show_time_summary">Näidake Alati Möödunud Ja Meediumipleieris Kogu Aeg</string>
+    <string name="media_controls_squiggle_title">Squiggly Progress</string>
+    <string name="media_controls_squiggle_summary">Näidake Meediumipleieri Edenemisriba \ Nrequires Systemui Taaskäivitamiseks</string>
+    <string name="media_controls_actions_title">Kohandatud Toimingute Piir</string>
+    <string name="media_controls_actions_summary">Maksimaalne Arv Nuppe, Mida Rakendustel On Lubatud Mängijale Lisada</string>
+    <string name="media_controls_time_as_next_title">Aeg Järgmise / Eelmisena</string>
+    <string name="media_controls_time_as_next_summary">Peida Järgmised / Eelmised Nupud Ja Kasutage Selle Asemel Alati Kuvatavat Aega</string>
+    <string name="media_controls_ripple_title">Pulsatsiooniefektid</string>
+    <string name="media_controls_ripple_summary">Kontrollige Ripple Efekte Meediumikontrollidega Suhtlemisel</string>
+    <string name="media_controls_turbulence_title">Turbulentsi Efekt</string>
+    <string name="media_controls_turbulence_summary">Aktiveerige Turbulentsi Efekt Dünaamilise Meediakontrolli Jaoks</string>
+    
+    
+    <string name="enable_fingerprint_ripple_effect_title">Lainetusefekt</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Kuva sõrmejälgega avamisel lainetusefekti</string>
+    
+    <string name="ambient_display_always_on_title">Alati Edasi</string>
+    <string name="ambient_display_always_on_summary">Näidake Aega, Teavitus Ikoone Ja Muud Teavet.Suurenenud Aku Kasutamine.</string>
+
+    
+    <string name="ambient_ui">Ümbritsev Akuriba</string>
+    <string name="ambient_battery_settings_title">Aod Akuriba</string>
+    <string name="ambient_battery_settings_summary">Kuva Ümbritseva Ekraanil Akuriba</string>
+    <string name="keyguard_show_battery_title">Akuriba Laadimisel</string>
+    <string name="keyguard_show_battery_summary">Laadimisel Kuvage Ümbritseva Ekraanil Akuriba</string>
+    <string name="keyguard_show_battery_always_title">Kuva Alati Akuriba</string>
+    <string name="keyguard_show_battery_always_summary">Näidake Ümbritseva Ekraanil Alati Akuriba</string>
+    <string name="keyguard_batterybar_color_source">Akuriba Värviallikas</string>
+    <string name="keyguard_batterybar_custom_color">Akuriba Kohandatud Värv</string>
+    <string name="keyguard_batterybar_white">Valge (Vaikimisi)</string>
+    <string name="keyguard_batterybar_accent">Aktsentvärv</string>
+    <string name="keyguard_batterybar_custom">Kohandatud</string>
+    
+    
+    <string name="incall_vibration_category">Kõne vibratsiooni valikud</string>
+    <string name="incall_vibrate_connect_title">Vibreeri ühendamisel</string>
+    <string name="incall_vibrate_call_wait_title">Vibreeri kõne koputusel</string>
+    <string name="incall_vibrate_disconnect_title">Vibreeri katkemisel</string>
+
+    
+    <string name="incall_category">Kallisisesed Valikud</string>
+    <string name="flashlight_on_call_title">Vilguta taskulampi sissetuleva kõne puhul</string>
+    <string name="flashlight_on_call_disabled">Keelatud</string>
+    <string name="flashlight_on_call_ringer">Kui heliseb</string>
+    <string name="flashlight_on_call_no_ringer">Kui helin on vaigistatud</string>
+    <string name="flashlight_on_call_silent">Kui täielikult vaigistatud (ei helise ega vibreeri)</string>
+    <string name="flashlight_on_call_always">Alati</string>
+    <string name="flashlight_on_call_ignore_dnd_title">Ignoreeri Mitte segada režiimi</string>
+    <string name="flashlight_on_call_ignore_dnd_summary">Kas vilgutada ka siis, kui Mitte segada režiim on aktiivne</string>
+    <string name="flashlight_on_call_rate_title">Vilkumissagedus</string>
+    <string name="flashlight_on_call_rate_summary">Taskulamp Kõne Vilgutamise Määral</string>
+
+    
+    <string name="qs_colored_icons_title">Värvilised Qs -I Teatiseikoonid</string>
+    <string name="qs_colored_icons_summary">Kuva Ühevärviliste Ikoonide Asemel Värvilist Rakenduse Ikooni</string>
+
+    
+    <string name="depth_wallpaper_category">Põhjalik Tapeet</string>
+    <string name="dw_file_header_select_title">Valige Sügavuse Tapeedi Teema</string>
+    <string name="dw_file_header_select_summary">Valige Salvestusruumist Sügavuse Tapeedi Subjekti Pilt.</string>
+    <string name="dw_wallpaper_enabled_title">Põhjalik Tapeet</string>
+    <string name="dw_wallpaper_enabled_summary">Luba Ios-Ist Inspireeritud Sügavus Taustpilt.Nõuab Subjekti Pilti.</string>
+    <string name="dw_wallpaper_opacity_title">Sügavus Taustpilt</string>
+
+    
+    <string name="revamped_aosp_style">Uuendatud Aosos Ui Stiil</string>
+    <string name="rui_style">Realme Ui Stiil</string>
+    <string name="stock_style">Varude Kasutajaliidese Stiil</string>
+    <string name="double_layer_style">Topeltkihiline Stiil</string>
+    <string name="gradient_style">Gradiendi Stiil</string>
+    <string name="neumorph_style">Neumorphi Stiil</string>
+    <string name="neumorph_outline_style">Neumorph Kontuurstiil</string>
+    <string name="outline_style">Kontuuri Stiil</string>
+    <string name="shaded_layer_style">Varjutatud Kihi Stiil</string>
+    <string name="volume_style_title">Helitugevuse Paneeli Stiilid</string>
+    
+    
+    <string name="charging_animation_title">Laadimise animatsioon</string>
+    <string name="charging_animation_summary">Kuva animatsioon, kui seade on kaabliga ühendatud</string>
+
+    
+    <string name="doze_on_charge_title">Kuva laadimise ajal alati</string>
+    <string name="doze_on_charge_summary">Kuva, et seade laeb</string>
+    
+    
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
+
+     
+     <string name="weather_category_title">Ilm</string>
+     <string name="weather_settings_title">Ilmaseaded</string>
+     <string name="weather_settings_summary">Määra ikoonipakk ja ilmateenus</string>
+     <string name="lockscreen_weather_title">Ilmateade</string>
+     <string name="lockscreen_weather_summary">Kuva praegust ilmateadet</string>
+     <string name="lockscreen_weather_enabled_info">Nõuab ilmateenuse lubamist</string>
+     <string name="lockscreen_weather_location_title">Praegune asukoht</string>
+     <string name="lockscreen_weather_location_summary">Kuva praeguse ilmateate asukoht</string>
+     <string name="lockscreen_weather_text_title">Praegused ilmaolud</string>
+     <string name="lockscreen_weather_text_summary">Kuva praeguste ilmastikutingimuste kokkuvõtet</string>
+     
+     
+    <string name="lockscreen_clock_colored_title">Värviline Kell</string>
+    <string name="lockscreen_clock_colored_summary_on">Kella Värvi Mõjutab Monet</string>
+    <string name="lockscreen_clock_colored_summary_off">Kella Värv On Alati Must Või Valge</string>
+    <string name="clock_luminance_title">Kella Heledus</string>
+    <string name="clock_luminance_summary">Reguleerige Kellavärvi Heledust</string>
+    
+    
+    <string name="custom_clock_top_margin_title">Lockscreen Clock Põhja Vahekaugus</string>
+    
+    
+    <string name="disable_qs_title">Peida kiirseaded turvalisel lukustuskuval</string>
+    <string name="disable_qs_summary">Väldi kiirseadete paanidele ligipääsu turvalisel lukustuskuval</string>
+    
+    
+    <string name="qstile_requires_unlocking_title">Turvalised Qs -Plaadid</string>
+    <string name="qstile_requires_unlocking_summary">Vajavad Tundlike Qs -Plaatide Kasutamiseks Vabastamist</string>
+
+    
+    <string name="notification_material_dismiss_title">Kõigi teavituste kustutamise nupp</string>
+    <string name="notification_material_dismiss_summary">Asenda teavituste nupp \"tühjenda kõik\" Materiaalses stiilis hõljuva nupuga</string>
+    
+    
+    <string name="qs_dual_tone_title">Kahetooniline teemaga</string>
+    <string name="qs_dual_tone_summary">Kasuta kahetoonilisi taustavärve AOSP ühetoonilise asemel</string>
+    
+    
+    <string name="wallpaper_blur_title">Tapeet Hägusus</string>
+    <string name="wallpaper_blur_summary">Luba Või Keelata Taustpildi Hägusus Efekt</string>
+
+    
+    <string name="udfps_category">Udfps</string>
+    <string name="udfps_settings_title">Ekraanisõrmejälje kohandamine</string>
+    <string name="udfps_settings_summary">Kohanda ekraanialust sõrmejäljelugejat</string>
+
+    
+    <string name="screen_off_udfps_title">Väljas ekraani ekraanisõrmejälg</string>
+    <string name="screen_off_udfps_summary">Hoia ekraanisõrmejälje tuvastus sees, kui ekraan on väljas</string>
+
+    
+    <string name="udfps_icon_picker_title">Ekraanisõrmejälje ikoonivalija</string>
+    <string name="udfps_icon_picker_summary">Vali oma lemmik sõrmejäljeikoon</string>
+
+    
+    <string name="udfps_recog_animation_effect_title">Ekraanisõrmejälje kohandatud animatsioon</string>
+    <string name="udfps_recog_animation_effect_summary">Vali animatsiooniefekt</string>
+
+    
+    <string name="fprint_success_vib_title">Sõrmejälgede Autentimise Vibratsioon</string>
+    <string name="fprint_success_vib_summary">Vibreerige Eduka Sõrmejälje Autentimise Korral</string>
+    <string name="fprint_error_vib_title">Sõrmejälje Vibratsioon</string>
+    <string name="fprint_error_vib_summary">Vibreerige Vea Sõrmejälgede Autentimisel</string>
+    
+    
+    <string name="notification_sound_vib_screen_on_title">Häälekad teatised</string>
+    <string name="notification_sound_vib_screen_on_summary">Esita teavitustel heli ja vibratsiooni, kui ekraan on sees</string>
+    
+    
+    <string name="spoofing_title">Sõlmimine</string>
+    <string name="spoofing_title_summary">Spoolt Kui Erinev Seade Rakenduse Funktsioonide Avamiseks</string>
+    <string name="all_props_title">Luba Võre Valikud</string>
+    <string name="all_props_summary">Lubab Pixelprops Kõik Peksmisvalikud</string>
+    <string name="gms_spoof_title">Luba Gms -I Peksmine</string>
+    <string name="gms_spoof_summary">Sisse Oma Seadme Google Play Atesteerimise Edastamiseks</string>
+    <string name="gameprops_title">Avage Mängudes Kõrgem Fps</string>
+    <string name="gameprops_summary">Sishis Teie Seadme Mudeli Mängude Jaoks Lipulaeva Seadmesse</string>
+    <string name="gameprops_load_json_title">Importige Kohandatud Mänguproplid Json -Fail (Valikuline)</string>
+    <string name="gameprops_load_json_summary">Kui Soovite Oma Soovitud Seadme Mudelisse, Valige Kohandatud Gameprops Json -Fail</string>
+    <string name="pif_spoofing_title">Valige Kohandatud Pif Json -Fail</string>
+    <string name="pif_spoofing_summary">Valige Kohandatud Pif Json -Fail, Mida Kasutatakse Peksmise Mängu Terviklikkuse Jaoks</string>
+    
+    <string name="use_photos_spoof_title">Piiramatu Photos kettaruum</string>
+    <string name="use_games_spoof_title">Hangi mängudes kõrgem kaadrisagedus</string>
+    <string name="use_games_spoof_summary">Peta oma seade teatud mängudes teiseks mudeliks, et saada kõrgem kaadrisagedus (FPS)</string>   
+    <string name="spoof_option_disabled">Pixelpropps Studingu Keelamine Ei Toeta Praegune Seade</string>
+    <string name="netflix_spoof_title">Netflixi petmine</string>
+    <string name="netflix_spoof_summary">Peta oma seade Netflixi jaoks teiseks mudeliks</string>
+    
+    
+    <string name="toast_spoofing_success">Laadige Edukalt Alla Pif.Json.Sõitmine Kui %1 $ S Mängu Terviklikkuse Eest.</string>
+    <string name="toast_spoofing_failure">Ebaõnnestunud Omadusi Ebaõnnestunud.</string>
+    <string name="update_pif_json_title">Uuendage Play Terviklikkuse Parandamine</string>
+    <string name="update_pif_json_summary">Uuendage Pif -I Sõlmimisseadet, Nõuab Interneti -Ühendust.</string>
+    <string name="show_pif_properties_title">Esitage Terviklikkuse Parandamise Atribuudid</string>
+    <string name="show_pif_properties_summary">Näita Kõiki Praegu Seatud Pif -I Atribuute</string>
+    <string name="error_loading_properties">Viga Pif -I Omaduste Laadimisel</string>
+     
+     
+    <string name="ambient_edge_light_action_title">Ümbritseva Serva Valgustus</string>
+    <string name="ambient_edge_light_title">Servavalgustus</string>
+    <string name="ambient_edge_light_enable_title">Servavalgustus</string>
+    <string name="ambient_edge_light_enable_summary">Lülitage Servavalgustuse Võimaldamiseks</string>
+    <string name="ambient_edge_light_summary">Valgustage Ekraani Külgservad Teavitusmpulsil</string>
+    <string name="ambient_edge_light_color_mode_category_title">Värv</string>
+    <string name="ambient_edge_light_color_mode_auto">Automaatne</string>
+    <string name="ambient_edge_light_color_mode_app">Rakenduse Värv</string>
+    <string name="ambient_edge_light_color_mode_manual">Käsiraamat</string>
+    <string name="ambient_edge_light_advanced_category_title">Arenenud</string>
+    <string name="ambient_edge_light_duration_title">Valguse Kestus</string>
+    <string name="ambient_edge_light_repeat_count_title">Kordus Loendus</string>
+    <string name="ambient_edge_light_width_title">Valguse Laius</string>
+    <string name="ambient_edge_light_face_down_title">Lülitage Aktiveerimiseks</string>
+    <string name="ambient_edge_light_face_down_summary">Näita Servavalgust Ainult Siis, Kui Telefon On Näoga</string>
+    <string name="ambient_edge_light_layout_title">Kerge Vaade</string>
+    <string name="ambient_edge_light_layout_solid">Tahke</string>
+    <string name="ambient_edge_light_layout_faded">Tuhmunud</string>
+    
+    
+    <string name="island_notification_title">Saareteade</string>
+    <string name="island_notification_summary">Kuva hüpikteateid Dynamic Islandi stiilis</string>
+    <string name="island_notification_now_playing_title">Hetkel mängib</string>
+    <string name="island_notification_now_playing_summary">Kuva hetkel mängivat laulu Dynamic Islandi stiilis</string>
+    <string name="island_notification_footer_text">        Saareteavituse funktsioon, inspireeritud iOS-i Dynamic Islandist, muudab Androidi hüpikteavitused kiirelt kättesaadavaks ja kompaktseks teavitus-tööriistaks.\n\nSaare kiirjuurdepääsu juhtnupud sisaldavad järgmisi funktsioone:\n1. Telefonikõnedele kiireks vastamiseks puuduta saareteadet.\n2. Telefonikõnedest keeldumiseks vajuta saareteadet pikalt.\n3. Saareteate eelvaate laiendamiseks vajuta saareteatist pikalt.
+    </string>
+</resources>

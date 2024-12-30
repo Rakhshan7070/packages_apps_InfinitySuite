@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2024 Project Infinity X
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/team_title"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceCategory
+        android:title="@string/lead_devs">
+        <Preference
+            android:key="team_rdx"
+            android:title="@string/team_rdx"
+            android:icon="@drawable/ic_mentions" >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://t.me/Rdx55" />
+        </Preference>
+        <Preference
+            android:key="team_tejas"
+            android:title="@string/team_tejas"
+            android:icon="@drawable/ic_mentions" >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://github.com/tejas101k" />
+        </Preference>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/honorable_mentions">
+        <Preference
+            android:key="team_mahmud"
+            android:title="@string/team_mahmud"
+            android:summary="@string/team_mahmud_summary"
+            android:icon="@drawable/ic_mentions" >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://t.me/DrDisagree" />
+        </Preference>
+        <Preference
+            android:key="team_abhi"
+            android:title="@string/team_abhi"
+            android:summary="@string/team_abhi_summary"
+            android:icon="@drawable/ic_mentions" >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://t.me/abhix202" />
+        </Preference>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/designers">
+        <Preference
+            android:key="team_dabi"
+            android:title="@string/team_dabi"
+            android:icon="@drawable/ic_mentions" >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://t.me/Dabiishere" />
+        </Preference>
+        <Preference
+            android:key="team_jeevesh"
+            android:title="@string/team_jeevesh"
+            android:icon="@drawable/ic_mentions" >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://t.me/JazzeeBlaze" />
+        </Preference>
+    </PreferenceCategory>
+</PreferenceScreen>

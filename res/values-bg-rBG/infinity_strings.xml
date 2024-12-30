@@ -1,0 +1,865 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2">
+
+    
+
+    
+    <string name="button_title">Бутони</string>
+    <string name="gestures_title">Жестове</string>
+    <string name="lockscreen_title">Екран за заключване</string>
+    <string name="misc_title">Разни</string>
+    <string name="navbar_title">Навигационна Лента</string>
+    <string name="powermenu_title">Меню За Захранване</string>
+    <string name="quicksettings_title">Бързи настройки</string>
+    <string name="themes_title">Теми</string>
+    <string name="statusbar_title">Лента на състоянието</string>
+    <string name="notifications_title">Известия</string>
+    <string name="ambient_text_category_title">Персонализиране На Околната Среда-Aod</string>
+    <string name="monet_title">Настройки на Моне</string>
+    <string name="fingerprint_category">Пръстов Отпечатък</string>
+
+    
+    <string name="ok">Ok</string>
+    <string name="reset">Нулиране</string>
+    <string name="cancel">Отказ</string>
+    <string name="save">Запиши</string>
+    
+    
+    <string name="notif_title">Известия</string>
+    <string name="power_title">Меню За Захранване</string>
+    <string name="gesture_title">Жестове</string>
+
+     
+     <string name="unit_seconds">секунди</string>
+     <string name="unit_milliseconds">милисекунди</string>
+     <string name="unit_pixels">Dp</string>
+    
+    
+    <string name="team_title">За Екипа</string>
+    
+    
+    <string name="lead_devs">Водещи Разработчици</string>
+    <string name="honorable_mentions">Почетни Споменавания</string>
+    <string name="designers">Дизайнери На Проекти</string>
+    
+    
+    <string name="general_category">Общи</string>
+    <string name="media_category">Медиен Панел</string>
+    <string name="statusbar_icons">Икони</string>
+    <string name="pocket_category">Джоб</string>
+    
+    
+    <string name="statusbar_items_title">Лента За Състояние Imsems</string>
+    <string name="statusbar_items_summary">Настройте Елементи, Изправени С Готовност</string>
+    
+    
+    <string name="qs_quick_pulldown">Бързо Изтегляне На Qs</string>
+    <string name="quick_pulldown_none">Деактивиран</string>
+    <string name="quick_pulldown_right">Студен Статус От Дясната Страна От Дясната Страна</string>
+    <string name="quick_pulldown_left">Студен Статус Отляво От Лявата Страна</string>
+    
+    
+    <string name="power_menu_title">Меню за захранване</string>
+    <string name="power_menu_title_summary">Преглед Или Промяна На Записите В Менюто За Захранване</string>
+    <string name="powermenu_screenshot">Екранна Снимка</string>
+    <string name="powermenu_power">Мощност</string>
+    <string name="powermenu_advanced">Разширени Опции За Рестартиране</string>
+    <string name="powermenu_restart">Рестартирайте</string>
+    <string name="powermenu_airplane">Самолет</string>
+    <string name="powermenu_settings">Настройки</string>
+    <string name="powermenu_lockdown">Затваряне</string>
+    <string name="powermenu_soundpanel">Звуков Панел</string>
+    <string name="powermenu_users">Потребители</string>
+    <string name="powermenu_logout">Изход</string>
+    <string name="powermenu_emergency">Спешни Случаи</string> 
+    
+    
+    <string name="lockscreen_enable_power_menu_title">Меню за захранване</string>
+    <string name="lockscreen_enable_power_menu_summary">Разрешаване на достъп до менюто за захранване на защитен заключен екран</string>
+          
+    
+    <string name="system_navigation_summary">Конфигурирайте Навигационните Менюта</string>
+    
+    
+    <string name="monet_engine_custom_color_title">Цвят на акцента</string>
+    <string name="monet_engine_custom_color_summary">选择自定义的强调色</string>
+    <string name="monet_engine_custom_bgcolor_title">背景颜色</string>
+    <string name="monet_engine_custom_bgcolor_summary">Choose custom color for background</string>
+    <string name="monet_engine_color_override_title">Потребителски цвят</string>
+    <string name="monet_engine_luminance_factor_title">亮度</string>
+    <string name="monet_engine_luminance_factor_summary">较高的值会产生更亮的颜色</string>
+    <string name="monet_engine_chroma_factor_title">Цветност фактор</string>
+    <string name="monet_engine_chroma_factor_summary">较高的值会产生更强烈的颜色</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
+    <string name="monet_engine_tint_background_title">色调背景</string>
+    <string name="monet_engine_tint_background_summary">让亮度和饱和度的变化也影响背景颜色</string>
+    <string name="monet_engine_style_title">Theme style</string>
+    <string name="monet_engine_style_tonal_spot">Tonal Spot (Default)</string>
+    <string name="monet_engine_style_vibrant">Vibrant</string>
+    <string name="monet_engine_style_expressive">Expressive</string>
+    <string name="monet_engine_style_spritz">Spritz</string>
+    <string name="monet_engine_style_rainbow">Rainbow</string>
+    <string name="monet_engine_style_fruit_salad">Fruit Salad</string>
+    <string name="monet_engine_style_monochromatic">Monochromatic</string>
+    <string name="monet_engine_color_source_title">Color source</string>
+    <string name="monet_engine_color_source_both">Both (Default)</string>
+    <string name="monet_engine_color_source_home">Home wallpaper</string>
+    <string name="monet_engine_color_source_lock">Lock wallpaper</string>
+    <string name="monet_engine_color_source_preset">Preset</string>
+    
+    
+     <string name="theme_customization_font_title">Стил на шрифт</string>
+     <string name="theme_customization_font_summary">Стил на шрифта на системата</string>
+     <string name="theme_customization_icon_pack_title">Пакет икони</string>
+     <string name="theme_customization_icon_pack_summary">Задайте персонализиран стил на пакет с икони</string>
+     <string name="theme_customization_icon_shape_title">Форма на иконите</string>
+     <string name="theme_customization_icon_shape_summary">Задайте стил на формата на системната икона</string>
+     <string name="theme_customization_signal_icon_title">Стил на икона за сигнал</string>
+     <string name="theme_customization_signal_icon_summary">Задайте персонализиран стил на иконата на сигнала</string>
+     <string name="theme_customization_wifi_icon_title">Стил на WiFi икона</string>
+     <string name="theme_customization_wifi_icon_summary">Задайте персонализиран стил на WiFi икона</string>
+     <string name="theme_customization_navbar_title">Стил на навигационната лента</string>
+     <string name="theme_customization_navbar_summary">Задайте персонализиран стил за навигационната лента</string>
+     <string name="theme_customization_data_title">Икона На Данни Стил</string>
+     <string name="theme_customization_data_summary">Задайте Персонализиран Стил На Икона На Данни</string>
+     <string name="theme_customization_lock_clock_title">Стил на шрифта на часовник</string>
+     <string name="theme_customization_lock_clock_summary">设置锁屏时钟字体样式</string>
+          
+    
+     <string name="lockscreen_battery_info_title">Информация за батерията</string>
+     <string name="lockscreen_battery_info_summary">Показване на информация за батерията при зареждане</string>
+    
+        
+    <string name="status_bar_battery_category_title">Персонализиране на батерията</string>
+    <string name="status_bar_battery_style_title">Стил на индикатора за батерията</string>
+    <string name="status_bar_battery_style_summary">Статус И Qs Стилове На Батерията</string>
+    <string name="status_bar_battery_style_icon_portrait">Вертикална икона</string>
+    <string name="status_bar_battery_style_icon_rlandscape">Пейзаж на икона (вдясно)</string>
+    <string name="status_bar_battery_style_icon_landscape">Пейзаж на икона (вляво)</string>
+    <string name="status_bar_battery_style_circle">Кръг</string>
+    <string name="status_bar_battery_style_dotted_circle">Точков кръг</string>
+    <string name="status_bar_battery_style_filled_circle">Запълнен кръг</string>
+    <string name="status_bar_battery_style_big_circle">Голям Кръг</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Голям Пунктиран Кръг</string>
+    <string name="status_bar_battery_style_land_a">Пейзаж Просто</string>
+    <string name="status_bar_battery_style_land_b">Пейзаж Ненин</string>
+    <string name="status_bar_battery_style_land_c">Пейзаж Колори</string>
+    <string name="status_bar_battery_style_land_d">Пейзажна Любов</string>
+    <string name="status_bar_battery_style_land_e">Ландшафтен Бейзбол</string>
+    <string name="status_bar_battery_style_land_f">Пейзаж Половин Запълване</string>
+    <string name="status_bar_battery_style_land_g">Пейзажната Детска Градина Е Приятелска</string>
+    <string name="status_bar_battery_style_land_h">Пейзаж Miui</string>
+    <string name="status_bar_battery_style_land_i">Пейзаж Приятел</string>
+    <string name="status_bar_battery_style_land_j">Пътя На Пейзажната Лента</string>
+    <string name="status_bar_battery_style_land_k">Пейзаж Ios Четиринадесет</string>
+    <string name="status_bar_battery_style_land_l">Пейзаж Ios Шестнадесет</string>
+    <string name="status_bar_battery_style_land_m">Пейзаж Ios Очертания</string>
+    <string name="status_bar_battery_style_land_n">Пейзажен Владетел</string>
+    <string name="status_bar_battery_style_land_o">Пейзажни Прозорци</string>
+    <string name="status_bar_battery_style_text">Текст</string>
+    <string name="status_bar_battery_style_hidden">Скрит</string>
+    <string name="status_bar_battery_percent_title">Процент на батерията</string>
+    <string name="status_bar_battery_percent_hidden">Скрит</string>
+    <string name="status_bar_battery_percent_text_inside">Вътре в иконата</string>
+    <string name="status_bar_battery_percent_text_next_right">До иконата (вдясно)</string>
+    <string name="status_bar_battery_percent_text_next_left">До иконата (вляво)</string>
+    <string name="status_bar_battery_text_charging_title">Процент на батерията при зареждане</string>
+    <string name="status_bar_battery_text_charging_summary">Винаги да се показва процент на батерията по време на зареждане</string>
+
+    
+    <string name="qs_battery_category_title">Qs Персонализиране На Батерията</string>
+    <string name="qs_use_status_bar_battery_style">Следвайте стила на навигационната лента</string>
+    
+    
+    <string name="color_default">По подразбиране</string>
+    <string name="custom_battery_charging_icon_title">Икони За Зареждане</string>
+    <string name="custom_battery_charging_icon_summary">Показване На Иконата За Зареждане Отстрани На Батерията</string>
+    <string name="custom_battery_charging_icon_style_title">Икони За Зареждане</string>
+    <string name="custom_battery_charging_icon_wh_title">Ширина И Височина На Мащаба</string>
+
+    
+    <string name="custom_icon_charging_symbol_title">Символ За Зареждане На Текст На Батерията</string>
+    <string name="custom_symbol_charging_default">По Подразбиране (Болт)</string>
+    <string name="custom_symbol_charging_type1">Biohazard</string>
+    <string name="custom_symbol_charging_type2">Звезда</string>
+    <string name="custom_symbol_charging_type3">Усмих Се</string>
+    <string name="custom_symbol_charging_type4">Рециклиране</string>
+    <string name="custom_symbol_charging_type5">Безкрайност</string>
+    <string name="custom_symbol_charging_type6">Слънчево Цвете</string>
+    <string name="custom_symbol_charging_type7">Капене На Сълза</string>
+    <string name="custom_symbol_charging_type8">Сняг</string>
+    <string name="custom_symbol_charging_type9">Троен Тилде</string>
+
+    
+    <string name="flip_batre_image_title">Изображение На Батерията</string>
+    <string name="flip_batre_image_summary">Обърнете Изображението На Батерията</string>
+    <string name="flip_batre_title">Оформление На Батерията</string>
+    <string name="flip_batre_summary">Обърнете Оформлението На Батерията</string>
+
+    
+    <string name="custom_battery_drawable_title">Разни На Изтеглянето На Батерията</string>
+    <string name="custom_battery_scaled_perimeter_alpha_title">Мащабирана Периметър Алфа</string>
+    <string name="custom_battery_scaled_perimeter_alpha_summary">Използвайте Мащабирана Периметър Алфа</string>
+    <string name="custom_battery_scaled_fill_alpha_title">Използвайте Scaled Back Fill Alpha</string>
+    <string name="custom_battery_scaled_fill_alpha_summary">Мащабиран Запълване На Alpha</string>
+    <string name="custom_battery_color_title">Цвят На Батерията По Поръчка</string>
+    <string name="custom_battery_color_summary">Задайте На #Ff000000 За Цвят На Смес По Подразбиране</string>
+    <string name="custom_battery_charging_color_title">Промяна На Цвета</string>
+    <string name="custom_battery_fill_color_title">Напълнете Персонализиран Цвят</string>
+    <string name="custom_battery_fill_grad_color_title">Запълнете Градиентния Цвят</string>
+    <string name="custom_battery_fill_grad_color_summary">#Ff000000 За Градиент На Деактивиране</string>
+    <string name="custom_battery_powersave_color_title">Powersave Цвят</string>
+    <string name="custom_battery_powersave_fill_color_title">Powersave Запълнете Цвета</string>
+    <string name="custom_battery_rainbow_fill_title">Цвят На Запълване На Дъгата</string>
+    <string name="custom_battery_rainbow_fill_summary">Само За Стил Приятел И Лента</string>
+    <string name="sthumb_new_tint_picker_summary">Използвайте Rgb Color Picker</string>
+
+    
+    <string name="custom_battery_layout_title">Разни За Оформление На Батерията</string>
+    <string name="custom_battery_rotation_title">Връщане На Изображението На Батерията</string>
+    <string name="custom_battery_rotation_summary">За Да Завъртите Пейзажната Батерия</string>
+    <string name="custom_battery_leftpct_title">Ляв Процент На Батерията</string>
+    <string name="custom_battery_leftpct_summary">Да Се Постави Процент На Батерията Вляво</string>
+
+    
+    <string name="custom_battery_dimension_title">Персонализиран Размер На Батерията</string>
+    <string name="custom_battery_dimension_summary">Използвайте Персонализирани Стойности За Изменение На Addjustable</string>
+    <string name="custom_battery_height">Височина</string>
+    <string name="custom_battery_width">Ширина</string>
+    <string name="custom_battery_top">Марж</string>
+    <string name="custom_battery_bottom">Долната Част На Маржа</string>
+    <string name="custom_battery_left">Марж Наляво</string>
+    <string name="custom_battery_right">Марж Вдясно</string>
+     
+    
+     <string name="qs_show_brightness_slider_title">Плъзгач за яркост</string>
+     <string name="qs_show_brightness_slider_never">Никога не показвай</string>
+     <string name="qs_show_brightness_slider_expanded">Показване при разгъване</string>
+     <string name="qs_show_brightness_slider_always">Показвай винаги</string>
+     <string name="qs_show_brightness_slider_not_expanded">Показване, когато не е разгънато</string>
+     <string name="qs_brightness_slider_position_title">Позиция</string>
+     <string name="qs_brightness_slider_position_top">Най-отгоре</string>
+     <string name="qs_brightness_slider_position_bottom">Отдолу</string>
+
+    
+     <string name="qs_show_auto_brightness_title">Автоматична яркост</string>
+     <string name="qs_show_auto_brightness_summary">Показване на превключвател за адаптивна яркост близо до плъзгача</string>
+    
+    
+     <string name="status_bar_clock_title">Часовник и дата</string>
+     <string name="status_bar_clock_summary">Персонализирайте часовник и дата</string>
+     <string name="status_bar_clock_seconds_title">Секунди на часовника</string>
+     <string name="status_bar_clock_seconds_summary">Показване на секундите до часовника в лентата на състоянието</string>
+     <string name="status_bar_clock_position_title">Стил на часовника</string>
+     <string name="status_bar_clock_position_right">Отдясно</string>
+     <string name="status_bar_clock_position_left">Отляво</string>
+     <string name="status_bar_clock_position_center">В средата</string>
+     <string name="status_bar_clock_position_hidden">Скрит</string>
+     <string name="status_bar_clock_auto_hide_title">Автоматично скриване</string>
+     <string name="status_bar_clock_auto_hide_launcher_summary">Скриване на часовника, ако стартерът е видим</string>
+     <string name="status_bar_clock_auto_hide_summary">Скриване на часовника на редовни интервали</string>
+     <string name="status_bar_clock_auto_hide_hdur_title">Скриване на продължителността</string>
+     <string name="status_bar_clock_auto_hide_hdur_summary">Брой секунди за скриване на часовника</string>
+     <string name="status_bar_clock_auto_hide_sdur_title">Показване на продължителност</string>
+     <string name="status_bar_clock_auto_hide_sdur_summary">Брой секунди за изчакване, преди да скриете часовника</string>
+     <string name="status_bar_am_pm_title">AM/PM стил</string>
+     <string name="status_bar_am_pm_info">Включен 24-часов формат за време</string>
+     <string name="status_bar_am_pm_normal">Нормален</string>
+     <string name="status_bar_am_pm_small">Малък</string>
+     <string name="status_bar_am_pm_hidden">Скрит</string>
+     <string name="status_bar_date_title">Дата</string>
+     <string name="status_bar_date_none">Скрит</string>
+     <string name="status_bar_date_small">Малък</string>
+     <string name="status_bar_date_normal">Нормален</string>
+     <string name="status_bar_date_format_title">Формат на датата</string>
+     <string name="status_bar_date_style">Стил на датата</string>
+     <string name="status_bar_date_style_normal">Нормален</string>
+     <string name="status_bar_date_style_lowercase">Малки букви</string>
+     <string name="status_bar_date_style_uppercase">Големи букви</string>
+     <string name="status_bar_date_format_custom">Персонализиран java формат</string>
+     <string name="status_bar_date_string_edittext_title">Трябва да е във формат на дата, напр.  ММ/дд/гг</string>
+     <string name="status_bar_date_string_edittext_summary">Въведете низ</string>
+     <string name="clock_date_position">Позиция на датата</string>
+     <string name="clock_date_right">Вдясно от часовника</string>
+     <string name="clock_date_left">Вляво от часовника</string>
+
+    
+    <string name="qs_footer_text_title">Qs Текст На Долния Колонтитул</string>
+    <string name="qs_footer_text_summary">Показване На Текст В Долната Част На Qs Панела</string>
+    <string name="qs_footer_text_string_title">Персонализирайте Текста На Долния Колонтитул</string>
+    <string name="qs_footer_text_string_summary">Задайте На Празна За Безкрайност По Подразбиране</string>
+
+   
+    <string name="qs_show_data_usage_title">Покажете Използването На Данни</string>
+    <string name="qs_show_data_usage_summary">Показвайте Ежедневното Използване На Данни За Клетъчни/Wi-Fi В Qs Колонтитуля</string>
+    
+   
+    <string name="laboratory_ignore_window_secure_title">Игнорирайте Защитните Знамена На Прозореца</string>
+    <string name="laboratory_ignore_window_secure_summary">Това Премахва Ограниченията За Екрани И Екранни Рекорди За Всички Приложения.Обикновено Специалните Приложения Се Заменят С Черни Зони В Записи.Това Може Да Бъде Удобно В Някои Случаи, Но Може Да Доведе До Течове На Поверителност.След Като Промените Този Превключвател, Може Да Се Наложи Да Рестартирате Приложения, За Да Влезете В Сила Промяната.</string>
+    
+    
+    <string name="app_downgrade_title">Разрешаване На Понижаване На Приложението</string>
+    <string name="app_downgrade_summary">Това Ви Позволява Да Понижавате Приложенията.Обърнете Внимание, Че Това Може Да Доведе До Сривове И Корупция На Данните.</string>
+
+   
+    <string name="statusbar_colored_icons_title">Цветни икони</string>
+    <string name="statusbar_colored_icons_summary">Използвайте подходящи икони на приложения за икони за известия в лентата на състоянието</string>
+    
+   
+    <string name="status_bar_logo_title">Лого</string>
+    <string name="default_string">По Подразбиране</string>
+    <string name="status_bar_logo_summary">在状态栏的左侧或右侧显示自定义徽标</string>
+    <string name="status_bar_logo_primary_switch_title">Използвайте Логото</string>
+    <string name="status_bar_logo_position_title">Позиция на лого</string>
+    <string name="status_bar_logo_position_summary">Изберете От Коя Страна Да Покажете Логото, Наляво Или Надясно</string>
+    <string name="status_bar_logo_position_right">Точно</string>
+    <string name="status_bar_logo_position_left">Вляво</string>
+    <string name="status_bar_logo_color_title">Цвят</string>
+    <string name="status_bar_logo_color_default">По Подразбиране (Бяло)</string>
+    <string name="status_bar_logo_color_accent">Акцент</string>
+    <string name="status_bar_logo_color_custom">Обичай</string>
+    <string name="status_bar_logo_style_title">Стил на логото</string>
+    <string name="status_bar_logo_style_adidas">adidas</string>
+    <string name="status_bar_logo_style_airjordan">Air Jordan</string>
+    <string name="status_bar_logo_style_alien">外星人</string>
+    <string name="status_bar_logo_style_amogus">Амог</string>
+    <string name="status_bar_logo_style_apple">Apple</string>
+    <string name="status_bar_logo_style_avengers">复仇者联盟（Avengers）</string>
+    <string name="status_bar_logo_style_batman">Батман</string>
+    <string name="status_bar_logo_style_batman_tdk">蝙蝠侠：黑暗骑士（Batman The Dark Knight）</string>
+    <string name="status_bar_logo_style_beats">Beats</string>
+    <string name="status_bar_logo_style_biohazard">Biohazard</string>
+    <string name="status_bar_logo_style_blackberry">黑莓</string>
+    <string name="status_bar_logo_style_captain_america">祖国人（Captain America）</string>
+    <string name="status_bar_logo_style_cannabis">大麻</string>
+    <string name="status_bar_logo_style_flash">Светкавица</string>
+    <string name="status_bar_logo_style_fire">火焰</string>
+    <string name="status_bar_logo_style_ghost">Призрак</string>
+    <string name="status_bar_logo_style_heart">Сърце</string>
+    <string name="status_bar_logo_style_ironman">钢铁侠（Iron Man）</string>
+    <string name="status_bar_logo_style_mint">Linux Mint</string>
+    <string name="status_bar_logo_style_nike">Nike</string>
+    <string name="status_bar_logo_style_ninja">Нинджа</string>
+    <string name="status_bar_logo_style_pac_man">Pac-Man</string>
+    <string name="status_bar_logo_style_puma">Puma</string>
+    <string name="status_bar_logo_style_robot">Робот</string>
+    <string name="status_bar_logo_style_rog">华硕（ROG）</string>
+    <string name="status_bar_logo_style_spiderman">蜘蛛侠（Spider-Man）</string>
+    <string name="status_bar_logo_style_superman">Супермен</string>
+    <string name="status_bar_logo_style_tux">Tux（Linux吉祥物）</string>
+    <string name="status_bar_logo_style_ubuntu">Ubuntu（乌班图）</string>
+    <string name="status_bar_logo_style_windows">Уиндоус</string>
+    <string name="status_bar_logo_style_xbox">Xbox</string>
+    
+    
+    <string name="qs_transparency_summary">Изберете Колко Прозрачен Искате Да Бъде Вашият Qs</string>
+    <string name="qs_transparency_title">Qs Прозрачност</string>
+
+    
+    <string name="statusbar_clock_chip_title">背景芯片</string>
+    <string name="statusbar_clock_chip_summary">在时钟后面显示强调色的芯片</string>
+    <string name="solid_accent">Акцент</string>
+    <string name="outline">Очертания</string>
+    <string name="solid_accent_gradient">Градиент</string>
+    <string name="solid_gradient">Твърда Градиентна Страна</string>
+    <string name="solid_gradient_corner">Твърд Акцент Градиент Остър</string>
+    <string name="solid_gradient_void">Градиент Празнота</string>
+    <string name="solid_gradient_neumorph">Градиент На Neumorph</string>
+    <string name="solid_gradient_stroke">Остър Инсулт На Градиента</string>
+    <string name="solid_accent_transperent">Акцент Прозрачен</string>    
+    <string name="solid_gradient_light">Градиентна Светлина</string>
+    <string name="solid_gradient_shape">Остър Градиентен Ъгъл</string>
+    <string name="solid_gradient_void_light">Градиентна Празнота</string>
+    
+    
+    <string name="haptic_on_volume_slider_title">Slider Slider Haptic</string>
+    <string name="haptic_on_volume_slider_summary">Предоставете Хаптична Обратна Връзка За Промяна На Силата На Звука С Помощта На Плъзгача</string>
+    
+    
+    <string name="volume_panel_on_left_title">Панел за звука от ляво</string>
+    <string name="volume_panel_on_left_summary">Показване На Силата На Звука От Лявата Страна На Екрана</string>
+    
+    
+    <string name="data_disabled_icon_title">Индикатор за деактивирани данни</string>
+    <string name="data_disabled_icon_summary">Показва \"х\" до иконата за сигнала, когато данните са забранени</string>
+    
+    
+    <string name="status_bar_4g_icon_title">4G Икона</string>
+
+    
+    <string name="roaming_indicator_icon_title">Показване На Иконата На Индикатора За Роуминг</string>
+    <string name="roaming_indicator_icon_summary">Показване На Индикатора За Роуминг Над Сигналната Икона, Когато Е В Режим На Роуминг</string>
+
+    
+    <string name="wifi_standard_icon_title">WiFi技术标准</string>
+    <string name="wifi_standard_icon_summary">在WiFi信号旁显示WiFi的技术标准</string>
+    
+    
+    <string name="bluetooth_battery_title">Състояние на батерията на Bluetooth</string>
+    <string name="bluetooth_battery_summary">Показване на състоянието на батерията за свързаното bluetooth устройство, ако има такова</string> 
+    
+    
+    <string name="show_fiveg_icon_summary">Силно Покажете 5G Мрежова Икона Вместо Lte &amp; 4G</string>
+    <string name="show_fiveg_icon_title">Индикатор На Spoof 5G</string>
+    
+    
+    <string name="qs_brightness_slider_haptic_title">触觉反馈</string>
+    <string name="qs_brightness_slider_haptic_summary">在使用滑块调节亮度时提供触觉反馈</string>
+    
+    
+    <string name="statusbar_padding">Подплънка На Лентата На Състоянието</string>
+    <string name="statusbar_top_padding">Горна Подложка</string>
+    <string name="statusbar_left_padding">Ляво Подплънки</string>
+    <string name="statusbar_right_padding">Дясна Подложка</string>
+    
+    
+    <string name="less_boring_heads_up_title">Не толкова скучно</string>
+    <string name="less_boring_heads_up_summary">Показва изскачащи уведомления само за аларми, обаждания и съобщения</string>
+
+    
+    <string name="headsup_category">Настройки На Главите</string>
+    <string name="heads_up_notifications">Глави Нагоре</string>
+    <string name="heads_up_notifications_summary">Настройки За Известия На Персонализирани Известия</string>
+    <string name="summary_heads_up_enabled">Изскачащите Известия Са Активирани</string>
+    <string name="summary_heads_up_disabled">Изскачащите Известия Са Деактивирани</string>
+    <string name="add_heads_up_package">Добавете Приложението</string>
+    <string name="add_heads_up_stoplist_summary">Деактивирайте Известията На Оглави В Тези Приложения</string>
+    <string name="add_heads_up_blacklist_summary">Деактивирайте Главите От Тези Приложения</string>
+    <string name="heads_up_stoplist_title">Спирка</string>
+    <string name="heads_up_blacklist_title">Черен Списък</string>
+    <string name="profile_choose_app">Изберете Приложение</string>
+    <string name="dialog_delete_title">Изтриване</string>
+    <string name="dialog_delete_message">Премахване На Избрания Елемент?</string>
+
+    
+    <string name="heads_up_time_out_title">Време Навън</string>
+    <string name="heads_up_time_out_summary">Ще Се Покажат Известия За Надписване За<ns0:g id="number">%d</ns0:g> seconds</string>
+    <string name="heads_up_time_out_2sec">2 Секунди</string>
+    <string name="heads_up_time_out_4sec">4 Секунди</string>
+    <string name="heads_up_time_out_5sec">5 Секунди</string>
+    <string name="heads_up_time_out_6sec">6 Секунди</string>
+    <string name="heads_up_time_out_8sec">8 Секунди</string>
+    <string name="heads_up_time_out_10sec">10 Секунди</string>
+
+    
+    <string name="heads_up_snooze_title">Таймер За Отлагане</string>
+    <string name="heads_up_snooze_summary_one_minute">Пълненето На Известия За Надписване Ще Откъсне Глава От Това Заявление За 1 Минута</string>
+    <string name="heads_up_snooze_summary">Пълненето На Известия За Надписване Ще Откъсне Глава От Това Заявление За<ns0:g id="number">%d</ns0:g> minutes</string>
+    <string name="heads_up_snooze_disabled_summary">Таймерът За Отлагане Е Деактивиран</string>
+    <string name="heads_up_snooze_1min">1 Минута</string>
+    <string name="heads_up_snooze_5min">5 Минути</string>
+    <string name="heads_up_snooze_10min">10 Минути</string>
+    <string name="heads_up_snooze_15min">15 Минути</string>
+    <string name="heads_up_snooze_20min">20 Минути</string>
+    
+    
+    <string name="volume_button_music_control_title">Контрол На Възпроизвеждането</string>
+    <string name="volume_button_music_control_summary">Когато Екранът Е Изключен, Ключовете За Дълго Натискане На Силата На Звука Ще Прескачат Музикални Песни</string>
+    
+    
+    <string name="volume_rocker_wake_title">Събуждане На Обема</string>
+    <string name="volume_rocker_wake_summary">Събудете Устройството Си Нагоре, Като Натиснете Клавишите За Силата На Звука</string>
+    
+    
+    <string name="volume_answer_call_title">Отговори на повикването</string>
+    <string name="volume_answer_call_summary">Отговаряне на входящите повиквания чрез натискане на бутоните за звук</string>
+    
+    
+    <string name="pulse_help_policy_notice_title">За визуализиране</string>
+    <string name="pulse_help_policy_notice_summary">Брилянтен аудио визуализатор графичен еквалайзер, когато на устройството се възпроизвежда музика</string>
+    <string name="pulse_settings">Визуализатор</string>
+    <string name="pulse_settings_summary">Аудио графичен еквалайзер за навигационната лента и заключен екран</string>
+    <string name="show_navbar_pulse_title">Визуализатор на панела за навигация</string>
+    <string name="show_navbar_pulse_summary">Аудио графичен еквалайзер на навигационната лента</string>
+    <string name="show_lockscreen_pulse_title">Визуализатор на заключен екран</string>
+    <string name="show_lockscreen_pulse_summary">Аудио графичен еквалайзер на заключен екран</string>
+    <string name="show_ambient_pulse_title">Визуализатор на Винаги включен екран</string>
+    <string name="show_ambient_pulse_summary">Аудио графичен еквалайзер на винаги включен екран</string>
+    <string name="pulse_render_mode_title">Режим на изобразяване</string>
+    <string name="pulse_render_mode_fading_bars">Избледняващи блокове</string>
+    <string name="pulse_render_mode_solid_lines">Плътни линии</string>
+    <string name="pulse_legacy_mode_advanced_category">Настройки на режима Затихващи блокове</string>
+    <string name="pulse_custom_fudge_factor">Ниво на чувствителността</string>
+    <string name="pulse_lavalamp_speed_title">Скорост на светлина лава</string>
+    <string name="pulse_solid_units_count">Брой плътни линии</string>
+    <string name="pulse_solid_units_opacity">Прозрачност на плътните линии</string>
+    <string name="pulse_solid_dimen_category">Настройки на режима на плътни линии</string>
+    <string name="pulse_color_mode_title">Цвят</string>
+    <string name="pulse_color_accent">Акцент</string>
+    <string name="pulse_color_custom">По избор</string>
+    <string name="pulse_color_lava_lamp">Светлина лава</string>
+    <string name="pulse_color_user_title">Изберете цвят</string>
+    <string name="pulse_color_auto">专辑</string>
+    <string name="pulse_smoothing_enabled_title">Включване за изглаждане</string>
+    <string name="pulse_smoothing_enabled_summary">Всяка лента се анимира по-плавно</string>
+    <string name="pulse_custom_dimen">Ширина на лентата</string>
+    <string name="pulse_custom_div">Разстояние между лентите</string>
+    <string name="pulse_filled_block_size">Размер на блока</string>
+    <string name="pulse_empty_block_size">Разстояние между блоковете</string>
+    <string name="pulse_solid_units_rounded_title">Заоблени ъгли</string>
+    <string name="pulse_solid_units_rounded_summary">Плътни линии със заоблен връх</string>
+
+    
+    <string name="pulse_custom_gravity_title">Гравитация</string>
+    <string name="pulse_custom_gravity_bottom">Отдолу</string>
+    <string name="pulse_custom_gravity_top">Отгоре</string>
+    <string name="pulse_custom_gravity_center">Център</string>
+    <string name="visualizer_center_mirrored_title">Централно Огледално</string>
+    <string name="visualizer_center_mirrored_summary">Задайте Визуализатора В Централен Огледален Режим</string>
+    <string name="pulse_vertical_mirror_title">Вертикално Огледало</string>
+    <string name="pulse_vertical_mirror_summary">Създайте Друг Пулс И Обърнете Вертикално</string>
+
+    
+    <string name="pocket_mode">Джобен Режим</string>
+    <string name="pocket_mode_summary">Блок Входовете На Екрана, Докато Устройството Е В Джоба</string>
+    
+    
+    <string name="status_bar_notif_count_title">Брой На Известията</string>
+    <string name="status_bar_notif_count_summary">Показване На Броя На Непрочетените Известия За Всяка Икона На Приложението</string>
+
+    
+    <string name="mic_camera_privacy_indicator_title">Индикатор за поверителност на микрофона и камерата</string>
+    <string name="mic_camera_privacy_indicator_summary">Показване на отделен индикатор, когато някое приложение използва микрофон или камера</string>
+    <string name="location_privacy_indicator_title">Индикатор за поверителност на местоположението</string>
+    <string name="location_privacy_indicator_summary">Показва отделен индикатор, когато някое приложение използва местоположение</string>
+    <string name="projection_privacy_indicator_title">多媒体投影隐私指示器</string>
+    <string name="projection_privacy_indicator_summary">在设备屏幕投影时显示指示器</string>
+    
+    
+    <string name="battery_bar_title">Индикатор за батерията</string>
+    <string name="battery_bar_summary">Показване и персонализиране на лентата на батерията над лентата на състоянието</string>
+    <string name="battery_bar_color">Цвят</string>
+    <string name="battery_bar_charging_color">Цвят за зареждане</string>
+    <string name="battery_bar_battery_low_color">Цвят на индикация при ниско ниво на батерията</string>
+    <string name="battery_bar_style_title">Подравняване</string>
+    <string name="battery_bar_thickness_title">Дебелина</string>
+    <string name="battery_bar_animate_title">Анимация при зареждане</string>
+    <string name="battery_bar_style_regular">Обикновен</string>
+    <string name="battery_bar_style_center_mirrored">Център-огледално</string>
+    <string name="battery_bar_style_reversed">На обратно</string>
+    <string name="battery_bar_use_charging_color">Персоналозиране на цвета при зареждане</string>
+    <string name="battery_bar_blend_color_title">Смесени цветове</string>
+    <string name="battery_bar_blend_color_summary">Смесете цветовете, отговарящи на заредена - изтощена батерия</string>
+    <string name="battery_bar_blend_color_reverse_title">Обръщане посока на цвета</string>
+    <string name="battery_bar_blend_color_reverse_summary_off">Пълна → празна: червена ← зелена ← синя ← червена</string>
+    <string name="battery_bar_blend_color_reverse_summary_on">Пълна → празна: червена → зелена → синя → червена</string>
+
+    
+    <string name="network_traffic_state_title">Индикатор За Мрежов Трафик</string>
+    <string name="network_traffic_state_summary">Активирайте Или Деактивирайте Индикатора За Скорост На Мрежата В Лентата На Състоянието</string>
+    <string name="network_traffic_title">Индикатор За Мрежов Трафик</string>
+    <string name="network_traffic_master_switch_title">Използвайте Индикатор За Мрежов Трафик</string>
+    <string name="network_options_title">Опции</string>
+    <string name="network_traffic_autohide_title">Скриване На Индикатора За Мрежов Трафик, Ако Неактивен</string>
+    <string name="network_traffic_autohide_summary">Скриване на трафик индикатора, когато няма дейност</string>
+    
+    
+    <string name="ambient_text_category">Персонализиране На Текст</string>
+    <string name="ambient_image_category">Персонализиране На Изображението</string>
+    <string name="ambient_text_category_summary">Персонализиране На Външния Вид На Околната Среда</string>
+    <string name="ambient_text_title">Атмосферен Текст</string>
+    <string name="ambient_text_summary">Покажете Атмосферен Текст В Aod</string>
+    <string name="ambient_text_animation_title">Анимация На Атмосферния Текст</string>
+    <string name="ambient_text_animation_summary">Покажете Анимация, Когато Покажете Aod</string>
+    <string name="ambient_text_size_title">Размер На Околния Текст</string>
+    <string name="ambient_text_font_title">Атмосферен Текст Шрифт</string>
+    <string name="ambient_text_string_title">Задайте Атмосферен Текст</string>
+    <string name="ambient_text_align_title">Атмосферен Текст Подравняване</string>
+    <string name="ambient_text_align_start_top">Отдясно N Отгоре</string>
+    <string name="ambient_text_align_start_center">Десен N Център</string>
+    <string name="ambient_text_align_start_bottom">Отдясно И Отдолу</string>
+    <string name="ambient_text_align_center">Център</string>
+    <string name="ambient_text_align_end_top">Ляв N Горен</string>
+    <string name="ambient_text_align_end_center">Ляв N Center</string>
+    <string name="ambient_text_align_end_bottom">Наляво N Отдолу</string>
+    <string name="ambient_text_type_color_title">Тип На Атмосферния Текст Цвят</string>
+    <string name="ambient_text_color_title">Цвят На Атмосферния Текст</string>
+    <string name="ambient_notification_light_color_mode_accent">Системен Акцент Цвят</string>
+    <string name="ambient_notification_light_color_mode_custom">Персонализиран Цвят</string>
+    <string name="ambient_notification_light_color_mode_wall">Цвят На Тапета</string>
+    <string name="ambient_image_title">Атмосферно Изображение</string>
+    <string name="file_header_select_title">Изберете Локално Изображение</string>
+    <string name="file_header_select_summary">Изберете Изображение От Съхранение</string>
+    
+    
+    <string name="qs_compact_media_player_mode_title">Компактен Qs Медиен Плейър</string>
+    <string name="qs_compact_media_player_mode_summary">Активирайте Компактния Режим За Media Player Quicksettings</string>
+
+    
+    <string name="smart_pixels_warning_text">Малки пиксели е средство за икономия на батерия. Според това колко пиксели решите да изключите, може да видите подобрение в живота на батерията</string>
+    <string name="smart_pixels_title">Малки пиксели</string>
+    <string name="smart_pixels_summary">Запазване на батерията, като изключите допълнителните пиксели</string>
+    <string name="smart_pixels_enable_title">Включи малки пиксели</string>
+    <string name="smart_pixels_enable_summary">Изключи пикселите, за да намали консумацията на енергия</string>
+    <string name="smart_pixels_on_power_save_title">Автоматично включване при режим на запазване на батерията</string>
+    <string name="smart_pixels_on_power_save_summary">Включи Малки Пиксели когато пестене на енергия е включено</string>
+    <string name="smart_pixels_percent">Проценти на пикселите за изключване</string>
+    <string name="smart_pixels_shift_title">Защита от изгаряне</string>
+    <string name="smart_pixels_shift_summary">Предотвратява изгарянето на OLED устройства чрез изместване на пикселите от време на време</string>
+    
+    
+    <string name="custom_timeout_summary_never">Никога</string>
+    <string name="custom_timeout_summary_15secs">15 секунди</string>
+    <string name="custom_timeout_summary_30secs">30 секунди</string>
+    <string name="custom_timeout_summary_1min">1 минута</string>
+    <string name="custom_timeout_summary_2mins">2 минути</string>
+    <string name="custom_timeout_summary_5mins">5 минути</string>
+    <string name="custom_timeout_summary_10mins">10 минути</string>
+    <string name="custom_timeout_summary_20mins">20 минути</string>
+    <string name="custom_timeout_summary_30mins">30 минути</string>
+    <string name="custom_timeout_summary_1hour">1 час</string>
+    <string name="custom_timeout_summary_2hours">2 часа</string>
+    
+    
+    <string name="pulse_on_new_tracks_title">Музикално обозначаване</string>
+    <string name="pulse_on_new_tracks_summary">Показване на музикално обозначение на дисплея по време на смяна на песента</string>
+
+    
+    <string name="screen_off_animation_title">Анимация за изключване на екрана</string>
+    <string name="screen_off_animation_default">По подразбиране</string>
+    <string name="screen_off_animation_crt">CRT (кинескопен телевизор)</string>
+    <string name="screen_off_animation_scale">Мащаб</string>
+
+    
+    <string name="system_charging">Опции За Зареждане На Системата</string>
+    <string name="charging_animation_bg_title">Зареждане На Фон</string>
+    <string name="charging_animation_bg_summary">Активирането На Тази Опция Ще Направи Фона На Системната Анимация На Черно</string>
+    
+    
+    <string name="hide_screen_capture_status_title">Скриване На Състоянието На Улавяне На Екрана</string>
+    <string name="hide_screen_capture_status_summary">Скрийте Състоянието На Заснемане И Запис На Екрана От Всички Приложения.В Някои Случаи Може Да Бъде Удобно, Но Може Да Доведе До Течове На Поверителност.Трябва Да Рестартирате Приложенията, За Да Влязат В Сила Промяната.</string>
+
+    
+    <string name="no_storage_restrict_title">Няма Ограничаване На Съхранението</string>
+    <string name="no_storage_restrict_summary">Премахнете Ограничението При Избора На Папки Чрез Рамка За Достъп До Съхранение.В Някои Случаи Може Да Бъде Удобно, Но Може Да Доведе До Течове На Поверителност.</string>
+    
+    
+    <string name="hide_developer_status_title">Скриване На Състоянието На Разработчика</string>
+    <string name="hide_developer_status_summary">Предотвратяване На Приложенията От Проверка На Състоянието На Режима На Adb И Разработчици</string>
+    <string name="search">Търсене</string>
+    <string name="search_apps">Приложения За Търсене</string>
+
+    
+    <string name="spoof_storage_encryption_status_title">Използвайте Измама За Криптиране На Съхранение</string>
+    <string name="spoof_storage_encryption_status_summary">Състояние На Криптиране На Spoof За Съхранение На Криптирано</string>
+    
+    
+    <string name="media_controls_always_show_time_title">Време За Медийно Шоу</string>
+    <string name="media_controls_always_show_time_summary">Винаги Показвайте Преминало И Общо Време На Медийния Плейър</string>
+    <string name="media_controls_squiggle_title">Прогрес</string>
+    <string name="media_controls_squiggle_summary">Покажете Лентата За Напредък На Медийния Плейър \ Nrequires Systemui Рестартиране, За Да Влезе В Сила</string>
+    <string name="media_controls_actions_title">Ограничение За Персонализирани Действия</string>
+    <string name="media_controls_actions_summary">Максималният Брой Бутони, Които Приложенията Могат Да Добавят Към Плейъра</string>
+    <string name="media_controls_time_as_next_title">Време Като Следващо / Предишно</string>
+    <string name="media_controls_time_as_next_summary">Скрийте Следващите / Предишни Бутони И Използвайте Винаги Показаното Време За Това</string>
+    <string name="media_controls_ripple_title">Пулсационни Ефекти</string>
+    <string name="media_controls_ripple_summary">Контролни Пулсационни Ефекти При Взаимодействие С Контроли На Медиите</string>
+    <string name="media_controls_turbulence_title">Ефект На Турбулентност</string>
+    <string name="media_controls_turbulence_summary">Активирайте Ефекта На Турбулентност За Динамичен Контрол На Медиите</string>
+    
+    
+    <string name="enable_fingerprint_ripple_effect_title">Ефект на вълни</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Покажи ефект на вълни при отключване с пръстов отпечатък</string>
+    
+    <string name="ambient_display_always_on_title">Винаги На</string>
+    <string name="ambient_display_always_on_summary">Показване На Времето, Иконите За Известия И Друга Информация.Увеличено Използване На Батерията.</string>
+
+    
+    <string name="ambient_ui">Околна Лента На Батерията</string>
+    <string name="ambient_battery_settings_title">Aod Батерия</string>
+    <string name="ambient_battery_settings_summary">Показване На Лентата На Батерията На Атмосферния Дисплей</string>
+    <string name="keyguard_show_battery_title">Батерия При Зареждане</string>
+    <string name="keyguard_show_battery_summary">Покажете Лента На Батерията На Атмосферния Дисплей При Зареждане</string>
+    <string name="keyguard_show_battery_always_title">Винаги Показвайте Батерията</string>
+    <string name="keyguard_show_battery_always_summary">Винаги Показвайте Лента На Батерията На Атмосферния Дисплей</string>
+    <string name="keyguard_batterybar_color_source">Източник На Цвета На Батерията</string>
+    <string name="keyguard_batterybar_custom_color">Цветът На Батерията На Батерията</string>
+    <string name="keyguard_batterybar_white">Бяло (По Подразбиране)</string>
+    <string name="keyguard_batterybar_accent">Цвят На Акцент</string>
+    <string name="keyguard_batterybar_custom">Обичай</string>
+    
+    
+    <string name="incall_vibration_category">Опции на вибрация по време на обаждане</string>
+    <string name="incall_vibrate_connect_title">Вибриране при свързване</string>
+    <string name="incall_vibrate_call_wait_title">Вибриране при изчакване на обаждане</string>
+    <string name="incall_vibrate_disconnect_title">Вибрация при затваряне</string>
+
+    
+    <string name="incall_category">Опции За Повикване</string>
+    <string name="flashlight_on_call_title">Нотификация за входящи повиквания</string>
+    <string name="flashlight_on_call_disabled">Деактивирано</string>
+    <string name="flashlight_on_call_ringer">При звънене</string>
+    <string name="flashlight_on_call_no_ringer">При звънене безшумно</string>
+    <string name="flashlight_on_call_silent">Когато е напълно безшумно (без звънене или вибриране)</string>
+    <string name="flashlight_on_call_always">Винаги</string>
+    <string name="flashlight_on_call_ignore_dnd_title">Игнорирайте не безпокойте</string>
+    <string name="flashlight_on_call_ignore_dnd_summary">Индикация, когато режимът „Не безпокойте“ е активен</string>
+    <string name="flashlight_on_call_rate_title">Честота на индикация</string>
+    <string name="flashlight_on_call_rate_summary">Фенерче При Мигане На Повикване</string>
+
+    
+    <string name="qs_colored_icons_title">Цветни Икони За Уведомяване Qs</string>
+    <string name="qs_colored_icons_summary">Показване На Цветна Икона На Приложението Вместо Монохромни Икони</string>
+
+    
+    <string name="depth_wallpaper_category">Тапет За Дълбочина</string>
+    <string name="dw_file_header_select_title">Изберете Тема На Тапета За Дълбочина</string>
+    <string name="dw_file_header_select_summary">Изберете Изображение На Субект На Тапета Depth От Съхранение.</string>
+    <string name="dw_wallpaper_enabled_title">Тапет За Дълбочина</string>
+    <string name="dw_wallpaper_enabled_summary">Активиране На Ios-Вдъхновен Тапет За Дълбочина.Изисква Изображение На Темата.</string>
+    <string name="dw_wallpaper_opacity_title">Дълбочна Непрозрачност На Тапетите</string>
+
+    
+    <string name="revamped_aosp_style">Обновения Стил На Aosp Ui</string>
+    <string name="rui_style">Стил На Realme Ui</string>
+    <string name="stock_style">Стоков Потребителски Интерфейс</string>
+    <string name="double_layer_style">Двоен Слой Стил</string>
+    <string name="gradient_style">Градиентен Стил</string>
+    <string name="neumorph_style">Neumorph Style</string>
+    <string name="neumorph_outline_style">Neumorph Style Style</string>
+    <string name="outline_style">Контур Стил</string>
+    <string name="shaded_layer_style">Засенчен Слой Стил</string>
+    <string name="volume_style_title">Стилове На Панела За Обем</string>
+    
+    
+    <string name="charging_animation_title">Анимация при зареждане</string>
+    <string name="charging_animation_summary">Показване на анимация, когато устройството е включено</string>
+
+    
+    <string name="doze_on_charge_title">Always show when charging</string>
+    <string name="doze_on_charge_summary">Display device is charging</string>
+    
+    
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
+
+     
+     <string name="weather_category_title">Време</string>
+     <string name="weather_settings_title">天气设置</string>
+     <string name="weather_settings_summary">设置图标包和天气服务</string>
+     <string name="lockscreen_weather_title">Weather update</string>
+     <string name="lockscreen_weather_summary">Display current weather update</string>
+     <string name="lockscreen_weather_enabled_info">需要启用天气服务</string>
+     <string name="lockscreen_weather_location_title">Current location</string>
+     <string name="lockscreen_weather_location_summary">显示当前位置的天气</string>
+     <string name="lockscreen_weather_text_title">Current condition</string>
+     <string name="lockscreen_weather_text_summary">Display current weather condition summary</string>
+     
+     
+    <string name="lockscreen_clock_colored_title">Цветен Часовник</string>
+    <string name="lockscreen_clock_colored_summary_on">Цветът На Часовника Е Засегнат От Моне</string>
+    <string name="lockscreen_clock_colored_summary_off">Цветът На Часовника Винаги Е Черен Или Бял</string>
+    <string name="clock_luminance_title">Светене На Часовника</string>
+    <string name="clock_luminance_summary">Регулирайте Яркостта На Цвета На Часовника</string>
+    
+    
+    <string name="custom_clock_top_margin_title">Разстояние Между Долната Част На Часовника</string>
+    
+    
+    <string name="disable_qs_title">Скриване на QS за сигурно заключване на екрана</string>
+    <string name="disable_qs_summary">Предотвратете достъпа до QS на защитен заключен екран</string>
+    
+    
+    <string name="qstile_requires_unlocking_title">Сигурни Qs Плочки</string>
+    <string name="qstile_requires_unlocking_summary">Изисквайте Отключване, За Да Използвате Чувствителни Qs Плочки</string>
+
+    
+    <string name="notification_material_dismiss_title">Бутон за изчистване на всички известия</string>
+    <string name="notification_material_dismiss_summary">Заменете изчистване на целия текст за уведомяване с плаващ бутон</string>
+    
+    
+    <string name="qs_dual_tone_title">Dual tone themed</string>
+    <string name="qs_dual_tone_summary">Use dual tone background colors instead of AOSP single tone</string>
+    
+    
+    <string name="wallpaper_blur_title">Замъгляване На Тапетите</string>
+    <string name="wallpaper_blur_summary">Активирайте Или Деактивирайте Ефекта На Замъгляване На Тапетите</string>
+
+    
+    <string name="udfps_category">Udfps</string>
+    <string name="udfps_settings_title">Честота на кадрите с ултра разделителна способност</string>
+    <string name="udfps_settings_summary">Персонализирайте скенера за пръстови отпечатъци под дисплея</string>
+
+    
+    <string name="screen_off_udfps_title">Изключен екран на скорост на кадри с ултра разделителна способност</string>
+    <string name="screen_off_udfps_summary">Дръжте скорост на кадри с ултра разделителна способност активиран, когато екранът е изключен</string>
+
+    
+    <string name="udfps_icon_picker_title">Честота на кадрите с ултра разделителна способност в иконата</string>
+    <string name="udfps_icon_picker_summary">Изберете икона за пръстов отпечатък</string>
+
+    
+    <string name="udfps_recog_animation_effect_title">Честота на кадрите с ултра разделителна способност</string>
+    <string name="udfps_recog_animation_effect_summary">Изберете ефект на анимация</string>
+
+    
+    <string name="fprint_success_vib_title">Вибрация За Удостоверяване На Пръстови Отпечатъци</string>
+    <string name="fprint_success_vib_summary">Вибрирайте При Успешното Удостоверяване На Пръстови Отпечатъци</string>
+    <string name="fprint_error_vib_title">Грешка При Пръстови Отпечатъци Вибрация</string>
+    <string name="fprint_error_vib_summary">Вибрирайте При Грешка За Грешка</string>
+    
+    
+    <string name="notification_sound_vib_screen_on_title">Звукови уведомления</string>
+    <string name="notification_sound_vib_screen_on_summary">Възпроизвежда звук и вибрации за известия, когато екранът е включен</string>
+    
+    
+    <string name="spoofing_title">Подправяне</string>
+    <string name="spoofing_title_summary">Spoof Като Различно Устройство За Отключване На Функциите На Приложението</string>
+    <string name="all_props_title">Активирайте Опциите На Spoof</string>
+    <string name="all_props_summary">Активира Всички Опции За Измама В Рамките На Pixelprops</string>
+    <string name="google_spoof_title">Spoof Google Приложения</string>
+    <string name="google_spoof_summary">Избрани Приложения На Google На Pixel 9 Pro Xl</string>
+    <string name="google_spoof_option_disabled">Активирането На Подправянето На Google Apps Не Е Необходимо На Текущото Устройство</string>
+    <string name="gms_spoof_title">Активирайте Gms Spoof</string>
+    <string name="gms_spoof_summary">Изпълнете Устройството Си, За Да Преминете Атестацията На Google Play</string>
+    <string name="gameprops_title">Отключете По -Високи Fps В Игрите</string>
+    <string name="gameprops_summary">Изпълнява Модела На Вашето Устройство За Игри На Водещо Устройство</string>
+    <string name="gameprops_load_json_title">Импортирайте Персонализиран Файл Gameprops Json (Незадължително)</string>
+    <string name="gameprops_load_json_summary">Изберете Персонализиран Файл На Gameprops Json, Ако Искате Да Излъжете Игри Към Желания От Вас Модел На Устройството</string>
+    <string name="pif_spoofing_title">Изберете Персонализиран Файл Pif Json</string>
+    <string name="pif_spoofing_summary">Изберете Персонализиран Файл На Pif Json, Който Да Се Използва За Подправяне На Целостта На Възпроизвеждането</string>
+    
+    <string name="use_photos_spoof_title">Неограничено съхранение на снимки</string>
+    <string name="use_photos_spoof_summary">Престори устройството си като Pixel XL за приложението Google Снимки само за да предостави неограничен обем за архивиране</string>
+    <string name="use_games_spoof_title">Отключете по-висок FPS в игрите</string>
+    <string name="use_games_spoof_summary">Подправете устройството си като различен модел за конкретни игри, за да отключите по-висок FPS</string>   
+    <string name="spoof_option_disabled">Деактивирането На Pixelprops Subofoing Не Се Поддържа От Текущото Устройство</string>
+    <string name="netflix_spoof_title">Netflix 认证伪装</string>
+    <string name="netflix_spoof_summary">在 Netflix 中将您的设备伪装成不同的型号</string>
+    
+    
+    <string name="toast_spoofing_success">Успешно Изтеглено Pif.Json.Подправяне Като %1 $ S За Целостта На Играта.</string>
+    <string name="toast_spoofing_failure">Неуспешно Изхвърляне На Свойства.</string>
+    <string name="update_pif_json_title">Актуализиране На Целостта На Възпроизвеждането</string>
+    <string name="update_pif_json_summary">Актуализирайте Устройството За Подправяне На Pif, Изисква Интернет Връзка.</string>
+    <string name="show_pif_properties_title">Играйте Свойства За Почтеност На Целостта</string>
+    <string name="show_pif_properties_summary">Показване На Всички В Момента Зададени Pif Свойства</string>
+    <string name="error_loading_properties">Грешка За Зареждане На Pif Свойства</string>
+     
+     
+    <string name="ambient_edge_light_action_title">Осветление На Крайния Ръб</string>
+    <string name="ambient_edge_light_title">Осветление На Ръба</string>
+    <string name="ambient_edge_light_enable_title">Осветление На Ръба</string>
+    <string name="ambient_edge_light_enable_summary">Превключвайте, За Да Активирате Осветлението На Ръба</string>
+    <string name="ambient_edge_light_summary">Запалете Страничните Краища На Екрана Върху Импулса На Известието</string>
+    <string name="ambient_edge_light_color_mode_category_title">Цвят</string>
+    <string name="ambient_edge_light_color_mode_auto">Авто</string>
+    <string name="ambient_edge_light_color_mode_app">Цвят На Приложението</string>
+    <string name="ambient_edge_light_color_mode_manual">Ръководство</string>
+    <string name="ambient_edge_light_advanced_category_title">Напреднал</string>
+    <string name="ambient_edge_light_duration_title">Продължителност На Светлината</string>
+    <string name="ambient_edge_light_repeat_count_title">Повтаряйте Броя</string>
+    <string name="ambient_edge_light_width_title">Светлинна Ширина</string>
+    <string name="ambient_edge_light_face_down_title">Флип, За Да Се Активира</string>
+    <string name="ambient_edge_light_face_down_summary">Покажете Светлината На Ръба Само Когато Телефонът Е С Лице</string>
+    <string name="ambient_edge_light_layout_title">Изглед На Светлината</string>
+    <string name="ambient_edge_light_layout_solid">Твърд</string>
+    <string name="ambient_edge_light_layout_faded">Избледнял</string>
+    
+    
+    <string name="island_notification_title">Island notification</string>
+    <string name="island_notification_summary">Display heads-up notification in Dynamic Island style</string>
+    <string name="island_notification_now_playing_title">Now playing</string>
+    <string name="island_notification_now_playing_summary">Display currently playing song in Dynamic Island style</string>
+</resources>

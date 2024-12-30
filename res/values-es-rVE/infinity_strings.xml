@@ -1,0 +1,865 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2">
+
+    
+
+    
+    <string name="button_title">Botones</string>
+    <string name="gestures_title">Gestos</string>
+    <string name="lockscreen_title">Pantalla de bloqueo</string>
+    <string name="misc_title">Varios</string>
+    <string name="navbar_title">Navigation bar</string>
+    <string name="powermenu_title">Power menu</string>
+    <string name="quicksettings_title">Ajustes rápidos</string>
+    <string name="themes_title">Themes</string>
+    <string name="statusbar_title">Barra de estado</string>
+    <string name="notifications_title">Notificaciones</string>
+    <string name="ambient_text_category_title">Ambient-AOD Customization</string>
+    <string name="monet_title">Ajustes de Monet</string>
+    <string name="fingerprint_category">Fingerprint</string>
+
+    
+    <string name="ok">Aceptar</string>
+    <string name="reset">Reiniciar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    
+    
+    <string name="notif_title">Notifications</string>
+    <string name="power_title">Power Menu</string>
+    <string name="gesture_title">Gestures</string>
+
+     
+     <string name="unit_seconds">segundos</string>
+     <string name="unit_milliseconds">milisegundos</string>
+     <string name="unit_pixels">dp</string>
+    
+    
+    <string name="team_title">About Team</string>
+    
+    
+    <string name="lead_devs">Lead Developers</string>
+    <string name="honorable_mentions">Honorable Mentions</string>
+    <string name="designers">Project Designers</string>
+    
+    
+    <string name="general_category">General</string>
+    <string name="media_category">Media Panel</string>
+    <string name="statusbar_icons">Icons</string>
+    <string name="pocket_category">Pocket</string>
+    
+    
+    <string name="statusbar_items_title">Statusbar items</string>
+    <string name="statusbar_items_summary">Tune Statusbar items</string>
+    
+    
+    <string name="qs_quick_pulldown">Quick QS pulldown</string>
+    <string name="quick_pulldown_none">Disabled</string>
+    <string name="quick_pulldown_right">Pulldown statusbar from right side</string>
+    <string name="quick_pulldown_left">Pulldown statusbar from left side</string>
+    
+    
+    <string name="power_menu_title">Menú de apagado</string>
+    <string name="power_menu_title_summary">View or change power menu entries</string>
+    <string name="powermenu_screenshot">Screenshot</string>
+    <string name="powermenu_power">Power</string>
+    <string name="powermenu_advanced">Advanced reboot options</string>
+    <string name="powermenu_restart">Restart</string>
+    <string name="powermenu_airplane">Airplane</string>
+    <string name="powermenu_settings">Settings</string>
+    <string name="powermenu_lockdown">Lock Down</string>
+    <string name="powermenu_soundpanel">Sound Panel</string>
+    <string name="powermenu_users">Users</string>
+    <string name="powermenu_logout">Logout</string>
+    <string name="powermenu_emergency">Emergency</string> 
+    
+    
+    <string name="lockscreen_enable_power_menu_title">Menú de encendido</string>
+    <string name="lockscreen_enable_power_menu_summary">Permitir acceder al menú de encendido desde la pantalla de bloqueo</string>
+          
+    
+    <string name="system_navigation_summary">Configure navigation menus</string>
+    
+    
+    <string name="monet_engine_custom_color_title">Color de acento</string>
+    <string name="monet_engine_custom_color_summary">Elegir color de énfasis personalizado</string>
+    <string name="monet_engine_custom_bgcolor_title">Color de fondo</string>
+    <string name="monet_engine_custom_bgcolor_summary">Elegir color personalizado para el fondo</string>
+    <string name="monet_engine_color_override_title">Color personalizado</string>
+    <string name="monet_engine_luminance_factor_title">Luminosidad</string>
+    <string name="monet_engine_luminance_factor_summary">Valores más altos producen colores más brillantes</string>
+    <string name="monet_engine_chroma_factor_title">Factor cromático</string>
+    <string name="monet_engine_chroma_factor_summary">Valores más altos producen colores más fuertes</string>
+    <string name="monet_engine_whole_palette_title">Toda la paleta</string>
+    <string name="monet_engine_whole_palette_summary">Hacer que la selección de luminancia y croma también afecte a los colores secundarios</string>
+    <string name="monet_engine_tint_background_title">Tinte de fondo</string>
+    <string name="monet_engine_tint_background_summary">Hacer que la luminosidad y la selección cromática también afecten el color del fondo</string>
+    <string name="monet_engine_style_title">Estilo del tema</string>
+    <string name="monet_engine_style_tonal_spot">Spot Tonal (por defecto)</string>
+    <string name="monet_engine_style_vibrant">Vibrante</string>
+    <string name="monet_engine_style_expressive">Expresivo</string>
+    <string name="monet_engine_style_spritz">Spritz</string>
+    <string name="monet_engine_style_rainbow">Arcoiris</string>
+    <string name="monet_engine_style_fruit_salad">Ensalada de frutas</string>
+    <string name="monet_engine_style_monochromatic">Monocromático</string>
+    <string name="monet_engine_color_source_title">Fuente de color</string>
+    <string name="monet_engine_color_source_both">Ambos (por defecto)</string>
+    <string name="monet_engine_color_source_home">Fondo de pantalla de inicio</string>
+    <string name="monet_engine_color_source_lock">Fondo de pantalla de bloqueo</string>
+    <string name="monet_engine_color_source_preset">Predeterminado</string>
+    
+    
+     <string name="theme_customization_font_title">Estilo de tipo de letra</string>
+     <string name="theme_customization_font_summary">Establecer tipo de letra del sistema</string>
+     <string name="theme_customization_icon_pack_title">Paquete de iconos</string>
+     <string name="theme_customization_icon_pack_summary">Seleccionar paquete de iconos personalizado</string>
+     <string name="theme_customization_icon_shape_title">Aspecto de los iconos</string>
+     <string name="theme_customization_icon_shape_summary">Establecer forma de iconos del sistema</string>
+     <string name="theme_customization_signal_icon_title">Estilo de icono de estado de señal</string>
+     <string name="theme_customization_signal_icon_summary">Establecer icono de estado de señal personalizado</string>
+     <string name="theme_customization_wifi_icon_title">Estilo del icono de WiFi</string>
+     <string name="theme_customization_wifi_icon_summary">Establecer icono de WiFi personalizado</string>
+     <string name="theme_customization_navbar_title">Estilo de la Barra de navegación</string>
+     <string name="theme_customization_navbar_summary">Establecer estilo personalizado de barra de navegación</string>
+     <string name="theme_customization_data_title">Data icon style</string>
+     <string name="theme_customization_data_summary">Set custom data icon style</string>
+     <string name="theme_customization_lock_clock_title">Estilo de fuente del reloj</string>
+     <string name="theme_customization_lock_clock_summary">Establecer el estilo de fuente del reloj de la pantalla de bloqueo</string>
+          
+    
+     <string name="lockscreen_battery_info_title">Información de la batería</string>
+     <string name="lockscreen_battery_info_summary">Mostrar información de la batería al cargar</string>
+    
+        
+    <string name="status_bar_battery_category_title">Personalizar batería</string>
+    <string name="status_bar_battery_style_title">Estilo del icono de la batería</string>
+    <string name="status_bar_battery_style_summary">Statusbar and QS Battery Styles</string>
+    <string name="status_bar_battery_style_icon_portrait">Icono vertical</string>
+    <string name="status_bar_battery_style_icon_rlandscape">Icono horizontal (Derecha)</string>
+    <string name="status_bar_battery_style_icon_landscape">Icono horizontal (Izquierda)</string>
+    <string name="status_bar_battery_style_circle">Círculo</string>
+    <string name="status_bar_battery_style_dotted_circle">Círculo punteado</string>
+    <string name="status_bar_battery_style_filled_circle">Círculo relleno</string>
+    <string name="status_bar_battery_style_big_circle">Big circle</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Big dotted circle</string>
+    <string name="status_bar_battery_style_land_a">Landscape Simply</string>
+    <string name="status_bar_battery_style_land_b">Landscape NeNine</string>
+    <string name="status_bar_battery_style_land_c">Landscape ColorOS</string>
+    <string name="status_bar_battery_style_land_d">Landscape Love</string>
+    <string name="status_bar_battery_style_land_e">Landscape BaseBall</string>
+    <string name="status_bar_battery_style_land_f">Landscape Half Fill</string>
+    <string name="status_bar_battery_style_land_g">Landscape Tadika Mesra</string>
+    <string name="status_bar_battery_style_land_h">Landscape MIUI</string>
+    <string name="status_bar_battery_style_land_i">Landscape Buddy</string>
+    <string name="status_bar_battery_style_land_j">Landscape Strip Path</string>
+    <string name="status_bar_battery_style_land_k">Landscape iOS Fourteen</string>
+    <string name="status_bar_battery_style_land_l">Landscape iOS Sixteen</string>
+    <string name="status_bar_battery_style_land_m">Landscape iOS Outline</string>
+    <string name="status_bar_battery_style_land_n">Landscape Ruler</string>
+    <string name="status_bar_battery_style_land_o">Landscape Windows</string>
+    <string name="status_bar_battery_style_text">Texto</string>
+    <string name="status_bar_battery_style_hidden">Oculto</string>
+    <string name="status_bar_battery_percent_title">Porcentaje de la batería</string>
+    <string name="status_bar_battery_percent_hidden">Oculto</string>
+    <string name="status_bar_battery_percent_text_inside">Dentro del icono</string>
+    <string name="status_bar_battery_percent_text_next_right">Junto al icono (derecha)</string>
+    <string name="status_bar_battery_percent_text_next_left">Junto al icono (izquierda)</string>
+    <string name="status_bar_battery_text_charging_title">Porcentaje de batería durante la carga</string>
+    <string name="status_bar_battery_text_charging_summary">Mostrar siempre porcentaje de batería al cargar</string>
+
+    
+    <string name="qs_battery_category_title">Qs Battery customizations</string>
+    <string name="qs_use_status_bar_battery_style">Seguir estilo de la barra de estado</string>
+    
+    
+    <string name="color_default">Predeterminado</string>
+    <string name="custom_battery_charging_icon_title">Charging icons</string>
+    <string name="custom_battery_charging_icon_summary">Display charging icon on side of battery</string>
+    <string name="custom_battery_charging_icon_style_title">Charging icons style</string>
+    <string name="custom_battery_charging_icon_wh_title">Scale width &amp; height</string>
+
+    
+    <string name="custom_icon_charging_symbol_title">Charging symbol for battery text</string>
+    <string name="custom_symbol_charging_default">Default (Bolt)</string>
+    <string name="custom_symbol_charging_type1">Biohazard</string>
+    <string name="custom_symbol_charging_type2">Star</string>
+    <string name="custom_symbol_charging_type3">Smile</string>
+    <string name="custom_symbol_charging_type4">Recycle</string>
+    <string name="custom_symbol_charging_type5">Infinity</string>
+    <string name="custom_symbol_charging_type6">Sun Flower</string>
+    <string name="custom_symbol_charging_type7">Tear Dropp</string>
+    <string name="custom_symbol_charging_type8">Snow</string>
+    <string name="custom_symbol_charging_type9">Triple Tilde</string>
+
+    
+    <string name="flip_batre_image_title">Battery Image</string>
+    <string name="flip_batre_image_summary">flip the battery image</string>
+    <string name="flip_batre_title">Battery Layout</string>
+    <string name="flip_batre_summary">flip the battery layout</string>
+
+    
+    <string name="custom_battery_drawable_title">Misc on Battery Drawable</string>
+    <string name="custom_battery_scaled_perimeter_alpha_title">Scaled perimeter alpha</string>
+    <string name="custom_battery_scaled_perimeter_alpha_summary">Use scaled perimeter alpha</string>
+    <string name="custom_battery_scaled_fill_alpha_title">Use scaled back fill alpha</string>
+    <string name="custom_battery_scaled_fill_alpha_summary">Scaled back fill alpha</string>
+    <string name="custom_battery_color_title">Battery custom color</string>
+    <string name="custom_battery_color_summary">Set to #ff000000 for default blend color</string>
+    <string name="custom_battery_charging_color_title">Changing color</string>
+    <string name="custom_battery_fill_color_title">Fill custom color</string>
+    <string name="custom_battery_fill_grad_color_title">Fill gradient color</string>
+    <string name="custom_battery_fill_grad_color_summary">#ff000000 for disable gradient</string>
+    <string name="custom_battery_powersave_color_title">PowerSave color</string>
+    <string name="custom_battery_powersave_fill_color_title">PowerSave fill color</string>
+    <string name="custom_battery_rainbow_fill_title">Rainbow fill color</string>
+    <string name="custom_battery_rainbow_fill_summary">Only for style Buddy &amp; Strip Path</string>
+    <string name="sthumb_new_tint_picker_summary">use rgb color picker</string>
+
+    
+    <string name="custom_battery_layout_title">Misc on Battery Layout</string>
+    <string name="custom_battery_rotation_title">Battery image rotation</string>
+    <string name="custom_battery_rotation_summary">to rotate the landscape battery</string>
+    <string name="custom_battery_leftpct_title">Left battery percent</string>
+    <string name="custom_battery_leftpct_summary">to put battery percent to the left</string>
+
+    
+    <string name="custom_battery_dimension_title">Battery Custom Dimension</string>
+    <string name="custom_battery_dimension_summary">use custom addjustable dimen values</string>
+    <string name="custom_battery_height">Height</string>
+    <string name="custom_battery_width">Width</string>
+    <string name="custom_battery_top">Margin Top</string>
+    <string name="custom_battery_bottom">Margin Bottom</string>
+    <string name="custom_battery_left">Margin Left</string>
+    <string name="custom_battery_right">Margin Right</string>
+     
+    
+     <string name="qs_show_brightness_slider_title">Barra de brillo</string>
+     <string name="qs_show_brightness_slider_never">No mostrar nunca</string>
+     <string name="qs_show_brightness_slider_expanded">Mostrar al expandir</string>
+     <string name="qs_show_brightness_slider_always">Mostrar siempre</string>
+     <string name="qs_show_brightness_slider_not_expanded">Mostrar cuando no se expanda</string>
+     <string name="qs_brightness_slider_position_title">Posición</string>
+     <string name="qs_brightness_slider_position_top">Arriba</string>
+     <string name="qs_brightness_slider_position_bottom">Abajo</string>
+
+    
+     <string name="qs_show_auto_brightness_title">Icono de brillo automático</string>
+     <string name="qs_show_auto_brightness_summary">Mostrar el icono de brillo automático al lado de la barra de brillo</string>
+    
+    
+     <string name="status_bar_clock_title">Reloj y fecha</string>
+     <string name="status_bar_clock_summary">Personalizar reloj y fecha</string>
+     <string name="status_bar_clock_seconds_title">Mostrar segundos</string>
+     <string name="status_bar_clock_seconds_summary">Mostrar segundos al lado del reloj en la barra de estado</string>
+     <string name="status_bar_clock_position_title">Estilo del reloj</string>
+     <string name="status_bar_clock_position_right">Derecha</string>
+     <string name="status_bar_clock_position_left">Izquierda</string>
+     <string name="status_bar_clock_position_center">Centro</string>
+     <string name="status_bar_clock_position_hidden">Oculto</string>
+     <string name="status_bar_clock_auto_hide_title">Ocultar automáticamente</string>
+     <string name="status_bar_clock_auto_hide_launcher_summary">Ocultar reloj si la pantalla de inicio está visible</string>
+     <string name="status_bar_clock_auto_hide_summary">Ocultar el reloj a intervalos regulares</string>
+     <string name="status_bar_clock_auto_hide_hdur_title">Ocultar duración</string>
+     <string name="status_bar_clock_auto_hide_hdur_summary">Número de segundos que el reloj permanece oculto</string>
+     <string name="status_bar_clock_auto_hide_sdur_title">Mostrar duración</string>
+     <string name="status_bar_clock_auto_hide_sdur_summary">Número de segundos a esperar antes de ocultar el reloj</string>
+     <string name="status_bar_am_pm_title">Formato AM/PM</string>
+     <string name="status_bar_am_pm_info">El formato de 24 horas está activado</string>
+     <string name="status_bar_am_pm_normal">Predeterminado</string>
+     <string name="status_bar_am_pm_small">Pequeño</string>
+     <string name="status_bar_am_pm_hidden">Oculto</string>
+     <string name="status_bar_date_title">Fecha</string>
+     <string name="status_bar_date_none">Oculta</string>
+     <string name="status_bar_date_small">Pequeña</string>
+     <string name="status_bar_date_normal">Predeterminada</string>
+     <string name="status_bar_date_format_title">Formato de la fecha</string>
+     <string name="status_bar_date_style">Estilo de la fecha</string>
+     <string name="status_bar_date_style_normal">Predeterminado</string>
+     <string name="status_bar_date_style_lowercase">Minúsculas</string>
+     <string name="status_bar_date_style_uppercase">Mayúsculas</string>
+     <string name="status_bar_date_format_custom">Formato java personalizado</string>
+     <string name="status_bar_date_string_edittext_title">Debe estar en un formato de fecha, por ejemplo: MM/DD/AA</string>
+     <string name="status_bar_date_string_edittext_summary">Introduce texto</string>
+     <string name="clock_date_position">Posición de la fecha</string>
+     <string name="clock_date_right">A la derecha de la hora</string>
+     <string name="clock_date_left">A la izquierda de la hora</string>
+
+    
+    <string name="qs_footer_text_title">QS footer text</string>
+    <string name="qs_footer_text_summary">Display text at bottom of QS panel</string>
+    <string name="qs_footer_text_string_title">Customize footer text</string>
+
+   
+    <string name="qs_show_data_usage_title">Show data usage</string>
+    <string name="qs_show_data_usage_summary">Show daily cellular/Wi-Fi data usage in QS footer</string>
+    
+   
+    <string name="laboratory_ignore_window_secure_title">Ignore window secure flags</string>
+    <string name="laboratory_ignore_window_secure_summary">This removes the screenshots and screenrecords limits for all applications. Normally, special applications are replaced with black areas in records. This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+    
+    
+    <string name="app_downgrade_title">Allow application downgrade</string>
+    <string name="app_downgrade_summary">This allows you to downgrade applications. Note that this may lead to crashes and data corruption.</string>
+
+   
+    <string name="statusbar_colored_icons_title">Iconos coloreados</string>
+    <string name="statusbar_colored_icons_summary">Usar iconos de aplicación adecuados para los iconos de notificación en la barra de estado</string>
+    
+   
+    <string name="status_bar_logo_title">Logo</string>
+    <string name="default_string">Default</string>
+    <string name="status_bar_logo_summary">Mostrar un logo personalizado a la izquierda o derecha de la barra de estado</string>
+    <string name="status_bar_logo_primary_switch_title">Use logo</string>
+    <string name="status_bar_logo_position_title">Posición del logo</string>
+    <string name="status_bar_logo_position_summary">Choose which side to display the logo on, left or right</string>
+    <string name="status_bar_logo_position_right">Right</string>
+    <string name="status_bar_logo_position_left">Left</string>
+    <string name="status_bar_logo_color_title">Color</string>
+    <string name="status_bar_logo_color_default">Default (White)</string>
+    <string name="status_bar_logo_color_accent">Accent</string>
+    <string name="status_bar_logo_color_custom">Custom</string>
+    <string name="status_bar_logo_style_title">Estilo del logo</string>
+    <string name="status_bar_logo_style_adidas">Adidas</string>
+    <string name="status_bar_logo_style_airjordan">Air Jordan</string>
+    <string name="status_bar_logo_style_alien">Alien</string>
+    <string name="status_bar_logo_style_amogus">Amogus</string>
+    <string name="status_bar_logo_style_apple">Apple</string>
+    <string name="status_bar_logo_style_avengers">Vengadores</string>
+    <string name="status_bar_logo_style_batman">Batman</string>
+    <string name="status_bar_logo_style_batman_tdk">Batman El Caballero Oscuro</string>
+    <string name="status_bar_logo_style_beats">Beats</string>
+    <string name="status_bar_logo_style_biohazard">Riesgo biológico</string>
+    <string name="status_bar_logo_style_blackberry">BlackBerry</string>
+    <string name="status_bar_logo_style_captain_america">Capitán América</string>
+    <string name="status_bar_logo_style_cannabis">Cannabis</string>
+    <string name="status_bar_logo_style_flash">Memoria rápida</string>
+    <string name="status_bar_logo_style_fire">Llama</string>
+    <string name="status_bar_logo_style_ghost">Fantasma</string>
+    <string name="status_bar_logo_style_heart">Corazón</string>
+    <string name="status_bar_logo_style_ironman">Iron man</string>
+    <string name="status_bar_logo_style_mint">Linux Mint</string>
+    <string name="status_bar_logo_style_nike">Nike</string>
+    <string name="status_bar_logo_style_ninja">Estrellas ninja</string>
+    <string name="status_bar_logo_style_pac_man">Pac-Man</string>
+    <string name="status_bar_logo_style_puma">Puma</string>
+    <string name="status_bar_logo_style_robot">Robot</string>
+    <string name="status_bar_logo_style_rog">ROG</string>
+    <string name="status_bar_logo_style_spiderman">Spider-man</string>
+    <string name="status_bar_logo_style_superman">Superman</string>
+    <string name="status_bar_logo_style_tux">Tux</string>
+    <string name="status_bar_logo_style_ubuntu">Ubuntu</string>
+    <string name="status_bar_logo_style_windows">Windows</string>
+    <string name="status_bar_logo_style_xbox">Xbox</string>
+    
+    
+    <string name="qs_transparency_summary">Choose how transparent you want your qs to be</string>
+    <string name="qs_transparency_title">Qs Transparency</string>
+
+    
+    <string name="statusbar_clock_chip_title">Fondo del reloj</string>
+    <string name="statusbar_clock_chip_summary">Mostrar un fondo detrás del reloj con el color de acento</string>
+    <string name="solid_accent">Accent</string>
+    <string name="outline">Outline</string>
+    <string name="solid_accent_gradient">Gradient</string>
+    <string name="solid_gradient">Solid Gradient side</string>
+    <string name="solid_gradient_corner">Solid accent gradient sharp</string>
+    <string name="solid_gradient_void">Gradient Void</string>
+    <string name="solid_gradient_neumorph">Neumorph gradient</string>
+    <string name="solid_gradient_stroke">Sharp gradient stroke</string>
+    <string name="solid_accent_transperent">Accent transparent</string>    
+    <string name="solid_gradient_light">Gradient light</string>
+    <string name="solid_gradient_shape">Sharp gradient corner</string>
+    <string name="solid_gradient_void_light">Gradient Void light</string>
+    
+    
+    <string name="haptic_on_volume_slider_title">Volume slider haptic</string>
+    <string name="haptic_on_volume_slider_summary">Provide haptic feedback on changing volume using slider</string>
+    
+    
+    <string name="volume_panel_on_left_title">Panel de volumen en el lado izquierdo</string>
+    <string name="volume_panel_on_left_summary">Display volume panel on the left side of the screen</string>
+    
+    
+    <string name="data_disabled_icon_title">Indicador de datos deshabilitado</string>
+    <string name="data_disabled_icon_summary">Mostar un indicador junto a la barra de señal cuando los datos esten deshabilitados</string>
+    
+    
+    <string name="status_bar_4g_icon_title">4G icon</string>
+
+    
+    <string name="roaming_indicator_icon_title">Show roaming indicator icon</string>
+    <string name="roaming_indicator_icon_summary">Display roaming indicator above signal icon when in roaming mode</string>
+
+    
+    <string name="wifi_standard_icon_title">Estándar WiFi</string>
+    <string name="wifi_standard_icon_summary">Mostrar el estándar WiFi junto a la señal WiFi</string>
+    
+    
+    <string name="bluetooth_battery_title">Mostrar estado de la batería del dispositivo Bluetooth</string>
+    <string name="bluetooth_battery_summary">Mostrar el estado de la batería del dispositivo bluetooth conectado actualmente, si está disponible</string> 
+    
+    
+    <string name="show_fiveg_icon_summary">Forcefully show 5G network icon instead of LTE &amp; 4G</string>
+    <string name="show_fiveg_icon_title">Spoof 5G Indicator</string>
+    
+    
+    <string name="qs_brightness_slider_haptic_title">Respuesta háptica</string>
+    <string name="qs_brightness_slider_haptic_summary">Devolver una respuesta háptica cada vez que se deslice la barra del brillo</string>
+    
+    
+    <string name="statusbar_padding">Status bar padding</string>
+    <string name="statusbar_top_padding">Top padding</string>
+    <string name="statusbar_left_padding">Left padding</string>
+    <string name="statusbar_right_padding">Right padding</string>
+    
+    
+    <string name="less_boring_heads_up_title">No molestar</string>
+    <string name="less_boring_heads_up_summary">Mostrar notificaciones emergentes solo para la alarma, marcador y aplicación de mensajería</string>
+
+    
+    <string name="headsup_category">HeadsUp Settings</string>
+    <string name="heads_up_notifications">Heads up</string>
+    <string name="heads_up_notifications_summary">Customise heads up notifications settings</string>
+    <string name="summary_heads_up_enabled">Pop-up notifications are enabled</string>
+    <string name="summary_heads_up_disabled">Pop-up notifications are disabled</string>
+    <string name="add_heads_up_package">Add app</string>
+    <string name="add_heads_up_stoplist_summary">Disable heads up notifications in these applications</string>
+    <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
+    <string name="heads_up_stoplist_title">Stoplist</string>
+    <string name="heads_up_blacklist_title">Blacklist</string>
+    <string name="profile_choose_app">Choose app</string>
+    <string name="dialog_delete_title">Delete</string>
+    <string name="dialog_delete_message">Remove selected item?</string>
+
+    
+    <string name="heads_up_time_out_title">Time out</string>
+    <string name="heads_up_time_out_summary">Peeking notifications will show for <ns0:g id="number">%d</ns0:g> seconds</string>
+    <string name="heads_up_time_out_2sec">2 seconds</string>
+    <string name="heads_up_time_out_4sec">4 seconds</string>
+    <string name="heads_up_time_out_5sec">5 seconds</string>
+    <string name="heads_up_time_out_6sec">6 seconds</string>
+    <string name="heads_up_time_out_8sec">8 seconds</string>
+    <string name="heads_up_time_out_10sec">10 seconds</string>
+
+    
+    <string name="heads_up_snooze_title">Snooze timer</string>
+    <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
+    <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <ns0:g id="number">%d</ns0:g> minutes</string>
+    <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
+    <string name="heads_up_snooze_1min">1 minute</string>
+    <string name="heads_up_snooze_5min">5 minutes</string>
+    <string name="heads_up_snooze_10min">10 minutes</string>
+    <string name="heads_up_snooze_15min">15 minutes</string>
+    <string name="heads_up_snooze_20min">20 minutes</string>
+    
+    
+    <string name="volume_button_music_control_title">Playback control</string>
+    <string name="volume_button_music_control_summary">When the screen is off, long-pressing volume keys will skip music tracks</string>
+    
+    
+    <string name="volume_rocker_wake_title">Volume wake</string>
+    <string name="volume_rocker_wake_summary">Wake your device up by pressing the volume keys</string>
+    
+    
+    <string name="volume_answer_call_title">Contestar la llamada</string>
+    <string name="volume_answer_call_summary">Contestar llamadas entrantes presionando los botones de volumen</string>
+    
+    
+    <string name="pulse_help_policy_notice_title">Acerca de Pulse</string>
+    <string name="pulse_help_policy_notice_summary">Pulse es un brillante ecualizador gráfico de audio para cuando se reproduce música en el dispositivo</string>
+    <string name="pulse_settings">Pulso</string>
+    <string name="pulse_settings_summary">Ecualizador gráfico de audio para la barra de navegación y pantalla de bloqueo</string>
+    <string name="show_navbar_pulse_title">Barra de navegación de Pulse</string>
+    <string name="show_navbar_pulse_summary">Ecualizador gráfico de audio en la barra de navegación</string>
+    <string name="show_lockscreen_pulse_title">Pulse en la pantalla de bloqueo</string>
+    <string name="show_lockscreen_pulse_summary">Ecualizador gráfico de audio en la pantalla de bloqueo</string>
+    <string name="show_ambient_pulse_title">Pulse en pantalla ambiente</string>
+    <string name="show_ambient_pulse_summary">Ecualizador gráfico de audio en la pantalla ambiente</string>
+    <string name="pulse_render_mode_title">Modo de renderizado</string>
+    <string name="pulse_render_mode_fading_bars">Bloques desvaneciéndose</string>
+    <string name="pulse_render_mode_solid_lines">Líneas sólidas</string>
+    <string name="pulse_legacy_mode_advanced_category">Ajustes del modo desvanecimiento de bloques</string>
+    <string name="pulse_custom_fudge_factor">Nivel de sensibilidad</string>
+    <string name="pulse_lavalamp_speed_title">Velocidad de lámpara de lava</string>
+    <string name="pulse_solid_units_count">Cantidad de líneas sólidas</string>
+    <string name="pulse_solid_units_opacity">Opacidad de las líneas sólidas</string>
+    <string name="pulse_solid_dimen_category">Ajustes del modo líneas sólidas</string>
+    <string name="pulse_color_mode_title">Color</string>
+    <string name="pulse_color_accent">Realce</string>
+    <string name="pulse_color_custom">Personalizado</string>
+    <string name="pulse_color_lava_lamp">Lámpara de lava</string>
+    <string name="pulse_color_user_title">Selecciona el color</string>
+    <string name="pulse_color_auto">Álbum</string>
+    <string name="pulse_smoothing_enabled_title">Activar modo fluido</string>
+    <string name="pulse_smoothing_enabled_summary">Animación de las barras más suave</string>
+    <string name="pulse_custom_dimen">Ancho de la barra</string>
+    <string name="pulse_custom_div">Espaciado de la barra</string>
+    <string name="pulse_filled_block_size">Tamaño de bloque</string>
+    <string name="pulse_empty_block_size">Espaciado del bloque</string>
+    <string name="pulse_solid_units_rounded_title">Esquinas redondeadas</string>
+    <string name="pulse_solid_units_rounded_summary">Líneas sólidas con punta redondeada</string>
+
+    
+    <string name="pulse_custom_gravity_title">Gravity</string>
+    <string name="pulse_custom_gravity_bottom">Bottom</string>
+    <string name="pulse_custom_gravity_top">Top</string>
+    <string name="pulse_custom_gravity_center">Center</string>
+    <string name="visualizer_center_mirrored_title">Center mirrored</string>
+    <string name="visualizer_center_mirrored_summary">Set the visualizer in center mirrored mode</string>
+    <string name="pulse_vertical_mirror_title">Vertical Mirror</string>
+    <string name="pulse_vertical_mirror_summary">Create other pulse and flip vertically</string>
+
+    
+    <string name="pocket_mode">Pocket Mode</string>
+    <string name="pocket_mode_summary">Block screen inputs while device is in pocket</string>
+    
+    
+    <string name="status_bar_notif_count_title">Notification count</string>
+    <string name="status_bar_notif_count_summary">Display the number of unread notifications on each app icon</string>
+
+    
+    <string name="mic_camera_privacy_indicator_title">Indicador de privacidad de micrófono y cámara</string>
+    <string name="mic_camera_privacy_indicator_summary">Mostrar indicador separado cuando una aplicación utiliza el micrófono o la cámara</string>
+    <string name="location_privacy_indicator_title">Indicador de privacidad de la ubicación</string>
+    <string name="location_privacy_indicator_summary">Mostrar indicador por separado cuando una aplicación use la localización</string>
+    <string name="projection_privacy_indicator_title">Indicador de privacidad de proyección de medios</string>
+    <string name="projection_privacy_indicator_summary">Mostrar indicador cuando se proyecta la pantalla del dispositivo</string>
+    
+    
+    <string name="battery_bar_title">Barra de batería</string>
+    <string name="battery_bar_summary">Mostrar y personalizar la barra de batería encima de la barra de estado</string>
+    <string name="battery_bar_color">Color</string>
+    <string name="battery_bar_charging_color">Color durante la carga</string>
+    <string name="battery_bar_battery_low_color">Color de batería baja</string>
+    <string name="battery_bar_style_title">Alineación</string>
+    <string name="battery_bar_thickness_title">Grosor</string>
+    <string name="battery_bar_animate_title">Animación de carga</string>
+    <string name="battery_bar_style_regular">Normal</string>
+    <string name="battery_bar_style_center_mirrored">Centrado-reflejado</string>
+    <string name="battery_bar_style_reversed">Invertido</string>
+    <string name="battery_bar_use_charging_color">Color de carga personalizado</string>
+    <string name="battery_bar_blend_color_title">Mezcla de colores</string>
+    <string name="battery_bar_blend_color_summary">Mezcla de colores lleno/vacío correspondiente al porcentaje de la batería</string>
+    <string name="battery_bar_blend_color_reverse_title">Invertir la dirección del color</string>
+    <string name="battery_bar_blend_color_reverse_summary_off">Llena → vacía: rojo ← verde ← azul ← rojo</string>
+    <string name="battery_bar_blend_color_reverse_summary_on">Llena → vacía: rojo → verde → azul → rojo</string>
+
+    
+    <string name="network_traffic_state_title">Network traffic indicator</string>
+    <string name="network_traffic_state_summary">Enable or disable network speed indicator in status bar</string>
+    <string name="network_traffic_title">Network traffic indicator</string>
+    <string name="network_traffic_master_switch_title">Use Network Traffic Indicator</string>
+    <string name="network_options_title">Options</string>
+    <string name="network_traffic_autohide_title">Hide network traffic indicator if inactive</string>
+    <string name="network_traffic_autohide_summary">Ocultar monitor de tráfico de red cuando no haya actividad</string>
+    
+    
+    <string name="ambient_text_category">Text Customization</string>
+    <string name="ambient_image_category">Image Customization</string>
+    <string name="ambient_text_category_summary">Customizing the looks of ambient-aod</string>
+    <string name="ambient_text_title">Ambient Text</string>
+    <string name="ambient_text_summary">Show Ambient Text in AoD</string>
+    <string name="ambient_text_animation_title">Ambient Text Animation</string>
+    <string name="ambient_text_animation_summary">Show a Animation when show AoD</string>
+    <string name="ambient_text_size_title">Ambient Text Size</string>
+    <string name="ambient_text_font_title">Ambient Text Font</string>
+    <string name="ambient_text_string_title">Set Ambient Text</string>
+    <string name="ambient_text_align_title">Ambient Text Align</string>
+    <string name="ambient_text_align_start_top">Right n Top</string>
+    <string name="ambient_text_align_start_center">Right n Center</string>
+    <string name="ambient_text_align_start_bottom">Right n Bottom</string>
+    <string name="ambient_text_align_center">Center</string>
+    <string name="ambient_text_align_end_top">Left n Top</string>
+    <string name="ambient_text_align_end_center">Left n Center</string>
+    <string name="ambient_text_align_end_bottom">Left n Bottom</string>
+    <string name="ambient_text_type_color_title">Ambient Text Type Color</string>
+    <string name="ambient_text_color_title">Ambient Text Color</string>
+    <string name="ambient_notification_light_color_mode_accent">System accent color</string>
+    <string name="ambient_notification_light_color_mode_custom">Custom color</string>
+    <string name="ambient_notification_light_color_mode_wall">Wallpaper color</string>
+    <string name="ambient_image_title">Ambient Image</string>
+    <string name="file_header_select_title">Select local image</string>
+    <string name="file_header_select_summary">Select image from storage</string>
+    
+    
+    <string name="qs_compact_media_player_mode_title">Compact QS Media player</string>
+    <string name="qs_compact_media_player_mode_summary">Enable compact mode for QuickSettings media player</string>
+
+    
+    <string name="smart_pixels_warning_text">Smart pixels es una característica de ahorro de energía. Dependiendo de cuántos píxeles decidas desactivar, podrías ver mejoras en la vida útil de la batería. Ten en cuenta que en algunos casos puede resultar en zonas no receptivas en la pantalla táctil</string>
+    <string name="smart_pixels_title">Píxeles Inteligentes</string>
+    <string name="smart_pixels_summary">Ahorrar batería apagando píxeles adicionales</string>
+    <string name="smart_pixels_enable_title">Habilitar Píxeles Inteligentes</string>
+    <string name="smart_pixels_enable_summary">Apagar píxeles para reducir el consumo de energía</string>
+    <string name="smart_pixels_on_power_save_title">Activar automáticamente en modo ahorro de batería</string>
+    <string name="smart_pixels_on_power_save_summary">Habilitar Píxeles Inteligentes cuando el ahorro de batería esté habilitado</string>
+    <string name="smart_pixels_percent">Porcentaje de píxeles a desactivar</string>
+    <string name="smart_pixels_shift_title">Protección contra quemado</string>
+    <string name="smart_pixels_shift_summary">Previene el quemado de la pantalla en dispositivos con tecnología OLED alternando píxeles de vez en cuando</string>
+    
+    
+    <string name="custom_timeout_summary_never">Nunca</string>
+    <string name="custom_timeout_summary_15secs">15 segundos</string>
+    <string name="custom_timeout_summary_30secs">30 segundos</string>
+    <string name="custom_timeout_summary_1min">1 minuto</string>
+    <string name="custom_timeout_summary_2mins">2 minutos</string>
+    <string name="custom_timeout_summary_5mins">5 minutos</string>
+    <string name="custom_timeout_summary_10mins">10 minutos</string>
+    <string name="custom_timeout_summary_20mins">20 minutos</string>
+    <string name="custom_timeout_summary_30mins">30 minutos</string>
+    <string name="custom_timeout_summary_1hour">1 hora</string>
+    <string name="custom_timeout_summary_2hours">2 horas</string>
+    
+    
+    <string name="pulse_on_new_tracks_title">Icono de música</string>
+    <string name="pulse_on_new_tracks_summary">Mostrar icono de música en pantalla ambiente al cambiar la canción</string>
+
+    
+    <string name="screen_off_animation_title">Animación al apagar la pantalla</string>
+    <string name="screen_off_animation_default">Predeterminado</string>
+    <string name="screen_off_animation_crt">CRT</string>
+    <string name="screen_off_animation_scale">Escala</string>
+
+    
+    <string name="system_charging">System Charging Options</string>
+    <string name="charging_animation_bg_title">Charging Background</string>
+    <string name="charging_animation_bg_summary">Enabling this option will make the background on System Animation to black</string>
+    
+    
+    <string name="hide_screen_capture_status_title">Hide screen capture status</string>
+    <string name="hide_screen_capture_status_summary">Hide screen capture and screen record status from all applications. Can be convenient in some cases but may lead to privacy leaks. Need to restart applications for the change to take effect.</string>
+
+    
+    <string name="no_storage_restrict_title">No storage restrict</string>
+    <string name="no_storage_restrict_summary">Remove the restriction when selecting folders through Storage Access Framework. Can be convenient in some cases but may lead to privacy leaks.</string>
+    
+    
+    <string name="hide_developer_status_title">Hide developer status</string>
+    <string name="hide_developer_status_summary">Prevent apps from checking adb and developer mode status</string>
+    <string name="search">Search</string>
+    <string name="search_apps">Search apps</string>
+
+    
+    <string name="spoof_storage_encryption_status_title">Use storage encryption spoofing</string>
+    <string name="spoof_storage_encryption_status_summary">Spoof storage encryption status to encrypted</string>
+    
+    
+    <string name="media_controls_always_show_time_title">Media show time</string>
+    <string name="media_controls_always_show_time_summary">Always show passed and total time on media player</string>
+    <string name="media_controls_squiggle_title">Squiggly progress</string>
+    <string name="media_controls_squiggle_summary">Show progress bar on media player\nRequires SystemUI restart to take effect</string>
+    <string name="media_controls_actions_title">Custom actions limit</string>
+    <string name="media_controls_actions_summary">The maximum number of buttons that apps are allowed to add to the player</string>
+    <string name="media_controls_time_as_next_title">Time as next / previous</string>
+    <string name="media_controls_time_as_next_summary">Hide the next / previous buttons and use the always shown time for that instead</string>
+    <string name="media_controls_ripple_title">Ripple effects</string>
+    <string name="media_controls_ripple_summary">Control ripple effects when interacting with media controls</string>
+    <string name="media_controls_turbulence_title">Turbulence effect</string>
+    <string name="media_controls_turbulence_summary">Activate turbulence effect for a dynamic media control</string>
+    
+    
+    <string name="enable_fingerprint_ripple_effect_title">Efecto al desbloquear</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Mostrar efecto al desbloquear con huella</string>
+    
+    <string name="ambient_display_always_on_title">Always on</string>
+    <string name="ambient_display_always_on_summary">Show time, notification icons, and other info. Increased battery usage.</string>
+
+    
+    <string name="ambient_ui">Ambient BatteryBar</string>
+    <string name="ambient_battery_settings_title">AOD Battery bar</string>
+    <string name="ambient_battery_settings_summary">Display a battery bar on the ambient display</string>
+    <string name="keyguard_show_battery_title">Battery bar when charging</string>
+    <string name="keyguard_show_battery_summary">Show a battery bar on the ambient display when charging</string>
+    <string name="keyguard_show_battery_always_title">Always show battery bar</string>
+    <string name="keyguard_show_battery_always_summary">Always show a battery bar on the ambient display</string>
+    <string name="keyguard_batterybar_color_source">Battery bar color source</string>
+    <string name="keyguard_batterybar_custom_color">Battery bar custom color</string>
+    <string name="keyguard_batterybar_white">White (Default)</string>
+    <string name="keyguard_batterybar_accent">Accent color</string>
+    <string name="keyguard_batterybar_custom">Custom</string>
+    
+    
+    <string name="incall_vibration_category">Opciones de vibración durante llamada</string>
+    <string name="incall_vibrate_connect_title">Vibrar al conectar</string>
+    <string name="incall_vibrate_call_wait_title">Vibrar con llamada en espera</string>
+    <string name="incall_vibrate_disconnect_title">Vibrar al desconectar</string>
+
+    
+    <string name="incall_category">In-call options</string>
+    <string name="flashlight_on_call_title">Parpadear la linterna en llamada entrante</string>
+    <string name="flashlight_on_call_disabled">Desactivado</string>
+    <string name="flashlight_on_call_ringer">Mientras está sonando</string>
+    <string name="flashlight_on_call_no_ringer">Cuando el timbre está silenciado</string>
+    <string name="flashlight_on_call_silent">Cuando está completamente silenciado (sin timbre ni vibración)</string>
+    <string name="flashlight_on_call_always">Siempre</string>
+    <string name="flashlight_on_call_ignore_dnd_title">Ignorar no molestar</string>
+    <string name="flashlight_on_call_ignore_dnd_summary">Parpadear cuando el modo no molestar está activo</string>
+    <string name="flashlight_on_call_rate_title">Intervalo de parpadeo</string>
+    <string name="flashlight_on_call_rate_summary">Flashlight on call blink rate</string>
+
+    
+    <string name="qs_colored_icons_title">Colored QS notification icons</string>
+    <string name="qs_colored_icons_summary">Show colored app icon instead of monochrome icons</string>
+
+    
+    <string name="depth_wallpaper_category">Depth Wallpaper</string>
+    <string name="dw_file_header_select_title">Select Depth Wallpaper Subject</string>
+    <string name="dw_file_header_select_summary">Select depth wallpaper subject image from storage.</string>
+    <string name="dw_wallpaper_enabled_title">Depth Wallpaper</string>
+    <string name="dw_wallpaper_enabled_summary">Enable iOS-inspired depth wallpaper. Requires a subject image.</string>
+    <string name="dw_wallpaper_opacity_title">Depth Wallpaper Opacity</string>
+
+    
+    <string name="revamped_aosp_style">Revamped AOSP UI style</string>
+    <string name="rui_style">Realme UI style</string>
+    <string name="stock_style">Stock UI style</string>
+    <string name="double_layer_style">Double Layer style</string>
+    <string name="gradient_style">Gradient style</string>
+    <string name="neumorph_style">Neumorph style</string>
+    <string name="neumorph_outline_style">Neumorph Outline style</string>
+    <string name="outline_style">Outline style</string>
+    <string name="shaded_layer_style">Shaded Layer style</string>
+    <string name="volume_style_title">Volume panel styles</string>
+    
+    
+    <string name="charging_animation_title">Animación de carga</string>
+    <string name="charging_animation_summary">Mostrar una animación cuando se conecte el cargador</string>
+
+    
+    <string name="doze_on_charge_title">Mostrar siempre durante la carga</string>
+    <string name="doze_on_charge_summary">Permanece activo durante la carga</string>
+    
+    
+    <string name="lockscreen_show_carrier_title">Nombre de la operadora</string>
+    <string name="lockscreen_show_carrier_summary">Mostrar nombre de la operadora en la barra de estado</string>
+
+     
+     <string name="weather_category_title">Weather</string>
+     <string name="weather_settings_title">Ajustes del tiempo</string>
+     <string name="weather_settings_summary">Configurar paquete de iconos y servicio meteorológico</string>
+     <string name="lockscreen_weather_title">Actualización del tiempo</string>
+     <string name="lockscreen_weather_summary">Mostrar actualización actual del tiempo</string>
+     <string name="lockscreen_weather_enabled_info">Requiere que el servicio meteorológico esté habilitado</string>
+     <string name="lockscreen_weather_location_title">Ubicación actual</string>
+     <string name="lockscreen_weather_location_summary">Mostrar la localización del tiempo meteorológico</string>
+     <string name="lockscreen_weather_text_title">Condición actual</string>
+     <string name="lockscreen_weather_text_summary">Mostrar el resumen actual de la condición meteorológica</string>
+     
+     
+    <string name="lockscreen_clock_colored_title">Colored clock</string>
+    <string name="lockscreen_clock_colored_summary_on">Clock color is affected by monet</string>
+    <string name="lockscreen_clock_colored_summary_off">Clock color is always black or white</string>
+    <string name="clock_luminance_title">Clock Luminance</string>
+    <string name="clock_luminance_summary">Adjust the brightness of the clock color</string>
+    
+    
+    <string name="custom_clock_top_margin_title">Lockscreen clock bottom spacing</string>
+    
+    
+    <string name="disable_qs_title">Ocultar ajustes rápidos en la pantalla de bloqueo</string>
+    <string name="disable_qs_summary">Evitar el acceso a los ajustes rápidos en la pantalla de bloqueo</string>
+    
+    
+    <string name="qstile_requires_unlocking_title">Secure QS tiles</string>
+    <string name="qstile_requires_unlocking_summary">Require unlocking to use sensitive QS tiles</string>
+
+    
+    <string name="notification_material_dismiss_title">Botón de borrar todas las notificaciones</string>
+    <string name="notification_material_dismiss_summary">Reemplazar el texto de borrar notificaciones con un botón flotante con estio material</string>
+    
+    
+    <string name="qs_dual_tone_title">Tono doble</string>
+    <string name="qs_dual_tone_summary">Usar colores de fondo de tono doble en lugar de un solo tono AOSP</string>
+    
+    
+    <string name="wallpaper_blur_title">Wallpaper Blur</string>
+    <string name="wallpaper_blur_summary">Enable or disable wallpaper blur effect</string>
+
+    
+    <string name="udfps_category">UDFPS</string>
+    <string name="udfps_settings_title">Personalización UDFPS</string>
+    <string name="udfps_settings_summary">Personalizar el escáner de huella dactilar bajo pantalla</string>
+
+    
+    <string name="screen_off_udfps_title">UDFPS con pantalla apagada</string>
+    <string name="screen_off_udfps_summary">Mantener UDFPS activado cuando la pantalla esté apagada</string>
+
+    
+    <string name="udfps_icon_picker_title">Selector de iconos de Huella en Pantalla</string>
+    <string name="udfps_icon_picker_summary">Elige tu icono de huella dactilar favorito</string>
+
+    
+    <string name="udfps_recog_animation_effect_title">Animación personalizada de UDFPS</string>
+    <string name="udfps_recog_animation_effect_summary">Elegir efecto de animación</string>
+
+    
+    <string name="fprint_success_vib_title">Fingerprint authentication vibration</string>
+    <string name="fprint_success_vib_summary">Vibrate on successful fingerprint authentication</string>
+    <string name="fprint_error_vib_title">Fingerprint error vibration</string>
+    <string name="fprint_error_vib_summary">Vibrate on error fingerprint authentication</string>
+    
+    
+    <string name="notification_sound_vib_screen_on_title">Notificaciones ruidosas</string>
+    <string name="notification_sound_vib_screen_on_summary">Reproducir sonido y vibración al recibir notificaciones con la pantalla encendida</string>
+    
+    
+    <string name="spoofing_title">Spoofing</string>
+    <string name="spoofing_title_summary">Spoof as different device to unlock application features</string>
+    <string name="all_props_title">Enable spoof options</string>
+    <string name="all_props_summary">Enables all the spoof options within the PixelProps</string>
+    <string name="google_spoof_title">Spoof google apps</string>
+    <string name="google_spoof_summary">Spoof selected google apps to Pixel 9 Pro XL</string>
+    <string name="google_spoof_option_disabled">Enabling Google apps spoofing is not needed by current device</string>
+    <string name="gms_spoof_title">Enable GMS spoof</string>
+    <string name="gms_spoof_summary">Spoof your device to pass Google Play Attestation</string>
+    <string name="gameprops_title">Unlock Higher FPS in Games</string>
+    <string name="gameprops_summary">Spoofs your device model for games to a flagship device</string>
+    <string name="gameprops_load_json_title">Import Custom GameProps JSON File (Optional)</string>
+    <string name="gameprops_load_json_summary">Pick a custom GameProps JSON file if you wish to spoof games to your desired device model</string>
+    <string name="pif_spoofing_title">Select custom PIF JSON File</string>
+    <string name="pif_spoofing_summary">Pick custom PIF JSON file to be used for spoofing play integrity</string>
+    
+    <string name="use_photos_spoof_title">Almacenamiento ilimitado de Google Fotos</string>
+    <string name="use_photos_spoof_summary">Simule el dispositivo como Pixel para tener almacenamiento ilimitado en las copias de seguridad de Google Fotos</string>
+    <string name="use_games_spoof_title">Desbloquear un número mayor de FPS para juegos</string>
+    <string name="use_games_spoof_summary">Simular su dispositivo como modelo diferente para juegos específicos para tener más FPS</string>   
+    <string name="spoof_option_disabled">Disabling PixelProps spoofing is not supported by current device</string>
+    <string name="netflix_spoof_title">Burlar Netflix</string>
+    <string name="netflix_spoof_summary">Falsifica tu dispositivo como un modelo diferente para Netflix</string>
+    
+    
+    <string name="toast_spoofing_success">Successfully downloaded pif.json. Spoofing as %1$s for play integrity.</string>
+    <string name="toast_spoofing_failure">Failed to spoof properties.</string>
+    <string name="update_pif_json_title">Update Play Integrity Fix</string>
+    <string name="update_pif_json_summary">Update PIF spoofing device, requires internet connection.</string>
+    <string name="show_pif_properties_title">Play Integrity Fix properties</string>
+    <string name="show_pif_properties_summary">Show all currently set PIF properties</string>
+    <string name="error_loading_properties">Error loading PIF properties</string>
+     
+     
+    <string name="ambient_edge_light_action_title">Ambient edge lighting</string>
+    <string name="ambient_edge_light_title">Edge lighting</string>
+    <string name="ambient_edge_light_enable_title">Edge lighting</string>
+    <string name="ambient_edge_light_enable_summary">Toggle to enable edge lighting</string>
+    <string name="ambient_edge_light_summary">Light up the side edges of the screen on notification pulse</string>
+    <string name="ambient_edge_light_color_mode_category_title">Color</string>
+    <string name="ambient_edge_light_color_mode_auto">Auto</string>
+    <string name="ambient_edge_light_color_mode_app">App color</string>
+    <string name="ambient_edge_light_color_mode_manual">Manual</string>
+    <string name="ambient_edge_light_advanced_category_title">Advanced</string>
+    <string name="ambient_edge_light_duration_title">Light duration</string>
+    <string name="ambient_edge_light_repeat_count_title">Repeat count</string>
+    <string name="ambient_edge_light_width_title">Light width</string>
+    <string name="ambient_edge_light_face_down_title">Flip to activate</string>
+    <string name="ambient_edge_light_face_down_summary">Show edge light only when the phone is facedown</string>
+    <string name="ambient_edge_light_layout_title">Light view</string>
+    <string name="ambient_edge_light_layout_solid">Solid</string>
+    <string name="ambient_edge_light_layout_faded">Faded</string>
+    
+    
+    <string name="island_notification_title">Notificación de Isla Dinámica</string>
+    <string name="island_notification_summary">Mostrar notificación emergente en estilo de Isla Dinámica</string>
+    <string name="island_notification_now_playing_title">Reproduciendo</string>
+    <string name="island_notification_now_playing_summary">Mostrar la canción actual en estilo de isla dinámica</string>
+    <string name="island_notification_footer_text">        La función de notificación de Isla Dinámica, inspirada en la Dynamic Island de iOS, transforma las notificaciones emergentes de Android en una utilidad de notificación rápida y compacta.\n\nLos Controles de Acceso Rápido de la Isla Dinámica incluyen las siguientes características:\n1. Toca la notificación de la isla para responder rápidamente a las llamadas telefónicas.\n2. Mantén pulsada la notificación de la isla para rechazar llamadas telefónicas.\n3. Mantén pulsada la notificación de la isla para expandir la vista previa de la notificación de la isla.    </string>
+</resources>
