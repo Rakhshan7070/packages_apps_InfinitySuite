@@ -1,0 +1,990 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2">
+
+    
+    <string name="infinity_suite_title">Infinity Suite</string>
+
+    
+    <string name="button_title">ボタン</string>
+    <string name="gestures_title">ジェスチャー</string>
+    <string name="lockscreen_title">ロック画面</string>
+    <string name="misc_title">その他</string>
+    <string name="navbar_title">Navigation bar</string>
+    <string name="powermenu_title">Power menu</string>
+    <string name="quicksettings_title">クイック設定</string>
+    <string name="themes_title">テーマ</string>
+    <string name="statusbar_title">ステータスバー</string>
+    <string name="notifications_title">通知</string>
+    <string name="fingerprint_category">指紋</string>
+
+    
+    <string name="ok">OK</string>
+    <string name="reset">リセット</string>
+    <string name="cancel">中止</string>
+    <string name="save">保存</string>
+    <string name="enable">有効</string>
+    <string name="disable">無効</string>
+    <string name="accent_color">アクセントカラー（デフォルト）</string>
+    <string name="notification_color">通知の色</string>
+    <string name="wallpaper_color">壁紙の色</string>
+    <string name="custom_color">カスタムの色</string>
+    
+    
+    <string name="aosp_gesture_preference">System settings</string>
+    <string name="aosp_gesture_summary">Stock gestures included with AOSP</string>
+    
+    
+    <string name="general_category">一般</string>
+    <string name="statusbar_icons">Icons</string>
+    <string name="spoof_category">Spoofing</string>
+    
+    
+    <string name="statusbar_items_title">Statusbar items</string>
+    <string name="statusbar_items_summary">Tune Statusbar items</string>
+    
+    
+    <string name="qs_quick_pulldown">Quick QS pulldown</string>
+    <string name="quick_pulldown_none">Disabled</string>
+    <string name="quick_pulldown_right">Pulldown statusbar from right side</string>
+    <string name="quick_pulldown_left">Pulldown statusbar from left side</string>
+    
+    
+    <string name="unit_seconds">秒</string>
+    <string name="unit_milliseconds">ミリ秒</string>
+    <string name="unit_pixels">dp</string>
+    
+    
+    <string name="power_menu_title">電源メニュー</string>
+    <string name="power_menu_title_summary">View or change power menu entries</string>
+    <string name="powermenu_screenshot">Screenshot</string>
+    <string name="powermenu_power">Power</string>
+    <string name="powermenu_advanced">Advanced reboot options</string>
+    <string name="powermenu_restart">Restart</string>
+    <string name="powermenu_airplane">Airplane</string>
+    <string name="powermenu_settings">Settings</string>
+    <string name="powermenu_lockdown">Lock Down</string>
+    <string name="powermenu_soundpanel">Sound Panel</string>
+    <string name="powermenu_users">Users</string>
+    <string name="powermenu_logout">Logout</string>
+    <string name="powermenu_emergency">Emergency</string> 
+    
+    
+    <string name="lockscreen_enable_power_menu_title">電源メニュー</string>
+    <string name="lockscreen_enable_power_menu_summary">ロック画面で電源メニューへのアクセスを許可する</string>
+          
+    
+    <string name="system_navigation_summary">使用するシステムナビゲーションバーのスタイルを選択する</string>
+    <string name="navbar_compact_layout_title">小さなレイアウト</string>
+    <string name="navbar_compact_layout_summary">ナビゲーションバーに小さなレイアウトを使用する</string>
+    
+        
+    <string name="status_bar_battery_category_title">バッテリー表示</string>
+    <string name="status_bar_battery_style_title">バッテリーのスタイル</string>
+    <string name="status_bar_battery_style_summary">Statusbar and QS Battery Styles</string>
+    <string name="status_bar_battery_style_icon_portrait">縦アイコン</string>
+    <string name="status_bar_battery_style_icon_rlandscape">水平アイコン (右)</string>
+    <string name="status_bar_battery_style_icon_landscape">水平アイコン (左)</string>
+    <string name="status_bar_battery_style_circle">円</string>
+    <string name="status_bar_battery_style_dotted_circle">円 (点線)</string>
+    <string name="status_bar_battery_style_filled_circle">円 (塗り潰し)</string>
+    <string name="status_bar_battery_style_big_circle">円 (大)</string>
+    <string name="status_bar_battery_style_big_dotted_circle">円 (大/点線)</string>
+    <string name="status_bar_battery_style_land_a">Landscape Simply</string>
+    <string name="status_bar_battery_style_land_b">Landscape NeNine</string>
+    <string name="status_bar_battery_style_land_c">Landscape ColorOS</string>
+    <string name="status_bar_battery_style_land_d">Landscape Love</string>
+    <string name="status_bar_battery_style_land_e">Landscape BaseBall</string>
+    <string name="status_bar_battery_style_land_f">Landscape Half Fill</string>
+    <string name="status_bar_battery_style_land_g">Landscape Tadika Mesra</string>
+    <string name="status_bar_battery_style_land_h">Landscape MIUI</string>
+    <string name="status_bar_battery_style_land_i">Landscape Buddy</string>
+    <string name="status_bar_battery_style_land_j">Landscape Strip Path</string>
+    <string name="status_bar_battery_style_land_k">Landscape iOS Fourteen</string>
+    <string name="status_bar_battery_style_land_l">Landscape iOS Sixteen</string>
+    <string name="status_bar_battery_style_land_m">Landscape iOS Outline</string>
+    <string name="status_bar_battery_style_land_n">Landscape Ruler</string>
+    <string name="status_bar_battery_style_land_o">Landscape Windows</string>
+    <string name="status_bar_battery_style_text">文字</string>
+    <string name="status_bar_battery_style_hidden">非表示</string>
+    <string name="status_bar_battery_percent_title">バッテリー残量</string>
+    <string name="status_bar_battery_percent_hidden">非表示</string>
+    <string name="status_bar_battery_percent_text_inside">アイコンの中</string>
+    <string name="status_bar_battery_percent_text_next_right">アイコンの右</string>
+    <string name="status_bar_battery_percent_text_next_left">アイコンの左</string>
+    <string name="status_bar_battery_text_charging_title">充電中のバッテリー残量</string>
+    <string name="status_bar_battery_text_charging_summary">充電中は常に残量を表示する</string>
+
+    
+    <string name="qs_battery_category_title">Qs Battery customizations</string>
+    <string name="qs_use_status_bar_battery_style">ステータスバーのスタイルに従う</string>
+    
+    
+    <string name="color_default">既定</string>
+    <string name="custom_battery_charging_icon_title">Charging icons</string>
+    <string name="custom_battery_charging_icon_summary">Display charging icon on side of battery</string>
+    <string name="custom_battery_charging_icon_style_title">Charging icons style</string>
+    <string name="custom_battery_charging_icon_wh_title">Scale width &amp; height</string>
+
+    
+    <string name="custom_icon_charging_symbol_title">Charging symbol for battery text</string>
+    <string name="custom_symbol_charging_default">Default (Bolt)</string>
+    <string name="custom_symbol_charging_type1">Biohazard</string>
+    <string name="custom_symbol_charging_type2">Star</string>
+    <string name="custom_symbol_charging_type3">Smile</string>
+    <string name="custom_symbol_charging_type4">Recycle</string>
+    <string name="custom_symbol_charging_type5">Infinity</string>
+    <string name="custom_symbol_charging_type6">Sun Flower</string>
+    <string name="custom_symbol_charging_type7">Tear Dropp</string>
+    <string name="custom_symbol_charging_type8">Snow</string>
+    <string name="custom_symbol_charging_type9">Triple Tilde</string>
+
+    
+    <string name="flip_batre_image_title">Battery Image</string>
+    <string name="flip_batre_image_summary">flip the battery image</string>
+    <string name="flip_batre_title">Battery Layout</string>
+    <string name="flip_batre_summary">flip the battery layout</string>
+
+    
+    <string name="custom_battery_drawable_title">Misc on Battery Drawable</string>
+    <string name="custom_battery_scaled_perimeter_alpha_title">Scaled perimeter alpha</string>
+    <string name="custom_battery_scaled_perimeter_alpha_summary">Use scaled perimeter alpha</string>
+    <string name="custom_battery_scaled_fill_alpha_title">Use scaled back fill alpha</string>
+    <string name="custom_battery_scaled_fill_alpha_summary">Scaled back fill alpha</string>
+    <string name="custom_battery_color_title">Battery custom color</string>
+    <string name="custom_battery_color_summary">Set to #ff000000 for default blend color</string>
+    <string name="custom_battery_charging_color_title">Changing color</string>
+    <string name="custom_battery_fill_color_title">Fill custom color</string>
+    <string name="custom_battery_fill_grad_color_title">Fill gradient color</string>
+    <string name="custom_battery_fill_grad_color_summary">#ff000000 for disable gradient</string>
+    <string name="custom_battery_powersave_color_title">PowerSave color</string>
+    <string name="custom_battery_powersave_fill_color_title">PowerSave fill color</string>
+    <string name="custom_battery_rainbow_fill_title">Rainbow fill color</string>
+    <string name="custom_battery_rainbow_fill_summary">Only for style Buddy &amp; Strip Path</string>
+    <string name="sthumb_new_tint_picker_summary">use rgb color picker</string>
+
+    
+    <string name="custom_battery_layout_title">Misc on Battery Layout</string>
+    <string name="custom_battery_rotation_title">Battery image rotation</string>
+    <string name="custom_battery_rotation_summary">to rotate the landscape battery</string>
+    <string name="custom_battery_leftpct_title">Left battery percent</string>
+    <string name="custom_battery_leftpct_summary">to put battery percent to the left</string>
+
+    
+    <string name="custom_battery_dimension_title">Battery Custom Dimension</string>
+    <string name="custom_battery_dimension_summary">use custom addjustable dimen values</string>
+    <string name="custom_battery_height">Height</string>
+    <string name="custom_battery_width">Width</string>
+    <string name="custom_battery_top">Margin Top</string>
+    <string name="custom_battery_bottom">Margin Bottom</string>
+    <string name="custom_battery_left">Margin Left</string>
+    <string name="custom_battery_right">Margin Right</string>
+    
+    
+     <string name="status_bar_clock_title">時計と日付の設定</string>
+     <string name="status_bar_clock_summary">時計と日付を編集する</string>
+     <string name="status_bar_clock_seconds_title">時計の秒</string>
+     <string name="status_bar_clock_seconds_summary">ステータスバーの時刻の隣に秒を表示する</string>
+     <string name="status_bar_clock_position_title">時計のスタイル</string>
+     <string name="status_bar_clock_position_right">右</string>
+     <string name="status_bar_clock_position_left">左</string>
+     <string name="status_bar_clock_position_center">中央</string>
+     <string name="status_bar_clock_position_hidden">非表示</string>
+     <string name="status_bar_clock_auto_hide_title">時計を自動で隠す</string>
+     <string name="status_bar_clock_auto_hide_launcher_summary">ホームアプリ表示時は時計を隠す</string>
+     <string name="status_bar_clock_auto_hide_summary">一定時間の間隔で時計の表示と非表示を切り替える</string>
+     <string name="status_bar_clock_auto_hide_hdur_title">非表示時間</string>
+     <string name="status_bar_clock_auto_hide_hdur_summary">時計を非表示にする秒数の長さを指定する</string>
+     <string name="status_bar_clock_auto_hide_sdur_title">表示時間</string>
+     <string name="status_bar_clock_auto_hide_sdur_summary">時計を非表示にする前の秒数の長さを指定する</string>
+     <string name="status_bar_am_pm_title">AM/PM</string>
+     <string name="status_bar_am_pm_info">24時間表示が有効です</string>
+     <string name="status_bar_am_pm_normal">標準</string>
+     <string name="status_bar_am_pm_small">小</string>
+     <string name="status_bar_am_pm_hidden">非表示</string>
+     <string name="status_bar_date_title">日付</string>
+     <string name="status_bar_date_none">非表示</string>
+     <string name="status_bar_date_small">小</string>
+     <string name="status_bar_date_normal">標準</string>
+     <string name="status_bar_date_format_title">日付の形式</string>
+     <string name="status_bar_date_style">日付のスタイル</string>
+     <string name="status_bar_date_style_normal">標準</string>
+     <string name="status_bar_date_style_lowercase">小文字</string>
+     <string name="status_bar_date_style_uppercase">大文字</string>
+     <string name="status_bar_date_format_custom">カスタム java 形式</string>
+     <string name="status_bar_date_string_edittext_title">DateFormat 形式で入力してください（例: yy/MM/dd）</string>
+     <string name="status_bar_date_string_edittext_summary">文字列を入力</string>
+     <string name="clock_date_position">日付の位置</string>
+     <string name="clock_date_right">時刻の右</string>
+     <string name="clock_date_left">時刻の左</string>
+     
+    
+     <string name="qs_show_brightness_slider_title">明るさスライダー</string>
+     <string name="qs_show_brightness_slider_never">非表示</string>
+     <string name="qs_show_brightness_slider_expanded">展開時に表示</string>
+     <string name="qs_show_brightness_slider_always">常に表示</string>
+     <string name="qs_show_brightness_slider_not_expanded">未展開時に表示</string>
+     <string name="qs_brightness_slider_position_title">位置</string>
+     <string name="qs_brightness_slider_position_top">上部</string>
+     <string name="qs_brightness_slider_position_bottom">下部</string>
+
+    
+     <string name="qs_show_auto_brightness_title">自動明るさ調整アイコン</string>
+     <string name="qs_show_auto_brightness_summary">スライダーの近くに明るさ自動調節のトグルを表示する</string>
+    
+    
+     <string name="theme_customization_font_title">見出し / 説明フォント</string>
+     <string name="theme_customization_font_summary">システムフォントのスタイルを設定する</string>
+     <string name="theme_customization_icon_pack_title">アイコンパック</string>
+     <string name="theme_customization_icon_pack_summary">カスタムアイコンパックのスタイルを設定する</string>
+     <string name="theme_customization_icon_shape_title">アイコンの形状</string>
+     <string name="theme_customization_icon_shape_summary">システムアイコン形状のスタイルを設定する</string>
+     <string name="theme_customization_signal_icon_title">電波アイコンのスタイル</string>
+     <string name="theme_customization_signal_icon_summary">カスタム電波アイコンのスタイルを設定する</string>
+     <string name="theme_customization_wifi_icon_title">Wi-Fi アイコンのスタイル</string>
+     <string name="theme_customization_wifi_icon_summary">カスタム Wi-Fi アイコンのスタイルを設定する</string>
+     <string name="theme_customization_navbar_title">ナビゲーションバーのスタイル</string>
+     <string name="theme_customization_navbar_summary">カスタムのナビゲーションバーのスタイルを設定する</string>
+     <string name="theme_customization_data_title">データ通信アイコンのスタイル</string>
+     <string name="theme_customization_data_summary">カスタムのデータアイコンのスタイルを設定する</string>
+     <string name="theme_customization_lock_clock_title">ロック画面の時計のフォント</string>
+     <string name="theme_customization_lock_clock_summary">ロック画面の時計のフォントのスタイルを設定する</string>
+          
+    
+     <string name="lockscreen_battery_info_title">ロック画面での充電情報</string>
+     <string name="lockscreen_battery_info_summary">充電中はロック画面に充電器の最大電流/電圧/バッテリー温度を表示する</string>
+     
+   
+    <string name="media_controls_always_show_time_title">Media show time</string>
+    <string name="media_controls_always_show_time_summary">Always show passed and total time on media player</string>
+    
+    
+    <string name="monet_title">Monet 設定</string>
+    <string name="monet_summary">Monet テーマエンジンをカスタマイズします</string>
+
+    
+    <string name="monet_engine_custom_color_title">アクセントカラー</string>
+    <string name="monet_engine_custom_color_summary">アクセントのカスタムカラーを選択</string>
+    <string name="monet_engine_custom_bgcolor_title">背景色</string>
+    <string name="monet_engine_custom_bgcolor_summary">カスタム背景色を選択</string>
+    <string name="monet_engine_color_override_title">カスタム色</string>
+    <string name="monet_engine_luminance_factor_title">輝度</string>
+    <string name="monet_engine_luminance_factor_summary">値が高いほど明るい色になります</string>
+    <string name="monet_engine_chroma_factor_title">彩度係数</string>
+    <string name="monet_engine_chroma_factor_summary">値が高いほど色が濃くなります</string>
+    <string name="monet_engine_tint_background_title">背景を明るくする</string>
+    <string name="monet_engine_tint_background_summary">選択した輝度と彩度が背景色にも影響するようにします</string>
+    <string name="monet_engine_style_title">テーマスタイル</string>
+    <string name="monet_engine_style_tonal_spot">Tonal Spot (既定)</string>
+    <string name="monet_engine_style_vibrant">Vibrant</string>
+    <string name="monet_engine_style_expressive">Expressive</string>
+    <string name="monet_engine_style_spritz">Spritz</string>
+    <string name="monet_engine_style_rainbow">Rainbow</string>
+    <string name="monet_engine_style_fruit_salad">Fruit Salad</string>
+    <string name="monet_engine_style_muted">Muted</string>
+    <string name="monet_engine_style_content">Content</string>
+    
+   
+    <string name="incall_vibration_category">通話中の振動オプション</string>
+    <string name="incall_vibrate_connect_title">接続時に振動</string>
+    <string name="incall_vibrate_call_wait_title">割込通話時に振動</string>
+    <string name="incall_vibrate_disconnect_title">切断時に振動</string>
+    
+    
+    <string name="qs_footer_text_title">クイック設定のフッターテキスト</string>
+    <string name="qs_footer_text_summary">クイック設定パネルの下部に文字を表示する</string>
+    <string name="qs_footer_text_string_title">フッターのテキストを編集</string>
+    <string name="qs_footer_text_string_summary">空白にすると既定値に設定されます</string>
+
+   
+    <string name="qs_show_data_usage_title">データ使用量を表示</string>
+    <string name="qs_show_data_usage_summary">日毎のモバイル/Wi-Fi データ使用量をクイック設定フッターに表示する</string>
+    
+   
+    <string name="laboratory_ignore_window_secure_title">Ignore window secure flags</string>
+    <string name="laboratory_ignore_window_secure_summary">This removes the screenshots and screenrecords limits for all applications. Normally, special applications are replaced with black areas in records. This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+    
+    
+    <string name="hide_screen_capture_status_title">Hide screen capture status</string>
+    <string name="hide_screen_capture_status_summary">Hide screen capture and screen record status from all applications. Can be convenient in some cases but may lead to privacy leaks. Need to restart applications for the change to take effect.</string>
+
+   
+    <string name="statusbar_colored_icons_title">色付きのアイコン</string>
+    <string name="statusbar_colored_icons_summary">ステータスバーの通知アイコンに適切なアプリアイコンを使用します</string>
+    
+   
+    <string name="status_bar_logo_title">ロゴ</string>
+    <string name="default_string">既定</string>
+    <string name="status_bar_logo_summary">ステータスバーにロゴを表示する</string>
+    <string name="status_bar_logo_primary_switch_title">Use logo</string>
+    <string name="status_bar_logo_position_title">位置</string>
+    <string name="status_bar_logo_position_summary">どこにロゴを表示するか選択する</string>
+    <string name="status_bar_logo_position_right">右</string>
+    <string name="status_bar_logo_position_left">左</string>
+    <string name="status_bar_logo_color_title">Color</string>
+    <string name="status_bar_logo_color_default">Default (White)</string>
+    <string name="status_bar_logo_color_accent">Accent</string>
+    <string name="status_bar_logo_color_custom">Custom</string>
+    <string name="status_bar_logo_style_title">スタイル</string>
+    <string name="status_bar_logo_style_infinity">Infinity X</string>
+    <string name="status_bar_logo_style_adidas">adidas</string>
+    <string name="status_bar_logo_style_airjordan">Air Jordan</string>
+    <string name="status_bar_logo_style_alien">エイリアン</string>
+    <string name="status_bar_logo_style_amogus">Amogus</string>
+    <string name="status_bar_logo_style_apple">Apple</string>
+    <string name="status_bar_logo_style_avengers">アベンジャーズ</string>
+    <string name="status_bar_logo_style_batman">Batman</string>
+    <string name="status_bar_logo_style_batman_tdk">Batman: The Dark Knight</string>
+    <string name="status_bar_logo_style_beats">Beats</string>
+    <string name="status_bar_logo_style_biohazard">バイオハザード</string>
+    <string name="status_bar_logo_style_blackberry">Blackberry</string>
+    <string name="status_bar_logo_style_captain_america">Captain America</string>
+    <string name="status_bar_logo_style_cannabis">CANNABIS</string>
+    <string name="status_bar_logo_style_flash">フラッシュ</string>
+    <string name="status_bar_logo_style_fire">Fire</string>
+    <string name="status_bar_logo_style_ghost">ゴースト</string>
+    <string name="status_bar_logo_style_heart">ハート</string>
+    <string name="status_bar_logo_style_ironman">アイアンマン</string>
+    <string name="status_bar_logo_style_mint">Linux Mint</string>
+    <string name="status_bar_logo_style_nike">Nike</string>
+    <string name="status_bar_logo_style_ninja">忍者</string>
+    <string name="status_bar_logo_style_pac_man">Pac-Man</string>
+    <string name="status_bar_logo_style_puma">Puma</string>
+    <string name="status_bar_logo_style_robot">ロボット</string>
+    <string name="status_bar_logo_style_rog">ROG</string>
+    <string name="status_bar_logo_style_spiderman">スパイダーマン</string>
+    <string name="status_bar_logo_style_superman">スーパーマン</string>
+    <string name="status_bar_logo_style_tux">Tux</string>
+    <string name="status_bar_logo_style_ubuntu">Ubuntu</string>
+    <string name="status_bar_logo_style_windows">Windows</string>
+    <string name="status_bar_logo_style_xbox">XBOX</string>
+    
+    
+    <string name="qs_transparency_summary">Choose how transparent you want your qs to be</string>
+    <string name="qs_transparency_title">Qs Transparency</string>
+    
+    
+    <string name="app_downgrade_title">アプリのダウングレードを許可</string>
+    <string name="app_downgrade_summary">アプリのダウングレードを許可します。クラッシュやデータの破損につながる可能性があります。</string>
+
+    
+    <string name="statusbar_clock_chip_title">バックグラウンドチップ</string>
+    <string name="statusbar_clock_chip_summary">アクセント付きチップを時計の後ろに表示する</string>
+    <string name="solid_accent">Accent</string>
+    <string name="outline">Outline</string>
+    <string name="solid_accent_gradient">Gradient</string>
+    <string name="solid_gradient">Solid Gradient side</string>
+    <string name="solid_gradient_corner">Solid accent gradient sharp</string>
+    <string name="solid_gradient_void">Gradient Void</string>
+    <string name="solid_gradient_neumorph">Neumorph gradient</string>
+    <string name="solid_gradient_stroke">Sharp gradient stroke</string>
+    <string name="solid_accent_transperent">Accent transparent</string>    
+    <string name="solid_gradient_light">Gradient light</string>
+    <string name="solid_gradient_shape">Sharp gradient corner</string>
+    <string name="solid_gradient_void_light">Gradient Void light</string>
+
+    
+    <string name="statusbar_padding">Status bar padding</string>
+    <string name="statusbar_top_padding">Top padding</string>
+    <string name="statusbar_left_padding">Left padding</string>
+    <string name="statusbar_right_padding">Right padding</string>
+    
+    
+    <string name="less_boring_heads_up_title">通知制限</string>
+    <string name="less_boring_heads_up_summary">アラーム、電話、メッセージアプリからの通知だけをポップアップ表示する。</string>
+
+    
+    <string name="headsup_category">Heads Up の設定</string>
+    <string name="heads_up_notifications">Heads Up</string>
+    <string name="heads_up_notifications_summary">Customise heads up notifications settings</string>
+    <string name="summary_heads_up_enabled">Pop-up notifications are enabled</string>
+    <string name="summary_heads_up_disabled">Pop-up notifications are disabled</string>
+    <string name="add_heads_up_package">アプリを追加</string>
+    <string name="add_heads_up_stoplist_summary">これらのアプリ起動中には Heads Up を無効化する</string>
+    <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
+    <string name="heads_up_stoplist_title">ストップリスト</string>
+    <string name="heads_up_blacklist_title">Blacklist</string>
+    <string name="profile_choose_app">Choose app</string>
+    <string name="dialog_delete_title">Delete</string>
+    <string name="dialog_delete_message">Remove selected item?</string>
+
+    
+    <string name="heads_up_time_out_title">Time out</string>
+    <string name="heads_up_time_out_summary">Peeking notifications will show for <ns0:g id="number">%d</ns0:g> seconds</string>
+    <string name="heads_up_time_out_2sec">2 seconds</string>
+    <string name="heads_up_time_out_4sec">4 seconds</string>
+    <string name="heads_up_time_out_5sec">5 seconds</string>
+    <string name="heads_up_time_out_6sec">6 seconds</string>
+    <string name="heads_up_time_out_8sec">8 seconds</string>
+    <string name="heads_up_time_out_10sec">10 seconds</string>
+
+    
+    <string name="heads_up_snooze_title">Snooze timer</string>
+    <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
+    <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <ns0:g id="number">%d</ns0:g> minutes</string>
+    <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
+    <string name="heads_up_snooze_1min">1 minute</string>
+    <string name="heads_up_snooze_5min">5 minutes</string>
+    <string name="heads_up_snooze_10min">10 minutes</string>
+    <string name="heads_up_snooze_15min">15 minutes</string>
+    <string name="heads_up_snooze_20min">20 minutes</string>
+    
+    
+    <string name="volume_button_music_control_title">Playback control</string>
+    <string name="volume_button_music_control_summary">When the screen is off, long-pressing volume keys will skip music tracks</string>
+    
+    
+    <string name="volume_rocker_wake_title">音量ボタンでスリープ解除</string>
+    <string name="volume_rocker_wake_summary">音量ボタンを押してスリープ解除を許可する</string>
+    
+    
+    <string name="volume_answer_call_title">着信に応答</string>
+    <string name="volume_answer_call_summary">音量ボタンを押して着信に応答する</string>
+    
+    
+    <string name="notif_title">Notifications</string>
+    <string name="power_title">Power Menu</string>
+    <string name="gesture_title">Gestures</string>
+    
+    
+    <string name="pulse_help_policy_notice_title">Pulse について</string>
+    <string name="pulse_help_policy_notice_summary">Pulse は端末上で音楽を再生した時に表示されるグラフィックイコライザーです。</string>
+    <string name="pulse_settings">Pulse</string>
+    <string name="pulse_settings_summary">ナビゲーションバーとロック画面に表示されるグラフィックイコライザー</string>
+    <string name="show_navbar_pulse_title">ナビゲーションバーの Pulse</string>
+    <string name="show_navbar_pulse_summary">ナビゲーションバー上のグラフィックイコライザー</string>
+    <string name="show_lockscreen_pulse_title">ロック画面の Pulse</string>
+    <string name="show_lockscreen_pulse_summary">ロック画面のグラフィックイコライザー</string>
+    <string name="show_ambient_pulse_title">アンビエント Pulse</string>
+    <string name="show_ambient_pulse_summary">アンビエント画面のグラフィックイコライザー</string>
+    <string name="pulse_render_mode_title">レンダリングモード</string>
+    <string name="pulse_render_mode_fading_bars">フェーディングブロック</string>
+    <string name="pulse_render_mode_solid_lines">ソリッドライン</string>
+    <string name="pulse_legacy_mode_advanced_category">フェーディングブロックの設定</string>
+    <string name="pulse_custom_fudge_factor">感度レベル</string>
+    <string name="pulse_lavalamp_speed_title">ラーヴァランプ速度</string>
+    <string name="pulse_solid_units_count">ソリッドラインの数</string>
+    <string name="pulse_solid_units_opacity">ソリッドラインの透明度</string>
+    <string name="pulse_solid_dimen_category">ソリッドラインの設定</string>
+    <string name="pulse_color_mode_title">色</string>
+    <string name="pulse_color_accent">アクセント</string>
+    <string name="pulse_color_custom">カスタム</string>
+    <string name="pulse_color_lava_lamp">ラーヴァランプ</string>
+    <string name="pulse_color_user_title">色の選択</string>
+    <string name="pulse_color_auto">アルバム</string>
+    <string name="pulse_smoothing_enabled_title">スムージングの有効化</string>
+    <string name="pulse_smoothing_enabled_summary">どちらのバーもよりスムーズに表示されます</string>
+    <string name="pulse_custom_dimen">バーの幅</string>
+    <string name="pulse_custom_div">バーの間隔</string>
+    <string name="pulse_filled_block_size">ブロックの大きさ</string>
+    <string name="pulse_empty_block_size">ブロックの間隔</string>
+    <string name="pulse_solid_units_rounded_title">角の丸み</string>
+    <string name="pulse_solid_units_rounded_summary">丸みを帯びたソリッドライン</string>
+
+    
+    <string name="pulse_custom_gravity_title">グラビティ</string>
+    <string name="pulse_custom_gravity_bottom">下部</string>
+    <string name="pulse_custom_gravity_top">上部</string>
+    <string name="pulse_custom_gravity_center">中央</string>
+    <string name="visualizer_center_mirrored_title">中央反転</string>
+    <string name="visualizer_center_mirrored_summary">中央ミラーモードでビジュアライザーを設定する</string>
+    <string name="pulse_vertical_mirror_title">垂直反転</string>
+    <string name="pulse_vertical_mirror_summary">別のパルスを作成して垂直方向に反転する</string>
+    
+    
+    <string name="qs_brightness_slider_haptic_title">触覚フィードバック</string>
+    <string name="qs_brightness_slider_haptic_summary">スライダーを使用して明るさを変更する際に振動させます</string>
+    
+    
+    <string name="revamped_aosp_style">Revamped AOSP UI style</string>
+    <string name="rui_style">Realme UI style</string>
+    <string name="stock_style">Stock UI style</string>
+    <string name="double_layer_style">Double Layer style</string>
+    <string name="gradient_style">Gradient style</string>
+    <string name="neumorph_style">Neumorph style</string>
+    <string name="neumorph_outline_style">Neumorph Outline style</string>
+    <string name="outline_style">Outline style</string>
+    <string name="shaded_layer_style">Shaded Layer style</string>
+    <string name="volume_style_title">Volume panel styles</string>
+
+    
+    <string name="qs_compact_media_player_mode_title">Compact QS Media player</string>
+    <string name="qs_compact_media_player_mode_summary">Enable compact mode for QuickSettings media player</string>
+    
+    
+    <string name="volume_persen_switch_title">Volume Percentage</string>
+    <string name="volume_persen_switch_summary">show volume panel percentage</string>
+    <string name="volume_persen_style_title">Percentage Location</string>
+    <string name="volume_persen_style_top">Top</string>
+    <string name="volume_persen_style_bottom">Bottom</string>
+    
+    
+    <string name="pif_title">Play Integrity Fix</string>
+    <string name="pif_summary">GMS を偽装するために使用される現在の値を表示する</string>
+    <string name="pif_spoof_title">ROM 側で Play Integrity Fix を有効化</string>
+    <string name="pif_spoof_summary">無効化してカスタムのフィンガープリント値を使用するモジュールを許可する</string>
+
+    
+    <string name="spoof_as_pixel_title">Enable Pixel Props</string>
+    <string name="spoof_as_pixel_summary">Spoof your device as Pixel 5 for Google apps. Keep enabled on non-Pixel devices</string>
+    <string name="spoof_recent_pixel_title">Spoof as Pixel 8 Pro</string>
+    <string name="spoof_recent_pixel_summary">Spoof your device as Pixel 8 Pro for our selected Google apps. Turn off when using a real Pixel device</string>
+
+    
+    <string name="games_spoof_title">ゲーム時の FPS の向上</string>
+    <string name="games_spoof_summary">より高い FPS 設定を表示させるために一部のゲームで異なるモデルとして端末を偽装する</string>
+    
+    
+    <string name="use_photos_spoof_title">無制限のフォトストレージ</string>
+    <string name="use_photos_spoof_summary">Google フォトアプリでのみ、デバイスを Pixel XL として偽装して、高画質での無制限のバックアップができるようにします</string>
+    
+    
+    <string name="haptic_on_volume_slider_title">Volume slider haptic</string>
+    <string name="haptic_on_volume_slider_summary">Provide haptic feedback on changing volume using slider</string>
+    
+    
+    <string name="volume_panel_on_left_title">音量パネルの左側表示</string>
+    <string name="volume_panel_on_left_summary">画面の左側に音量パネルを表示する</string>
+
+    
+    <string name="no_storage_restrict_title">No storage restrict</string>
+    <string name="no_storage_restrict_summary">Remove the restriction when selecting folders through Storage Access Framework. Can be convenient in some cases but may lead to privacy leaks.</string>
+    
+    
+    <string name="hide_developer_status_title">Hide developer status</string>
+    <string name="hide_developer_status_summary">Prevent apps from checking adb and developer mode status</string>
+    <string name="search">検索</string>
+    <string name="search_apps">アプリを検索</string>
+    
+    
+    <string name="enable_fingerprint_ripple_effect_title">波紋の効果</string>
+    <string name="enable_fingerprint_ripple_effect_summary">指紋認証のロック解除時に波紋効果を表示する</string>
+    
+    
+    <string name="status_bar_brightness_control_title">明るさコントロール</string>
+    <string name="status_bar_brightness_control_summary">ステータスバーの上をスライドして明るさを調整する</string>
+    
+    
+    <string name="ambient_text_category">Text Customization</string>
+    <string name="ambient_image_category">Image Customization</string>
+    <string name="ambient_text_category_title">Ambient-AOD Customization</string>
+    <string name="ambient_text_category_summary">Customizing the looks of ambient-aod</string>
+    <string name="ambient_text_title">Ambient Text</string>
+    <string name="ambient_text_summary">Show Ambient Text in AoD</string>
+    <string name="ambient_text_animation_title">Ambient Text Animation</string>
+    <string name="ambient_text_animation_summary">Show a Animation when show AoD</string>
+    <string name="ambient_text_size_title">Ambient Text Size</string>
+    <string name="ambient_text_font_title">Ambient Text Font</string>
+    <string name="ambient_text_string_title">Set Ambient Text</string>
+    <string name="ambient_text_align_title">Ambient Text Align</string>
+    <string name="ambient_text_align_start_top">Right n Top</string>
+    <string name="ambient_text_align_start_center">Right n Center</string>
+    <string name="ambient_text_align_start_bottom">Right n Bottom</string>
+    <string name="ambient_text_align_center">Center</string>
+    <string name="ambient_text_align_end_top">Left n Top</string>
+    <string name="ambient_text_align_end_center">Left n Center</string>
+    <string name="ambient_text_align_end_bottom">Left n Bottom</string>
+    <string name="ambient_text_type_color_title">Ambient Text Type Color</string>
+    <string name="ambient_text_color_title">Ambient Text Color</string>
+    <string name="ambient_notification_light_color_mode_accent">System accent color</string>
+    <string name="ambient_notification_light_color_mode_custom">Custom color</string>
+    <string name="ambient_notification_light_color_mode_wall">Wallpaper color</string>
+    <string name="ambient_image_title">Ambient Image</string>
+
+    
+    <string name="smart_pixels_warning_text">スマートピクセルはバッテリー節約機能です。ピクセルを遮断する数によってはバッテリー持続時間を改善できることがあります。タッチ画面に反応しない範囲が発生する可能性があることに注意してください。</string>
+    <string name="smart_pixels_title">スマートピクセル</string>
+    <string name="smart_pixels_summary">余分な画素を停止させてバッテリーを節約する</string>
+    <string name="smart_pixels_enable_title">スマートピクセルを有効化</string>
+    <string name="smart_pixels_enable_summary">消費電力を削減するため一部のピクセルを無効化します</string>
+    <string name="smart_pixels_on_power_save_title">自動有効</string>
+    <string name="smart_pixels_on_power_save_summary">バッテリーセーバー起動時は自動的に有効にする</string>
+    <string name="smart_pixels_percent">無効にする画素の割合</string>
+    <string name="smart_pixels_shift_title">焼き付き保護</string>
+    <string name="smart_pixels_shift_summary">使う画素を遷移させ有機 EL 画面の焼付きを避ける</string>
+    
+    
+    <string name="custom_timeout_summary_never">なし</string>
+    <string name="custom_timeout_summary_15secs">15秒</string>
+    <string name="custom_timeout_summary_30secs">30秒</string>
+    <string name="custom_timeout_summary_1min">1分</string>
+    <string name="custom_timeout_summary_2mins">2分</string>
+    <string name="custom_timeout_summary_5mins">5分</string>
+    <string name="custom_timeout_summary_10mins">10分</string>
+    <string name="custom_timeout_summary_20mins">20分</string>
+    <string name="custom_timeout_summary_30mins">30分</string>
+    <string name="custom_timeout_summary_1hour">1時間</string>
+    <string name="custom_timeout_summary_2hours">2時間</string>
+    
+    
+    <string name="double_tap_title">Double tap</string>
+    <string name="doze_double_tap_title">Double tap to Doze</string>
+    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
+
+    
+    <string name="spoof_storage_encryption_status_title">ストレージ暗号化の偽装</string>
+    <string name="spoof_storage_encryption_status_summary">ストレージ暗号化の状態を暗号化されている状態に偽装する</string>
+    
+    
+    <string name="pulse_on_new_tracks_title">アンビエント音楽ティッカー</string>
+    <string name="pulse_on_new_tracks_summary">新規楽曲再生時にアンビエント表示をする</string>
+
+    
+    <string name="screen_off_animation_title">画面消灯時のアニメーション</string>
+    <string name="screen_off_animation_default">デフォルト</string>
+    <string name="screen_off_animation_crt">ブラウン管</string>
+    <string name="screen_off_animation_scale">縮小</string>
+
+    
+    <string name="system_charging">System Charging Options</string>
+    <string name="charging_animation_bg_title">Charging Background</string>
+    <string name="charging_animation_bg_summary">Enabling this option will make the background on System Animation to black</string>
+    
+    
+    <string name="qs_dual_tone_title">デュアルトーンテーマ</string>
+    <string name="qs_dual_tone_summary">AOSP シングルトーンの代わりにデュアルトーンの背景色を使用します</string>
+
+     
+     <string name="weather_category_title">Weather</string>
+     <string name="weather_settings_title">天気の設定</string>
+     <string name="weather_settings_summary">アイコンパックと天気サービスを設定します</string>
+     <string name="lockscreen_weather_title">天気を表示</string>
+     <string name="lockscreen_weather_summary">現在の気象状況と温度を表示する</string>
+     <string name="lockscreen_weather_enabled_info">天気サービスを有効にしてください</string>
+     <string name="lockscreen_weather_location_title">現在地</string>
+     <string name="lockscreen_weather_location_summary">現在の天気予報に使っている場所を表示します</string>
+     <string name="lockscreen_weather_text_title">現在の天気</string>
+     <string name="lockscreen_weather_text_summary">現在の天候の概要を表示します</string>
+     
+     
+    <string name="lockscreen_clock_colored_title">Colored clock</string>
+    <string name="lockscreen_clock_colored_summary_on">Clock color is affected by monet</string>
+    <string name="lockscreen_clock_colored_summary_off">Clock color is always black or white</string>
+    
+    
+    <string name="data_disabled_icon_title">データ通信無効アイコン</string>
+    <string name="data_disabled_icon_summary">モバイルデータ無効時にシグナルバーの隣に×を表示する</string>
+
+    
+    <string name="status_bar_4g_icon_title">4G icon</string>
+    <string name="status_bar_4g_icon_summary">Replace \'LTE\' icon with \'4G\'</string>
+
+    
+    <string name="roaming_indicator_icon_title">ローミング表示</string>
+    <string name="roaming_indicator_icon_summary">ローミング中は電波アイコンにローミング表示する</string>
+
+    
+    <string name="wifi_standard_icon_title">Wi-Fi 規格</string>
+    <string name="wifi_standard_icon_summary">Wi-Fi シグナルの横に規格名を表示します</string>
+    
+    
+    <string name="disable_qs_title">ロック画面でクイック設定非表示</string>
+    <string name="disable_qs_summary">保護されたロック画面でクイック設定をロックします。通知のシェードは無効にしません。</string>
+    
+    
+    <string name="custom_clock_top_margin_title">Lockscreen clock bottom spacing</string>
+    
+    
+    <string name="edge_light_title">エッジライト</string>
+    <string name="edge_light_summary">通知パルスで画面の両端をライトアップします</string>
+    <string name="edge_light_always_trigger_on_pulse_title">パルスで常に起動</string>
+    <string name="edge_light_always_trigger_on_pulse_summary">通知だけではなくアンビエント画面が表示されればいつでもエッジライトを表示する</string>
+    <string name="edge_light_repeat_animation_title">アニメーションの繰り返し</string>
+    <string name="edge_light_repeat_animation_summary_on">指定時間まで繰り返す</string>
+    <string name="edge_light_repeat_animation_summary_off">1度だけ表示</string>
+    <string name="edge_light_color_mode_title">エッジライトの色のモード</string>
+    
+    
+    <string name="bluetooth_battery_title">Bluetooth のバッテリー状態</string>
+    <string name="bluetooth_battery_summary">可能な場合は接続している Bluetooth デバイスのバッテリー状態を表示する</string>
+    
+    
+    <string name="network_traffic_settings_title">ネットワークトラフィックモニター</string>
+    <string name="network_traffic_settings_summary">現在のネットワークトラフィックレベルの表示とカスタマイズをする</string>
+    <string name="network_traffic_location_title">位置</string>
+    <string name="network_traffic_location_disable">無効</string>
+    <string name="network_traffic_location_statusbar">ステータスバー</string>
+    <string name="network_traffic_location_quick_statusbar">クイックステータスバー</string>
+    <string name="network_traffic_mode_title">表示モード</string>
+    <string name="network_traffic_mode_up">アップロードのみ</string>
+    <string name="network_traffic_mode_down">ダウンロードのみ</string>
+    <string name="network_traffic_mode_all">両方</string>
+    <string name="network_traffic_autohide">自動で非表示</string>
+    <string name="network_traffic_autohide_summary">非アクティブ時にトラフィックモニターを非表示にする</string>
+    <string name="network_traffic_autohide_kilobits">Kb/s</string>
+    <string name="network_traffic_autohide_kilobytes">KB/s</string>
+    <string name="network_traffic_autohide_threshold">非アクティブ判定のしきい値</string>
+    <string name="network_traffic_refresh_interval_title">更新間隔</string>
+    <string name="network_traffic_refresh_interval_summary">速度を再計測する間隔を設定する</string>
+    <string name="network_traffic_units_title">通信速度の単位</string>
+    <string name="network_traffic_units_bits">ビット/秒 (b/s)</string>
+    <string name="network_traffic_units_kilobits">キロビット/秒 (kb/s)</string>
+    <string name="network_traffic_units_megabits">メガビット/秒 (Mb/s)</string>
+    <string name="network_traffic_units_bytes">バイト/秒 (B/s)</string>
+    <string name="network_traffic_units_kilobytes">キロバイト/秒 (kB/s)</string>
+    <string name="network_traffic_units_megabytes">メガバイト/秒 (MB/s)</string>
+    <string name="network_traffic_hidearrow">矢印を非表示</string>
+    <string name="network_traffic_hidearrow_summary">通信速度の矢印を隠す</string> 
+    
+    
+    <string name="qstile_requires_unlocking_title">セキュアなクイック設定</string>
+    <string name="qstile_requires_unlocking_summary">以下のクイック設定タイルは使用する前にロック画面の解除が必要になります:\n機内モード・モバイルデータ・NFC・Wi-Fi ホットスポット・USB テザリング・位置情報 </string>
+
+    
+    <string name="qs_styles_title">結合クイック設定要素のスタイル</string>
+    <string name="qs_outline">アウトライン</string>
+    <string name="qs_two_tone">ツートーンアクセント</string>
+    <string name="qs_color_pop">カラーポップ</string>
+    <string name="qs_shaded">シェーディング</string>
+    <string name="qs_cyberpunk">サイバーパンク</string>
+    <string name="qs_neumorph">Neomorph</string>
+    <string name="qs_reflected">Reflected</string>
+    <string name="qs_surround">サラウンド</string>
+    <string name="qs_thin">ThinLine</string>
+    
+    
+    <string name="qs_tile_title">QS Tiles</string>
+    <string name="qs_tile_animation_title">アニメーション</string>
+    <string name="qs_tile_animation_style_title">アニメーションスタイル</string>
+    <string name="qs_tile_animation_duration_title">アニメーション速度</string>
+    <string name="qs_tile_animation_interpolator_title">タイルアニメーションの補間</string>
+    <string name="qs_tile_animation_style_off">なし</string>
+    <string name="qs_tile_animation_style_rotate">回転</string>
+    <string name="qs_tile_animation_style_flipx">横にひっくり返す</string>
+    <string name="qs_tile_animation_style_flipy">縦にひっくり返す</string>
+    <string name="qs_tile_animation_interpolator_linearInterpolator">等速</string>
+    <string name="qs_tile_animation_interpolator_accelerateInterpolator">加速</string>
+    <string name="qs_tile_animation_interpolator_decelerateInterpolator">減速</string>
+    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">加速と減速</string>
+    <string name="qs_tile_animation_interpolator_bounceInterpolator">弾む</string>
+    <string name="qs_tile_animation_interpolator_overshootInterpolator">通過</string>
+    <string name="qs_tile_animation_interpolator_anticipateInterpolator">先取り</string>
+    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">先取りと通過</string>
+
+    
+    <string name="qs_colored_icons_title">Colored QS notification icons</string>
+    <string name="qs_colored_icons_summary">Show colored app icon instead of monochrome icons</string>
+    
+    
+    <string name="qs_layout_category_title">タイルのレイアウト</string>
+    <string name="qs_tile_layout_title">縦方向レイアウト</string>
+    <string name="qs_panel_title">QS Panel</string>
+    <string name="qs_tile_layout_summary">アイコンの横にラベルを表示する</string>
+    <string name="qs_tiles_layout_category">Tiles layout</string>
+    <string name="qs_rows_portrait_title">Rows (Portrait)</string>
+    <string name="qqs_rows_portrait_title">クイック設定の行数（縦向き）</string>
+    <string name="qs_columns_portrait_title">列数 (縦向き)</string>
+    <string name="qs_apply_change_button_title">Apply change</string>
+    <string name="qs_apply_change_failed">Failed to apply change</string>
+    <string name="qs_tile_hide_label_title">Hide labels</string>
+    <string name="qs_tile_label_size_title">ラベルのテキストサイズ</string>
+    <string name="qs_tile_secondary_label_size_title">Secondary Label text size</string>
+    <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
+    <string name="qs_tile_vertical_layout_title">Vertical layout</string>
+    <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
+    <string name="qs_ui_title">Quick Settings UI</string>
+    <string name="android_eleven">Android 11</string>
+    
+    
+    <string name="qs_tile_shape">QS tile shape</string>
+    <string name="qs_tile_round">Round</string>
+    <string name="qs_tile_rect">Rounded Rectangle</string>
+    <string name="qs_tile_mix">Round for active tiles and Rounded Rectangle for inactive tiles</string>
+    
+    
+    <string name="qs_tiles_haptic_feedback_title">タイルに触れた時に振動させる</string>  
+    <string name="qs_tiles_haptic_feedback_summary">Vibrate on touching QS tiles</string>
+    
+    
+    <string name="qs_transitions_title">QS Page Transitions</string>
+    <string name="qs_transitions_default">Default</string>
+    <string name="qs_transitions_cube_in">Cube In</string>
+    <string name="qs_transitions_cube_out">Cube Out</string>
+    <string name="qs_transitions_accordion">Accordion</string>
+    <string name="qs_transitions_background_to_foreground">Background to Foreground</string>
+    <string name="qs_transitions_depth_page">Depth page</string>
+    <string name="qs_transitions_fade">Fade</string>
+    <string name="qs_transitions_foreground_to_background">Foreground to Background</string>
+    <string name="qs_transitions_rotate_down">Rotate down</string>
+    <string name="qs_transitions_rotate_up">Rotate up</string>
+    <string name="qs_transitions_stack">Stack</string>
+    <string name="qs_transitions_tablet">Tablet</string>
+    <string name="qs_transitions_zoom_in">Zoom in</string>
+    <string name="qs_transitions_zoom_out">Zoom out</string>
+    <string name="qs_transitions_zoom_out_slide">Zoom out slide</string>
+
+    
+    <string name="fprint_success_vib_title">Fingerprint authentication vibration</string>
+    <string name="fprint_success_vib_summary">Vibrate on successful fingerprint authentication</string>
+    <string name="fprint_error_vib_title">Fingerprint error vibration</string>
+    <string name="fprint_error_vib_summary">Vibrate on error fingerprint authentication</string>
+
+    
+    <string name="ambient_ui">Ambient BatteryBar</string>
+    <string name="ambient_battery_settings_title">AOD Battery bar</string>
+    <string name="ambient_battery_settings_summary">Display a battery bar on the ambient display</string>
+    <string name="keyguard_show_battery_title">Battery bar when charging</string>
+    <string name="keyguard_show_battery_summary">Show a battery bar on the ambient display when charging</string>
+    <string name="keyguard_show_battery_always_title">Always show battery bar</string>
+    <string name="keyguard_show_battery_always_summary">Always show a battery bar on the ambient display</string>
+    <string name="keyguard_batterybar_color_source">Battery bar color source</string>
+    <string name="keyguard_batterybar_custom_color">Battery bar custom color</string>
+    <string name="keyguard_batterybar_white">White (Default)</string>
+    <string name="keyguard_batterybar_accent">Accent color</string>
+    <string name="keyguard_batterybar_custom">Custom</string>
+
+    
+    <string name="depth_wallpaper_category">Depth Wallpaper</string>
+    <string name="dw_file_header_select_title">Select Depth Wallpaper Subject</string>
+    <string name="dw_file_header_select_summary">Select depth wallpaper subject image from storage.</string>
+    <string name="dw_wallpaper_enabled_title">Depth Wallpaper</string>
+    <string name="dw_wallpaper_enabled_summary">Enable iOS-inspired depth wallpaper. Requires a subject image.</string>
+    <string name="dw_wallpaper_opacity_title">Depth Wallpaper Opacity</string>
+
+    
+    <string name="theme_customization_ui_style_title">UI Style</string>
+    <string name="theme_customization_ui_style_summary">Set custom style for your interface</string>
+    
+    
+    <string name="island_notification_title">アイランド通知</string>
+    <string name="island_notification_summary">iOS のダイナミックアイランドのスタイルで Heads Up 通知を表示する</string>
+    <string name="island_notification_now_playing_title">再生中</string>
+    <string name="island_notification_now_playing_summary">現在再生中のメディアをアイランド通知として表示する</string>
+    <string name="island_notification_footer_text">        iOS のダイナミックアイランドにインスパイアされたアイランド通知機能です。Android のヘッドアップ通知を素早く開けるコンパクトな通知へと変更します。\n\nアイランドクイックアクセスコントロールには以下の機能があります:\n1. アイランド通知をタップして電話に素早く応答する\n2. アイランド通知を長押しして着信を拒否する\n3. アイランド通知を長押しして通知プレビューを展開する
+    </string>
+    
+    
+    <string name="pixel_navbar_anim_title">Pixel アニメーション</string>
+    <string name="pixel_navbar_anim_summary">Pixel スタイルの2ボタン/3ボタンナビバーのアニメーションを有効にします</string>
+    
+    
+    <string name="show_squiggle_animation_title">Show squiggle animation</string>
+    <string name="show_squiggle_animation_summary">Show squiggle animation in media player. You must either change the track, pause playback, or move the progress bar for this setting to take effect.</string>
+
+    
+    <string name="header_category">Header</string>
+
+    
+    <string name="status_bar_custom_header_title">Enable</string>
+    <string name="daylight_header_pack_title">Header image collection</string>
+    <string name="status_bar_custom_header_shadow_title">Header image shadow</string>
+    <string name="status_bar_custom_header_shadow_summary">For better visibility on bright images</string>
+    <string name="unit_percent">\u0025</string>
+    <string name="static_header_provider" translatable="false">static</string>
+    <string name="daylight_header_provider" translatable="false">daylight</string>
+    <string name="static_header_provider_title">Static image</string>
+    <string name="daylight_header_provider_title">Image collection</string>
+    <string name="custom_header_provider_title">Header provider</string>
+    <string name="custom_header_browse_title">Browse installed headers</string>
+    <string name="custom_header_browse_summary">Click on any image to use for static mode</string>
+    <string name="custom_header_browse_summary_new">Browse all available header collections</string>
+    <string name="custom_header_pick_title">Select header image</string>
+    <string name="custom_header_pick_summary">Select an image to use for static mode</string>
+    <string name="style_enabled_summary">Custom header image is ON</string>
+    <string name="style_disabled_summary">Custom header image is OFF</string>
+    <string name="header_provider_disabled">Disabled</string>
+    <string name="custom_header_title">Custom header image</string>
+    <string name="custom_header_summary">Select QS background header image</string>
+    <string name="file_header_select_title">ローカルの画像の選択</string>
+    <string name="file_header_select_summary">ストレージから画像を選択する</string>
+    <string name="file_header_provider_title">Custom image</string>
+    <string name="file_header_provider" translatable="false">file</string>
+    
+    
+    <string name="status_bar_custom_header_offset_title">Header image offset</string>
+    <string name="status_bar_custom_header_offset_summary">Adjust the image header size</string>
+
+    
+    <string name="idle_manager_title">Kill background processes</string>
+    <string name="idle_manager_summary">Stop all non-essential background processes when the device is idle</string>
+
+    
+    <string name="brightness_slider_style_title">Brightness slider style</string>
+    <string name="brightness_slider_style_default">Default</string>
+    <string name="brightness_slider_style_filled">Filled</string>
+    <string name="brightness_slider_style_thin">Thin</string>
+    <string name="brightness_slider_style_cyberpunk">Blocky Thumb</string>
+    <string name="brightness_slider_style_gradiant">Double Layer</string>
+    <string name="brightness_slider_style_neumorph">Neumorph</string>
+    <string name="brightness_slider_style_outline">Outline</string>
+    <string name="brightness_slider_style_shaded">Shaded</string>
+    <string name="brightness_slider_style_thinoutline">Inline</string>
+    <string name="brightness_slider_style_translucent">Transparent</string>
+    <string name="brightness_slider_style_leafyoutline">Leafy Outline</string>
+    <string name="brightness_slider_style_minimalthumb">Minimal Thumb</string>
+    <string name="brightness_slider_style_oldschoolthumb">Old School Thumb</string>
+    <string name="brightness_slider_style_roundedclip">Rounded clip</string>
+    <string name="brightness_slider_style_thumbslider">Thumb Slider</string>
+    <string name="brightness_slider_style_line">Thin Outline</string>
+    <string name="brightness_slider_style_lighty">Lighty</string>
+    
+    
+    <string name="show_fiveg_icon_summary">Forcefully show 5G network icon instead of LTE &amp; 4G</string>
+    <string name="show_fiveg_icon_title">Spoof 5G Indicator</string>
+
+    
+    <string name="notification_material_dismiss_title">全ての通知を消去ボタン</string>
+    <string name="notification_material_dismiss_summary">全ての通知を消去ボタンをマテリアルスタイルのフローティングボタンに置き換える</string>
+
+    
+    <string name="udfps_category">画面内指紋認証</string>
+    <string name="udfps_settings_title">画面内指紋認証の設定</string>
+    <string name="udfps_settings_summary">画面内指紋認証の編集を設定する</string>
+
+    
+    <string name="screen_off_udfps_title">画面消灯時の画面内指紋認証</string>
+    <string name="screen_off_udfps_summary">画面消灯時も画面内指紋認証を有効にします</string>
+
+    
+    <string name="udfps_icon_picker_title">画面内指紋認証アイコンの選択</string>
+    <string name="udfps_icon_picker_summary">お気に入りの指紋アイコンを選択する</string>
+
+    
+    <string name="udfps_recog_animation_effect_title">画面内指紋認証アニメーションの効果</string>
+    <string name="udfps_recog_animation_effect_summary">アニメーション効果を選択する</string>
+    
+    
+    <string name="charging_animation_title">充電アニメーション</string>
+    <string name="charging_animation_summary">電源接続時にアニメーションを表示する</string>
+    
+    
+    <string name="status_bar_notif_count_title">通知の数</string>
+    <string name="status_bar_notif_count_summary">ステータスバーの通知アイコンの右下に保留中の通知の数を表示します</string>
+    
+    
+    <string name="scroll_fling_haptic_feedback_title">Vibrate on scroll flings</string>
+    
+    
+    <string name="mic_camera_privacy_indicator_title">マイクとカメラのプライバシー表示</string>
+    <string name="mic_camera_privacy_indicator_summary">アプリがマイクまたはカメラを使用している時にインジケーターを表示します</string>
+    <string name="location_privacy_indicator_title">位置情報プライバシー表示</string>
+    <string name="location_privacy_indicator_summary">アプリが位置情報を使用した時にインジケーターを表示します</string>
+    <string name="projection_privacy_indicator_title">メディアプロジェクションプライバシー表示</string>
+    <string name="projection_privacy_indicator_summary">端末の画面へメディアプロジェクション時にインジケーターを表示する</string>
+    
+    
+    <string name="battery_bar_title">バッテリーバー</string>
+    <string name="battery_bar_summary">ステータスバー又はナビゲーションバー付近のバッテリーバーの表示や編集をする</string>
+    <string name="battery_bar_color">色</string>
+    <string name="battery_bar_charging_color">充電時の色</string>
+    <string name="battery_bar_battery_low_color">残量低下時の色</string>
+    <string name="battery_bar_style_title">配置</string>
+    <string name="battery_bar_thickness_title">太さ</string>
+    <string name="battery_bar_animate_title">充電アニメーション</string>
+    <string name="battery_bar_style_regular">通常</string>
+    <string name="battery_bar_style_center_mirrored">中央</string>
+    <string name="battery_bar_style_reversed">反転</string>
+    <string name="battery_bar_use_charging_color">カスタムの充電時の色</string>
+    <string name="battery_bar_blend_color_title">色のブレンド</string>
+    <string name="battery_bar_blend_color_summary">バッテリー残量に応じてフル/低残量時の色をブレンドする</string>
+    <string name="battery_bar_blend_color_reverse_title">色の順番を反転</string>
+    <string name="battery_bar_blend_color_reverse_summary_off">フル → 残量低下: 赤 ← 緑 ← 青 ← 赤</string>
+    <string name="battery_bar_blend_color_reverse_summary_on">フル → 残量低下: 赤 → 緑 → 青 → 赤</string>
+
+    
+    <string name="doze_on_charge_title">充電時に常に表示する</string>
+    <string name="doze_on_charge_summary">充電中であることを表示します</string>
+
+     
+     <string name="status_bar_double_tap_to_sleep_title">タップでスリープ</string>
+     <string name="status_bar_double_tap_to_sleep_summary">ステータスバーかロック画面をダブルタップして画面を消灯する</string>
+</resources>
