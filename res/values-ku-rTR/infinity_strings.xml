@@ -1,0 +1,863 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2">
+
+    
+
+    
+    <string name="button_title">دوگمەکان</string>
+    <string name="gestures_title">Gestures</string>
+    <string name="lockscreen_title">ڕوونماداخراو</string>
+    <string name="misc_title">Lihevket</string>
+    <string name="navbar_title">Navê Navîgasyon</string>
+    <string name="powermenu_title">Menuya Power</string>
+    <string name="quicksettings_title">Mîhengên Zû</string>
+    <string name="themes_title">Temas</string>
+    <string name="statusbar_title">Bara Rewşê</string>
+    <string name="notifications_title">ئاگانامەکان</string>
+    <string name="ambient_text_category_title">Adil-Aod Adet</string>
+    <string name="monet_title">Monet settings</string>
+    <string name="fingerprint_category">Şopa Tilî</string>
+
+    
+    <string name="ok">باشە</string>
+    <string name="reset">ڕێخستنەوە</string>
+    <string name="cancel">Bişûndekirin</string>
+    <string name="save">هەڵگرتن</string>
+    
+    
+    <string name="notif_title">Notifications</string>
+    <string name="power_title">Menuya Power</string>
+    <string name="gesture_title">Gestures</string>
+
+     
+     <string name="unit_seconds">چرکە</string>
+     <string name="unit_milliseconds">میلی چرکە</string>
+     <string name="unit_pixels">Dp</string>
+    
+    
+    <string name="team_title">About Tîm</string>
+    
+    
+    <string name="lead_devs">Pêşvebirên Pêşeng</string>
+    <string name="honorable_mentions">Behreyên Rûmetdar</string>
+    <string name="designers">Sêwiranvanên Projeyê</string>
+    
+    
+    <string name="general_category">Giştî</string>
+    <string name="media_category">Panela Medyayê</string>
+    <string name="statusbar_icons">Îkon</string>
+    <string name="pocket_category">Bêrîk</string>
+    
+    
+    <string name="statusbar_items_title">Rewşa Bar Imsems</string>
+    <string name="statusbar_items_summary">Tiştên Standhandable Tune</string>
+    
+    
+    <string name="qs_quick_pulldown">Qs Quickuldown</string>
+    <string name="quick_pulldown_none">Bêmecel</string>
+    <string name="quick_pulldown_right">Statûya Pulldown Ji Milê Rastê</string>
+    <string name="quick_pulldown_left">Statûya Pulldown Ji Milê Çepê</string>
+    
+    
+    <string name="power_menu_title">Power menu</string>
+    <string name="power_menu_title_summary">Navnîşên Menuya Hêzê Temaşe Bikin An Biguherînin</string>
+    <string name="powermenu_screenshot">Screenshot</string>
+    <string name="powermenu_power">Erk</string>
+    <string name="powermenu_advanced">Vebijarkên Rebootên Pêşkeftî</string>
+    <string name="powermenu_restart">Destpêkirin</string>
+    <string name="powermenu_airplane">Balafir</string>
+    <string name="powermenu_settings">Mîhengan</string>
+    <string name="powermenu_lockdown">Tecrît</string>
+    <string name="powermenu_soundpanel">Panela Deng</string>
+    <string name="powermenu_users">Bikarhêner</string>
+    <string name="powermenu_logout">Derkeve</string>
+    <string name="powermenu_emergency">Acîlîyet</string> 
+    
+    
+    <string name="lockscreen_enable_power_menu_title">Power menu</string>
+    <string name="lockscreen_enable_power_menu_summary">Allow accessing power menu on secure lockscreen</string>
+          
+    
+    <string name="system_navigation_summary">Menuya Navîgasyonê Mîheng Bike</string>
+    
+    
+    <string name="monet_engine_custom_color_title">ڕەنگی شێوە</string>
+    <string name="monet_engine_custom_color_summary">Choose custom color for accent</string>
+    <string name="monet_engine_custom_bgcolor_title">Background color</string>
+    <string name="monet_engine_custom_bgcolor_summary">Choose custom color for background</string>
+    <string name="monet_engine_color_override_title">Custom color</string>
+    <string name="monet_engine_luminance_factor_title">Luminance</string>
+    <string name="monet_engine_luminance_factor_summary">Higher values produce brighter colors</string>
+    <string name="monet_engine_chroma_factor_title">Chroma factor</string>
+    <string name="monet_engine_chroma_factor_summary">Higher values produce stronger colors</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
+    <string name="monet_engine_tint_background_title">Tint background</string>
+    <string name="monet_engine_tint_background_summary">Make luminance and chroma selection affect background colors as well</string>
+    <string name="monet_engine_style_title">Theme style</string>
+    <string name="monet_engine_style_tonal_spot">Tonal Spot (Default)</string>
+    <string name="monet_engine_style_vibrant">Vibrant</string>
+    <string name="monet_engine_style_expressive">Expressive</string>
+    <string name="monet_engine_style_spritz">Spritz</string>
+    <string name="monet_engine_style_rainbow">Rainbow</string>
+    <string name="monet_engine_style_fruit_salad">Fruit Salad</string>
+    <string name="monet_engine_style_monochromatic">Monochromatic</string>
+    <string name="monet_engine_color_source_title">Color source</string>
+    <string name="monet_engine_color_source_both">Both (Default)</string>
+    <string name="monet_engine_color_source_home">Home wallpaper</string>
+    <string name="monet_engine_color_source_lock">Lock wallpaper</string>
+    <string name="monet_engine_color_source_preset">Preset</string>
+    
+    
+     <string name="theme_customization_font_title">شێوازی فۆنت</string>
+     <string name="theme_customization_font_summary">Set system font style</string>
+     <string name="theme_customization_icon_pack_title">Icon pack</string>
+     <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
+     <string name="theme_customization_icon_shape_title">Icon shape</string>
+     <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
+     <string name="theme_customization_signal_icon_title">Signal icon style</string>
+     <string name="theme_customization_signal_icon_summary">Set custom signal icon style</string>
+     <string name="theme_customization_wifi_icon_title">WiFi icon style</string>
+     <string name="theme_customization_wifi_icon_summary">Set custom wifi icon style</string>
+     <string name="theme_customization_navbar_title">Navbar style</string>
+     <string name="theme_customization_navbar_summary">Set custom navigation bar style</string>
+     <string name="theme_customization_data_title">Data Icon Style</string>
+     <string name="theme_customization_data_summary">Set Style Daneya Daneya Custom Set</string>
+     <string name="theme_customization_lock_clock_title">شێوازی فۆنتی کاتژمێر</string>
+     <string name="theme_customization_lock_clock_summary">Set lockscreen clock font style</string>
+          
+    
+     <string name="lockscreen_battery_info_title">Battery info</string>
+     <string name="lockscreen_battery_info_summary">Display battery info when charging</string>
+    
+        
+    <string name="status_bar_battery_category_title">شازدانەکانی پاتری</string>
+    <string name="status_bar_battery_style_title">شێوازی پاتری</string>
+    <string name="status_bar_battery_style_summary">Stûnên Statûya Û Qs</string>
+    <string name="status_bar_battery_style_icon_portrait">وێنۆچکەی ستوونی</string>
+    <string name="status_bar_battery_style_icon_rlandscape">Icon landscape (Right)</string>
+    <string name="status_bar_battery_style_icon_landscape">Icon landscape (Left)</string>
+    <string name="status_bar_battery_style_circle">بازنەیی</string>
+    <string name="status_bar_battery_style_dotted_circle">بازنەیی خاڵدار</string>
+    <string name="status_bar_battery_style_filled_circle">Filled circle</string>
+    <string name="status_bar_battery_style_big_circle">Circle Big</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Dorpêçek Mezin</string>
+    <string name="status_bar_battery_style_land_a">Landscape Bi Hêsanî</string>
+    <string name="status_bar_battery_style_land_b">Landscape Nenine</string>
+    <string name="status_bar_battery_style_land_c">Kevirên Landscape</string>
+    <string name="status_bar_battery_style_land_d">Landscape Love</string>
+    <string name="status_bar_battery_style_land_e">Landscape Baseball</string>
+    <string name="status_bar_battery_style_land_f">Perestgeh Nîvê Dagirtin</string>
+    <string name="status_bar_battery_style_land_g">Landscape Kindergarten Heval E</string>
+    <string name="status_bar_battery_style_land_h">Landscape Miui</string>
+    <string name="status_bar_battery_style_land_i">Landscape Buddy</string>
+    <string name="status_bar_battery_style_land_j">Padîşahiya Landscape Strip</string>
+    <string name="status_bar_battery_style_land_k">Landscape Ios Çardeh</string>
+    <string name="status_bar_battery_style_land_l">Perestgeh Ios Şazdeh</string>
+    <string name="status_bar_battery_style_land_m">Landscape Ios Diyar Dike</string>
+    <string name="status_bar_battery_style_land_n">Serwerê Axê</string>
+    <string name="status_bar_battery_style_land_o">Pencereyên Perestgehê</string>
+    <string name="status_bar_battery_style_text">نوسین</string>
+    <string name="status_bar_battery_style_hidden">شاردراو</string>
+    <string name="status_bar_battery_percent_title">Battery percent</string>
+    <string name="status_bar_battery_percent_hidden">شاردراو</string>
+    <string name="status_bar_battery_percent_text_inside">لەنێو وێنۆچکەدا</string>
+    <string name="status_bar_battery_percent_text_next_right">Next to the icon (right)</string>
+    <string name="status_bar_battery_percent_text_next_left">Next to the icon (left)</string>
+    <string name="status_bar_battery_text_charging_title">Battery percentage when charging</string>
+    <string name="status_bar_battery_text_charging_summary">Always display battery percentage when charging</string>
+
+    
+    <string name="qs_battery_category_title">Xwaziyên Battery Battery</string>
+    <string name="qs_use_status_bar_battery_style">بەپێی شێوازی ڕەوشبەند</string>
+    
+    
+    <string name="color_default">Destçûnî</string>
+    <string name="custom_battery_charging_icon_title">Îkonên Barkirinê</string>
+    <string name="custom_battery_charging_icon_summary">Îkonê Barkirinê Li Tenişta Batterê Nîşan Bide</string>
+    <string name="custom_battery_charging_icon_style_title">Dirêjkirina Îkonên Îkonan</string>
+    <string name="custom_battery_charging_icon_wh_title">Dirêjbûn &amp; Dirêjbûn</string>
+
+    
+    <string name="custom_icon_charging_symbol_title">Sembola Barkirinê Ji Bo Nivîsa Batterê</string>
+    <string name="custom_symbol_charging_default">Default (Bolt)</string>
+    <string name="custom_symbol_charging_type1">Biohazard</string>
+    <string name="custom_symbol_charging_type2">Stêrk</string>
+    <string name="custom_symbol_charging_type3">Kenn</string>
+    <string name="custom_symbol_charging_type4">Cardin Bikaranîn</string>
+    <string name="custom_symbol_charging_type5">Bêdawîtî</string>
+    <string name="custom_symbol_charging_type6">Tîrêja Tavê</string>
+    <string name="custom_symbol_charging_type7">Drop</string>
+    <string name="custom_symbol_charging_type8">Berf</string>
+    <string name="custom_symbol_charging_type9">Triple Tilde</string>
+
+    
+    <string name="flip_batre_image_title">Wêneyê Baterî</string>
+    <string name="flip_batre_image_summary">Wêneyê Batterê Bişon</string>
+    <string name="flip_batre_title">Şêwaza Batterê</string>
+    <string name="flip_batre_summary">Şêwaza Batterê Bişon</string>
+
+    
+    <string name="custom_battery_drawable_title">Misc Li Ser Bataryayê</string>
+    <string name="custom_battery_scaled_perimeter_alpha_title">Alpha Perimeter Scaled</string>
+    <string name="custom_battery_scaled_perimeter_alpha_summary">Alpha Pîrekirî Ya Pîrekirî Bikar Bînin</string>
+    <string name="custom_battery_scaled_fill_alpha_title">Alpha Tijî Biparêzin</string>
+    <string name="custom_battery_scaled_fill_alpha_summary">Pişta Piştê Tijî Alpha</string>
+    <string name="custom_battery_color_title">Rengê Xwerû Ya Batterê</string>
+    <string name="custom_battery_color_summary">Ji Bo Rengê Blend-Ê Ya Default Li # Ff000000 Danîn</string>
+    <string name="custom_battery_charging_color_title">Guhertina Rengê</string>
+    <string name="custom_battery_fill_color_title">Rengê Xwerû Dagirin</string>
+    <string name="custom_battery_fill_grad_color_title">Rengê Gradient Dagirin</string>
+    <string name="custom_battery_fill_grad_color_summary"># Ff000000 Ji Bo Stûna Astengdar</string>
+    <string name="custom_battery_powersave_color_title">Powerave Reng</string>
+    <string name="custom_battery_powersave_fill_color_title">Powersave Rengê Tije Bikin</string>
+    <string name="custom_battery_rainbow_fill_title">Rainbow Rengê Tije Dike</string>
+    <string name="custom_battery_rainbow_fill_summary">Tenê Ji Bo Şêwaza Buddy &amp; Rêça Strip</string>
+    <string name="sthumb_new_tint_picker_summary">Hilbijartina Rengê Rgb Bikar Bînin</string>
+
+    
+    <string name="custom_battery_layout_title">Misc Li Ser Nexşeya Batterê</string>
+    <string name="custom_battery_rotation_title">Rotation Wêne Ya Battery</string>
+    <string name="custom_battery_rotation_summary">Da Ku Battera Perestgehê Zivirîne</string>
+    <string name="custom_battery_leftpct_title">Ji Sedî Batterê Çepê</string>
+    <string name="custom_battery_leftpct_summary">Da Ku Ji Sedî Çepê Ber Bi Çepê Ve Were Danîn</string>
+
+    
+    <string name="custom_battery_dimension_title">Dirêjahiya Battery Dimension</string>
+    <string name="custom_battery_dimension_summary">Nirxên Dimen Dimen Addjustabust Bikar Bînin</string>
+    <string name="custom_battery_height">Bilindî</string>
+    <string name="custom_battery_width">Berî</string>
+    <string name="custom_battery_top">Margin Top</string>
+    <string name="custom_battery_bottom">Margin Bottom</string>
+    <string name="custom_battery_left">Margin Çep</string>
+    <string name="custom_battery_right">Margin Rast</string>
+     
+    
+     <string name="qs_show_brightness_slider_title">تەختەی ڕۆشنایی</string>
+     <string name="qs_show_brightness_slider_never">Never show</string>
+     <string name="qs_show_brightness_slider_expanded">Show when expanded</string>
+     <string name="qs_show_brightness_slider_always">پیشاندان هەمیشە</string>
+     <string name="qs_show_brightness_slider_not_expanded">Show when not expanded</string>
+     <string name="qs_brightness_slider_position_title">شوێن</string>
+     <string name="qs_brightness_slider_position_top">Top</string>
+     <string name="qs_brightness_slider_position_bottom">خوارەوە</string>
+
+    
+     <string name="qs_show_auto_brightness_title">Auto brightness icon</string>
+     <string name="qs_show_auto_brightness_summary">پیشاندانی هێمایەک بۆ ڕۆشنایی خۆکار نزیک لە تەختەکە</string>
+    
+    
+     <string name="status_bar_clock_title">کاتژمێر &amp; بەروار</string>
+     <string name="status_bar_clock_summary">Customize clock &amp; date</string>
+     <string name="status_bar_clock_seconds_title">چرکەکانی کاتژمێر</string>
+     <string name="status_bar_clock_seconds_summary">Display seconds next to clock in status bar</string>
+     <string name="status_bar_clock_position_title">شێوازی کاتژمێر</string>
+     <string name="status_bar_clock_position_right">ڕاست</string>
+     <string name="status_bar_clock_position_left">چەپ</string>
+     <string name="status_bar_clock_position_center">ناوەڕاست</string>
+     <string name="status_bar_clock_position_hidden">شاردراو</string>
+     <string name="status_bar_clock_auto_hide_title">شاردنەوەی خۆکار</string>
+     <string name="status_bar_clock_auto_hide_launcher_summary">Hide clock if launcher is visible</string>
+     <string name="status_bar_clock_auto_hide_summary">Hide clock at regular interval</string>
+     <string name="status_bar_clock_auto_hide_hdur_title">ماوەی شاردنەوە</string>
+     <string name="status_bar_clock_auto_hide_hdur_summary">ژمارەی چرکەکانی شاردنەوەی کاتژمێر</string>
+     <string name="status_bar_clock_auto_hide_sdur_title">پیشاندانی ماوە</string>
+     <string name="status_bar_clock_auto_hide_sdur_summary">ژمارەی چرکەکانی چاوەڕوانی پێش شاردنەوەی کاتژمێر</string>
+     <string name="status_bar_am_pm_title">شێوازی AM/PM</string>
+     <string name="status_bar_am_pm_info">کاتژمێری 24ی کاراکراوە</string>
+     <string name="status_bar_am_pm_normal">ئاسایی</string>
+     <string name="status_bar_am_pm_small">بچووک</string>
+     <string name="status_bar_am_pm_hidden">شاردراو</string>
+     <string name="status_bar_date_title">بەروار</string>
+     <string name="status_bar_date_none">شاردراو</string>
+     <string name="status_bar_date_small">بچووک</string>
+     <string name="status_bar_date_normal">ئاسایی</string>
+     <string name="status_bar_date_format_title">جۆری بەروار</string>
+     <string name="status_bar_date_style">شێوازی بەروار</string>
+     <string name="status_bar_date_style_normal">ئاسایی</string>
+     <string name="status_bar_date_style_lowercase">Lowercase</string>
+     <string name="status_bar_date_style_uppercase">Uppercase</string>
+     <string name="status_bar_date_format_custom">Custom java format</string>
+     <string name="status_bar_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
+     <string name="status_bar_date_string_edittext_summary">Enter string</string>
+     <string name="clock_date_position">شوێنی بەروار</string>
+     <string name="clock_date_right">لە ڕاستی کاتەوە</string>
+     <string name="clock_date_left">لە چەپی کاتەوە</string>
+
+    
+    <string name="qs_footer_text_title">Qs Footer Nivîsa</string>
+    <string name="qs_footer_text_summary">Nivîsar Li Binê Panelê Qs Nîşan Bikin</string>
+    <string name="qs_footer_text_string_title">Nivîsa Footer Xweş Bikin</string>
+    <string name="qs_footer_text_string_summary">Ji Bo Infinity Default Vala Bikin</string>
+
+   
+    <string name="qs_show_data_usage_title">Bikaranîna Daneyê Nîşan Bide</string>
+    <string name="qs_show_data_usage_summary">Bikaranîna Daneyên Hucreyên / Wi-Fi Yên Di Qs Footer De Nîşan Bidin</string>
+    
+   
+    <string name="laboratory_ignore_window_secure_title">Alayên Ewlehiya Pencereyê</string>
+    <string name="laboratory_ignore_window_secure_summary">Ev Ji Bo Hemî Serlêdanan Dîmen Û Screenrecords Sînor Dike.Bi Gelemperî, Serlêdanên Taybetî Li Deverên Reş Di Tomaran De Têne Guhertin.Ev Dikare Di Hin Rewşan De Hêsantir Be Lê Dibe Ku Bibe Sedema Deriyên Nepenîtiyê.Piştî Guhertina Vê Guhêrbar, Dibe Ku Hûn Hewce Ne Ku Serlêdanan Ji Bo Guhertinê Ji Nû Ve Dest Pê Bikin.</string>
+    
+    
+    <string name="app_downgrade_title">Destûrê Bide Serlêdana Serîlêdanê</string>
+    <string name="app_downgrade_summary">Ev Dihêle Hûn Serlêdanan Dakêşin.Têbînî Ku Ev Dibe Ku Bibe Sedema Têkçûn Û Gendeliya Daneyê.</string>
+
+   
+    <string name="statusbar_colored_icons_title">Colored icons</string>
+    <string name="statusbar_colored_icons_summary">Use proper app icons for notification icons in statusbar</string>
+    
+   
+    <string name="status_bar_logo_title">لۆگۆ</string>
+    <string name="default_string">Destçûnî</string>
+    <string name="status_bar_logo_summary">Display a custom logo on left or right of the status bar</string>
+    <string name="status_bar_logo_primary_switch_title">Logo Bikar Bînin</string>
+    <string name="status_bar_logo_position_title">شوێنی لۆگۆ</string>
+    <string name="status_bar_logo_position_summary">Hilbijêrin Kîjan Alî Logo Li Ser, Çep An Rastê Nîşan Bikin</string>
+    <string name="status_bar_logo_position_right">Rast</string>
+    <string name="status_bar_logo_position_left">Çep</string>
+    <string name="status_bar_logo_color_title">Reng</string>
+    <string name="status_bar_logo_color_default">Default (Spî)</string>
+    <string name="status_bar_logo_color_accent">Devok</string>
+    <string name="status_bar_logo_color_custom">Hûnbunî</string>
+    <string name="status_bar_logo_style_title">شێوازی لۆگۆ</string>
+    <string name="status_bar_logo_style_adidas">Adidas</string>
+    <string name="status_bar_logo_style_airjordan">Air Jordan</string>
+    <string name="status_bar_logo_style_alien">Alien</string>
+    <string name="status_bar_logo_style_amogus">Amogus</string>
+    <string name="status_bar_logo_style_apple">ئەپڵ</string>
+    <string name="status_bar_logo_style_avengers">Avengers</string>
+    <string name="status_bar_logo_style_batman">باتمان</string>
+    <string name="status_bar_logo_style_batman_tdk">Batman The Dark Knight</string>
+    <string name="status_bar_logo_style_beats">Beats</string>
+    <string name="status_bar_logo_style_biohazard">Biohazard</string>
+    <string name="status_bar_logo_style_blackberry">BlackBerry</string>
+    <string name="status_bar_logo_style_captain_america">Captain America</string>
+    <string name="status_bar_logo_style_cannabis">Cannabis</string>
+    <string name="status_bar_logo_style_flash">فلاش</string>
+    <string name="status_bar_logo_style_fire">Fire</string>
+    <string name="status_bar_logo_style_ghost">تارمایی</string>
+    <string name="status_bar_logo_style_heart">دڵ</string>
+    <string name="status_bar_logo_style_ironman">Iron Man</string>
+    <string name="status_bar_logo_style_mint">Linux Mint</string>
+    <string name="status_bar_logo_style_nike">Nike</string>
+    <string name="status_bar_logo_style_ninja">نینجا</string>
+    <string name="status_bar_logo_style_pac_man">Pac-Man</string>
+    <string name="status_bar_logo_style_puma">Puma</string>
+    <string name="status_bar_logo_style_robot">ڕۆبۆت</string>
+    <string name="status_bar_logo_style_rog">ROG</string>
+    <string name="status_bar_logo_style_spiderman">Spider-Man</string>
+    <string name="status_bar_logo_style_superman">سوپه‌رمان</string>
+    <string name="status_bar_logo_style_tux">Tux</string>
+    <string name="status_bar_logo_style_ubuntu">Ubuntu</string>
+    <string name="status_bar_logo_style_windows">ویندۆز</string>
+    <string name="status_bar_logo_style_xbox">Xbox</string>
+    
+    
+    <string name="qs_transparency_summary">Hilbijêrin Ka Hûn Çiqas Zelal Dikin Ku Hûn Dixwazin Qs-Ya We Be</string>
+    <string name="qs_transparency_title">Qs Zelalbûn</string>
+
+    
+    <string name="statusbar_clock_chip_title">Çîpa paşperdeyê</string>
+    <string name="statusbar_clock_chip_summary">Nîşana çîpê devokî li paş demjimêrê</string>
+    <string name="solid_accent">Devok</string>
+    <string name="outline">Dor</string>
+    <string name="solid_accent_gradient">Gehremeng</string>
+    <string name="solid_gradient">Aliyê Gradient Solid</string>
+    <string name="solid_gradient_corner">Hişkek Hişk A Hişk</string>
+    <string name="solid_gradient_void">Astengî Valahî</string>
+    <string name="solid_gradient_neumorph">Nexşeya Neumph</string>
+    <string name="solid_gradient_stroke">Stûna Gradient Sharp</string>
+    <string name="solid_accent_transperent">Accent Transparent</string>    
+    <string name="solid_gradient_light">Ronahiya Gradient</string>
+    <string name="solid_gradient_shape">Qonaxa Gradient Sharp</string>
+    <string name="solid_gradient_void_light">Ronahiya Valahiyê Ya Bihêz</string>
+    
+    
+    <string name="haptic_on_volume_slider_title">Volume Slider Haptic</string>
+    <string name="haptic_on_volume_slider_summary">Li Ser Guhertina Qumarê Bi Karanîna Dirûşmeyê Ve Nerazîbûna Haptîk Peyda Bikin</string>
+    
+    
+    <string name="volume_panel_on_left_title">Volume panel on left</string>
+    <string name="volume_panel_on_left_summary">Panelê Volume Li Ser Milê Çepê Ya Ekranê Nîşan Bide</string>
+    
+    
+    <string name="data_disabled_icon_title">Data disabled indicator</string>
+    <string name="data_disabled_icon_summary">Display an indicator next to signal icon when data is disabled</string>
+    
+    
+    <string name="status_bar_4g_icon_title">Icon 4G</string>
+
+    
+    <string name="roaming_indicator_icon_title">Îkonê Nîşana Nîşanî Nîşan Bide</string>
+    <string name="roaming_indicator_icon_summary">Dema Ku Di Moda Roaming De Nîşana Roaming Li Jor Îkonê Nîşan Bide</string>
+
+    
+    <string name="wifi_standard_icon_title">WiFi standard</string>
+    <string name="wifi_standard_icon_summary">Display WiFi standard next to WiFi signal</string>
+    
+    
+    <string name="bluetooth_battery_title">Bluetooth battery status</string>
+    <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string> 
+    
+    
+    <string name="show_fiveg_icon_summary">Bi Zorê Li Şûna Lte &amp; 4G Icon Tora Torê Nîşan Bide</string>
+    <string name="show_fiveg_icon_title">Nîşana 5G Spoof</string>
+    
+    
+    <string name="qs_brightness_slider_haptic_title">Haptic feedback</string>
+    <string name="qs_brightness_slider_haptic_summary">Provide haptic feedback on changing brightness using slider</string>
+    
+    
+    <string name="statusbar_padding">Statûya Baranê</string>
+    <string name="statusbar_top_padding">Top Padding</string>
+    <string name="statusbar_left_padding">Padding Çepê</string>
+    <string name="statusbar_right_padding">Padding Rast</string>
+    
+    
+    <string name="less_boring_heads_up_title">Less boring</string>
+    <string name="less_boring_heads_up_summary">Display popup notifications only for alarm, dialer and messaging app</string>
+
+    
+    <string name="headsup_category">Mîhengên Headsup</string>
+    <string name="heads_up_notifications">Serê Xwe Berde</string>
+    <string name="heads_up_notifications_summary">Mîhengên Nîşaneyên Serhildanên Xweser</string>
+    <string name="summary_heads_up_enabled">Nîşaneyên Pop-Up Têne Çalak Kirin</string>
+    <string name="summary_heads_up_disabled">Nîşaneyên Pop-Up Neçalak In</string>
+    <string name="add_heads_up_package">App Zêde Bikin</string>
+    <string name="add_heads_up_stoplist_summary">Di Van Serlêdanan De Agahdarî Sernavan Diqulipîne</string>
+    <string name="add_heads_up_blacklist_summary">Serokên Ji Van Serlêdanan Vekişînin</string>
+    <string name="heads_up_stoplist_title">Staylist</string>
+    <string name="heads_up_blacklist_title">Lîsteya Lîstikê</string>
+    <string name="profile_choose_app">App Hilbijêrin</string>
+    <string name="dialog_delete_title">Lûleêkirin</string>
+    <string name="dialog_delete_message">Tiştê Bijartî Hilweşînin?</string>
+
+    
+    <string name="heads_up_time_out_title">Başim</string>
+    <string name="heads_up_time_out_summary">Nîşaneyên Peeking Dê Ji Bo Nîşan Bidin<ns0:g id="number">%d</ns0:g> seconds</string>
+    <string name="heads_up_time_out_2sec">2 Seconds</string>
+    <string name="heads_up_time_out_4sec">4 Seconds</string>
+    <string name="heads_up_time_out_5sec">5 Seconds</string>
+    <string name="heads_up_time_out_6sec">6 Seconds</string>
+    <string name="heads_up_time_out_8sec">8 Seconds</string>
+    <string name="heads_up_time_out_10sec">10 Seconds</string>
+
+    
+    <string name="heads_up_snooze_title">Snooze Timer</string>
+    <string name="heads_up_snooze_summary_one_minute">Swiping Up On The Notifications Peeking Dê 1 Hûrdeman Ji Wê Serlêdanê Rabe</string>
+    <string name="heads_up_snooze_summary">Swiping Li Ser Agahdariya Pez Dê Serê Xwe Ji Wê Serlêdanê Derxe<ns0:g id="number">%d</ns0:g> minutes</string>
+    <string name="heads_up_snooze_disabled_summary">Snooze Timer Neçalak E</string>
+    <string name="heads_up_snooze_1min">1 Hûrdem</string>
+    <string name="heads_up_snooze_5min">5 Hûrdem</string>
+    <string name="heads_up_snooze_10min">10 Hûrdem</string>
+    <string name="heads_up_snooze_15min">15 Hûrdem</string>
+    <string name="heads_up_snooze_20min">20 Hûrdem</string>
+    
+    
+    <string name="volume_button_music_control_title">Kontrola Playback</string>
+    <string name="volume_button_music_control_summary">Dema Ku Dîmen Betal E, Bişkojkên Mezinahiya Mezinahî Dê Tracks Music</string>
+    
+    
+    <string name="volume_rocker_wake_title">Volume Wake</string>
+    <string name="volume_rocker_wake_summary">Amûra Xwe Hişyar Bikin Ku Bişkojkên Volume</string>
+    
+    
+    <string name="volume_answer_call_title">وەڵامدانەوەی پەیوەندی</string>
+    <string name="volume_answer_call_summary">وەڵامدانەوەی پەیوەندییەکان لەڕێگای داگرتنی دوگمەکانی دەنگەوە</string>
+    
+    
+    <string name="pulse_help_policy_notice_title">دەربارەی Pulse</string>
+    <string name="pulse_help_policy_notice_summary">ڕێکخەرێکی بلیمەتی ئاوازی دەنگە کاتێ میوزیکێک لە مۆبایلەکەوە لێدەدرێ</string>
+    <string name="pulse_settings">Pulse</string>
+    <string name="pulse_settings_summary">Audio graphic equalizer for navigation bar and lockscreen</string>
+    <string name="show_navbar_pulse_title">Navbar Pulse</string>
+    <string name="show_navbar_pulse_summary">Audio graphic equalizer on the navigation bar</string>
+    <string name="show_lockscreen_pulse_title">Lockscreen Pulse</string>
+    <string name="show_lockscreen_pulse_summary">Audio graphic equalizer on the lockscreen</string>
+    <string name="show_ambient_pulse_title">Ambient Pulse</string>
+    <string name="show_ambient_pulse_summary">Audio graphic equalizer on the ambient screen</string>
+    <string name="pulse_render_mode_title">Render mode</string>
+    <string name="pulse_render_mode_fading_bars">Fading blocks</string>
+    <string name="pulse_render_mode_solid_lines">Solid lines</string>
+    <string name="pulse_legacy_mode_advanced_category">Fading blocks mode settings</string>
+    <string name="pulse_custom_fudge_factor">Sanity level</string>
+    <string name="pulse_lavalamp_speed_title">Lava lamp speed</string>
+    <string name="pulse_solid_units_count">Solid lines count</string>
+    <string name="pulse_solid_units_opacity">Solid lines opacity</string>
+    <string name="pulse_solid_dimen_category">Solid lines mode settings</string>
+    <string name="pulse_color_mode_title">ڕەنگ</string>
+    <string name="pulse_color_accent">شێوە</string>
+    <string name="pulse_color_custom">دڵخواز</string>
+    <string name="pulse_color_lava_lamp">Lava lamp</string>
+    <string name="pulse_color_user_title">ڕەنگ هەڵبژێرە</string>
+    <string name="pulse_color_auto">Album</string>
+    <string name="pulse_smoothing_enabled_title">Turn on smoothing</string>
+    <string name="pulse_smoothing_enabled_summary">Each bar is animated more smoothly</string>
+    <string name="pulse_custom_dimen">Bar width</string>
+    <string name="pulse_custom_div">Bar spacing</string>
+    <string name="pulse_filled_block_size">Block size</string>
+    <string name="pulse_empty_block_size">Block spacing</string>
+    <string name="pulse_solid_units_rounded_title">Rounded corners</string>
+    <string name="pulse_solid_units_rounded_summary">Solid lines with rounded tip</string>
+
+    
+    <string name="pulse_custom_gravity_title">Qaweta Kişanê</string>
+    <string name="pulse_custom_gravity_bottom">Erd</string>
+    <string name="pulse_custom_gravity_top">Kop</string>
+    <string name="pulse_custom_gravity_center">Navîne</string>
+    <string name="visualizer_center_mirrored_title">Navend Mir Mir</string>
+    <string name="visualizer_center_mirrored_summary">Di Moda Mirîdê Mirî De Visualizer Bicîh Bikin</string>
+    <string name="pulse_vertical_mirror_title">Mîrza Vertical</string>
+    <string name="pulse_vertical_mirror_summary">Pulse Din Biafirînin Û Verast Bikin</string>
+
+    
+    <string name="pocket_mode">Mode Pocket</string>
+    <string name="pocket_mode_summary">Dema Ku Amûrek Di Piyalê De Ye, Inputên Ekranê Asteng Bikin</string>
+    
+    
+    <string name="status_bar_notif_count_title">Hejmartina Agahdariyê</string>
+    <string name="status_bar_notif_count_summary">Hejmara Agahdariya Nexwendî Li Ser Her Îkonê App</string>
+
+    
+    <string name="mic_camera_privacy_indicator_title">Mic and camera privacy indicator</string>
+    <string name="mic_camera_privacy_indicator_summary">Show separate indicator when any app uses mic or camera</string>
+    <string name="location_privacy_indicator_title">Location privacy indicator</string>
+    <string name="location_privacy_indicator_summary">Show separate indicator when any app uses location</string>
+    <string name="projection_privacy_indicator_title">Media projection privacy indicator</string>
+    <string name="projection_privacy_indicator_summary">Show indicator when device screen is projected</string>
+    
+    
+    <string name="battery_bar_title">Battery bar</string>
+    <string name="battery_bar_summary">Display and customize battery bar above status bar</string>
+    <string name="battery_bar_color">ڕەنگ</string>
+    <string name="battery_bar_charging_color">ڕەنگی بارگاوی</string>
+    <string name="battery_bar_battery_low_color">Low battery color</string>
+    <string name="battery_bar_style_title">Alignment</string>
+    <string name="battery_bar_thickness_title">Thickness</string>
+    <string name="battery_bar_animate_title">Charging animation</string>
+    <string name="battery_bar_style_regular">Regular</string>
+    <string name="battery_bar_style_center_mirrored">Center-mirrored</string>
+    <string name="battery_bar_style_reversed">Reversed</string>
+    <string name="battery_bar_use_charging_color">Custom charging color</string>
+    <string name="battery_bar_blend_color_title">Blend colors</string>
+    <string name="battery_bar_blend_color_summary">Blend full/empty colors corresponding to battery percentage</string>
+    <string name="battery_bar_blend_color_reverse_title">Reverse color direction</string>
+    <string name="battery_bar_blend_color_reverse_summary_off">Full → empty: red ← green ← blue ← red</string>
+    <string name="battery_bar_blend_color_reverse_summary_on">Full → empty: red → green → blue → red</string>
+
+    
+    <string name="network_traffic_state_title">Nîşana Trafîkê Ya Torê</string>
+    <string name="network_traffic_state_summary">Di Barika Statûyê De Nîşana Bilez A Torê Çalak Bikin An Nekêş Bikin</string>
+    <string name="network_traffic_title">Nîşana Trafîkê Ya Torê</string>
+    <string name="network_traffic_master_switch_title">Nîşana Trafîkê Ya Torê Bikar Bînin</string>
+    <string name="network_options_title">Vebijarkên</string>
+    <string name="network_traffic_autohide_title">Heke Neçalak Be Nîşana Trafîkê Ya Torê Veşêrin</string>
+    <string name="network_traffic_autohide_summary">شاردنەوەی چاودێری ترافیکی کاتێ هیچ چالاکییەک نەبوو</string>
+    
+    
+    <string name="ambient_text_category">Xizmetkirina Nivîsê</string>
+    <string name="ambient_image_category">Xizmetkirina Wêneyê</string>
+    <string name="ambient_text_category_summary">Xweşkirina Çavkaniyên Ambient-Aod</string>
+    <string name="ambient_text_title">Nivîsa Ambar</string>
+    <string name="ambient_text_summary">Nivîsara Hawîrdorê Li Aod Nîşan Bide</string>
+    <string name="ambient_text_animation_title">Animation Nivîsarek Amid</string>
+    <string name="ambient_text_animation_summary">Dema Ku Aod Nîşan Bide Anîmasyon Nîşan Bide</string>
+    <string name="ambient_text_size_title">Mezinahiya Nivîsarê Ya Hawîrdorê</string>
+    <string name="ambient_text_font_title">Font Text Aux</string>
+    <string name="ambient_text_string_title">Nivîsa Ambargoyê Saz Bikin</string>
+    <string name="ambient_text_align_title">Nivîsa Ambar A Align</string>
+    <string name="ambient_text_align_start_top">Rast N Top</string>
+    <string name="ambient_text_align_start_center">Rast N Center</string>
+    <string name="ambient_text_align_start_bottom">Rast Û Jêrîn</string>
+    <string name="ambient_text_align_center">Navîne</string>
+    <string name="ambient_text_align_end_top">Çep N Top</string>
+    <string name="ambient_text_align_end_center">Çep N Navenda</string>
+    <string name="ambient_text_align_end_bottom">Çep N Li Jêr</string>
+    <string name="ambient_text_type_color_title">Rengê Nivîsê Ya Ambient</string>
+    <string name="ambient_text_color_title">Rengê Nivîsê Ya Hawîrdorê</string>
+    <string name="ambient_notification_light_color_mode_accent">Rengê Pergalê</string>
+    <string name="ambient_notification_light_color_mode_custom">Rengê Xwerû</string>
+    <string name="ambient_notification_light_color_mode_wall">Wallpaper Color</string>
+    <string name="ambient_image_title">Wêneyê Amid</string>
+    <string name="file_header_select_title">Wêneyê Herêmî Hilbijêrin</string>
+    <string name="file_header_select_summary">Wêneyê Ji Hilanînê Hilbijêrin</string>
+    
+    
+    <string name="qs_compact_media_player_mode_title">Qs Media Player</string>
+    <string name="qs_compact_media_player_mode_summary">Ji Bo Lîstikvanê Medya Quicksettings Model Çalak Bikin</string>
+
+    
+    <string name="smart_pixels_warning_text">Smart pixels is a power saving feature. Depending on how many pixels you decide to turn off, you could see improvement in battery life.</string>
+    <string name="smart_pixels_title">Smart Pixels</string>
+    <string name="smart_pixels_summary">Save battery by shutting off extra pixels</string>
+    <string name="smart_pixels_enable_title">Enable Smart Pixels</string>
+    <string name="smart_pixels_enable_summary">Shut off pixels to reduce power consumption</string>
+    <string name="smart_pixels_on_power_save_title">Auto-enable on battery saver</string>
+    <string name="smart_pixels_on_power_save_summary">Enable Smart Pixels when battery saver is enabled</string>
+    <string name="smart_pixels_percent">Percent of pixels to disable</string>
+    <string name="smart_pixels_shift_title">Burn-in protection</string>
+    <string name="smart_pixels_shift_summary">Prevents burn-in on OLED devices by shifting pixels every so often</string>
+    
+    
+    <string name="custom_timeout_summary_never">هەرگیز</string>
+    <string name="custom_timeout_summary_15secs">15 چرکە</string>
+    <string name="custom_timeout_summary_30secs">30 چرکە</string>
+    <string name="custom_timeout_summary_1min">١ خوله‌ک</string>
+    <string name="custom_timeout_summary_2mins">2 خوله‌ک</string>
+    <string name="custom_timeout_summary_5mins">5 خوله‌ک</string>
+    <string name="custom_timeout_summary_10mins">10 خوله‌ک</string>
+    <string name="custom_timeout_summary_20mins">20 minutes</string>
+    <string name="custom_timeout_summary_30mins">30 minutes</string>
+    <string name="custom_timeout_summary_1hour">1 hour</string>
+    <string name="custom_timeout_summary_2hours">2 hours</string>
+    
+    
+    <string name="pulse_on_new_tracks_title">Music ticker</string>
+    <string name="pulse_on_new_tracks_summary">Show music ticker on Ambient Display during track change</string>
+
+    
+    <string name="screen_off_animation_title">Screen off animation</string>
+    <string name="screen_off_animation_default">بنەڕەتی</string>
+    <string name="screen_off_animation_crt">CRT</string>
+    <string name="screen_off_animation_scale">Scale</string>
+
+    
+    <string name="system_charging">Vebijarkên Dravkirina Pergalê</string>
+    <string name="charging_animation_bg_title">Daxistina Paşîn</string>
+    <string name="charging_animation_bg_summary">Vebijêrin Ku Vê Vebijarkê Dê Paşxanê Li Ser Anîmasyona Pergalê Ji Reş Re Bike</string>
+    
+    
+    <string name="hide_screen_capture_status_title">Rewşa Kişandina Ekranê Veşêrin</string>
+    <string name="hide_screen_capture_status_summary">Ji Hemî Serlêdanan Re Statûya Ekranê Û Dîmenderê Veşêrin.Dikare Di Hin Rewşan De Hêsantir Be Lê Dibe Ku Rê Li Ber Lepên Nepenî Bibe.Hewce Ye Ku Ji Bo Guheztina Guhertinê Serlêdanan Ji Nû Ve Bidin Destpêkirin.</string>
+
+    
+    <string name="no_storage_restrict_title">Sînorkirina Hilanînê Tune</string>
+    <string name="no_storage_restrict_summary">Dema Ku Peldankan Di Çarçoveya Gihîştina Hilanînê De Bi Sînorkirin Rakirin.Dikare Di Hin Rewşan De Hêsantir Be Lê Dibe Ku Rê Li Ber Lepên Nepenî Bibe.</string>
+    
+    
+    <string name="hide_developer_status_title">Rewşa Pêşdebiran Veşêrin</string>
+    <string name="hide_developer_status_summary">Ji Bo Kontrolkirina Statûya Modêla Adb Û Pêşkêşkerê Pêşkêşan Bigirin</string>
+    <string name="search">Gerr</string>
+    <string name="search_apps">Serlêdanên Lêgerînê</string>
+
+    
+    <string name="spoof_storage_encryption_status_title">Bikaranîna Şîfrekirina Hilanînê Bikar Bînin</string>
+    <string name="spoof_storage_encryption_status_summary">Rewşa Şîfrekirinê Ya Hilanînê Ya Spoof</string>
+    
+    
+    <string name="media_controls_always_show_time_title">Media Show Time</string>
+    <string name="media_controls_always_show_time_summary">Her Gav Li Ser Medyayê Derbasbûn Û Total Bi Giştî Nîşan Bidin</string>
+    <string name="media_controls_squiggle_title">Pêşkeftina Squiggly</string>
+    <string name="media_controls_squiggle_summary">Barê Pêşveçûnê Li Ser Media Player \ Nrequires Systemui Destpêkirin Destpêkirin</string>
+    <string name="media_controls_actions_title">Çalakiyên Xwerû Sînorkirin</string>
+    <string name="media_controls_actions_summary">Hejmara Herî Zêde Ya Bişkokên Ku Serlêdan Têne Destûr Kirin Ku Player Zêde Bikin</string>
+    <string name="media_controls_time_as_next_title">Demjimêra Paşîn / Berê</string>
+    <string name="media_controls_time_as_next_summary">Bişkojên Din / Berê Veşêrin Û Ji Bo Wê Li Şûna Wê Her Gav Destnîşan Bikin</string>
+    <string name="media_controls_ripple_title">Bandorên Ripple</string>
+    <string name="media_controls_ripple_summary">Dema Ku Têkiliya Bi Kontrolên Medyayê Re Têkiliyên Ripple Kontrol Bikin</string>
+    <string name="media_controls_turbulence_title">Bandora Turbulansê</string>
+    <string name="media_controls_turbulence_summary">Bandora Turbulence Ji Bo Kontrola Medya Dînamîkî Çalak Bike</string>
+    
+    
+    <string name="enable_fingerprint_ripple_effect_title">Ripple effect</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Show ripple effect on unlock with fingerprint</string>
+    
+    <string name="ambient_display_always_on_title">Herdem Li Ser</string>
+    <string name="ambient_display_always_on_summary">Wext Nîşan Bide, Îkonên Agahdariyê, Û Agahdariya Din.Karanîna Batterê Zêde Kir.</string>
+
+    
+    <string name="ambient_ui">Amid Batterbarbar</string>
+    <string name="ambient_battery_settings_title">Aod Battery Bar</string>
+    <string name="ambient_battery_settings_summary">Li Ser Ekrana Hawîrdorê Barkêşek Batterê Nîşan Bide</string>
+    <string name="keyguard_show_battery_title">Barika Batterê Dema Barkirinê</string>
+    <string name="keyguard_show_battery_summary">Dema Ku Barkirina Baranê Li Ser Ekrana Ampkirinê Nîşan Bide</string>
+    <string name="keyguard_show_battery_always_title">Her Gav Bar Baterî Nîşan Bide</string>
+    <string name="keyguard_show_battery_always_summary">Her Gav Li Ser Ekrana Hawîrdorê Barek Baterî Nîşan Bide</string>
+    <string name="keyguard_batterybar_color_source">Çavkaniya Rengê Bar</string>
+    <string name="keyguard_batterybar_custom_color">Rengê Barkirina Baterî</string>
+    <string name="keyguard_batterybar_white">Spî (Default)</string>
+    <string name="keyguard_batterybar_accent">Rengê Accent</string>
+    <string name="keyguard_batterybar_custom">Hûnbunî</string>
+    
+    
+    <string name="incall_vibration_category">In-call vibration options</string>
+    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
+    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
+    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
+
+    
+    <string name="incall_category">Vebijarkên Di-Banga</string>
+    <string name="flashlight_on_call_title">Blink flashlight for incoming call</string>
+    <string name="flashlight_on_call_disabled">ناچالاکه‌</string>
+    <string name="flashlight_on_call_ringer">When ringing</string>
+    <string name="flashlight_on_call_no_ringer">When ringer is silent</string>
+    <string name="flashlight_on_call_silent">When entirely silent (no ringer or vibrator)</string>
+    <string name="flashlight_on_call_always">هەمیشە</string>
+    <string name="flashlight_on_call_ignore_dnd_title">Ignore DND</string>
+    <string name="flashlight_on_call_ignore_dnd_summary">Whether to flash when Do Not Disturb mode is active</string>
+    <string name="flashlight_on_call_rate_title">Blink rate</string>
+    <string name="flashlight_on_call_rate_summary">Flashlight Li Ser Rêjeya Blind Blink</string>
+
+    
+    <string name="qs_colored_icons_title">Îkonên Ragihandina Qs Rengîn</string>
+    <string name="qs_colored_icons_summary">Li Şûna Îkonên Monochrome Îkonê Rengîn Nîşan Bidin</string>
+
+    
+    <string name="depth_wallpaper_category">Dîwarê Kûr</string>
+    <string name="dw_file_header_select_title">Mijara Dîwarê Dîwarê Hilbijêrin</string>
+    <string name="dw_file_header_select_summary">Hilbijartina Dîwarê Dîwarê Wêneyê Wêneyê Ji Hilanînê.</string>
+    <string name="dw_wallpaper_enabled_title">Dîwarê Kûr</string>
+    <string name="dw_wallpaper_enabled_summary">Dîwarê Kûrahiya Ios-Inspired Çalak Bikin.Wêneyek Mijarê Hewce Dike.</string>
+    <string name="dw_wallpaper_opacity_title">Kêmasiya Wallpaper Deft</string>
+
+    
+    <string name="revamped_aosp_style">Revamped Aosp Ui Style</string>
+    <string name="rui_style">Realme Ui Style</string>
+    <string name="stock_style">Stock Ui Style</string>
+    <string name="double_layer_style">Şêwaza Dualî</string>
+    <string name="gradient_style">Şêwaza Gradient</string>
+    <string name="neumorph_style">Styleêwaza Neumph</string>
+    <string name="neumorph_outline_style">Neumph Styleline</string>
+    <string name="outline_style">Şêwaza Derveyî</string>
+    <string name="shaded_layer_style">Şêwaza Layer Ya Şilandî</string>
+    <string name="volume_style_title">Stranên Panelê Volume</string>
+    
+    
+    <string name="charging_animation_title">Charging animation</string>
+    <string name="charging_animation_summary">Display an animation when the device is plugged in</string>
+
+    
+    <string name="doze_on_charge_title">Always show when charging</string>
+    <string name="doze_on_charge_summary">Display device is charging</string>
+    
+    
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
+
+     
+     <string name="weather_category_title">Hewa</string>
+     <string name="weather_settings_title">Weather settings</string>
+     <string name="weather_settings_summary">Setup icon pack and weather service</string>
+     <string name="lockscreen_weather_title">Weather update</string>
+     <string name="lockscreen_weather_summary">Display current weather update</string>
+     <string name="lockscreen_weather_enabled_info">Requires weather service to be enabled</string>
+     <string name="lockscreen_weather_location_title">Current location</string>
+     <string name="lockscreen_weather_location_summary">Display current weather location</string>
+     <string name="lockscreen_weather_text_title">Current condition</string>
+     <string name="lockscreen_weather_text_summary">Display current weather condition summary</string>
+     
+     
+    <string name="lockscreen_clock_colored_title">Demjimêra Rengîn</string>
+    <string name="lockscreen_clock_colored_summary_on">Rengê Demjimêrê Ji Monet Bandor Dibe</string>
+    <string name="lockscreen_clock_colored_summary_off">Rengê Demjimêr Her Gav Reş An Spî Ye</string>
+    <string name="clock_luminance_title">Clock Lumince</string>
+    <string name="clock_luminance_summary">Ronahiya Rengê Rengê Rengîn Bikin</string>
+    
+    
+    <string name="custom_clock_top_margin_title">Lockscreen Clock Bottom Spacing</string>
+    
+    
+    <string name="disable_qs_title">Hide QS on secure lock screen</string>
+    <string name="disable_qs_summary">Prevent access to QS tiles on secure lock screen</string>
+    
+    
+    <string name="qstile_requires_unlocking_title">Qs Tilên Qs Secure</string>
+    <string name="qstile_requires_unlocking_summary">Pêdivî Ye Ku Vekişandin Ji Bo Karanîna Tiliyên Hesas Ên Hesas Bikar Bînin</string>
+
+    
+    <string name="notification_material_dismiss_title">Clear all notification button</string>
+    <string name="notification_material_dismiss_summary">Replace clear all notification text with material style floating button</string>
+    
+    
+    <string name="qs_dual_tone_title">Dual tone themed</string>
+    <string name="qs_dual_tone_summary">Use dual tone background colors instead of AOSP single tone</string>
+    
+    
+    <string name="wallpaper_blur_title">Wallpaper Blur</string>
+    <string name="wallpaper_blur_summary">Bandora Blur Ya Wallpaper Çalak Bikin An Nekêş Bikin</string>
+
+    
+    <string name="udfps_category">Udfps</string>
+    <string name="udfps_settings_title">UDFPS customization</string>
+    <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
+
+    
+    <string name="screen_off_udfps_title">Screen off UDFPS</string>
+    <string name="screen_off_udfps_summary">Keep UDFPS enabled when the screen is off</string>
+
+    
+    <string name="udfps_icon_picker_title">UDFPS icon picker</string>
+    <string name="udfps_icon_picker_summary">Choose your favorite fingerprint icon</string>
+
+    
+    <string name="udfps_recog_animation_effect_title">UDFPS custom animation</string>
+    <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
+
+    
+    <string name="fprint_success_vib_title">Vibration Vibration Tilpirt</string>
+    <string name="fprint_success_vib_summary">Vibrate Li Ser Nasnameya Tiliya Serkeftinê Ya Serkeftin</string>
+    <string name="fprint_error_vib_title">Vibrationewtiya Çewtiya Tiliyê</string>
+    <string name="fprint_error_vib_summary">Vibrate Li Ser Rastnivîsandina Tiliya Tiliya Çewtiyê</string>
+    
+    
+    <string name="notification_sound_vib_screen_on_title">Noisy notifications</string>
+    <string name="notification_sound_vib_screen_on_summary">Play sound and vibration for notifications when screen is on</string>
+    
+    
+    <string name="spoofing_title">Spoofing</string>
+    <string name="spoofing_title_summary">Spoof Wekî Amûrek Cûda Ji Bo Vekirina Taybetmendiyên Serlêdanê</string>
+    <string name="all_props_title">Vebijarkên Spoof Çalak Bikin</string>
+    <string name="all_props_summary">Hemî Vebijarkên Spoofê Di Nav Pixelprops De Dihêle</string>
+    <string name="google_spoof_title">Sepanên Google Yên Spoof</string>
+    <string name="google_spoof_summary">Spoofs Google Apps To Pixel 9 Pro Xl Hilbijart</string>
+    <string name="google_spoof_option_disabled">Vebijarkên Google Apps Spoofing Ji Hêla Amûrê Heyî Ve Ne Hewce Ye</string>
+    <string name="gms_spoof_title">Gms Spoof Çalak Bikin</string>
+    <string name="gms_spoof_summary">Amûra We Ya Spoof Ji Bo Derbasbûna Google Play</string>
+    <string name="gameprops_title">Di Lîstikan De Fps Bilindtir Vebikin</string>
+    <string name="gameprops_summary">Modela Cîhaza We Ji Bo Lîstikan Bi Cîhazek Flagship Re Spoof Dike</string>
+    <string name="gameprops_load_json_title">Dosya Json-Ê Ya Custom Custom Custom (Vebijarkî)</string>
+    <string name="gameprops_load_json_summary">Ger Hûn Bixwazin Lîstikên Spoof Ên Xwestekên Xweyê Cîhaza Xwestinê Bikin, Pelên Lîstikên Xwerû Hilbijêrin</string>
+    <string name="pif_spoofing_title">Pelê Pif Json-Ê Ya Custom Hilbijêrin</string>
+    <string name="pif_spoofing_summary">Pelê Pif Json Pelê Hilbijêrin Ku Ji Bo Yekrêziya Lîstika Spoofing Bikar Bînin</string>
+    
+    <string name="use_photos_spoof_title">Unlimited Photos storage</string>
+    <string name="use_photos_spoof_summary">Spoof your device as Pixel XL for Google Photos app only to provide unlimited storage for backup</string>
+    <string name="use_games_spoof_title">Unlock higher FPS in games</string>
+    <string name="use_games_spoof_summary">Spoof your device as different model for specific games to unlock higher FPS</string>   
+    <string name="spoof_option_disabled">Nexşeya Pixelprops Spoofing Ji Hêla Amûrê Heyî Ve Nayê Piştgirî Kirin</string>
+    <string name="netflix_spoof_title">Netflix spoof</string>
+    <string name="netflix_spoof_summary">Spoof your device as different model for Netflix</string>
+    
+    
+    <string name="toast_spoofing_failure">Nekariye Taybetmendiyên Spoof.</string>
+    <string name="update_pif_json_title">Play Play Sightact Bikin</string>
+    <string name="update_pif_json_summary">Amûra Pif Spoofing Nûve Bikin, Pêwendiya Înternetê Hewce Dike.</string>
+    <string name="show_pif_properties_title">Taybetmendiyên Rastîn Ên Yekbûnê Lîstin</string>
+    <string name="show_pif_properties_summary">Hemû Taybetmendiyên Pif-Ê Destnîşan Bikin</string>
+    <string name="error_loading_properties">Error Barkirina Taybetmendiyên Pif</string>
+     
+     
+    <string name="ambient_edge_light_action_title">Ronahiya Dîdyoya Amûr</string>
+    <string name="ambient_edge_light_title">Ronahiya Edge</string>
+    <string name="ambient_edge_light_enable_title">Ronahiya Edge</string>
+    <string name="ambient_edge_light_enable_summary">Toggle Ku Ronahiya Tîrêjê Çalak Bike</string>
+    <string name="ambient_edge_light_summary">Li Ser Pulseya Agahdariyê Li Ser Ekranê Aliyê Dîmenderê Ronî Bikin</string>
+    <string name="ambient_edge_light_color_mode_category_title">Reng</string>
+    <string name="ambient_edge_light_color_mode_auto">Auto</string>
+    <string name="ambient_edge_light_color_mode_app">Rengê App</string>
+    <string name="ambient_edge_light_color_mode_manual">Destî</string>
+    <string name="ambient_edge_light_advanced_category_title">Pêşveçû</string>
+    <string name="ambient_edge_light_duration_title">Demjimêrê Sivik</string>
+    <string name="ambient_edge_light_repeat_count_title">Hejmartin Dubare Bikin</string>
+    <string name="ambient_edge_light_width_title">Berfirehiya Sivik</string>
+    <string name="ambient_edge_light_face_down_title">Flip To Activate</string>
+    <string name="ambient_edge_light_face_down_summary">Ronahiya Edge Tenê Gava Ku Têlefon Fetace Ye</string>
+    <string name="ambient_edge_light_layout_title">Dîtina Ronahiyê</string>
+    <string name="ambient_edge_light_layout_solid">Liserxwe</string>
+    <string name="ambient_edge_light_layout_faded">Navgîn Kirin</string>
+    
+    
+    <string name="island_notification_title">Island notification</string>
+    <string name="island_notification_summary">Display heads-up notification in Dynamic Island style</string>
+    <string name="island_notification_now_playing_title">Now playing</string>
+</resources>

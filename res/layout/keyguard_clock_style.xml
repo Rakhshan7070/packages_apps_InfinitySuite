@@ -1,0 +1,133 @@
+<com.infinity.suite.fragments.ClockStyle
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_default"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout="@layout/keyguard_clock_default"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_oos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout="@layout/keyguard_clock_oos"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_ios"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout="@layout/keyguard_clock_ios"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_cos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout="@layout/keyguard_clock_cos"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_custom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout="@layout/keyguard_clock_custom"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_custom1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout="@layout/keyguard_clock_custom_1"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_custom2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout="@layout/keyguard_clock_custom_2"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_custom3"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:gravity="center_vertical"
+        android:layout="@layout/keyguard_clock_custom_3"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_miui"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout="@layout/keyguard_clock_miui"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_ide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:layout="@layout/keyguard_clock_ide"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_fluid"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout="@layout/keyguard_clock_fluid"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_hyper"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout="@layout/keyguard_clock_hyper"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_dual"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout="@layout/keyguard_clock_dual"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_stylish"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout="@layout/keyguard_clock_stylish"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_sidebar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:layout="@layout/keyguard_clock_sidebar"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_minimal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout="@layout/keyguard_clock_minimal"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_minimal2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout="@layout/keyguard_clock_minimal2"/>
+
+    <ViewStub
+        android:id="@+id/keyguard_clock_style_minimal3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout="@layout/keyguard_clock_minimal3"/>
+
+</com.infinity.suite.fragments.ClockStyle>

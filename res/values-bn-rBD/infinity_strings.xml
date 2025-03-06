@@ -1,0 +1,864 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2">
+
+    
+
+    
+    <string name="button_title">বাটন</string>
+    <string name="gestures_title">জেসচারগুলি</string>
+    <string name="lockscreen_title">লক স্ক্রিন</string>
+    <string name="misc_title">বিবিধ</string>
+    <string name="navbar_title">নেভিগেশন বার</string>
+    <string name="powermenu_title">পাওয়ার মেনু</string>
+    <string name="quicksettings_title">দ্রুত সেটিংস</string>
+    <string name="themes_title">থিম</string>
+    <string name="statusbar_title">স্ট্যাটাস বার</string>
+    <string name="notifications_title">বিজ্ঞপ্তি</string>
+    <string name="ambient_text_category_title">অ্যাম্বিয়েন্ট-অড কাস্টমাইজেশন</string>
+    <string name="monet_title">মনেট সেটিংস</string>
+    <string name="fingerprint_category">আঙুলের ছাপ</string>
+
+    
+    <string name="ok">ওকে</string>
+    <string name="reset">রিসেট</string>
+    <string name="cancel">বাতিল করুন</string>
+    <string name="save">সংরক্ষণ করুন</string>
+    
+    
+    <string name="notif_title">বিজ্ঞপ্তি</string>
+    <string name="power_title">পাওয়ার মেনু</string>
+    <string name="gesture_title">অঙ্গভঙ্গি</string>
+
+     
+     <string name="unit_seconds">সেকেন্ড</string>
+     <string name="unit_milliseconds">মিলিসেকেন্ড</string>
+     <string name="unit_pixels">ডিপি</string>
+    
+    
+    <string name="team_title">দল সম্পর্কে</string>
+    
+    
+    <string name="lead_devs">নেতৃত্ব বিকাশকারী</string>
+    <string name="honorable_mentions">সম্মানজনক উল্লেখ</string>
+    <string name="designers">প্রকল্প ডিজাইনার</string>
+    
+    
+    <string name="general_category">সাধারণ</string>
+    <string name="media_category">মিডিয়া প্যানেল</string>
+    <string name="statusbar_icons">আইকন</string>
+    <string name="pocket_category">পকেট</string>
+    
+    
+    <string name="statusbar_items_title">স্ট্যাটাস বার আইএমএসইএমএস</string>
+    <string name="statusbar_items_summary">স্ট্যান্ডহ্যান্ডেবল আইটেম টিউন করুন</string>
+    
+    
+    <string name="qs_quick_pulldown">দ্রুত কিউএস পুলডাউন</string>
+    <string name="quick_pulldown_none">অক্ষম</string>
+    <string name="quick_pulldown_right">ডান দিক থেকে পুলডাউন স্ট্যাটাসবার</string>
+    <string name="quick_pulldown_left">বাম দিক থেকে পুলডাউন স্ট্যাটাসবার</string>
+    
+    
+    <string name="power_menu_title">পাওয়ার মেনু</string>
+    <string name="power_menu_title_summary">পাওয়ার মেনু এন্ট্রি দেখুন বা পরিবর্তন করুন</string>
+    <string name="powermenu_screenshot">স্ক্রিনশট</string>
+    <string name="powermenu_power">শক্তি</string>
+    <string name="powermenu_advanced">উন্নত রিবুট বিকল্প</string>
+    <string name="powermenu_restart">পুনরায় চালু করুন</string>
+    <string name="powermenu_airplane">বিমান</string>
+    <string name="powermenu_settings">সেটিংস</string>
+    <string name="powermenu_lockdown">লকডাউন</string>
+    <string name="powermenu_soundpanel">সাউন্ড প্যানেল</string>
+    <string name="powermenu_users">ব্যবহারকারীরা</string>
+    <string name="powermenu_logout">লগআউট</string>
+    <string name="powermenu_emergency">জরুরী</string> 
+    
+    
+    <string name="lockscreen_enable_power_menu_title">পাওয়ার তালিকা</string>
+    <string name="lockscreen_enable_power_menu_summary">নিরাপদ লকস্ক্রিনে ফোন বন্ধ করার মেনু চালু বা বন্ধ করুন</string>
+          
+    
+    <string name="system_navigation_summary">নেভিগেশন মেনুগুলি কনফিগার করুন</string>
+    
+    
+    <string name="monet_engine_custom_color_title">একসেন্ট কালার</string>
+    <string name="monet_engine_custom_color_summary">আ্যকসেন্টের জন্য কাস্টম কালার পছন্দ করুন</string>
+    <string name="monet_engine_custom_bgcolor_title">পটভূমির রঙ</string>
+    <string name="monet_engine_custom_bgcolor_summary">ব্যাকগ্রাউন্ডের জন্য কাস্টম কালার পছন্দ করুন</string>
+    <string name="monet_engine_color_override_title">পছন্দসই রঙ</string>
+    <string name="monet_engine_luminance_factor_title">উজ্জ্বলতা</string>
+    <string name="monet_engine_luminance_factor_summary">উচ্চ মান উজ্জ্বল রং উৎপাদন করে</string>
+    <string name="monet_engine_chroma_factor_title">ক্রোমা ফ্যাক্টর</string>
+    <string name="monet_engine_chroma_factor_summary">উচ্চ মান শক্তিশালী রং উৎপাদন করে</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
+    <string name="monet_engine_tint_background_title">রঙিন ব্যাকগ্রাউন্ড</string>
+    <string name="monet_engine_tint_background_summary">উজ্জ্বলতা এবং ক্রোমা নির্বাচন পটভূমির রঙগুলিকেও প্রভাবিত করে</string>
+    <string name="monet_engine_style_title">থিম স্টাইল</string>
+    <string name="monet_engine_style_tonal_spot">টোনাল স্পট (ডিফল্ট)</string>
+    <string name="monet_engine_style_vibrant">ভাইব্রেট</string>
+    <string name="monet_engine_style_expressive">অভিব্যক্তিপূর্ণ</string>
+    <string name="monet_engine_style_spritz">স্প্রিটজ</string>
+    <string name="monet_engine_style_rainbow">রংধনু</string>
+    <string name="monet_engine_style_fruit_salad">ফলের সালাদ</string>
+    <string name="monet_engine_style_monochromatic">Monochromatic</string>
+    <string name="monet_engine_color_source_title">রঙের উৎস</string>
+    <string name="monet_engine_color_source_both">উভয় (ডিফল্ট)</string>
+    <string name="monet_engine_color_source_home">হোম ওয়ালপেপার</string>
+    <string name="monet_engine_color_source_lock">লক ওয়ালপেপার</string>
+    <string name="monet_engine_color_source_preset">প্রিসেট</string>
+    
+    
+     <string name="theme_customization_font_title">ফন্ট স্টাইল</string>
+     <string name="theme_customization_font_summary">সিস্টেমের ফন্ট স্টাইল নির্বাচন করুন</string>
+     <string name="theme_customization_icon_pack_title">আইকন প্যাক</string>
+     <string name="theme_customization_icon_pack_summary">বিশেষ আইকন প্যাক স্টাইল ব্যবহার করুন</string>
+     <string name="theme_customization_icon_shape_title">আইকন আকৃতি</string>
+     <string name="theme_customization_icon_shape_summary">বিশেষ আইকন প্যাক স্টাইল ব্যবহার করুন</string>
+     <string name="theme_customization_signal_icon_title">সিগন্যাল আইকন স্টাইল</string>
+     <string name="theme_customization_signal_icon_summary">বিভিন্ন ধরনের সিগনাল আইকন</string>
+     <string name="theme_customization_wifi_icon_title">ওয়াই ফাই আইকন স্টাইল</string>
+     <string name="theme_customization_wifi_icon_summary">পছন্দসই ওয়াইফাই আইকন সেট করুন</string>
+     <string name="theme_customization_navbar_title">নেভবার স্টাইল</string>
+     <string name="theme_customization_navbar_summary">পছন্দসই নেভবার স্টাইল সেট করুন</string>
+     <string name="theme_customization_data_title">ডেটা আইকন স্টাইল</string>
+     <string name="theme_customization_data_summary">কাস্টম ডেটা আইকন স্টাইল সেট করুন</string>
+     <string name="theme_customization_lock_clock_title">ক্লক ফন্ট স্টাইল</string>
+     <string name="theme_customization_lock_clock_summary">Set lockscreen clock font style</string>
+          
+    
+     <string name="lockscreen_battery_info_title">ব্যাটারীর তথ্য</string>
+     <string name="lockscreen_battery_info_summary">চার্জ করার সময় ব্যাটারির তথ্য প্রদর্শন করুন</string>
+    
+        
+    <string name="status_bar_battery_category_title">ব্যাটারি কাস্টমাইজেশন</string>
+    <string name="status_bar_battery_style_title">ব্যাটারি স্টাইল</string>
+    <string name="status_bar_battery_style_summary">স্ট্যাটাসবার এবং কিউএস ব্যাটারি শৈলী</string>
+    <string name="status_bar_battery_style_icon_portrait">আইকন পোট্রেট</string>
+    <string name="status_bar_battery_style_icon_rlandscape">আইকন আড়াআড়ি থাকবে (ডানে)</string>
+    <string name="status_bar_battery_style_icon_landscape">আইকন আড়াআড়ি থাকবে (বামে)</string>
+    <string name="status_bar_battery_style_circle">বৃত্তাকার</string>
+    <string name="status_bar_battery_style_dotted_circle">বিন্দুবিন্দু বৃত্ত</string>
+    <string name="status_bar_battery_style_filled_circle">ভরাট বৃত্ত</string>
+    <string name="status_bar_battery_style_big_circle">বড় বৃত্ত</string>
+    <string name="status_bar_battery_style_big_dotted_circle">বড় বিন্দু বৃত্ত</string>
+    <string name="status_bar_battery_style_land_a">ল্যান্ডস্কেপ সহজভাবে</string>
+    <string name="status_bar_battery_style_land_b">ল্যান্ডস্কেপ নেনিন</string>
+    <string name="status_bar_battery_style_land_c">ল্যান্ডস্কেপ কালারস</string>
+    <string name="status_bar_battery_style_land_d">ল্যান্ডস্কেপ প্রেম</string>
+    <string name="status_bar_battery_style_land_e">ল্যান্ডস্কেপ বেসবল</string>
+    <string name="status_bar_battery_style_land_f">ল্যান্ডস্কেপ অর্ধেক ভরাট</string>
+    <string name="status_bar_battery_style_land_g">ল্যান্ডস্কেপ কিন্ডারগার্টেন বন্ধুত্বপূর্ণ</string>
+    <string name="status_bar_battery_style_land_h">ল্যান্ডস্কেপ মিউই</string>
+    <string name="status_bar_battery_style_land_i">ল্যান্ডস্কেপ বন্ধু</string>
+    <string name="status_bar_battery_style_land_j">ল্যান্ডস্কেপ স্ট্রিপ পাথ</string>
+    <string name="status_bar_battery_style_land_k">ল্যান্ডস্কেপ আইওএস চৌদ্দ</string>
+    <string name="status_bar_battery_style_land_l">ল্যান্ডস্কেপ আইওএস ষোল</string>
+    <string name="status_bar_battery_style_land_m">ল্যান্ডস্কেপ আইওএস রূপরেখা</string>
+    <string name="status_bar_battery_style_land_n">ল্যান্ডস্কেপ শাসক</string>
+    <string name="status_bar_battery_style_land_o">ল্যান্ডস্কেপ উইন্ডো</string>
+    <string name="status_bar_battery_style_text">টেক্সট</string>
+    <string name="status_bar_battery_style_hidden">লুকানো</string>
+    <string name="status_bar_battery_percent_title">ব্যাটারি পার্সেন্টেজ</string>
+    <string name="status_bar_battery_percent_hidden">লুকানো</string>
+    <string name="status_bar_battery_percent_text_inside">আইকনের ভিতরে</string>
+    <string name="status_bar_battery_percent_text_next_right">আইকনের পাশে (ডান দিকে)</string>
+    <string name="status_bar_battery_percent_text_next_left">আইকনের পাশে (বাম দিকে)</string>
+    <string name="status_bar_battery_text_charging_title">চার্জ করার সময় ব্যাটারির শতাংশ</string>
+    <string name="status_bar_battery_text_charging_summary">চার্জ করার সময় সর্বদা ব্যাটারির পার্সেন্টেজ প্রদর্শন করুন</string>
+
+    
+    <string name="qs_battery_category_title">কিউএস ব্যাটারি কাস্টমাইজেশন</string>
+    <string name="qs_use_status_bar_battery_style">স্ট্যাটাস বার স্টাইল অনুসরণ করুন</string>
+    
+    
+    <string name="color_default">ডিফল্ট</string>
+    <string name="custom_battery_charging_icon_title">আইকন চার্জিং</string>
+    <string name="custom_battery_charging_icon_summary">ব্যাটারির পাশে চার্জিং আইকন প্রদর্শন করুন</string>
+    <string name="custom_battery_charging_icon_style_title">আইকন স্টাইল চার্জিং</string>
+    <string name="custom_battery_charging_icon_wh_title">স্কেল প্রস্থ এবং উচ্চতা</string>
+
+    
+    <string name="custom_icon_charging_symbol_title">ব্যাটারি পাঠ্যের জন্য চার্জ প্রতীক</string>
+    <string name="custom_symbol_charging_default">ডিফল্ট (বোল্ট)</string>
+    <string name="custom_symbol_charging_type1">বায়োহাজার্ড</string>
+    <string name="custom_symbol_charging_type2">তারা</string>
+    <string name="custom_symbol_charging_type3">হাসি</string>
+    <string name="custom_symbol_charging_type4">পুনর্ব্যবহার</string>
+    <string name="custom_symbol_charging_type5">অনন্ত</string>
+    <string name="custom_symbol_charging_type6">সূর্য ফুল</string>
+    <string name="custom_symbol_charging_type7">টিয়ার ড্রিপ</string>
+    <string name="custom_symbol_charging_type8">তুষার</string>
+    <string name="custom_symbol_charging_type9">ট্রিপল টিল্ড</string>
+
+    
+    <string name="flip_batre_image_title">ব্যাটারি ইমেজ</string>
+    <string name="flip_batre_image_summary">ব্যাটারি চিত্রটি ফ্লিপ করুন</string>
+    <string name="flip_batre_title">ব্যাটারি লেআউট</string>
+    <string name="flip_batre_summary">ব্যাটারি লেআউটটি ফ্লিপ করুন</string>
+
+    
+    <string name="custom_battery_drawable_title">ব্যাটারি আঁকার উপর বিবিধ</string>
+    <string name="custom_battery_scaled_perimeter_alpha_title">স্কেলড পেরিমিটার আলফা</string>
+    <string name="custom_battery_scaled_perimeter_alpha_summary">স্কেলড পেরিমিটার আলফা ব্যবহার করুন</string>
+    <string name="custom_battery_scaled_fill_alpha_title">স্কেলড ব্যাক ফিল আলফা ব্যবহার করুন</string>
+    <string name="custom_battery_scaled_fill_alpha_summary">স্কেলড ব্যাক ফিল আলফা</string>
+    <string name="custom_battery_color_title">ব্যাটারি কাস্টম রঙ</string>
+    <string name="custom_battery_color_summary">ডিফল্ট মিশ্রণ রঙের জন্য #Ff000000 এ সেট করুন</string>
+    <string name="custom_battery_charging_color_title">রঙ পরিবর্তন</string>
+    <string name="custom_battery_fill_color_title">কাস্টম রঙ পূরণ করুন</string>
+    <string name="custom_battery_fill_grad_color_title">গ্রেডিয়েন্ট রঙ পূরণ করুন</string>
+    <string name="custom_battery_fill_grad_color_summary">গ্রেডিয়েন্ট অক্ষম করার জন্য #Ff000000</string>
+    <string name="custom_battery_powersave_color_title">পাওয়ারভের রঙ</string>
+    <string name="custom_battery_powersave_fill_color_title">পাওয়ারভে ভরা রঙ</string>
+    <string name="custom_battery_rainbow_fill_title">রংধনু পূরণ রঙ</string>
+    <string name="custom_battery_rainbow_fill_summary">শুধুমাত্র স্টাইল বাডি এবং স্ট্রিপ পাথের জন্য</string>
+    <string name="sthumb_new_tint_picker_summary">আরজিবি রঙ বাছাইকারী ব্যবহার করুন</string>
+
+    
+    <string name="custom_battery_layout_title">ব্যাটারি লেআউটে এমআইএসসি</string>
+    <string name="custom_battery_rotation_title">ব্যাটারি চিত্র ঘূর্ণন</string>
+    <string name="custom_battery_rotation_summary">ল্যান্ডস্কেপ ব্যাটারি ঘোরাতে</string>
+    <string name="custom_battery_leftpct_title">বাম ব্যাটারি শতাংশ</string>
+    <string name="custom_battery_leftpct_summary">বাম দিকে ব্যাটারি শতাংশ রাখা</string>
+
+    
+    <string name="custom_battery_dimension_title">ব্যাটারি কাস্টম মাত্রা</string>
+    <string name="custom_battery_dimension_summary">কাস্টম অ্যাডজাস্টেবল ডিমেন মানগুলি ব্যবহার করুন</string>
+    <string name="custom_battery_height">উচ্চতা</string>
+    <string name="custom_battery_width">প্রস্থ</string>
+    <string name="custom_battery_top">মার্জিন শীর্ষ</string>
+    <string name="custom_battery_bottom">মার্জিন নীচে</string>
+    <string name="custom_battery_left">মার্জিন বাম</string>
+    <string name="custom_battery_right">মার্জিন ডান</string>
+     
+    
+     <string name="qs_show_brightness_slider_title">ব্রাইটনেস স্লাইডার/উজ্জ্বলতা বার</string>
+     <string name="qs_show_brightness_slider_never">কখনো দেখাবে না</string>
+     <string name="qs_show_brightness_slider_expanded">বিস্তৃত করলে দেখাবে</string>
+     <string name="qs_show_brightness_slider_always">সবসময় দেখাবে</string>
+     <string name="qs_show_brightness_slider_not_expanded">বিস্তৃত না করলে দেখাবে</string>
+     <string name="qs_brightness_slider_position_title">অবস্থান</string>
+     <string name="qs_brightness_slider_position_top">শীর্ষে</string>
+     <string name="qs_brightness_slider_position_bottom">নীচে</string>
+
+    
+     <string name="qs_show_auto_brightness_title">স্বয়ংক্রিয় উজ্জ্বলতা আইকন</string>
+     <string name="qs_show_auto_brightness_summary">স্লাইডারের কাছে অভিযোজিত উজ্জ্বলতার জন্য টগল দেখান</string>
+    
+    
+     <string name="status_bar_clock_summary">ঘড়ি এবং তারিখ কাস্টমাইজ করুন</string>
+     <string name="status_bar_clock_seconds_title">ঘড়ির সেকেন্ড</string>
+     <string name="status_bar_clock_seconds_summary">স্ট্যাটাস বারে ঘড়ির পরে সেকেন্ড প্রদর্শন করুন</string>
+     <string name="status_bar_clock_position_title">ঘড়ির স্টাইল</string>
+     <string name="status_bar_clock_position_right">ডানে</string>
+     <string name="status_bar_clock_position_left">বামে</string>
+     <string name="status_bar_clock_position_center">মাঝামাঝি</string>
+     <string name="status_bar_clock_position_hidden">লুকায়িত</string>
+     <string name="status_bar_clock_auto_hide_title">স্বয়ংক্রিয় লুকাবে</string>
+     <string name="status_bar_clock_auto_hide_launcher_summary">লঞ্চার দৃশ্যমান হলে ঘড়ি লুকাবে</string>
+     <string name="status_bar_clock_auto_hide_summary">কিছুক্ষণ পরপর ঘড়ি আড়াল করুন</string>
+     <string name="status_bar_clock_auto_hide_hdur_title">সময়কাল লুকিয়ে রাখুন</string>
+     <string name="status_bar_clock_auto_hide_hdur_summary">ঘড়ি লুকানোর জন্য সেকেন্ডের সংখ্যা</string>
+     <string name="status_bar_clock_auto_hide_sdur_title">সময়কাল প্রদর্শন করুন</string>
+     <string name="status_bar_clock_auto_hide_sdur_summary">ঘড়ি লুকানোর আগে অপেক্ষা করার জন্য সেকেন্ডের সংখ্যা</string>
+     <string name="status_bar_am_pm_title">পূর্বাহ্ণ/অপরাহ্ণের স্টাইল</string>
+     <string name="status_bar_am_pm_info">২৪ ঘন্টার ঘড়ি সক্রিয় করা হয়েছে</string>
+     <string name="status_bar_am_pm_normal">সাধারণ</string>
+     <string name="status_bar_am_pm_small">ছোট</string>
+     <string name="status_bar_am_pm_hidden">লুকায়িত</string>
+     <string name="status_bar_date_title">তারিখ</string>
+     <string name="status_bar_date_none">লুকায়িত</string>
+     <string name="status_bar_date_small">ছোট</string>
+     <string name="status_bar_date_normal">সাধারণ</string>
+     <string name="status_bar_date_format_title">তারিখ বিন্যাস</string>
+     <string name="status_bar_date_style">তারিখের স্টাইল</string>
+     <string name="status_bar_date_style_normal">সাধারণ</string>
+     <string name="status_bar_date_style_lowercase">ছোটহাতের</string>
+     <string name="status_bar_date_style_uppercase">বড় হাতের</string>
+     <string name="status_bar_date_format_custom">পছন্দসই জাভা ফর্ম্যাট</string>
+     <string name="status_bar_date_string_edittext_title">অবশ্যই ডেট ফরম্যাটে থাকতে হবে। যেমন: মাস/দিন/সাল</string>
+     <string name="status_bar_date_string_edittext_summary">স্ট্রিং লিখুন</string>
+     <string name="clock_date_position">তারিখের অবস্থান</string>
+     <string name="clock_date_right">সময়ের ডানে</string>
+     <string name="clock_date_left">সময়ের বামে</string>
+
+    
+    <string name="qs_footer_text_title">কিউএস ফুটার পাঠ্য</string>
+    <string name="qs_footer_text_summary">কিউএস প্যানেলের নীচে পাঠ্য প্রদর্শন করুন</string>
+    <string name="qs_footer_text_string_title">ফুটার পাঠ্য কাস্টমাইজ করুন</string>
+    <string name="qs_footer_text_string_summary">ডিফল্ট অনন্তের জন্য খালি সেট করুন</string>
+
+   
+    <string name="qs_show_data_usage_title">ডেটা ব্যবহার দেখান</string>
+    <string name="qs_show_data_usage_summary">কিউএস ফুটারে প্রতিদিনের সেলুলার/ওয়াই-ফাই ডেটা ব্যবহার দেখান</string>
+    
+   
+    <string name="laboratory_ignore_window_secure_title">উইন্ডো সুরক্ষিত পতাকা উপেক্ষা করুন</string>
+    <string name="laboratory_ignore_window_secure_summary">এটি সমস্ত অ্যাপ্লিকেশনগুলির জন্য স্ক্রিনশট এবং স্ক্রিনকার্ডস সীমা সরিয়ে দেয়।সাধারণত, বিশেষ অ্যাপ্লিকেশনগুলি রেকর্ডে কালো অঞ্চলগুলির সাথে প্রতিস্থাপন করা হয়।এটি কিছু ক্ষেত্রে সুবিধাজনক হতে পারে তবে গোপনীয়তা ফাঁস হতে পারে।এই টগল পরিবর্তন করার পরে, পরিবর্তনের কার্যকর হওয়ার জন্য আপনাকে অ্যাপ্লিকেশনগুলি পুনরায় চালু করতে হবে।</string>
+    
+    
+    <string name="app_downgrade_title">অ্যাপ্লিকেশন ডাউনগ্রেডের অনুমতি দিন</string>
+    <string name="app_downgrade_summary">এটি আপনাকে অ্যাপ্লিকেশনগুলিকে ডাউনগ্রেড করতে দেয়।নোট করুন যে এটি ক্র্যাশ এবং ডেটা দুর্নীতির দিকে নিয়ে যেতে পারে।</string>
+
+   
+    <string name="statusbar_colored_icons_title">রঙিন আইকন দেখাবে</string>
+    <string name="statusbar_colored_icons_summary">Use proper app icons for notification icons in statusbar</string>
+    
+   
+    <string name="status_bar_logo_title">লোগো</string>
+    <string name="default_string">ডিফল্ট</string>
+    <string name="status_bar_logo_summary">Display a custom logo on left or right of the status bar</string>
+    <string name="status_bar_logo_primary_switch_title">লোগো ব্যবহার করুন</string>
+    <string name="status_bar_logo_position_title">লোগোর অবস্থান</string>
+    <string name="status_bar_logo_position_summary">বাম বা ডানদিকে লোগোটি প্রদর্শন করতে কোন দিকটি চয়ন করুন</string>
+    <string name="status_bar_logo_position_right">ঠিক আছে</string>
+    <string name="status_bar_logo_position_left">বাম</string>
+    <string name="status_bar_logo_color_title">রঙ</string>
+    <string name="status_bar_logo_color_default">ডিফল্ট (সাদা)</string>
+    <string name="status_bar_logo_color_accent">অ্যাকসেন্ট</string>
+    <string name="status_bar_logo_color_custom">কাস্টম</string>
+    <string name="status_bar_logo_style_title">লোগো স্টাইল</string>
+    <string name="status_bar_logo_style_adidas">Adidas</string>
+    <string name="status_bar_logo_style_airjordan">এয়ার জর্ডান</string>
+    <string name="status_bar_logo_style_alien">Alien</string>
+    <string name="status_bar_logo_style_amogus">আমোগাস</string>
+    <string name="status_bar_logo_style_apple">আপেল</string>
+    <string name="status_bar_logo_style_avengers">Avengers</string>
+    <string name="status_bar_logo_style_batman">ব্যাটম্যান</string>
+    <string name="status_bar_logo_style_batman_tdk">Batman The Dark Knight</string>
+    <string name="status_bar_logo_style_beats">Beats</string>
+    <string name="status_bar_logo_style_biohazard">বায়োহাজার্ড</string>
+    <string name="status_bar_logo_style_blackberry">BlackBerry</string>
+    <string name="status_bar_logo_style_captain_america">Captain America</string>
+    <string name="status_bar_logo_style_cannabis">Cannabis</string>
+    <string name="status_bar_logo_style_flash">ফ্ল্যাশ</string>
+    <string name="status_bar_logo_style_fire">Fire</string>
+    <string name="status_bar_logo_style_ghost">ভূত</string>
+    <string name="status_bar_logo_style_heart">হৃদয়</string>
+    <string name="status_bar_logo_style_ironman">Iron Man</string>
+    <string name="status_bar_logo_style_mint">Linux Mint</string>
+    <string name="status_bar_logo_style_nike">Nike</string>
+    <string name="status_bar_logo_style_ninja">নিঞ্জা</string>
+    <string name="status_bar_logo_style_pac_man">প্যাক-ম্যান</string>
+    <string name="status_bar_logo_style_puma">Puma</string>
+    <string name="status_bar_logo_style_robot">রোবট</string>
+    <string name="status_bar_logo_style_rog">ROG</string>
+    <string name="status_bar_logo_style_spiderman">Spider-Man</string>
+    <string name="status_bar_logo_style_superman">সুপারম্যান</string>
+    <string name="status_bar_logo_style_tux">Tux</string>
+    <string name="status_bar_logo_style_ubuntu">Ubuntu</string>
+    <string name="status_bar_logo_style_windows">উইন্ডোজ</string>
+    <string name="status_bar_logo_style_xbox">Xbox</string>
+    
+    
+    <string name="qs_transparency_summary">আপনি আপনার কিউএস হতে চান কতটা স্বচ্ছ তা চয়ন করুন</string>
+    <string name="qs_transparency_title">কিউএস স্বচ্ছতা</string>
+
+    
+    <string name="statusbar_clock_chip_title">Background chip</string>
+    <string name="statusbar_clock_chip_summary">Display accented chip behind clock</string>
+    <string name="solid_accent">অ্যাকসেন্ট</string>
+    <string name="outline">রূপরেখা</string>
+    <string name="solid_accent_gradient">গ্রেডিয়েন্ট</string>
+    <string name="solid_gradient">সলিড গ্রেডিয়েন্ট সাইড</string>
+    <string name="solid_gradient_corner">সলিড অ্যাকসেন্ট গ্রেডিয়েন্ট তীক্ষ্ণ</string>
+    <string name="solid_gradient_void">গ্রেডিয়েন্ট শূন্য</string>
+    <string name="solid_gradient_neumorph">নিউমর্ফ গ্রেডিয়েন্ট</string>
+    <string name="solid_gradient_stroke">তীক্ষ্ণ গ্রেডিয়েন্ট স্ট্রোক</string>
+    <string name="solid_accent_transperent">অ্যাকসেন্ট স্বচ্ছ</string>    
+    <string name="solid_gradient_light">গ্রেডিয়েন্ট লাইট</string>
+    <string name="solid_gradient_shape">ধারালো গ্রেডিয়েন্ট কোণ</string>
+    <string name="solid_gradient_void_light">গ্রেডিয়েন্ট শূন্য আলো</string>
+    
+    
+    <string name="haptic_on_volume_slider_title">ভলিউম স্লাইডার হ্যাপটিক</string>
+    <string name="haptic_on_volume_slider_summary">স্লাইডার ব্যবহার করে ভলিউম পরিবর্তন করার বিষয়ে হ্যাপটিক প্রতিক্রিয়া সরবরাহ করুন</string>
+    
+    
+    <string name="volume_panel_on_left_title">বাম দিকে ভলিউম প্যানেল</string>
+    <string name="volume_panel_on_left_summary">স্ক্রিনের বাম দিকে ভলিউম প্যানেল প্রদর্শন করুন</string>
+    
+    
+    <string name="data_disabled_icon_title">ডেটা অক্ষম সূচক</string>
+    <string name="data_disabled_icon_summary">যখন ডেটা নিষ্ক্রিয় করা হয় তখন সংকেত বারের পাশে ক্রস চিহ্ন প্রদর্শন করুন</string>
+    
+    
+    <string name="status_bar_4g_icon_title">4 জি আইকন</string>
+
+    
+    <string name="roaming_indicator_icon_title">রোমিং সূচক আইকন দেখান</string>
+    <string name="roaming_indicator_icon_summary">রোমিং মোডে থাকাকালীন সিগন্যাল আইকনের উপরে রোমিং সূচক প্রদর্শন করুন</string>
+
+    
+    <string name="wifi_standard_icon_title">WiFi standard</string>
+    <string name="wifi_standard_icon_summary">Display WiFi standard next to WiFi signal</string>
+    
+    
+    <string name="bluetooth_battery_title">ব্লুটুথ ব্যাটারির অবস্থা</string>
+    <string name="bluetooth_battery_summary">সংযুক্ত ব্লুটুথ ডিভাইসের জন্য ব্যাটারির অবস্থা প্রদর্শন করুন, যদি পাওয়া যায়</string> 
+    
+    
+    <string name="show_fiveg_icon_summary">জোর করে এলটিই এবং 4 জি এর পরিবর্তে 5 জি নেটওয়ার্ক আইকন দেখান</string>
+    <string name="show_fiveg_icon_title">স্পুফ 5 জি সূচক</string>
+    
+    
+    <string name="qs_brightness_slider_haptic_title">Haptic feedback</string>
+    <string name="qs_brightness_slider_haptic_summary">Provide haptic feedback on changing brightness using slider</string>
+    
+    
+    <string name="statusbar_padding">স্ট্যাটাস বার প্যাডিং</string>
+    <string name="statusbar_top_padding">শীর্ষ প্যাডিং</string>
+    <string name="statusbar_left_padding">বাম প্যাডিং</string>
+    <string name="statusbar_right_padding">ডান প্যাডিং</string>
+    
+    
+    <string name="less_boring_heads_up_title">কম বিরক্তিকর</string>
+    <string name="less_boring_heads_up_summary">শুধুমাত্র অ্যালার্ম, ডায়ালার এবং মেসেজিং অ্যাপের জন্য পপআপ বিজ্ঞপ্তি প্রদর্শন করুন</string>
+
+    
+    <string name="headsup_category">হেডসআপ সেটিংস</string>
+    <string name="heads_up_notifications">মাথা উপরে</string>
+    <string name="heads_up_notifications_summary">কাস্টম হেড আপ বিজ্ঞপ্তি সেটিংস</string>
+    <string name="summary_heads_up_enabled">পপ-আপ বিজ্ঞপ্তিগুলি সক্ষম করা হয়</string>
+    <string name="summary_heads_up_disabled">পপ-আপ বিজ্ঞপ্তিগুলি অক্ষম করা হয়</string>
+    <string name="add_heads_up_package">অ্যাপ্লিকেশন যুক্ত করুন</string>
+    <string name="add_heads_up_stoplist_summary">এই অ্যাপ্লিকেশনগুলিতে হেড আপ বিজ্ঞপ্তিগুলি অক্ষম করুন</string>
+    <string name="add_heads_up_blacklist_summary">এই অ্যাপ্লিকেশনগুলি থেকে মাথা আপ অক্ষম করুন</string>
+    <string name="heads_up_stoplist_title">স্টপলিস্ট</string>
+    <string name="heads_up_blacklist_title">ব্ল্যাকলিস্ট</string>
+    <string name="profile_choose_app">অ্যাপ্লিকেশন চয়ন করুন</string>
+    <string name="dialog_delete_title">মুছুন</string>
+    <string name="dialog_delete_message">নির্বাচিত আইটেম সরান?</string>
+
+    
+    <string name="heads_up_time_out_title">সময় আউট</string>
+    <string name="heads_up_time_out_summary">উঁকি দেওয়া বিজ্ঞপ্তিগুলির জন্য প্রদর্শিত হবে<ns0:g id="number">%d</ns0:g> seconds</string>
+    <string name="heads_up_time_out_2sec">2 সেকেন্ড</string>
+    <string name="heads_up_time_out_4sec">4 সেকেন্ড</string>
+    <string name="heads_up_time_out_5sec">5 সেকেন্ড</string>
+    <string name="heads_up_time_out_6sec">6 সেকেন্ড</string>
+    <string name="heads_up_time_out_8sec">8 সেকেন্ড</string>
+    <string name="heads_up_time_out_10sec">10 সেকেন্ড</string>
+
+    
+    <string name="heads_up_snooze_title">স্নুজ টাইমার</string>
+    <string name="heads_up_snooze_summary_one_minute">উঁকি দেওয়া বিজ্ঞপ্তিগুলিতে সোয়াইপ করা 1 মিনিটের জন্য সেই আবেদন থেকে মাথা উঁচু করে দেবে</string>
+    <string name="heads_up_snooze_summary">উঁকি দেওয়ার বিজ্ঞপ্তিগুলিতে সোয়াইপ করা সেই আবেদন থেকে মাথা উঁচু করে দেবে<ns0:g id="number">%d</ns0:g> minutes</string>
+    <string name="heads_up_snooze_disabled_summary">স্নুজ টাইমার অক্ষম</string>
+    <string name="heads_up_snooze_1min">1 মিনিট</string>
+    <string name="heads_up_snooze_5min">5 মিনিট</string>
+    <string name="heads_up_snooze_10min">10 মিনিট</string>
+    <string name="heads_up_snooze_15min">15 মিনিট</string>
+    <string name="heads_up_snooze_20min">20 মিনিট</string>
+    
+    
+    <string name="volume_button_music_control_title">প্লেব্যাক নিয়ন্ত্রণ</string>
+    <string name="volume_button_music_control_summary">স্ক্রিনটি বন্ধ হয়ে গেলে, দীর্ঘ-চাপযুক্ত ভলিউম কীগুলি সঙ্গীত ট্র্যাকগুলি এড়িয়ে যাবে</string>
+    
+    
+    <string name="volume_rocker_wake_title">ভলিউম জাগ্রত</string>
+    <string name="volume_rocker_wake_summary">ভলিউম কীগুলি টিপে আপনার ডিভাইসটি জাগিয়ে তুলুন</string>
+    
+    
+    <string name="volume_answer_call_title">কল রিসিভ করুন</string>
+    <string name="volume_answer_call_summary">ভলিউম বোতাম টিপে আগত কলগুলির উত্তর দিন</string>
+    
+    
+    <string name="pulse_help_policy_notice_title">পালস সম্পর্কে</string>
+    <string name="pulse_help_policy_notice_summary">পালস একটি উজ্জ্বল অডিও গ্রাফিক ইকুয়ালাইজার যখন ডিভাইসে সঙ্গীত বাজায়</string>
+    <string name="pulse_settings">পালস</string>
+    <string name="pulse_settings_summary">নেভিগেশন বার এবং লকস্ক্রিনের জন্য অডিও গ্রাফিক ইকুয়ালাইজার</string>
+    <string name="show_navbar_pulse_title">নেভিগেশনবার পালস্</string>
+    <string name="show_navbar_pulse_summary">নেভিগেশন বারে অডিও গ্রাফিক ইকুলাইজার</string>
+    <string name="show_lockscreen_pulse_title">লকস্ক্রিনে পালস্</string>
+    <string name="show_lockscreen_pulse_summary">লকস্ক্রিনে অডিও গ্রাফিক ইকুলাইজার</string>
+    <string name="show_ambient_pulse_title">অ্যাম্বিয়েন্ট পালস্</string>
+    <string name="show_ambient_pulse_summary">অ্যাম্বিয়েন্ট স্ক্রিনে অডিও গ্রাফিক ইকুলাইজার</string>
+    <string name="pulse_render_mode_title">রেন্ডার মোড</string>
+    <string name="pulse_render_mode_fading_bars">ফেইডিং ব্লক</string>
+    <string name="pulse_render_mode_solid_lines">সলিড রেখা</string>
+    <string name="pulse_legacy_mode_advanced_category">ফেইডিং ব্লক মোডের সেটিংস</string>
+    <string name="pulse_custom_fudge_factor">স্যানিটি লেভেল</string>
+    <string name="pulse_lavalamp_speed_title">লাভা ল্যাম্পের গতি</string>
+    <string name="pulse_solid_units_count">সলিড লাইন গননা</string>
+    <string name="pulse_solid_units_opacity">সলিড লাইনের স্বচ্ছতা</string>
+    <string name="pulse_solid_dimen_category">সলিড লাইনের মোড সেটিংস</string>
+    <string name="pulse_color_mode_title">রঙ</string>
+    <string name="pulse_color_accent">এক্সেন্ট</string>
+    <string name="pulse_color_custom">কাস্টম</string>
+    <string name="pulse_color_lava_lamp">লাভা বাতি</string>
+    <string name="pulse_color_user_title">রঙ বাছাই করুন</string>
+    <string name="pulse_color_auto">Album</string>
+    <string name="pulse_smoothing_enabled_title">স্মুথিং চালু করুন</string>
+    <string name="pulse_smoothing_enabled_summary">প্রতিটি বার আরও মসৃণভাবে অ্যানিমেটেড হয়</string>
+    <string name="pulse_custom_dimen">বারের প্রস্থ</string>
+    <string name="pulse_custom_div">বার স্পেস</string>
+    <string name="pulse_filled_block_size">ব্লক সাইজ</string>
+    <string name="pulse_empty_block_size">ব্লক স্পেস</string>
+    <string name="pulse_solid_units_rounded_title">গোলাকার কর্নার</string>
+    <string name="pulse_solid_units_rounded_summary">গোলাকার মুখ বিশিষ্ট সোজা দাগ</string>
+
+    
+    <string name="pulse_custom_gravity_title">মাধ্যাকর্ষণ</string>
+    <string name="pulse_custom_gravity_bottom">নীচে</string>
+    <string name="pulse_custom_gravity_top">শীর্ষ</string>
+    <string name="pulse_custom_gravity_center">কেন্দ্র</string>
+    <string name="visualizer_center_mirrored_title">কেন্দ্র মিরর</string>
+    <string name="visualizer_center_mirrored_summary">কেন্দ্রের মিরর মোডে ভিজ্যুয়ালাইজারটি সেট করুন</string>
+    <string name="pulse_vertical_mirror_title">উল্লম্ব আয়না</string>
+    <string name="pulse_vertical_mirror_summary">অন্যান্য নাড়ি তৈরি করুন এবং উল্লম্বভাবে ফ্লিপ করুন</string>
+
+    
+    <string name="pocket_mode">পকেট মোড</string>
+    <string name="pocket_mode_summary">ডিভাইস পকেটে থাকাকালীন স্ক্রিন ইনপুটগুলি ব্লক করুন</string>
+    
+    
+    <string name="status_bar_notif_count_title">বিজ্ঞপ্তি গণনা</string>
+    <string name="status_bar_notif_count_summary">প্রতিটি অ্যাপ্লিকেশন আইকনে অপঠিত বিজ্ঞপ্তিগুলির সংখ্যা প্রদর্শন করুন</string>
+
+    
+    <string name="mic_camera_privacy_indicator_title">Mic and camera privacy indicator</string>
+    <string name="mic_camera_privacy_indicator_summary">Show separate indicator when any app uses mic or camera</string>
+    <string name="location_privacy_indicator_title">Location privacy indicator</string>
+    <string name="location_privacy_indicator_summary">Show separate indicator when any app uses location</string>
+    <string name="projection_privacy_indicator_title">Media projection privacy indicator</string>
+    <string name="projection_privacy_indicator_summary">Show indicator when device screen is projected</string>
+    
+    
+    <string name="battery_bar_title">ব্যাটারি বার</string>
+    <string name="battery_bar_summary">স্ট্যাটাস বারের উপরে ব্যাটারি বার প্রদর্শন করুন এবং কাস্টমাইজ করুন</string>
+    <string name="battery_bar_color">রঙ</string>
+    <string name="battery_bar_charging_color">চার্জিং কালার</string>
+    <string name="battery_bar_battery_low_color">লো ব্যাটারি রঙ</string>
+    <string name="battery_bar_style_title">সারিবদ্ধতা</string>
+    <string name="battery_bar_thickness_title">পুরুত্ব</string>
+    <string name="battery_bar_animate_title">চার্জিং অ্যানিমেশন</string>
+    <string name="battery_bar_style_regular">রেগুলার</string>
+    <string name="battery_bar_style_center_mirrored">কেন্দ্রে-প্রতিফলিত</string>
+    <string name="battery_bar_style_reversed">বিপরীত</string>
+    <string name="battery_bar_use_charging_color">কাস্টম চার্জিং কালার</string>
+    <string name="battery_bar_blend_color_title">মিশ্রিত রং</string>
+    <string name="battery_bar_blend_color_summary">ব্যাটারির শতাংশের সাথে সামঞ্জস্যপূর্ণ পূর্ণ/খালি রং</string>
+    <string name="battery_bar_blend_color_reverse_title">বিপরীত রঙ দিক</string>
+    <string name="battery_bar_blend_color_reverse_summary_off">পূর্ন এবং #8594; খালি: লাল এবং #8592; সবুজ এবং#8592; নীল এবং #8592; লাল</string>
+    <string name="battery_bar_blend_color_reverse_summary_on">Full → empty: red → green → blue → red</string>
+
+    
+    <string name="network_traffic_state_title">নেটওয়ার্ক ট্র্যাফিক সূচক</string>
+    <string name="network_traffic_state_summary">স্ট্যাটাস বারে নেটওয়ার্কের গতি সূচক সক্ষম বা অক্ষম করুন</string>
+    <string name="network_traffic_title">নেটওয়ার্ক ট্র্যাফিক সূচক</string>
+    <string name="network_traffic_master_switch_title">নেটওয়ার্ক ট্র্যাফিক সূচক ব্যবহার করুন</string>
+    <string name="network_options_title">বিকল্প</string>
+    <string name="network_traffic_autohide_title">নিষ্ক্রিয় থাকলে নেটওয়ার্ক ট্র্যাফিক সূচকটি লুকান</string>
+    <string name="network_traffic_autohide_summary">ইন্টারনেট বন্ধ থাকা অবস্থায় ট্রাফিক মনিটর অদৃশ্য হবে</string>
+    
+    
+    <string name="ambient_text_category">পাঠ্য কাস্টমাইজেশন</string>
+    <string name="ambient_image_category">চিত্র কাস্টমাইজেশন</string>
+    <string name="ambient_text_category_summary">অ্যাম্বিয়েন্ট-এওডের চেহারা কাস্টমাইজিং</string>
+    <string name="ambient_text_title">পরিবেষ্টিত পাঠ্য</string>
+    <string name="ambient_text_summary">এওডিতে পরিবেষ্টিত পাঠ্য দেখান</string>
+    <string name="ambient_text_animation_title">পরিবেষ্টিত পাঠ্য অ্যানিমেশন</string>
+    <string name="ambient_text_animation_summary">এওডি দেখানোর সময় একটি অ্যানিমেশন দেখান</string>
+    <string name="ambient_text_size_title">পরিবেষ্টিত পাঠ্য আকার</string>
+    <string name="ambient_text_font_title">পরিবেষ্টিত পাঠ্য ফন্ট</string>
+    <string name="ambient_text_string_title">পরিবেষ্টিত পাঠ্য সেট করুন</string>
+    <string name="ambient_text_align_title">পরিবেষ্টিত পাঠ্য সারিবদ্ধ</string>
+    <string name="ambient_text_align_start_top">ডান এন শীর্ষ</string>
+    <string name="ambient_text_align_start_center">ডান এন সেন্টার</string>
+    <string name="ambient_text_align_start_bottom">ডান এবং নীচে</string>
+    <string name="ambient_text_align_center">কেন্দ্র</string>
+    <string name="ambient_text_align_end_top">বাম এন শীর্ষ</string>
+    <string name="ambient_text_align_end_center">বাম এন কেন্দ্র</string>
+    <string name="ambient_text_align_end_bottom">বাম N নীচে</string>
+    <string name="ambient_text_type_color_title">পরিবেষ্টিত পাঠ্য প্রকারের রঙ</string>
+    <string name="ambient_text_color_title">পরিবেষ্টিত পাঠ্য রঙ</string>
+    <string name="ambient_notification_light_color_mode_accent">সিস্টেম অ্যাকসেন্ট রঙ</string>
+    <string name="ambient_notification_light_color_mode_custom">কাস্টম রঙ</string>
+    <string name="ambient_notification_light_color_mode_wall">ওয়ালপেপার রঙ</string>
+    <string name="ambient_image_title">পরিবেষ্টিত চিত্র</string>
+    <string name="file_header_select_title">স্থানীয় চিত্র নির্বাচন করুন</string>
+    <string name="file_header_select_summary">স্টোরেজ থেকে চিত্র নির্বাচন করুন</string>
+    
+    
+    <string name="qs_compact_media_player_mode_title">কমপ্যাক্ট কিউএস মিডিয়া প্লেয়ার</string>
+    <string name="qs_compact_media_player_mode_summary">কুইকসেটিং মিডিয়া প্লেয়ারের জন্য কমপ্যাক্ট মোড সক্ষম করুন</string>
+
+    
+    <string name="smart_pixels_warning_text">স্মার্ট পিক্সেল একটি বিদ্যুৎ সাশ্রয়ী বৈশিষ্ট্য। আপনি কতগুলি পিক্সেল বন্ধ করার সিদ্ধান্ত নেন তার উপর নির্ভর করে, আপনি ব্যাটারি জীবনে উন্নতি দেখতে পারেন। মনে রাখবেন যে কিছু ক্ষেত্রে এটি স্পর্শ পর্দায় প্রতিক্রিয়াশীল এলাকা হতে পারে</string>
+    <string name="smart_pixels_title">স্মার্ট পিক্সেল</string>
+    <string name="smart_pixels_summary">অতিরিক্ত পিক্সেল বন্ধ করে ব্যাটারি বাঁচান</string>
+    <string name="smart_pixels_enable_title">স্মার্ট পিক্সেল সক্ষম করুন</string>
+    <string name="smart_pixels_enable_summary">বিদ্যুতের ব্যবহার হ্রাস করতে পিক্সেল বন্ধ করুন</string>
+    <string name="smart_pixels_on_power_save_title">স্বয়ংক্রিয়ভাবে ব্যাটারি সেভার চালু করুন</string>
+    <string name="smart_pixels_on_power_save_summary">ব্যাটারি সেভার সক্ষম হলে স্মার্ট পিক্সেল ব্যবহার করুন</string>
+    <string name="smart_pixels_percent">অক্ষম করার জন্য পিক্সেলের শতকরা হার</string>
+    <string name="smart_pixels_shift_title">বার্ন ইন সুরক্ষা</string>
+    <string name="smart_pixels_shift_summary">OLED ডিভাইসে বার বার পিক্সেল স্থানান্তর করে বার্ন-ইন প্রতিরোধ করে</string>
+    
+    
+    <string name="custom_timeout_summary_never">কখনও না</string>
+    <string name="custom_timeout_summary_15secs">১৫ সেকেন্ড</string>
+    <string name="custom_timeout_summary_30secs">৩০ সেকেন্ড</string>
+    <string name="custom_timeout_summary_1min">১ মিনিট</string>
+    <string name="custom_timeout_summary_2mins">২ মিনিট</string>
+    <string name="custom_timeout_summary_5mins">৫ মিনিট</string>
+    <string name="custom_timeout_summary_10mins">10 মিনিট</string>
+    <string name="custom_timeout_summary_20mins">20 মিনিট</string>
+    <string name="custom_timeout_summary_30mins">30 মিনিট</string>
+    <string name="custom_timeout_summary_1hour">1 hour</string>
+    <string name="custom_timeout_summary_2hours">2 hours</string>
+    
+    
+    <string name="pulse_on_new_tracks_title">মিউজিক টিকার</string>
+    <string name="pulse_on_new_tracks_summary">ট্র্যাক পরিবর্তনের সময় অ্যাম্বিয়েন্ট ডিসপ্লেতে মিউজিক টিকার দেখান</string>
+
+    
+    <string name="screen_off_animation_title">স্ক্রিন অফ অ্যানিমেশন</string>
+    <string name="screen_off_animation_default">ডিফল্ট</string>
+    <string name="screen_off_animation_crt">সি আর টি</string>
+    <string name="screen_off_animation_scale">স্কেল</string>
+
+    
+    <string name="system_charging">সিস্টেম চার্জিং বিকল্প</string>
+    <string name="charging_animation_bg_title">চার্জিং ব্যাকগ্রাউন্ড</string>
+    <string name="charging_animation_bg_summary">এই বিকল্পটি সক্ষম করা সিস্টেম অ্যানিমেশনের ব্যাকগ্রাউন্ডটি কালোতে তৈরি করবে</string>
+    
+    
+    <string name="hide_screen_capture_status_title">স্ক্রিন ক্যাপচার স্থিতি লুকান</string>
+    <string name="hide_screen_capture_status_summary">সমস্ত অ্যাপ্লিকেশন থেকে স্ক্রিন ক্যাপচার এবং স্ক্রিন রেকর্ডের স্থিতি লুকান।কিছু ক্ষেত্রে সুবিধাজনক হতে পারে তবে গোপনীয়তা ফাঁস হতে পারে।কার্যকর হওয়ার জন্য পরিবর্তনের জন্য অ্যাপ্লিকেশনগুলি পুনরায় চালু করতে হবে।</string>
+
+    
+    <string name="no_storage_restrict_title">কোনও স্টোরেজ সীমাবদ্ধ</string>
+    <string name="no_storage_restrict_summary">স্টোরেজ অ্যাক্সেস ফ্রেমওয়ার্কের মাধ্যমে ফোল্ডারগুলি নির্বাচন করার সময় সীমাবদ্ধতাটি সরান।কিছু ক্ষেত্রে সুবিধাজনক হতে পারে তবে গোপনীয়তা ফাঁস হতে পারে।</string>
+    
+    
+    <string name="hide_developer_status_title">বিকাশকারী স্থিতি লুকান</string>
+    <string name="hide_developer_status_summary">অ্যাপ্লিকেশনগুলিকে এডিবি এবং বিকাশকারী মোডের স্থিতি পরীক্ষা করা থেকে বিরত রাখুন</string>
+    <string name="search">অনুসন্ধান</string>
+    <string name="search_apps">অনুসন্ধান অ্যাপ্লিকেশন</string>
+
+    
+    <string name="spoof_storage_encryption_status_title">স্টোরেজ এনক্রিপশন স্পোফিং ব্যবহার করুন</string>
+    <string name="spoof_storage_encryption_status_summary">এনক্রিপ্ট করা স্পোফ স্টোরেজ এনক্রিপশন স্থিতি</string>
+    
+    
+    <string name="media_controls_always_show_time_title">মিডিয়া শো সময়</string>
+    <string name="media_controls_always_show_time_summary">সর্বদা পাস এবং মিডিয়া প্লেয়ারে মোট সময় দেখান</string>
+    <string name="media_controls_squiggle_title">স্কুইগলি অগ্রগতি</string>
+    <string name="media_controls_squiggle_summary">মিডিয়া প্লেয়ারে অগ্রগতি বার দেখান \ Nrequiers সিস্টেমুআইআই কার্যকর করতে পুনরায় আরম্ভ করুন</string>
+    <string name="media_controls_actions_title">কাস্টম ক্রিয়া সীমা</string>
+    <string name="media_controls_actions_summary">অ্যাপগুলিকে প্লেয়ারটিতে যুক্ত করার অনুমতি দেওয়া হয় এমন সর্বাধিক সংখ্যক বোতাম</string>
+    <string name="media_controls_time_as_next_title">পরবর্তী / পূর্ববর্তী হিসাবে সময়</string>
+    <string name="media_controls_time_as_next_summary">পরবর্তী / পূর্ববর্তী বোতামগুলি লুকান এবং পরিবর্তে সর্বদা প্রদর্শিত সময়টি ব্যবহার করুন</string>
+    <string name="media_controls_ripple_title">রিপল প্রভাব</string>
+    <string name="media_controls_ripple_summary">মিডিয়া নিয়ন্ত্রণগুলির সাথে ইন্টারঅ্যাক্ট করার সময় রিপল প্রভাবগুলি নিয়ন্ত্রণ করুন</string>
+    <string name="media_controls_turbulence_title">অশান্তি প্রভাব</string>
+    <string name="media_controls_turbulence_summary">গতিশীল মিডিয়া নিয়ন্ত্রণের জন্য টার্বুলেন্স প্রভাব সক্রিয় করুন</string>
+    
+    
+    <string name="enable_fingerprint_ripple_effect_title">Ripple effect</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Show ripple effect on unlock with fingerprint</string>
+    
+    <string name="ambient_display_always_on_title">সর্বদা চালু</string>
+    <string name="ambient_display_always_on_summary">সময়, বিজ্ঞপ্তি আইকন এবং অন্যান্য তথ্য দেখান।ব্যাটারি ব্যবহার বৃদ্ধি।</string>
+
+    
+    <string name="ambient_ui">পরিবেষ্টিত ব্যাটারিবার</string>
+    <string name="ambient_battery_settings_title">এওডি ব্যাটারি বার</string>
+    <string name="ambient_battery_settings_summary">পরিবেষ্টিত ডিসপ্লেতে একটি ব্যাটারি বার প্রদর্শন করুন</string>
+    <string name="keyguard_show_battery_title">চার্জ করার সময় ব্যাটারি বার</string>
+    <string name="keyguard_show_battery_summary">চার্জ করার সময় পরিবেষ্টিত ডিসপ্লেতে একটি ব্যাটারি বার দেখান</string>
+    <string name="keyguard_show_battery_always_title">সর্বদা ব্যাটারি বার দেখান</string>
+    <string name="keyguard_show_battery_always_summary">সর্বদা পরিবেষ্টিত ডিসপ্লেতে একটি ব্যাটারি বার দেখান</string>
+    <string name="keyguard_batterybar_color_source">ব্যাটারি বার রঙ উত্স</string>
+    <string name="keyguard_batterybar_custom_color">ব্যাটারি বার কাস্টম রঙ</string>
+    <string name="keyguard_batterybar_white">সাদা (ডিফল্ট)</string>
+    <string name="keyguard_batterybar_accent">অ্যাকসেন্ট রঙ</string>
+    <string name="keyguard_batterybar_custom">কাস্টম</string>
+    
+    
+    <string name="incall_vibration_category">কলের ভেতরে কম্পন</string>
+    <string name="incall_vibrate_connect_title">সংযোগ হতেই কম্পন হোক</string>
+    <string name="incall_vibrate_call_wait_title">ভিন্ন কলে থাকলে কম্পন হোক</string>
+    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
+
+    
+    <string name="incall_category">কল বিকল্প</string>
+    <string name="flashlight_on_call_title">Blink flashlight for incoming call</string>
+    <string name="flashlight_on_call_disabled">নিষ্ক্রিয়</string>
+    <string name="flashlight_on_call_ringer">যখন বাজছে</string>
+    <string name="flashlight_on_call_no_ringer">When ringer is silent</string>
+    <string name="flashlight_on_call_silent">When entirely silent (no ringer or vibrator)</string>
+    <string name="flashlight_on_call_always">সর্বদা</string>
+    <string name="flashlight_on_call_ignore_dnd_title">Ignore DND</string>
+    <string name="flashlight_on_call_ignore_dnd_summary">Whether to flash when Do Not Disturb mode is active</string>
+    <string name="flashlight_on_call_rate_title">পলক এর হার</string>
+    <string name="flashlight_on_call_rate_summary">কল ব্লিঙ্ক রেটে ফ্ল্যাশলাইট</string>
+
+    
+    <string name="qs_colored_icons_title">রঙিন কিউএস বিজ্ঞপ্তি আইকন</string>
+    <string name="qs_colored_icons_summary">একরঙা আইকনগুলির পরিবর্তে রঙিন অ্যাপ আইকন দেখান</string>
+
+    
+    <string name="depth_wallpaper_category">গভীরতা ওয়ালপেপার</string>
+    <string name="dw_file_header_select_title">গভীরতা ওয়ালপেপার বিষয় নির্বাচন করুন</string>
+    <string name="dw_file_header_select_summary">স্টোরেজ থেকে গভীরতা ওয়ালপেপার সাবজেক্ট ইমেজ নির্বাচন করুন।</string>
+    <string name="dw_wallpaper_enabled_title">গভীরতা ওয়ালপেপার</string>
+    <string name="dw_wallpaper_enabled_summary">আইওএস-অনুপ্রাণিত গভীরতার ওয়ালপেপার সক্ষম করুন।একটি বিষয় চিত্র প্রয়োজন।</string>
+    <string name="dw_wallpaper_opacity_title">গভীরতা ওয়ালপেপার অস্বচ্ছতা</string>
+
+    
+    <string name="revamped_aosp_style">পুনর্নির্মাণ এওএসপি ইউআই স্টাইল</string>
+    <string name="rui_style">রিয়েলমে ইউআই স্টাইল</string>
+    <string name="stock_style">স্টক ইউআই স্টাইল</string>
+    <string name="double_layer_style">ডাবল স্তর শৈলী</string>
+    <string name="gradient_style">গ্রেডিয়েন্ট স্টাইল</string>
+    <string name="neumorph_style">নিউমর্ফ স্টাইল</string>
+    <string name="neumorph_outline_style">নিউমর্ফ আউটলাইন স্টাইল</string>
+    <string name="outline_style">রূপরেখা শৈলী</string>
+    <string name="shaded_layer_style">ছায়াযুক্ত স্তর শৈলী</string>
+    <string name="volume_style_title">ভলিউম প্যানেল শৈলী</string>
+    
+    
+    <string name="charging_animation_title">চার্জিং অ্যানিমেশন</string>
+    <string name="charging_animation_summary">ডিভাইসটি প্লাগ করা হলে একটি অ্যানিমেশন প্রদর্শন করুন</string>
+
+    
+    <string name="doze_on_charge_title">Always show when charging</string>
+    <string name="doze_on_charge_summary">Display device is charging</string>
+    
+    
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
+
+     
+     <string name="weather_category_title">আবহাওয়া</string>
+     <string name="weather_settings_title">Weather settings</string>
+     <string name="weather_settings_summary">Setup icon pack and weather service</string>
+     <string name="lockscreen_weather_title">Weather update</string>
+     <string name="lockscreen_weather_summary">Display current weather update</string>
+     <string name="lockscreen_weather_enabled_info">Requires weather service to be enabled</string>
+     <string name="lockscreen_weather_location_title">Current location</string>
+     <string name="lockscreen_weather_location_summary">Display current weather location</string>
+     <string name="lockscreen_weather_text_title">Current condition</string>
+     <string name="lockscreen_weather_text_summary">Display current weather condition summary</string>
+     
+     
+    <string name="lockscreen_clock_colored_title">রঙিন ঘড়ি</string>
+    <string name="lockscreen_clock_colored_summary_on">ঘড়ির রঙ মনিট দ্বারা প্রভাবিত হয়</string>
+    <string name="lockscreen_clock_colored_summary_off">ঘড়ির রঙ সর্বদা কালো বা সাদা</string>
+    <string name="clock_luminance_title">ঘড়ির আলোকসজ্জা</string>
+    <string name="clock_luminance_summary">ঘড়ির রঙের উজ্জ্বলতা সামঞ্জস্য করুন</string>
+    
+    
+    <string name="custom_clock_top_margin_title">লকস্ক্রিন ঘড়ি নীচে ব্যবধান</string>
+    
+    
+    <string name="disable_qs_title">Hide QS on secure lock screen</string>
+    <string name="disable_qs_summary">Prevent access to QS tiles on secure lock screen</string>
+    
+    
+    <string name="qstile_requires_unlocking_title">সুরক্ষিত কিউএস টাইলস</string>
+    <string name="qstile_requires_unlocking_summary">সংবেদনশীল কিউএস টাইলগুলি ব্যবহার করতে আনলকিং প্রয়োজন</string>
+
+    
+    <string name="notification_material_dismiss_title">Clear all notification button</string>
+    <string name="notification_material_dismiss_summary">Replace clear all notification text with material style floating button</string>
+    
+    
+    <string name="qs_dual_tone_title">Dual tone themed</string>
+    <string name="qs_dual_tone_summary">Use dual tone background colors instead of AOSP single tone</string>
+    
+    
+    <string name="wallpaper_blur_title">ওয়ালপেপার অস্পষ্ট</string>
+    <string name="wallpaper_blur_summary">ওয়ালপেপার অস্পষ্ট প্রভাব সক্ষম বা অক্ষম করুন</string>
+
+    
+    <string name="udfps_category">ইউডিএফপিএস</string>
+    <string name="udfps_settings_title">UDFPS customization</string>
+    <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
+
+    
+    <string name="screen_off_udfps_title">Screen off UDFPS</string>
+    <string name="screen_off_udfps_summary">Keep UDFPS enabled when the screen is off</string>
+
+    
+    <string name="udfps_icon_picker_title">UDFPS icon picker</string>
+    <string name="udfps_icon_picker_summary">Choose your favorite fingerprint icon</string>
+
+    
+    <string name="udfps_recog_animation_effect_title">UDFPS custom animation</string>
+    <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
+
+    
+    <string name="fprint_success_vib_title">ফিঙ্গারপ্রিন্ট প্রমাণীকরণ কম্পন</string>
+    <string name="fprint_success_vib_summary">সফল ফিঙ্গারপ্রিন্ট প্রমাণীকরণের উপর কম্পন</string>
+    <string name="fprint_error_vib_title">ফিঙ্গারপ্রিন্ট ত্রুটি কম্পন</string>
+    <string name="fprint_error_vib_summary">ত্রুটি ফিঙ্গারপ্রিন্ট প্রমাণীকরণ উপর কম্পন</string>
+    
+    
+    <string name="notification_sound_vib_screen_on_title">গোলমাল বিজ্ঞপ্তি</string>
+    <string name="notification_sound_vib_screen_on_summary">স্ক্রিন চালু থাকা অবস্থায় বিজ্ঞপ্তির জন্য শব্দ এবং কম্পন চালান</string>
+    
+    
+    <string name="spoofing_title">স্পোফিং</string>
+    <string name="spoofing_title_summary">অ্যাপ্লিকেশন বৈশিষ্ট্যগুলি আনলক করতে বিভিন্ন ডিভাইস হিসাবে স্পোফ</string>
+    <string name="all_props_title">স্পুফ বিকল্পগুলি সক্ষম করুন</string>
+    <string name="all_props_summary">পিক্সেলপ্রপগুলির মধ্যে সমস্ত স্পুফ বিকল্পগুলি সক্ষম করে</string>
+    <string name="google_spoof_title">গুগল অ্যাপস স্পুফ</string>
+    <string name="google_spoof_summary">পিক্সেল 9 প্রো এক্সএল -এ নির্বাচিত গুগল অ্যাপস স্পুফ</string>
+    <string name="google_spoof_option_disabled">গুগল অ্যাপস স্পোফিং সক্ষম করার বর্তমান ডিভাইস দ্বারা প্রয়োজন হয় না</string>
+    <string name="gms_spoof_title">জিএমএস স্পুফ সক্ষম করুন</string>
+    <string name="gms_spoof_summary">গুগল প্লে সত্যতা পাস করতে আপনার ডিভাইসটি ছিটিয়ে দিন</string>
+    <string name="gameprops_title">গেমসে উচ্চতর এফপিএস আনলক করুন</string>
+    <string name="gameprops_summary">একটি ফ্ল্যাগশিপ ডিভাইসে গেমগুলির জন্য আপনার ডিভাইস মডেলটি স্পোফ করে</string>
+    <string name="gameprops_load_json_title">কাস্টম গেমপ্রপস জসন ফাইল আমদানি করুন (Al চ্ছিক)</string>
+    <string name="gameprops_load_json_summary">আপনি যদি আপনার পছন্দসই ডিভাইস মডেলটিতে গেমস স্পুফ করতে চান তবে একটি কাস্টম গেমপ্রপস জেএসএন ফাইল চয়ন করুন</string>
+    <string name="pif_spoofing_title">কাস্টম পিআইএফ জসন ফাইল নির্বাচন করুন</string>
+    <string name="pif_spoofing_summary">স্পুফিং প্লে অখণ্ডতার জন্য ব্যবহার করতে কাস্টম পিআইএফ জসন ফাইলটি চয়ন করুন</string>
+    
+    <string name="use_photos_spoof_title">Unlimited Photos storage</string>
+    <string name="use_photos_spoof_summary">Spoof your device as Pixel XL for Google Photos app only to provide unlimited storage for backup</string>
+    <string name="use_games_spoof_title">Unlock higher FPS in games</string>
+    <string name="use_games_spoof_summary">Spoof your device as different model for specific games to unlock higher FPS</string>   
+    <string name="spoof_option_disabled">পিক্সেলপ্রপস স্পোফিং অক্ষম করা বর্তমান ডিভাইস দ্বারা সমর্থিত নয়</string>
+    <string name="netflix_spoof_title">Netflix spoof</string>
+    <string name="netflix_spoof_summary">Spoof your device as different model for Netflix</string>
+    
+    
+    <string name="toast_spoofing_success">সফলভাবে পিআইএফ.জসন ডাউনলোড করেছেন।প্লে অখণ্ডতার জন্য %1$s হিসাবে স্পোফিং।</string>
+    <string name="toast_spoofing_failure">বৈশিষ্ট্যগুলি স্পুফ করতে ব্যর্থ।</string>
+    <string name="update_pif_json_title">আপডেট প্লে ইন্টিগ্রিটি ফিক্স</string>
+    <string name="update_pif_json_summary">পিআইএফ স্পোফিং ডিভাইস আপডেট করুন, ইন্টারনেট সংযোগ প্রয়োজন।</string>
+    <string name="show_pif_properties_title">ইন্টিগ্রিটি ফিক্স বৈশিষ্ট্য খেলুন</string>
+    <string name="show_pif_properties_summary">বর্তমানে সমস্ত সেট পিআইএফ বৈশিষ্ট্য দেখান</string>
+    <string name="error_loading_properties">পিআইএফ বৈশিষ্ট্যগুলি লোড করার ত্রুটি</string>
+     
+     
+    <string name="ambient_edge_light_action_title">পরিবেষ্টিত প্রান্ত আলো</string>
+    <string name="ambient_edge_light_title">প্রান্ত আলো</string>
+    <string name="ambient_edge_light_enable_title">প্রান্ত আলো</string>
+    <string name="ambient_edge_light_enable_summary">এজ আলো সক্ষম করতে টগল করুন</string>
+    <string name="ambient_edge_light_summary">বিজ্ঞপ্তি পালসে স্ক্রিনের পাশের প্রান্তগুলি আলোকিত করুন</string>
+    <string name="ambient_edge_light_color_mode_category_title">রঙ</string>
+    <string name="ambient_edge_light_color_mode_auto">অটো</string>
+    <string name="ambient_edge_light_color_mode_app">অ্যাপ্লিকেশন রঙ</string>
+    <string name="ambient_edge_light_color_mode_manual">ম্যানুয়াল</string>
+    <string name="ambient_edge_light_advanced_category_title">উন্নত</string>
+    <string name="ambient_edge_light_duration_title">হালকা সময়কাল</string>
+    <string name="ambient_edge_light_repeat_count_title">পুনরাবৃত্তি গণনা</string>
+    <string name="ambient_edge_light_width_title">হালকা প্রস্থ</string>
+    <string name="ambient_edge_light_face_down_title">সক্রিয় করতে ফ্লিপ করুন</string>
+    <string name="ambient_edge_light_face_down_summary">যখন ফোনটি মুখোমুখি হয় কেবল তখনই এজ লাইট দেখান</string>
+    <string name="ambient_edge_light_layout_title">হালকা দৃশ্য</string>
+    <string name="ambient_edge_light_layout_solid">সলিড</string>
+    <string name="ambient_edge_light_layout_faded">বিবর্ণ</string>
+    
+    
+    <string name="island_notification_title">Island notification</string>
+    <string name="island_notification_summary">Display heads-up notification in Dynamic Island style</string>
+    <string name="island_notification_now_playing_title">Now playing</string>
+    <string name="island_notification_now_playing_summary">Display currently playing song in Dynamic Island style</string>
+</resources>

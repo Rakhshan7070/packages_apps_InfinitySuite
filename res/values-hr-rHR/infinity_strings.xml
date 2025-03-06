@@ -1,0 +1,864 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2">
+
+    
+
+    
+    <string name="button_title">Tipke</string>
+    <string name="gestures_title">Geste</string>
+    <string name="lockscreen_title">Zaklj. zaslon</string>
+    <string name="misc_title">Razno</string>
+    <string name="navbar_title">Navigacijska Traka</string>
+    <string name="powermenu_title">Izbornik</string>
+    <string name="quicksettings_title">Brze postavke</string>
+    <string name="themes_title">Teme</string>
+    <string name="statusbar_title">Traka statusa</string>
+    <string name="notifications_title">Obavijesti</string>
+    <string name="ambient_text_category_title">Prilagodba Ambijentalnog</string>
+    <string name="monet_title">Monet postavke</string>
+    <string name="fingerprint_category">Otisak Prsta</string>
+
+    
+    <string name="ok">U redu</string>
+    <string name="reset">Poništi</string>
+    <string name="cancel">Odustani</string>
+    <string name="save">Spremi</string>
+    
+    
+    <string name="notif_title">Obavijesti</string>
+    <string name="power_title">Izbornik</string>
+    <string name="gesture_title">Gesta</string>
+
+     
+     <string name="unit_seconds">sekunda</string>
+     <string name="unit_milliseconds">milisekunda</string>
+     <string name="unit_pixels">Dp</string>
+    
+    
+    <string name="team_title">O Timu</string>
+    
+    
+    <string name="lead_devs">Vodeći Programeri</string>
+    <string name="honorable_mentions">Počasni Spominjanja</string>
+    <string name="designers">Dizajneri Projekta</string>
+    
+    
+    <string name="general_category">General</string>
+    <string name="media_category">Medijska Ploča</string>
+    <string name="statusbar_icons">Ikone</string>
+    <string name="pocket_category">Džep</string>
+    
+    
+    <string name="statusbar_items_title">Statusna Traka Imsems</string>
+    <string name="statusbar_items_summary">Uključite Samostalne Predmete</string>
+    
+    
+    <string name="qs_quick_pulldown">Brzi Qs Provaliju</string>
+    <string name="quick_pulldown_none">Onemogućen</string>
+    <string name="quick_pulldown_right">Status Statusa S Desne Strane</string>
+    <string name="quick_pulldown_left">Status Statusa S Lijeve Strane</string>
+    
+    
+    <string name="power_menu_title">Izbornik Power</string>
+    <string name="power_menu_title_summary">Pogledajte Ili Promijenite Unose Izbornika Napajanja</string>
+    <string name="powermenu_screenshot">Snimka Zaslona</string>
+    <string name="powermenu_power">Vlast</string>
+    <string name="powermenu_advanced">Napredne Mogućnosti Ponovnog Pokretanja</string>
+    <string name="powermenu_restart">Ponovno Pokrenuti</string>
+    <string name="powermenu_airplane">Zrakoplov</string>
+    <string name="powermenu_settings">Postavke</string>
+    <string name="powermenu_lockdown">Izolacija</string>
+    <string name="powermenu_soundpanel">Zvučna Ploča</string>
+    <string name="powermenu_users">Korisnika</string>
+    <string name="powermenu_logout">Odjava</string>
+    <string name="powermenu_emergency">Hitan Slučaj</string> 
+    
+    
+    <string name="lockscreen_enable_power_menu_title">Izbornik Power</string>
+    <string name="lockscreen_enable_power_menu_summary">Dopusti pristup izborniku napajanja na zaključanom zaslonu</string>
+          
+    
+    <string name="system_navigation_summary">Konfigurirajte Navigacijske Izbornike</string>
+    
+    
+    <string name="monet_engine_custom_color_title">Naglašena boja</string>
+    <string name="monet_engine_custom_color_summary">Odabir prilagođene boje za istaknutu</string>
+    <string name="monet_engine_custom_bgcolor_title">Boja za pozadinu</string>
+    <string name="monet_engine_custom_bgcolor_summary">Odabir prilagođene boje za pozadinu</string>
+    <string name="monet_engine_color_override_title">Prilagođena boja</string>
+    <string name="monet_engine_luminance_factor_title">Svjetlina</string>
+    <string name="monet_engine_luminance_factor_summary">Veće vrijednosti daju svjetlije boje</string>
+    <string name="monet_engine_chroma_factor_title">Chroma faktor</string>
+    <string name="monet_engine_chroma_factor_summary">Veće vrijednosti daju jače boje</string>
+    <string name="monet_engine_whole_palette_title">Cijela paleta</string>
+    <string name="monet_engine_whole_palette_summary">Odabir svjetline i kromatike također utječe na sekundarne boje</string>
+    <string name="monet_engine_tint_background_title">Nijansa pozadine</string>
+    <string name="monet_engine_tint_background_summary">Odabir svjetline i kromatike također utječe na boje pozadine</string>
+    <string name="monet_engine_style_title">Stil teme</string>
+    <string name="monet_engine_style_tonal_spot">Tonal Spot (Default)</string>
+    <string name="monet_engine_style_vibrant">Vibrant</string>
+    <string name="monet_engine_style_expressive">Expressive</string>
+    <string name="monet_engine_style_spritz">Spritz</string>
+    <string name="monet_engine_style_rainbow">Duga</string>
+    <string name="monet_engine_style_fruit_salad">Voćna salata</string>
+    <string name="monet_engine_style_monochromatic">Monochromatic</string>
+    <string name="monet_engine_color_source_title">Color source</string>
+    <string name="monet_engine_color_source_both">Oba (zadano)</string>
+    <string name="monet_engine_color_source_home">Home wallpaper</string>
+    <string name="monet_engine_color_source_lock">Pozadine zaslona zaključavanja</string>
+    <string name="monet_engine_color_source_preset">Definirano</string>
+    
+    
+     <string name="theme_customization_font_title">Izgled fonta</string>
+     <string name="theme_customization_font_summary">Postavite stil fonta sustava</string>
+     <string name="theme_customization_icon_pack_title">Paket ikona</string>
+     <string name="theme_customization_icon_pack_summary">Postavljanje prilagođenih ikona</string>
+     <string name="theme_customization_icon_shape_title">Oblik ikona</string>
+     <string name="theme_customization_icon_shape_summary">Postavljanje oblika sistemskih ikona</string>
+     <string name="theme_customization_signal_icon_title">Stil ikone signala</string>
+     <string name="theme_customization_signal_icon_summary">Postavite prilagođeni stil ikone signala</string>
+     <string name="theme_customization_wifi_icon_title">Stil ikone Wi-Fi-ja</string>
+     <string name="theme_customization_wifi_icon_summary">Postavite prilagođeni stil ikone Wi-Fi-ja</string>
+     <string name="theme_customization_navbar_title">Navigacijska traka</string>
+     <string name="theme_customization_navbar_summary">Prilagodba navigacijske trake</string>
+     <string name="theme_customization_data_title">Stil Ikone Podataka</string>
+     <string name="theme_customization_data_summary">Postavite Prilagođeni Stil Ikone Podataka</string>
+     <string name="theme_customization_lock_clock_title">Stil fonta za sat</string>
+     <string name="theme_customization_lock_clock_summary">Stil fonta za zaključani zaslon</string>
+          
+    
+     <string name="lockscreen_battery_info_title">Informacije o bateriji</string>
+     <string name="lockscreen_battery_info_summary">Prikaži informacije o bateriji tijekom punjenja</string>
+    
+        
+    <string name="status_bar_battery_category_title">Prilagodbe baterije</string>
+    <string name="status_bar_battery_style_title">Stil baterije</string>
+    <string name="status_bar_battery_style_summary">Stil Baterija Statusa I Qs</string>
+    <string name="status_bar_battery_style_icon_portrait">Ikona u portretu</string>
+    <string name="status_bar_battery_style_icon_rlandscape">Ikona pejzažno (desno)</string>
+    <string name="status_bar_battery_style_icon_landscape">Ikona pejzažno (lijevo)</string>
+    <string name="status_bar_battery_style_circle">Krug</string>
+    <string name="status_bar_battery_style_dotted_circle">Točkasti krug</string>
+    <string name="status_bar_battery_style_filled_circle">Ispunjeni krug</string>
+    <string name="status_bar_battery_style_big_circle">Veliki Krug</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Veliki Isprekidani Krug</string>
+    <string name="status_bar_battery_style_land_a">Pejzaž Jednostavno</string>
+    <string name="status_bar_battery_style_land_b">Pejzaž Nenin</string>
+    <string name="status_bar_battery_style_land_c">Pejzažni Colors</string>
+    <string name="status_bar_battery_style_land_d">Pejzažna Ljubav</string>
+    <string name="status_bar_battery_style_land_e">Pejzažni Bejzbol</string>
+    <string name="status_bar_battery_style_land_f">Pejzaž Napola Ispunjava</string>
+    <string name="status_bar_battery_style_land_g">Pejzažni Vrtić Je Prijateljski</string>
+    <string name="status_bar_battery_style_land_h">Pejzaž Miui</string>
+    <string name="status_bar_battery_style_land_i">Pejzažni Prijatelj</string>
+    <string name="status_bar_battery_style_land_j">Pejzažni Staza</string>
+    <string name="status_bar_battery_style_land_k">Pejzaž Ios Četrnaest</string>
+    <string name="status_bar_battery_style_land_l">Pejzaž Ios Šesnaest</string>
+    <string name="status_bar_battery_style_land_m">Pejzaž Ios Obrisa</string>
+    <string name="status_bar_battery_style_land_n">Pejzaž</string>
+    <string name="status_bar_battery_style_land_o">Pejzažni Prozori</string>
+    <string name="status_bar_battery_style_text">Tekst</string>
+    <string name="status_bar_battery_style_hidden">Skriveno</string>
+    <string name="status_bar_battery_percent_title">Postotak baterije</string>
+    <string name="status_bar_battery_percent_hidden">Skriveno</string>
+    <string name="status_bar_battery_percent_text_inside">Unutar ikone</string>
+    <string name="status_bar_battery_percent_text_next_right">Pored ikone (desno)</string>
+    <string name="status_bar_battery_percent_text_next_left">Pored ikone (lijevo)</string>
+    <string name="status_bar_battery_text_charging_title">Postotak baterije tijekom punjenja</string>
+    <string name="status_bar_battery_text_charging_summary">Uvijek prikaži postotak baterije tijekom punjenja</string>
+
+    
+    <string name="qs_battery_category_title">Qs Prilagodbe Baterije</string>
+    <string name="qs_use_status_bar_battery_style">Prati stil statusne trake</string>
+    
+    
+    <string name="color_default">Zadano</string>
+    <string name="custom_battery_charging_icon_title">Ikone Punjenja</string>
+    <string name="custom_battery_charging_icon_summary">Prikaz Ikone Punjenja Na Strani Baterije</string>
+    <string name="custom_battery_charging_icon_style_title">Stil Ikona Punjenja</string>
+    <string name="custom_battery_charging_icon_wh_title">Širina I Visina Skale</string>
+
+    
+    <string name="custom_icon_charging_symbol_title">Simbol Punjenja Za Tekst Baterije</string>
+    <string name="custom_symbol_charging_default">Zadano (Vijak)</string>
+    <string name="custom_symbol_charging_type1">Biološ</string>
+    <string name="custom_symbol_charging_type2">Zvjezdica</string>
+    <string name="custom_symbol_charging_type3">Osmijeh</string>
+    <string name="custom_symbol_charging_type4">Reciklirati</string>
+    <string name="custom_symbol_charging_type5">Beskonačnost</string>
+    <string name="custom_symbol_charging_type6">Cvijet Sunca</string>
+    <string name="custom_symbol_charging_type7">Kap</string>
+    <string name="custom_symbol_charging_type8">Snijeg</string>
+    <string name="custom_symbol_charging_type9">Trostruka Tilde</string>
+
+    
+    <string name="flip_batre_image_title">Baterija</string>
+    <string name="flip_batre_image_summary">Okrenite Sliku Baterije</string>
+    <string name="flip_batre_title">Izgled Baterije</string>
+    <string name="flip_batre_summary">Prebacite Izgled Baterije</string>
+
+    
+    <string name="custom_battery_drawable_title">Razno Na Crtanju Baterije</string>
+    <string name="custom_battery_scaled_perimeter_alpha_title">Skalirani Perimetar Alfa</string>
+    <string name="custom_battery_scaled_perimeter_alpha_summary">Koristite Skaliranu Perimetru Alfa</string>
+    <string name="custom_battery_scaled_fill_alpha_title">Koristite Skalirani Leđa Puni Alfa</string>
+    <string name="custom_battery_scaled_fill_alpha_summary">Skalirani Leđa Ispunjavaju Alfa</string>
+    <string name="custom_battery_color_title">Baterija Prilagođena Boja</string>
+    <string name="custom_battery_color_summary">Postavite Na #Ff000000 Za Zadanu Boju Mješavine</string>
+    <string name="custom_battery_charging_color_title">Promjena Boje</string>
+    <string name="custom_battery_fill_color_title">Napunite Prilagođenu Boju</string>
+    <string name="custom_battery_fill_grad_color_title">Napunite Boju Gradijenta</string>
+    <string name="custom_battery_fill_grad_color_summary">#Ff000000 Za Onemogućavanje Gradijenta</string>
+    <string name="custom_battery_powersave_color_title">Boja Powersave</string>
+    <string name="custom_battery_powersave_fill_color_title">Powerave Punjenje Boje</string>
+    <string name="custom_battery_rainbow_fill_title">Boja Punjenja Duge</string>
+    <string name="custom_battery_rainbow_fill_summary">Samo Za Stil Prijatelj I Stazu</string>
+    <string name="sthumb_new_tint_picker_summary">Koristite Rgb Becker Colo</string>
+
+    
+    <string name="custom_battery_layout_title">Razno Na Rasporedu Baterije</string>
+    <string name="custom_battery_rotation_title">Rotacija Slike Baterije</string>
+    <string name="custom_battery_rotation_summary">Za Rotiranje Pejzažne Baterije</string>
+    <string name="custom_battery_leftpct_title">Lijevi Postotak Baterije</string>
+    <string name="custom_battery_leftpct_summary">Staviti Postotak Baterije Lijevo</string>
+
+    
+    <string name="custom_battery_dimension_title">Dimenzija Prilagođene Baterije</string>
+    <string name="custom_battery_dimension_summary">Koristite Prilagođene Dodatne Dimengene Vrijednosti</string>
+    <string name="custom_battery_height">Visina</string>
+    <string name="custom_battery_width">Širina</string>
+    <string name="custom_battery_top">Rub</string>
+    <string name="custom_battery_bottom">Rub Dna</string>
+    <string name="custom_battery_left">Opseg Je Ostao</string>
+    <string name="custom_battery_right">Margina U Redu</string>
+     
+    
+     <string name="qs_show_brightness_slider_title">Klizač osvjetljenja zaslona</string>
+     <string name="qs_show_brightness_slider_never">Nikad ne prikazuj</string>
+     <string name="qs_show_brightness_slider_expanded">Prikaži kada je prošireno</string>
+     <string name="qs_show_brightness_slider_always">Prikaži uvijek</string>
+     <string name="qs_show_brightness_slider_not_expanded">Prikaži kada je prošireno</string>
+     <string name="qs_brightness_slider_position_title">Položaj</string>
+     <string name="qs_brightness_slider_position_top">Gore</string>
+     <string name="qs_brightness_slider_position_bottom">Dolje</string>
+
+    
+     <string name="qs_show_auto_brightness_title">Automatska svjetlina ikona</string>
+     <string name="qs_show_auto_brightness_summary">Prikaži prečac za automatsko postavljanje svjetline kraj klizača</string>
+    
+    
+     <string name="status_bar_clock_title">Sat &amp; datum</string>
+     <string name="status_bar_clock_summary">Prilagodite sat &amp; datum</string>
+     <string name="status_bar_clock_seconds_title">Sekunde na satu</string>
+     <string name="status_bar_clock_seconds_summary">Prikaži sekunde pored sata na traci statusa</string>
+     <string name="status_bar_clock_position_title">Stil sata</string>
+     <string name="status_bar_clock_position_right">Desno</string>
+     <string name="status_bar_clock_position_left">Lijevo</string>
+     <string name="status_bar_clock_position_center">Centar</string>
+     <string name="status_bar_clock_position_hidden">Skriveno</string>
+     <string name="status_bar_clock_auto_hide_title">Automatsko sakrivanje</string>
+     <string name="status_bar_clock_auto_hide_launcher_summary">Sakrij sat ako je pokretač vidljiv</string>
+     <string name="status_bar_clock_auto_hide_summary">Sakrij sat u redovitim intervalima</string>
+     <string name="status_bar_clock_auto_hide_hdur_title">Sakrij trajanje</string>
+     <string name="status_bar_clock_auto_hide_hdur_summary">Broj sekundi za sakrivanje sata</string>
+     <string name="status_bar_clock_auto_hide_sdur_title">Prikaži trajanje</string>
+     <string name="status_bar_clock_auto_hide_sdur_summary">Broj sekundi koje treba pričekati prije sakrivanja sata</string>
+     <string name="status_bar_am_pm_title">AM/PM stil</string>
+     <string name="status_bar_am_pm_info">Omogućen je 24-satni prikaz vremena</string>
+     <string name="status_bar_am_pm_normal">Normalno</string>
+     <string name="status_bar_am_pm_small">Malo</string>
+     <string name="status_bar_am_pm_hidden">Skriveno</string>
+     <string name="status_bar_date_title">Datum</string>
+     <string name="status_bar_date_none">Skriveno</string>
+     <string name="status_bar_date_small">Mali</string>
+     <string name="status_bar_date_normal">Normalni</string>
+     <string name="status_bar_date_format_title">Format datuma</string>
+     <string name="status_bar_date_style">Stil datuma</string>
+     <string name="status_bar_date_style_normal">Normalno</string>
+     <string name="status_bar_date_style_lowercase">Mala slova</string>
+     <string name="status_bar_date_style_uppercase">Velika slova</string>
+     <string name="status_bar_date_format_custom">Prilagođeni java format</string>
+     <string name="status_bar_date_string_edittext_title">Mora biti u obliku datuma npr. MM/dd/yy</string>
+     <string name="status_bar_date_string_edittext_summary">Unesite niz znakova</string>
+     <string name="clock_date_position">Položaj datuma</string>
+     <string name="clock_date_right">Desno od sata</string>
+     <string name="clock_date_left">Lijevo od sata</string>
+
+    
+    <string name="qs_footer_text_title">Qs Podnožje Tekst</string>
+    <string name="qs_footer_text_summary">Prikažite Tekst Na Dnu Ploče Qs</string>
+    <string name="qs_footer_text_string_title">Prilagodite Tekst Podnožja</string>
+    <string name="qs_footer_text_string_summary">Postavite Na Praznu Za Zadanu Beskonačnost</string>
+
+   
+    <string name="qs_show_data_usage_title">Pokažite Upotrebu Podataka</string>
+    <string name="qs_show_data_usage_summary">Prikažite Svakodnevnu Upotrebu Podataka O Staničnoj/Wi-Fi U Podnožju Qs</string>
+    
+   
+    <string name="laboratory_ignore_window_secure_title">Zanemarite Sigurnosne Zastave Prozora</string>
+    <string name="laboratory_ignore_window_secure_summary">Time Se Uklanja Ograničenja Zaslona I Zaslona Za Sve Aplikacije.Obično Se Posebne Aplikacije Zamjenjuju Crnim Područjima U Zapisima.To Može Biti Prikladno U Nekim Slučajevima, Ali Može Dovesti Do Curenja Privatnosti.Nakon Promjene Ovog Preklopnika, Možda Ćete Trebati Ponovno Pokrenuti Aplikacije Za Promjenu Da Stupaju Na Snagu.</string>
+    
+    
+    <string name="app_downgrade_title">Dopustite Da Se Prijava Smanji</string>
+    <string name="app_downgrade_summary">To Vam Omogućuje Da Smanjite Aplikacije.Imajte Na Umu Da To Može Dovesti Do Sudara I Korupcije Podataka.</string>
+
+   
+    <string name="statusbar_colored_icons_title">Obojene ikone</string>
+    <string name="statusbar_colored_icons_summary">Koristi odgovarajuće ikone aplikacija za ikone obavijesti u statusnoj traci</string>
+    
+   
+    <string name="status_bar_logo_title">Logo</string>
+    <string name="default_string">Zadano</string>
+    <string name="status_bar_logo_summary">Prikaz prilagođenog logotipa lijevo ili desno od statusne trake</string>
+    <string name="status_bar_logo_primary_switch_title">Koristite Logotip</string>
+    <string name="status_bar_logo_position_title">Položaj logotipa</string>
+    <string name="status_bar_logo_position_summary">Odaberite Na Kojoj Ćete Strani Prikazati Logotip, Lijevo Ili Desno</string>
+    <string name="status_bar_logo_position_right">Pravo</string>
+    <string name="status_bar_logo_position_left">Lijevo</string>
+    <string name="status_bar_logo_color_title">Boja</string>
+    <string name="status_bar_logo_color_default">Zadano (Bijelo)</string>
+    <string name="status_bar_logo_color_accent">Akcent</string>
+    <string name="status_bar_logo_color_custom">Običaj</string>
+    <string name="status_bar_logo_style_title">Stil logotipa</string>
+    <string name="status_bar_logo_style_adidas">Adidas</string>
+    <string name="status_bar_logo_style_airjordan">Air Jordan</string>
+    <string name="status_bar_logo_style_alien">Vanzemaljci</string>
+    <string name="status_bar_logo_style_amogus">Amogus</string>
+    <string name="status_bar_logo_style_apple">Apple</string>
+    <string name="status_bar_logo_style_avengers">Avengers</string>
+    <string name="status_bar_logo_style_batman">Batmen</string>
+    <string name="status_bar_logo_style_batman_tdk">Batman The Dark Knight</string>
+    <string name="status_bar_logo_style_beats">Beats</string>
+    <string name="status_bar_logo_style_biohazard">Biohazard</string>
+    <string name="status_bar_logo_style_blackberry">Blackberry</string>
+    <string name="status_bar_logo_style_captain_america">Captain America</string>
+    <string name="status_bar_logo_style_cannabis">Cannabis</string>
+    <string name="status_bar_logo_style_flash">Bljeskalica</string>
+    <string name="status_bar_logo_style_fire">Vatra</string>
+    <string name="status_bar_logo_style_ghost">Duh</string>
+    <string name="status_bar_logo_style_heart">Srce</string>
+    <string name="status_bar_logo_style_ironman">Iron Man</string>
+    <string name="status_bar_logo_style_mint">Linux Mint</string>
+    <string name="status_bar_logo_style_nike">Nike</string>
+    <string name="status_bar_logo_style_ninja">Ninja</string>
+    <string name="status_bar_logo_style_pac_man">Pac-Čovjek</string>
+    <string name="status_bar_logo_style_puma">Puma</string>
+    <string name="status_bar_logo_style_robot">Robot</string>
+    <string name="status_bar_logo_style_rog">ROG</string>
+    <string name="status_bar_logo_style_spiderman">Spider-Man</string>
+    <string name="status_bar_logo_style_superman">Superman</string>
+    <string name="status_bar_logo_style_tux">Tux</string>
+    <string name="status_bar_logo_style_ubuntu">Ubuntu</string>
+    <string name="status_bar_logo_style_windows">Windows</string>
+    <string name="status_bar_logo_style_xbox">Xbox</string>
+    
+    
+    <string name="qs_transparency_summary">Odaberite Koliko Prozirno Želite Da Vaš Qs Bude</string>
+    <string name="qs_transparency_title">Qs Transparentnost</string>
+
+    
+    <string name="statusbar_clock_chip_title">Boja za pozadinu</string>
+    <string name="statusbar_clock_chip_summary">Prikaz naglašene pozadine iza sata</string>
+    <string name="solid_accent">Akcent</string>
+    <string name="outline">Obris</string>
+    <string name="solid_accent_gradient">Gradijent</string>
+    <string name="solid_gradient">Čvrsta Gradijentna Strana</string>
+    <string name="solid_gradient_corner">Čvrsti Naglasak Gradijent Oštro</string>
+    <string name="solid_gradient_void">Gradijent Praznina</string>
+    <string name="solid_gradient_neumorph">Gradijent Neumorpha</string>
+    <string name="solid_gradient_stroke">Oštri Gradijentni Udar</string>
+    <string name="solid_accent_transperent">Akcent Transparentan</string>    
+    <string name="solid_gradient_light">Gradijentna Svjetlost</string>
+    <string name="solid_gradient_shape">Oštri Kutak Gradijenta</string>
+    <string name="solid_gradient_void_light">Gradijent Praznina</string>
+    
+    
+    <string name="haptic_on_volume_slider_title">Haptic Slider Haptic</string>
+    <string name="haptic_on_volume_slider_summary">Pružiti Haptičke Povratne Informacije O Promjeni Volumena Pomoću Klizača</string>
+    
+    
+    <string name="volume_panel_on_left_title">Gumbi za glasnoću na lijevoj strani</string>
+    <string name="volume_panel_on_left_summary">Prikažite Ploču Za Glasnoću Na Lijevoj Strani Zaslona</string>
+    
+    
+    <string name="data_disabled_icon_title">Indikator onemogućenih podataka</string>
+    <string name="data_disabled_icon_summary">Prikaži indikator pored ikone signala kada su podaci onemogućeni</string>
+    
+    
+    <string name="status_bar_4g_icon_title">4G Ikona</string>
+
+    
+    <string name="roaming_indicator_icon_title">Prikaži Ikonu Indikatora Roaminga</string>
+    <string name="roaming_indicator_icon_summary">Prikažite Indikator Roaminga Iznad Ikone Signala Kada Je U Načinu Roaminga</string>
+
+    
+    <string name="wifi_standard_icon_title">Wi‑Fi standard</string>
+    <string name="wifi_standard_icon_summary">Prikaz WiFi standarda pokraj ikone WiFi signala</string>
+    
+    
+    <string name="bluetooth_battery_title">Status Bluetooth baterije</string>
+    <string name="bluetooth_battery_summary">Prikažite razinu baterije za povezani Bluetooth uređaj, ako je dostupan</string> 
+    
+    
+    <string name="show_fiveg_icon_summary">Snažno Prikažite 5G Mrežnu Ikonu Umjesto Lte &amp; 4G</string>
+    <string name="show_fiveg_icon_title">Spoof 5G Indikator</string>
+    
+    
+    <string name="qs_brightness_slider_haptic_title">Dodirne povratne informacije</string>
+    <string name="qs_brightness_slider_haptic_summary">Omogućavanje dodirne povratne informacije o promjeni svjetline pomoću klizača</string>
+    
+    
+    <string name="statusbar_padding">Status Trake Padding</string>
+    <string name="statusbar_top_padding">Gornja Obloga</string>
+    <string name="statusbar_left_padding">Lijeva Jastuka</string>
+    <string name="statusbar_right_padding">Desna Obloga</string>
+    
+    
+    <string name="less_boring_heads_up_title">Manje dosadne</string>
+    <string name="less_boring_heads_up_summary">Prikaži skočne obavijesti samo za alarm, biranje brojeva i poruke</string>
+
+    
+    <string name="headsup_category">Postavke Glave</string>
+    <string name="heads_up_notifications">Glava</string>
+    <string name="heads_up_notifications_summary">Postavke Obavijesti O Prilagođenim Glavama</string>
+    <string name="summary_heads_up_enabled">Pop-Up Obavijesti Su Omogućene</string>
+    <string name="summary_heads_up_disabled">Pop-Up Obavijesti Su Onemogućene</string>
+    <string name="add_heads_up_package">Dodajte Aplikaciju</string>
+    <string name="add_heads_up_stoplist_summary">Onemogućite Obavijesti O Glavama U Ovim Aplikacijama</string>
+    <string name="add_heads_up_blacklist_summary">Onemogućite Glave Iz Ovih Aplikacija</string>
+    <string name="heads_up_stoplist_title">Popisa</string>
+    <string name="heads_up_blacklist_title">Crna Lista</string>
+    <string name="profile_choose_app">Odaberite Aplikaciju</string>
+    <string name="dialog_delete_title">Izbrisati</string>
+    <string name="dialog_delete_message">Ukloniti Odabranu Stavku?</string>
+
+    
+    <string name="heads_up_time_out_title">Izlasko</string>
+    <string name="heads_up_time_out_summary">Zavirivanje Obavijesti Prikazat Će Se Za<ns0:g id="number">%d</ns0:g> seconds</string>
+    <string name="heads_up_time_out_2sec">2 Sekunde</string>
+    <string name="heads_up_time_out_4sec">4 Sekunde</string>
+    <string name="heads_up_time_out_5sec">5 Sekundi</string>
+    <string name="heads_up_time_out_6sec">6 Sekundi</string>
+    <string name="heads_up_time_out_8sec">8 Sekundi</string>
+    <string name="heads_up_time_out_10sec">10 Sekundi</string>
+
+    
+    <string name="heads_up_snooze_title">Odskok</string>
+    <string name="heads_up_snooze_summary_one_minute">Prebacivanje Obavijesti O Zavijanjem Će Odvajati Glavu Iz Te Prijave U Trajanju Od 1 Minute</string>
+    <string name="heads_up_snooze_summary">Prelazak Na Zavijanje Obavijesti Odnjutit Će Glave Iz Te Prijave Za<ns0:g id="number">%d</ns0:g> minutes</string>
+    <string name="heads_up_snooze_disabled_summary">Timer Snooze Je Onemogućen</string>
+    <string name="heads_up_snooze_1min">1 Minuta</string>
+    <string name="heads_up_snooze_5min">5 Minuta</string>
+    <string name="heads_up_snooze_10min">10 Minuta</string>
+    <string name="heads_up_snooze_15min">15 Minuta</string>
+    <string name="heads_up_snooze_20min">20 Minuta</string>
+    
+    
+    <string name="volume_button_music_control_title">Kontrola Reprodukcije</string>
+    <string name="volume_button_music_control_summary">Kad Zaslon Isključi, Tipke Za Dugotrajno Prešanje Preskočit Će Glazbene Pjesme</string>
+    
+    
+    <string name="volume_rocker_wake_title">Volumen Buđenje</string>
+    <string name="volume_rocker_wake_summary">Probudite Uređaj Pritiskom Na Tipke Za Glasnoću</string>
+    
+    
+    <string name="volume_answer_call_title">Odgovori na poziv</string>
+    <string name="volume_answer_call_summary">Odgovori na dolazne pozive pritiskom na tipke za podešavanje glasnoće</string>
+    
+    
+    <string name="pulse_help_policy_notice_title">O Pulsu</string>
+    <string name="pulse_help_policy_notice_summary">Pulse je sjajan audio grafički equalizer kada se glazba reproducira na uređaju</string>
+    <string name="pulse_settings">Pulse</string>
+    <string name="pulse_settings_summary">Grafički audio ekvalizator za navigacijsku traku i zaključani zaslon</string>
+    <string name="show_navbar_pulse_title">Navbar Pulse</string>
+    <string name="show_navbar_pulse_summary">Grafički ekvalizator na navigacijskoj traci</string>
+    <string name="show_lockscreen_pulse_title">Pulse na zaklj. zaslonu</string>
+    <string name="show_lockscreen_pulse_summary">Grafički ekvalizator na zaključanom zaslonu</string>
+    <string name="show_ambient_pulse_title">Ambient Pulse</string>
+    <string name="show_ambient_pulse_summary">Grafički ekvalizator na ambijentalnom zaslonu</string>
+    <string name="pulse_render_mode_title">Način renderiranja</string>
+    <string name="pulse_render_mode_fading_bars">Blokovi koji blijede</string>
+    <string name="pulse_render_mode_solid_lines">Pune crte</string>
+    <string name="pulse_legacy_mode_advanced_category">Postavke načina blokova koji blijede</string>
+    <string name="pulse_custom_fudge_factor">Razina snage</string>
+    <string name="pulse_lavalamp_speed_title">Brzina lava lampe</string>
+    <string name="pulse_solid_units_count">Broj punih crta</string>
+    <string name="pulse_solid_units_opacity">Prozirnost punih crta</string>
+    <string name="pulse_solid_dimen_category">Postavke načina punih crta</string>
+    <string name="pulse_color_mode_title">Boja</string>
+    <string name="pulse_color_accent">Naglašeno</string>
+    <string name="pulse_color_custom">Prilagođeno</string>
+    <string name="pulse_color_lava_lamp">Lava svjetiljka</string>
+    <string name="pulse_color_user_title">Odaberite boju</string>
+    <string name="pulse_color_auto">Album</string>
+    <string name="pulse_smoothing_enabled_title">Uključi efekt glatkoće</string>
+    <string name="pulse_smoothing_enabled_summary">Svaka traka je animiranija glatkije</string>
+    <string name="pulse_custom_dimen">Širina trake</string>
+    <string name="pulse_custom_div">Razmak trake</string>
+    <string name="pulse_filled_block_size">Veličina bloka</string>
+    <string name="pulse_empty_block_size">Razmak između blokova</string>
+    <string name="pulse_solid_units_rounded_title">Zaobljeni kutevi</string>
+    <string name="pulse_solid_units_rounded_summary">Čvrste linije sa zaobljenim vrhom</string>
+
+    
+    <string name="pulse_custom_gravity_title">Gravitacija</string>
+    <string name="pulse_custom_gravity_bottom">Dno</string>
+    <string name="pulse_custom_gravity_top">Vrh</string>
+    <string name="pulse_custom_gravity_center">Centar</string>
+    <string name="visualizer_center_mirrored_title">Središnja Zrcala</string>
+    <string name="visualizer_center_mirrored_summary">Postavite Vizualizator U Središnji Zrcalni Način</string>
+    <string name="pulse_vertical_mirror_title">Okomito Ogledalo</string>
+    <string name="pulse_vertical_mirror_summary">Stvorite Drugi Puls I Okrenite Se Okomito</string>
+
+    
+    <string name="pocket_mode">Džepni Mod</string>
+    <string name="pocket_mode_summary">Blokirajte Ulaze Zaslona Dok Je Uređaj U Džepu</string>
+    
+    
+    <string name="status_bar_notif_count_title">Broj Obavijesti</string>
+    <string name="status_bar_notif_count_summary">Prikažite Broj Nepročitanih Obavijesti Na Svakoj Ikoni Aplikacije</string>
+
+    
+    <string name="mic_camera_privacy_indicator_title">Indikator privatnosti mikrofona i kamere</string>
+    <string name="mic_camera_privacy_indicator_summary">Prikaži zasebni indikator kada bilo koja aplikacija koristi mikrofon ili kameru</string>
+    <string name="location_privacy_indicator_title">Indikator privatnosti lokacije</string>
+    <string name="location_privacy_indicator_summary">Prikaži zasebni indikator kada bilo koja aplikacija koristi lokaciju</string>
+    <string name="projection_privacy_indicator_title">Indikator privatnosti za medijske projekcije</string>
+    <string name="projection_privacy_indicator_summary">Prikaži indikator kada se projicira zaslon uređaja</string>
+    
+    
+    <string name="battery_bar_title">Traka baterije</string>
+    <string name="battery_bar_summary">Prikaži i prilagodi traku baterije iznad statusne trake</string>
+    <string name="battery_bar_color">Boja</string>
+    <string name="battery_bar_charging_color">Boja tijekom punjenja</string>
+    <string name="battery_bar_battery_low_color">Boja slabe baterije</string>
+    <string name="battery_bar_style_title">Poravnavanje</string>
+    <string name="battery_bar_thickness_title">Debljina</string>
+    <string name="battery_bar_animate_title">Animacija punjenja</string>
+    <string name="battery_bar_style_regular">Obično</string>
+    <string name="battery_bar_style_center_mirrored">Centralno simetrično</string>
+    <string name="battery_bar_style_reversed">Obrnuto</string>
+    <string name="battery_bar_use_charging_color">Prilagođena boja punjenja</string>
+    <string name="battery_bar_blend_color_title">Miješanje boja</string>
+    <string name="battery_bar_blend_color_summary">Miješanje boja puno/prazno u odnosu na napunjenost baterije</string>
+    <string name="battery_bar_blend_color_reverse_title">Obrnuti smjer boje</string>
+    <string name="battery_bar_blend_color_reverse_summary_off">Napunjeno→ prazno: crvena ← zelena ← plava ← crvena</string>
+    <string name="battery_bar_blend_color_reverse_summary_on">Napunjeno → prazno: crvena → zelena → plava → crvena</string>
+
+    
+    <string name="network_traffic_state_title">Indikator Mrežnog Prometa</string>
+    <string name="network_traffic_state_summary">Omogući Ili Onemogućite Indikator Mrežne Brzine U Statusnoj Traci</string>
+    <string name="network_traffic_title">Indikator Mrežnog Prometa</string>
+    <string name="network_traffic_master_switch_title">Koristite Indikator Mrežnog Prometa</string>
+    <string name="network_options_title">Opcije</string>
+    <string name="network_traffic_autohide_title">Sakrij Indikator Mrežnog Prometa Ako Je Neaktivan</string>
+    <string name="network_traffic_autohide_summary">Sakrij praćenje prometa kada nema aktivnosti</string>
+    
+    
+    <string name="ambient_text_category">Prilagođavanje Teksta</string>
+    <string name="ambient_image_category">Prilagodba Slike</string>
+    <string name="ambient_text_category_summary">Prilagođavanje Izgleda Ambijenta</string>
+    <string name="ambient_text_title">Ambijentni Tekst</string>
+    <string name="ambient_text_summary">Prikažite Ambijentalni Tekst U Aod -U</string>
+    <string name="ambient_text_animation_title">Animacija Ambijentalnog Teksta</string>
+    <string name="ambient_text_animation_summary">Prikaži Animaciju Kad Prikaže Aod</string>
+    <string name="ambient_text_size_title">Veličina Ambijentalnog Teksta</string>
+    <string name="ambient_text_font_title">Ambijentni Tekst Font</string>
+    <string name="ambient_text_string_title">Postavite Ambijentalni Tekst</string>
+    <string name="ambient_text_align_title">Poravnavanje Teksta Okoliša</string>
+    <string name="ambient_text_align_start_top">Desno N Vrh</string>
+    <string name="ambient_text_align_start_center">Desno N Središte</string>
+    <string name="ambient_text_align_start_bottom">Desno I Dno</string>
+    <string name="ambient_text_align_center">Centar</string>
+    <string name="ambient_text_align_end_top">Lijevo N Vrh</string>
+    <string name="ambient_text_align_end_center">Lijevo N Središte</string>
+    <string name="ambient_text_align_end_bottom">Lijevo N Dno</string>
+    <string name="ambient_text_type_color_title">Boja Tipa Ambijentalnog Teksta</string>
+    <string name="ambient_text_color_title">Boja Okolnog Teksta</string>
+    <string name="ambient_notification_light_color_mode_accent">Boja Naglaska Sustava</string>
+    <string name="ambient_notification_light_color_mode_custom">Prilagođena Boja</string>
+    <string name="ambient_notification_light_color_mode_wall">Boja Pozadine</string>
+    <string name="ambient_image_title">Ambijentalna Slika</string>
+    <string name="file_header_select_title">Odaberite Lokalnu Sliku</string>
+    <string name="file_header_select_summary">Odaberite Sliku Iz Pohrane</string>
+    
+    
+    <string name="qs_compact_media_player_mode_title">Kompaktni Qs Media Player</string>
+    <string name="qs_compact_media_player_mode_summary">Omogućite Kompaktni Način Rada Za Media Player Za Quicksettings</string>
+
+    
+    <string name="smart_pixels_warning_text">Smart pixels is a power saving feature. Depending on how many pixels you decide to turn off, you could see improvement in battery life.</string>
+    <string name="smart_pixels_title">Pametni pikseli</string>
+    <string name="smart_pixels_summary">Ušteda baterije isključivanjem dodatnih piksela</string>
+    <string name="smart_pixels_enable_title">Omogući pametne piksele</string>
+    <string name="smart_pixels_enable_summary">Isključivanje piksela kako biste smanjili potrošnju energije</string>
+    <string name="smart_pixels_on_power_save_title">Automatska aktivacija kod uštede baterije</string>
+    <string name="smart_pixels_on_power_save_summary">Aktivacija pametnih piksela kada je omogućena ušteda baterije</string>
+    <string name="smart_pixels_percent">Postotak piksela za isključenje</string>
+    <string name="smart_pixels_shift_title">Burn-in zaštita</string>
+    <string name="smart_pixels_shift_summary">Sprječava burn-in na OLED uređajima pomicanjem piksela svako malo</string>
+    
+    
+    <string name="custom_timeout_summary_never">Nikad</string>
+    <string name="custom_timeout_summary_15secs">15 sekundi</string>
+    <string name="custom_timeout_summary_30secs">30 sekundi</string>
+    <string name="custom_timeout_summary_1min">1 minuta</string>
+    <string name="custom_timeout_summary_2mins">2 minute</string>
+    <string name="custom_timeout_summary_5mins">5 minuta</string>
+    <string name="custom_timeout_summary_10mins">10 minuta</string>
+    <string name="custom_timeout_summary_20mins">20 minuta</string>
+    <string name="custom_timeout_summary_30mins">30 minuta</string>
+    <string name="custom_timeout_summary_1hour">1 sat</string>
+    <string name="custom_timeout_summary_2hours">2 sata</string>
+    
+    
+    <string name="pulse_on_new_tracks_title">Glazbena oznaka</string>
+    <string name="pulse_on_new_tracks_summary">Prikaži glazbenu oznaku na Ambient Display tijekom promjene pjesme</string>
+
+    
+    <string name="screen_off_animation_title">Animacija isključivanja zaslona</string>
+    <string name="screen_off_animation_default">Zadano</string>
+    <string name="screen_off_animation_crt">CRT</string>
+    <string name="screen_off_animation_scale">Skala</string>
+
+    
+    <string name="system_charging">Opcije Punjenja Sustava</string>
+    <string name="charging_animation_bg_title">Pozadina Punjenja</string>
+    <string name="charging_animation_bg_summary">Omogućavanje Ove Opcije Učinit Će Pozadinu Na Animaciji Sustava Crnom</string>
+    
+    
+    <string name="hide_screen_capture_status_title">Sakrij Status Snimanja Zaslona</string>
+    <string name="hide_screen_capture_status_summary">Sakrijte Status Snimanja Zaslona I Zaslon Iz Svih Aplikacija.U Nekim Slučajevima Može Biti Prikladan, Ali Može Dovesti Do Curenja Privatnosti.Trebate Ponovno Pokrenuti Aplikacije Za Promjenu Kako Bi Stupili Na Snagu.</string>
+
+    
+    <string name="no_storage_restrict_title">Nijedno Skladištenje Ograničava</string>
+    <string name="no_storage_restrict_summary">Uklonite Ograničenje Pri Odabiru Mapa Putem Okvira Za Pohranu.U Nekim Slučajevima Može Biti Prikladan, Ali Može Dovesti Do Curenja Privatnosti.</string>
+    
+    
+    <string name="hide_developer_status_title">Sakrij Status Programera</string>
+    <string name="hide_developer_status_summary">Spriječite Aplikacije Da Provjere Status Adb -A I Programera</string>
+    <string name="search">Pretraživanje</string>
+    <string name="search_apps">Pretražite Aplikacije</string>
+
+    
+    <string name="spoof_storage_encryption_status_title">Koristite Laž Za Skladištenje Enkripcije</string>
+    <string name="spoof_storage_encryption_status_summary">Spoof Status Enkripcije Za Pohranu Za Šifriranje</string>
+    
+    
+    <string name="media_controls_always_show_time_title">Vrijeme Emisije Medija</string>
+    <string name="media_controls_always_show_time_summary">Uvijek Pokažite Propušteno I Ukupno Vrijeme Na Media Player</string>
+    <string name="media_controls_squiggle_title">Smiggly Napredak</string>
+    <string name="media_controls_squiggle_summary">Prikaži Traku Napretka Na Media Player \ Nrequires Systemui Restart Da Stupi Na Snagu</string>
+    <string name="media_controls_actions_title">Ograničenje Prilagođenih Radnji</string>
+    <string name="media_controls_actions_summary">Maksimalni Broj Gumba Koje Aplikacije Omogućuje Dodavanje Igraču</string>
+    <string name="media_controls_time_as_next_title">Vrijeme Kao Sljedeće / Prethodno</string>
+    <string name="media_controls_time_as_next_summary">Sakrijte Sljedeće / Prethodne Gumbe I Umjesto Toga Koristite Uvijek Prikazano Vrijeme</string>
+    <string name="media_controls_ripple_title">Efekti Valova</string>
+    <string name="media_controls_ripple_summary">Kontrolirajte Efekte Pukotine Pri Interakciji S Medijskim Kontrolama</string>
+    <string name="media_controls_turbulence_title">Efekt Turbulencije</string>
+    <string name="media_controls_turbulence_summary">Aktivirajte Efekt Turbulencije Za Dinamičku Kontrolu Medija</string>
+    
+    
+    <string name="enable_fingerprint_ripple_effect_title">Efekt valova</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Prikaži efekt valova pri otključavanju otiskom prsta</string>
+    
+    <string name="ambient_display_always_on_title">Uvijek Na</string>
+    <string name="ambient_display_always_on_summary">Prikažite Vrijeme, Ikone Obavijesti I Druge Informacije.Povećana Upotreba Baterije.</string>
+
+    
+    <string name="ambient_ui">Ambijentalna Traka Baterije</string>
+    <string name="ambient_battery_settings_title">Aod Baterija</string>
+    <string name="ambient_battery_settings_summary">Prikažite Traku Baterije Na Ambijentu</string>
+    <string name="keyguard_show_battery_title">Baterija Pri Punjenju</string>
+    <string name="keyguard_show_battery_summary">Prikažite Traku Baterije Na Ambijentu Prilikom Punjenja</string>
+    <string name="keyguard_show_battery_always_title">Uvijek Pokažite Bateriju</string>
+    <string name="keyguard_show_battery_always_summary">Uvijek Pokažite Traku Baterije Na Ambijentu</string>
+    <string name="keyguard_batterybar_color_source">Izvor Boje Baterije</string>
+    <string name="keyguard_batterybar_custom_color">Baterija Baterija Prilagođena Boja</string>
+    <string name="keyguard_batterybar_white">Bijela (Zadana)</string>
+    <string name="keyguard_batterybar_accent">Akcentna Boja</string>
+    <string name="keyguard_batterybar_custom">Običaj</string>
+    
+    
+    <string name="incall_vibration_category">Opcije vibracije tijekom poziva</string>
+    <string name="incall_vibrate_connect_title">Vibracija pri povezivanju</string>
+    <string name="incall_vibrate_call_wait_title">Vibriraj pri pozivu na čekanju</string>
+    <string name="incall_vibrate_disconnect_title">Vibracija pri prekidu</string>
+
+    
+    <string name="incall_category">Opcije U Pozivu</string>
+    <string name="flashlight_on_call_title">Bljeskalica treperi za dolazni poziv</string>
+    <string name="flashlight_on_call_disabled">Onemogućeno</string>
+    <string name="flashlight_on_call_ringer">Prilikom zvonjenja</string>
+    <string name="flashlight_on_call_no_ringer">Kad je bešumno</string>
+    <string name="flashlight_on_call_silent">Kada je potpuno bešumno (bez zvona ili vibracije)</string>
+    <string name="flashlight_on_call_always">Uvijek</string>
+    <string name="flashlight_on_call_ignore_dnd_title">Zanemari DND</string>
+    <string name="flashlight_on_call_ignore_dnd_summary">Treperi, kad je DND način omogućen</string>
+    <string name="flashlight_on_call_rate_title">Frenkvencija treptanja</string>
+    <string name="flashlight_on_call_rate_summary">Svjetnica Na Brzini Treptaja Poziva</string>
+
+    
+    <string name="qs_colored_icons_title">Ikone Obavijesti O Qs -U</string>
+    <string name="qs_colored_icons_summary">Prikaži Ikonu Obojenih Aplikacija Umjesto Jednobojnih Ikona</string>
+
+    
+    <string name="depth_wallpaper_category">Dubinska Pozadina</string>
+    <string name="dw_file_header_select_title">Odaberite Temu Pozadine Dubine</string>
+    <string name="dw_file_header_select_summary">Odaberite Smisao Za Pohranu U Pozadinu Dubine.</string>
+    <string name="dw_wallpaper_enabled_title">Dubinska Pozadina</string>
+    <string name="dw_wallpaper_enabled_summary">Omogućite Pozadinu Dubine Nadahnute Ios-Om.Zahtijeva Sliku Predmeta.</string>
+    <string name="dw_wallpaper_opacity_title">Dubinska Pozadina Neprozirnost</string>
+
+    
+    <string name="revamped_aosp_style">Obnovljeni Aosp Ui Stil</string>
+    <string name="rui_style">Realme Ui Stil</string>
+    <string name="stock_style">Zaliha Ui Stila</string>
+    <string name="double_layer_style">Dvoslojni Stil</string>
+    <string name="gradient_style">Gradijentni Stil</string>
+    <string name="neumorph_style">Neumorph Stil</string>
+    <string name="neumorph_outline_style">Neumorph Obris Stila</string>
+    <string name="outline_style">Obris Stila</string>
+    <string name="shaded_layer_style">Zasjenjeni Sloj Stila</string>
+    <string name="volume_style_title">Stil Volumena</string>
+    
+    
+    <string name="charging_animation_title">Animacija punjenja</string>
+    <string name="charging_animation_summary">Prikaz animacije kada je uređaj priključen</string>
+
+    
+    <string name="doze_on_charge_title">Uvijek prikaži kod punjenja</string>
+    <string name="doze_on_charge_summary">Prikaži aktivno kod punjenja</string>
+    
+    
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
+
+     
+     <string name="weather_category_title">Vrijeme</string>
+     <string name="weather_settings_title">Postavke vremenske prognoze</string>
+     <string name="weather_settings_summary">Postavljanje ikona i vremenske prognoze</string>
+     <string name="lockscreen_weather_title">Weather update</string>
+     <string name="lockscreen_weather_summary">Display current weather update</string>
+     <string name="lockscreen_weather_enabled_info">Zahtjev za uključenje vremenske usluge</string>
+     <string name="lockscreen_weather_location_title">Current location</string>
+     <string name="lockscreen_weather_location_summary">Prikaz trenutne vremenske lokacije</string>
+     <string name="lockscreen_weather_text_title">Current condition</string>
+     <string name="lockscreen_weather_text_summary">Display current weather condition summary</string>
+     
+     
+    <string name="lockscreen_clock_colored_title">Cot</string>
+    <string name="lockscreen_clock_colored_summary_on">Na Boju Sata Utječe Monet</string>
+    <string name="lockscreen_clock_colored_summary_off">Boja Sata Je Uvijek Crna Ili Bijela</string>
+    <string name="clock_luminance_title">Luminacija</string>
+    <string name="clock_luminance_summary">Podesite Svjetlinu Boje Sata</string>
+    
+    
+    <string name="custom_clock_top_margin_title">Razmak Dna Sata</string>
+    
+    
+    <string name="disable_qs_title">Sakrij ploču brzih postavki na zaključanom zaslonu</string>
+    <string name="disable_qs_summary">Onemogućavanje pristupa ploči brzih postavki na zaključanom zaslonu</string>
+    
+    
+    <string name="qstile_requires_unlocking_title">Osigurajte Qs Pločice</string>
+    <string name="qstile_requires_unlocking_summary">Zahtijevaju Otključavanje Za Korištenje Osjetljivih Qs Pločica</string>
+
+    
+    <string name="notification_material_dismiss_title">Tipka za brisanje svih obavijesti</string>
+    <string name="notification_material_dismiss_summary">Zamijeni tipku za brisanje svih tekstova obavijesti plutajućom tipkom u stilu materijala</string>
+    
+    
+    <string name="qs_dual_tone_title">Dual tone themed</string>
+    <string name="qs_dual_tone_summary">Use dual tone background colors instead of AOSP single tone</string>
+    
+    
+    <string name="wallpaper_blur_title">Zamućenje Pozadine</string>
+    <string name="wallpaper_blur_summary">Omogućite Ili Onemogućite Efekt Zamućenja Pozadine</string>
+
+    
+    <string name="udfps_category">Udfps</string>
+    <string name="udfps_settings_title">Postavke čitača otiska prsta</string>
+    <string name="udfps_settings_summary">Prilagodba čitača otiska prsta ispod zaslona</string>
+
+    
+    <string name="screen_off_udfps_title">Otisak prsta kada je ekran isključen</string>
+    <string name="screen_off_udfps_summary">Prikaži otisak prsta kada je zaslon isključen</string>
+
+    
+    <string name="udfps_icon_picker_title">Odabir ikone otiska prsta</string>
+    <string name="udfps_icon_picker_summary">Odabir svoje omiljene ikone za otisak</string>
+
+    
+    <string name="udfps_recog_animation_effect_title">Animacija otiska prsta</string>
+    <string name="udfps_recog_animation_effect_summary">Odabir animacije</string>
+
+    
+    <string name="fprint_success_vib_title">Vibracija Autentifikacije Otiska Prsta</string>
+    <string name="fprint_success_vib_summary">Vibrirati Na Uspješnoj Provjeri Autentičnosti Otiska Prsta</string>
+    <string name="fprint_error_vib_title">Vibracija Pogreške Otiska Prsta</string>
+    <string name="fprint_error_vib_summary">Vibrirati Na Pogrešci Provjere Autentičnosti Otiska Prsta</string>
+    
+    
+    <string name="notification_sound_vib_screen_on_title">Glasne obavijesti</string>
+    <string name="notification_sound_vib_screen_on_summary">Reproduciraj zvuk i vibraciju za obavijesti kada je zaslon uključen</string>
+    
+    
+    <string name="spoofing_title">Preziranje</string>
+    <string name="spoofing_title_summary">Spoof Kao Različit Uređaj Za Otključavanje Značajki Aplikacije</string>
+    <string name="all_props_title">Omogući Opcije Spoof</string>
+    <string name="all_props_summary">Omogućuje Sve Opcije Spoof Unutar Pixelprops</string>
+    <string name="google_spoof_title">Spoof Google Apps</string>
+    <string name="google_spoof_summary">Spoof Odabrane Google Aplikacije Za Pixel 9 Pro Xl</string>
+    <string name="google_spoof_option_disabled">Omogućavanje Prevođenja Google Apps Nije Potrebno Trenutnom Uređaju</string>
+    <string name="gms_spoof_title">Omogući Gms Podmetač</string>
+    <string name="gms_spoof_summary">Spoo Svoj Uređaj Za Prolazak Na Google Play Potvrdu</string>
+    <string name="gameprops_title">Otključajte Viši Fps U Igrama</string>
+    <string name="gameprops_summary">Spoofs Model Vašeg Uređaja Za Igre Na Vodeći Uređaj</string>
+    <string name="gameprops_load_json_title">Uvoz Prilagođenih Gameprops Json Datoteka (Neobavezno)</string>
+    <string name="gameprops_load_json_summary">Odaberite Prilagođenu Datoteku Gameprops Json Ako Želite Podmazati Igre Na Željeni Model Uređaja</string>
+    <string name="pif_spoofing_title">Odaberite Prilagođenu Datoteku Pif Json</string>
+    <string name="pif_spoofing_summary">Odaberite Prilagođenu Datoteku Pif Json Koja Će Se Koristiti Za Spoofing Integritet Igre</string>
+    
+    <string name="use_photos_spoof_title">Neograničena pohrana Google fotografija</string>
+    <string name="use_photos_spoof_summary">Prikaz uređaja kao Pixel XL za Google fotografije da biste osigurali neograničenu pohranu za sigurnosno kopiranje</string>
+    <string name="use_games_spoof_title">Otključavanje većeg FPS u igrama</string>
+    <string name="use_games_spoof_summary">Prikaz uređaj kao nekog drugog modela za određene igre kako bi otključali veći FPS</string>   
+    <string name="spoof_option_disabled">Onemogućavanje Pixelprops -A Ne Podržava Trenutni Uređaj</string>
+    <string name="netflix_spoof_title">Netflix spoof</string>
+    <string name="netflix_spoof_summary">Prikaz vašeg uređaja kao drugačiji model za Netflix</string>
+    
+    
+    <string name="toast_spoofing_success">Uspješno Preuzeo Pif.Json.Spoofing Kao %1$s Za Integritet Igre.</string>
+    <string name="toast_spoofing_failure">Nije Uspjelo Preskočiti Svojstva.</string>
+    <string name="update_pif_json_title">Ažurirajte Popravak Integriteta Igranja</string>
+    <string name="update_pif_json_summary">Ažuriranje Uređaja Za Podmetanje Pif -A Zahtijeva Internetsku Vezu.</string>
+    <string name="show_pif_properties_title">Igrajte Svojstva Integriteta</string>
+    <string name="show_pif_properties_summary">Prikažite Sve Trenutno Postavljene Pif Svojstva</string>
+    <string name="error_loading_properties">Pogreška Učitavanje Pif Svojstava</string>
+     
+     
+    <string name="ambient_edge_light_action_title">Osvjetljenje Okoline</string>
+    <string name="ambient_edge_light_title">Rasvjeta</string>
+    <string name="ambient_edge_light_enable_title">Rasvjeta</string>
+    <string name="ambient_edge_light_enable_summary">Prebacite Da Omogući Rubnu Rasvjetu</string>
+    <string name="ambient_edge_light_summary">Osvijetlite Bočne Rubove Zaslona Na Pulsu Obavijesti</string>
+    <string name="ambient_edge_light_color_mode_category_title">Boja</string>
+    <string name="ambient_edge_light_color_mode_auto">Auto</string>
+    <string name="ambient_edge_light_color_mode_app">Boja Aplikacije</string>
+    <string name="ambient_edge_light_color_mode_manual">Priručnik</string>
+    <string name="ambient_edge_light_advanced_category_title">Napredan</string>
+    <string name="ambient_edge_light_duration_title">Trajanje Svjetla</string>
+    <string name="ambient_edge_light_repeat_count_title">Ponovite Broj</string>
+    <string name="ambient_edge_light_width_title">Širina Svjetlosti</string>
+    <string name="ambient_edge_light_face_down_title">Okrenuti Za Aktiviranje</string>
+    <string name="ambient_edge_light_face_down_summary">Pokažite Edge Light Samo Kad Je Telefon Licem Prema Dolje</string>
+    <string name="ambient_edge_light_layout_title">Svjetlosni Pogled</string>
+    <string name="ambient_edge_light_layout_solid">Čvrst</string>
+    <string name="ambient_edge_light_layout_faded">Izblijedio</string>
+    
+    
+    <string name="island_notification_title">Island notification</string>
+    <string name="island_notification_summary">Display heads-up notification in Dynamic Island style</string>
+    <string name="island_notification_now_playing_title">Now playing</string>
+</resources>
