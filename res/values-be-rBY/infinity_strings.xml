@@ -1,0 +1,850 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2">
+
+    
+
+    
+    <string name="button_title">Кнопкі</string>
+    <string name="gestures_title">Жэсты</string>
+    <string name="lockscreen_title">Экран блакавання</string>
+    <string name="misc_title">Рознае</string>
+    <string name="navbar_title">Навігацыйны Бар</string>
+    <string name="powermenu_title">Меню Харчавання</string>
+    <string name="quicksettings_title">Хуткія налады</string>
+    <string name="themes_title">Тэмы</string>
+    <string name="statusbar_title">Радок стану</string>
+    <string name="notifications_title">Апавяшчэнні</string>
+    <string name="ambient_text_category_title">Налада Ambient-Aod</string>
+    <string name="monet_title">Налады Monet</string>
+    <string name="fingerprint_category">Адбітак Пальца</string>
+
+    
+    <string name="ok">ОК</string>
+    <string name="reset">Скінуць</string>
+    <string name="cancel">Скасаваць</string>
+    <string name="save">Захаваць</string>
+    
+    
+    <string name="notif_title">Апавяшчэнні</string>
+    <string name="power_title">Меню Харчавання</string>
+    <string name="gesture_title">Жэсты</string>
+
+     
+     <string name="unit_seconds">секунды</string>
+     <string name="unit_milliseconds">мілісекунды</string>
+     <string name="unit_pixels">Dp</string>
+    
+    
+    <string name="team_title">Пра Каманду</string>
+    
+    
+    <string name="lead_devs">Вядучыя Распрацоўшчыкі</string>
+    <string name="honorable_mentions">Ганаровыя Згадкі</string>
+    <string name="designers">Дызайнеры Праектаў</string>
+    
+    
+    <string name="general_category">Генерал</string>
+    <string name="media_category">Медыя -Панэль</string>
+    <string name="statusbar_icons">Абразкі</string>
+    <string name="pocket_category">Кішэня</string>
+    
+    
+    <string name="statusbar_items_title">Радок Стану Imsems</string>
+    <string name="statusbar_items_summary">Наладжвайце Элементы, Якія Падлягаюць Захаванню</string>
+    
+    
+    <string name="qs_quick_pulldown">Хуткі Qs Pulldown</string>
+    <string name="quick_pulldown_none">Пакалечаны</string>
+    <string name="quick_pulldown_right">Падлогавы Панэль Стану З Правага Боку</string>
+    <string name="quick_pulldown_left">Падлогавы Панэль Статус З Левага Боку</string>
+    
+    
+    <string name="power_menu_title">Меню кнопкі сілкавання</string>
+    <string name="power_menu_title_summary">Прагляд Альбо Змяненне Запісаў Меню Харчавання</string>
+    <string name="powermenu_screenshot">Скрыншот</string>
+    <string name="powermenu_power">Моц</string>
+    <string name="powermenu_advanced">Пашыраны Варыянты Перазагрузкі</string>
+    <string name="powermenu_restart">Перайсці</string>
+    <string name="powermenu_airplane">Самалёт</string>
+    <string name="powermenu_settings">Налады</string>
+    <string name="powermenu_lockdown">Каранцін</string>
+    <string name="powermenu_soundpanel">Гукавая Панэль</string>
+    <string name="powermenu_users">Карыстальнікі</string>
+    <string name="powermenu_logout">У Сістэму</string>
+    <string name="powermenu_emergency">Непрадбачны Выпадак</string> 
+    
+    
+    <string name="lockscreen_enable_power_menu_title">Меню харчавання</string>
+    <string name="lockscreen_enable_power_menu_summary">Дазволіць доступ да меню харчавання на экране блакавання</string>
+          
+    
+    <string name="system_navigation_summary">Наладзьце Навігацыйныя Меню</string>
+    
+    
+    <string name="monet_engine_custom_color_title">Асноўны колер</string>
+    <string name="monet_engine_custom_color_summary">Выберыце ўласны колер акцэнту</string>
+    <string name="monet_engine_custom_bgcolor_title">Колер фону</string>
+    <string name="monet_engine_custom_bgcolor_summary">Выберыце ўласны колер фону</string>
+    <string name="monet_engine_color_override_title">Свой колер</string>
+    <string name="monet_engine_luminance_factor_title">Яркасць</string>
+    <string name="monet_engine_luminance_factor_summary">Больш высокія значэнні ствараюць больш яркія колеры</string>
+    <string name="monet_engine_chroma_factor_title">Каэфіцыент каляровасці</string>
+    <string name="monet_engine_chroma_factor_summary">Больш высокія значэнні ствараюць насычаныя колеры</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
+    <string name="monet_engine_tint_background_title">Адценне фону</string>
+    <string name="monet_engine_tint_background_summary">Выбар яркасці і каляровасці, дазваляе таксама ўплываць на колеры фону</string>
+    <string name="monet_engine_style_title" />
+    <string name="monet_engine_style_tonal_spot">Танальная пляма (Па змаўчанні)</string>
+    <string name="monet_engine_style_vibrant">Яркі</string>
+    <string name="monet_engine_style_expressive">Экспрэсіўны</string>
+    <string name="monet_engine_style_spritz">Пырскі</string>
+    <string name="monet_engine_style_rainbow">Вясёлка</string>
+    <string name="monet_engine_style_fruit_salad">Фруктовы салат</string>
+    <string name="monet_engine_style_monochromatic">Monochromatic</string>
+    <string name="monet_engine_color_source_title">Color source</string>
+    <string name="monet_engine_color_source_both">Both (Default)</string>
+    <string name="monet_engine_color_source_home">Home wallpaper</string>
+    <string name="monet_engine_color_source_lock">Lock wallpaper</string>
+    <string name="monet_engine_color_source_preset">Preset</string>
+    
+    
+     <string name="theme_customization_font_title">Стыль шрыфта</string>
+     <string name="theme_customization_font_summary">Усталяваць стыль шрыфта сістэмы</string>
+     <string name="theme_customization_icon_pack_title">Набор значкоў</string>
+     <string name="theme_customization_icon_pack_summary">Усталяваць карыстацкі пакет стылю значкоў</string>
+     <string name="theme_customization_icon_shape_title">Форма значкоў</string>
+     <string name="theme_customization_icon_shape_summary">Устанавіць сістэмны стыль формы значкоў</string>
+     <string name="theme_customization_signal_icon_title">Стыль значка сігнала</string>
+     <string name="theme_customization_signal_icon_summary">Выбраць стыль значка сігналу</string>
+     <string name="theme_customization_wifi_icon_title">Стыль значка WiFi</string>
+     <string name="theme_customization_wifi_icon_summary">Выбраць стыль значка WiFi </string>
+     <string name="theme_customization_navbar_title">Стыль панэлі навігацыі</string>
+     <string name="theme_customization_navbar_summary">Усталюйце карыстальніцкі стыль панэлі навігацыі</string>
+     <string name="theme_customization_data_title">Стыль Значка Дадзеных</string>
+     <string name="theme_customization_data_summary">Усталюйце Карыстацкі Стыль Значка Дадзеных</string>
+     <string name="theme_customization_lock_clock_title">Памер шрыфта гадзін</string>
+     <string name="theme_customization_lock_clock_summary">Усталяваць стыль шрыфта гадзінніка на блакіроўкі экрана</string>
+          
+    
+     <string name="lockscreen_battery_info_title">Інфармацыя аб батарэі</string>
+     <string name="lockscreen_battery_info_summary">Адлюстраванне максімальнага напружання току і тэмпературу акумулятара на экране блакавання падчас зарадкі</string>
+    
+        
+    <string name="status_bar_battery_category_title">Налады батарэі</string>
+    <string name="status_bar_battery_style_title">Стыль батарэі</string>
+    <string name="status_bar_battery_style_summary">Стылі Стану І Батарэі Qs</string>
+    <string name="status_bar_battery_style_icon_portrait">Вертыкальны значок</string>
+    <string name="status_bar_battery_style_icon_rlandscape">Значок у гарызантальным становішчы (Справа)</string>
+    <string name="status_bar_battery_style_icon_landscape">Значок у гарызантальным становішчы (Злева)</string>
+    <string name="status_bar_battery_style_circle">Круг</string>
+    <string name="status_bar_battery_style_dotted_circle">Пункцірны круг</string>
+    <string name="status_bar_battery_style_filled_circle">Запоўнены круг</string>
+    <string name="status_bar_battery_style_big_circle">Вялікі Кола</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Вялікі Пункцір</string>
+    <string name="status_bar_battery_style_land_a">Пейзаж Проста</string>
+    <string name="status_bar_battery_style_land_b">Пейзаж Nenine</string>
+    <string name="status_bar_battery_style_land_c">Пейзаж Калары</string>
+    <string name="status_bar_battery_style_land_d">Пейзажнае Каханне</string>
+    <string name="status_bar_battery_style_land_e">Пейзаж Бейсбол</string>
+    <string name="status_bar_battery_style_land_f">Пейзаж Напалову Запоўніць</string>
+    <string name="status_bar_battery_style_land_g">Пейзажны Дзіцячы Сад Прыязны</string>
+    <string name="status_bar_battery_style_land_h">Пейзаж Міуі</string>
+    <string name="status_bar_battery_style_land_i">Пейзаж Прыяцель</string>
+    <string name="status_bar_battery_style_land_j">Пейзажная Паласа</string>
+    <string name="status_bar_battery_style_land_k">Пейзаж Ios Чатырнаццаць</string>
+    <string name="status_bar_battery_style_land_l">Пейзаж Ios Шаснаццаць</string>
+    <string name="status_bar_battery_style_land_m">Прэснаваны План Пейзажу Ios</string>
+    <string name="status_bar_battery_style_land_n">Пейзаж</string>
+    <string name="status_bar_battery_style_land_o">Пейзажныя Вокны</string>
+    <string name="status_bar_battery_style_text">Тэкст</string>
+    <string name="status_bar_battery_style_hidden">Схавана</string>
+    <string name="status_bar_battery_percent_title">Працэнт зарада батарэі</string>
+    <string name="status_bar_battery_percent_hidden">Схаваны</string>
+    <string name="status_bar_battery_percent_text_inside">Унутры значка</string>
+    <string name="status_bar_battery_percent_text_next_right">Побач са значком (справа)</string>
+    <string name="status_bar_battery_percent_text_next_left">Побач са значком (злева)</string>
+    <string name="status_bar_battery_text_charging_title">Працэнт зарада акумулятара падчас зарадкі</string>
+    <string name="status_bar_battery_text_charging_summary">Падчас зарадкі заўсёды паказваць працэнт зарада акумулятара</string>
+
+    
+    <string name="qs_battery_category_title">Налады Акумулятара Qs</string>
+    <string name="qs_use_status_bar_battery_style">Як у радку стану</string>
+    
+    
+    <string name="color_default">Па змаўчанні</string>
+    <string name="custom_battery_charging_icon_title">Значкі Зарадкі</string>
+    <string name="custom_battery_charging_icon_summary">Паказаць Значок Зарадкі На Баку Батарэі</string>
+    <string name="custom_battery_charging_icon_style_title">Стыль Абгрунтаваных Абразоў</string>
+    <string name="custom_battery_charging_icon_wh_title">Шырыня Маштабу І Вышыня</string>
+
+    
+    <string name="custom_icon_charging_symbol_title">Сімвал Зарадкі Для Тэксту Батарэі</string>
+    <string name="custom_symbol_charging_default">Па Змаўчанні (Ніт)</string>
+    <string name="custom_symbol_charging_type1">Біялагічны Ўздзеянне</string>
+    <string name="custom_symbol_charging_type2">Зорка</string>
+    <string name="custom_symbol_charging_type3">Усміхацца</string>
+    <string name="custom_symbol_charging_type4">Утылізоўваць</string>
+    <string name="custom_symbol_charging_type5">Бязконцасць</string>
+    <string name="custom_symbol_charging_type6">Сонца Кветка</string>
+    <string name="custom_symbol_charging_type7">Разрыў Капаць</string>
+    <string name="custom_symbol_charging_type8">Снег</string>
+    <string name="custom_symbol_charging_type9">Патройны Тыльдэ</string>
+
+    
+    <string name="flip_batre_image_title">Выява Батарэі</string>
+    <string name="flip_batre_image_summary">Перавярніце Малюнак Батарэі</string>
+    <string name="flip_batre_title">Планіроўка Батарэі</string>
+    <string name="flip_batre_summary">Перавярніце Планіроўку Батарэі</string>
+
+    
+    <string name="custom_battery_drawable_title">Рознае На Батарэі</string>
+    <string name="custom_battery_scaled_perimeter_alpha_title">Маштабаваны Перыметр Альфа</string>
+    <string name="custom_battery_scaled_perimeter_alpha_summary">Выкарыстоўвайце Маштабаваны Перыметр Альфа</string>
+    <string name="custom_battery_scaled_fill_alpha_title">Выкарыстоўвайце Маштабаваную Спіну Запоўніць Альфа</string>
+    <string name="custom_battery_scaled_fill_alpha_summary">Маштабуецца Спіна Запоўніць Альфа</string>
+    <string name="custom_battery_color_title">Акумулятар Карыстацкі Колер</string>
+    <string name="custom_battery_color_summary">Усталюйце #Ff000000 Для Колеру Сумесі Па Змаўчанні</string>
+    <string name="custom_battery_charging_color_title">Змена Колеру</string>
+    <string name="custom_battery_fill_color_title">Запоўніце Карыстацкі Колер</string>
+    <string name="custom_battery_fill_grad_color_title">Запоўніце Градыент Колер</string>
+    <string name="custom_battery_fill_grad_color_summary">#Ff000000 Для Адключэння Градыенту</string>
+    <string name="custom_battery_powersave_color_title">Паўнамоцныя Колер</string>
+    <string name="custom_battery_powersave_fill_color_title">Powersave Запоўніце Колер</string>
+    <string name="custom_battery_rainbow_fill_title">Вясёлкавы Запоўніць Колер</string>
+    <string name="custom_battery_rainbow_fill_summary">Толькі Для Стылю Buddy &amp; Strip Path</string>
+    <string name="sthumb_new_tint_picker_summary">Выкарыстоўвайце Каляровы Выбаршчык Rgb</string>
+
+    
+    <string name="custom_battery_layout_title">Рознае На Планіроўку Батарэі</string>
+    <string name="custom_battery_rotation_title">Кручэнне Выявы Батарэі</string>
+    <string name="custom_battery_rotation_summary">Для Павароту Пейзажнай Батарэі</string>
+    <string name="custom_battery_leftpct_title">Левы Адсотак Батарэі</string>
+    <string name="custom_battery_leftpct_summary">Паставіць Акумулятар Злева</string>
+
+    
+    <string name="custom_battery_dimension_title">Акумулятар На Заказ</string>
+    <string name="custom_battery_dimension_summary">Выкарыстоўвайце Карыстацкія Зручныя Значэнні Demen</string>
+    <string name="custom_battery_height">Вышыня</string>
+    <string name="custom_battery_width">Шырыня</string>
+    <string name="custom_battery_top">Запас Верх</string>
+    <string name="custom_battery_bottom">Запас Дна</string>
+    <string name="custom_battery_left">Запас Сышоў</string>
+    <string name="custom_battery_right">Запас Правільна</string>
+     
+    
+     <string name="qs_show_brightness_slider_title">Рэгулятар яркасці</string>
+     <string name="qs_show_brightness_slider_never">Ніколі не дазваляць</string>
+     <string name="qs_show_brightness_slider_expanded">Паказваць калi пашырана</string>
+     <string name="qs_show_brightness_slider_always">Паказваць заўсёды</string>
+     <string name="qs_show_brightness_slider_not_expanded">Паказваць, калі не разгорнута</string>
+     <string name="qs_brightness_slider_position_title">Пазіцыя</string>
+     <string name="qs_brightness_slider_position_top">Уверсе</string>
+     <string name="qs_brightness_slider_position_bottom">Унізе</string>
+
+    
+     <string name="qs_show_auto_brightness_title">Значок аўтаматычнай яркасці</string>
+     <string name="qs_show_auto_brightness_summary">Паказаць перамыкач адаптыўнай яркасці побач з паўзунком</string>
+    
+    
+     <string name="status_bar_clock_title">Гадзіннік і дата</string>
+     <string name="status_bar_clock_summary">Карыстацкія налады гадзінніка і даты</string>
+     <string name="status_bar_clock_seconds_title">Паказваць секунды</string>
+     <string name="status_bar_clock_seconds_summary">Адлюстраванне секунд побач з гадзіннікам у радку стана</string>
+     <string name="status_bar_clock_position_title">Стыль гадзінніка</string>
+     <string name="status_bar_clock_position_right">Справа</string>
+     <string name="status_bar_clock_position_left">Злева</string>
+     <string name="status_bar_clock_position_center">Па цэнтры</string>
+     <string name="status_bar_clock_position_hidden">Схавана</string>
+     <string name="status_bar_clock_auto_hide_title">Хаваць аўтаматычна</string>
+     <string name="status_bar_clock_auto_hide_launcher_summary">Схаваць гадзіннік, калі адкрыты працоўны стол</string>
+     <string name="status_bar_clock_auto_hide_summary">Хаваць гадзіны з рэгулярным інтэрвалам</string>
+     <string name="status_bar_clock_auto_hide_hdur_title">Працягласць утойвання</string>
+     <string name="status_bar_clock_auto_hide_hdur_summary">Колькасць секунд да ўтойвання гадзін</string>
+     <string name="status_bar_clock_auto_hide_sdur_title">Працягласць адлюстравання</string>
+     <string name="status_bar_clock_auto_hide_sdur_summary">Колькасць секунд чакання да ўтойвання гадзін</string>
+     <string name="status_bar_am_pm_title">Варыянт \"AM/PM\"</string>
+     <string name="status_bar_am_pm_info">24-гадзінны фармат часу</string>
+     <string name="status_bar_am_pm_normal">Звычайны</string>
+     <string name="status_bar_am_pm_small">Маленькі</string>
+     <string name="status_bar_am_pm_hidden">Схаваны</string>
+     <string name="status_bar_date_title">Дата</string>
+     <string name="status_bar_date_none">Схавана</string>
+     <string name="status_bar_date_small">Маленькая</string>
+     <string name="status_bar_date_normal">Звычайная</string>
+     <string name="status_bar_date_format_title">Фармат даты</string>
+     <string name="status_bar_date_style">Стыль даты</string>
+     <string name="status_bar_date_style_normal">Звычайная</string>
+     <string name="status_bar_date_style_lowercase">Ніжні рэгістр</string>
+     <string name="status_bar_date_style_uppercase">Верхні рэгістр</string>
+     <string name="status_bar_date_format_custom">Карыстацкі java фармат</string>
+     <string name="status_bar_date_string_edittext_title">Выбранае Вамі значэнне павінна адпавядаць фармату даты, напрыклад: ММ/dd/yy</string>
+     <string name="status_bar_date_string_edittext_summary">Увесці значэнне</string>
+     <string name="clock_date_position">Размяшчэнне даты</string>
+     <string name="clock_date_right">Справа ад гадзінніка</string>
+     <string name="clock_date_left">Злева ад гадзінніка</string>
+
+    
+    <string name="qs_footer_text_title">Qs -Ніжні Тэкст</string>
+    <string name="qs_footer_text_summary">Пакажыце Тэкст Унізе Панэлі Qs</string>
+    <string name="qs_footer_text_string_title">Наладзьце Тэкст Ніжняга Калантытула</string>
+    <string name="qs_footer_text_string_summary">Усталяваны Для Пустаты Для Бясконцасці Па Змаўчанні</string>
+
+   
+    <string name="qs_show_data_usage_title">Пакажыце Выкарыстанне Дадзеных</string>
+    <string name="qs_show_data_usage_summary">Пакажыце Штодзённае Выкарыстанне Дадзеных Сотавых/Wi-Fi Ў Калантытуце Qs</string>
+    
+   
+    <string name="laboratory_ignore_window_secure_title">Ігнараваць Аконныя Бяспечныя Сцягі</string>
+    <string name="laboratory_ignore_window_secure_summary">Гэта Выдаляе Скрыншоты І Абмежаванні Screenrecords Для Ўсіх Прыкладанняў.Звычайна Спецыяльныя Прыкладанні Замяняюцца Чорнымі Ўчасткамі Ў Запісах.У Некаторых Выпадках Гэта Можа Быць Зручна, Але Можа Прывесці Да Ўцечак Прыватнасці.Пасля Змены Гэтага Пераключэння Вам Можа Спатрэбіцца Перазапусціць Прыкладанні, Каб Змяніць, Каб Уступіць У Сілу.</string>
+    
+    
+    <string name="app_downgrade_title">Дазволіць Прыкладанне Панізіць</string>
+    <string name="app_downgrade_summary">Гэта Дазваляе Панізіць Прыкладанні.Звярніце Ўвагу, Што Гэта Можа Прывесці Да Аварый І Карупцыі Дадзеных.</string>
+
+   
+    <string name="statusbar_colored_icons_title">Каляровыя значкі</string>
+    <string name="statusbar_colored_icons_summary">Выкарыстоўваць значкі праграм для апавяшчэнняў у радку стану</string>
+    
+   
+    <string name="status_bar_logo_title">Лагатып</string>
+    <string name="default_string">Недахоп</string>
+    <string name="status_bar_logo_summary">Адлюстраванне ўласнага лагатыпа злева або справа ад радка стану</string>
+    <string name="status_bar_logo_primary_switch_title">Выкарыстоўвайце Лагатып</string>
+    <string name="status_bar_logo_position_title">Пазіцыя лагатыпа</string>
+    <string name="status_bar_logo_position_summary">Выберыце, Які Бок Для Адлюстравання Лагатыпа На Злева Ці Направа</string>
+    <string name="status_bar_logo_position_right">Слушны</string>
+    <string name="status_bar_logo_position_left">Левы</string>
+    <string name="status_bar_logo_color_title">Колер</string>
+    <string name="status_bar_logo_color_default">Па Змаўчанні (Белы)</string>
+    <string name="status_bar_logo_color_accent">Акцэнт</string>
+    <string name="status_bar_logo_color_custom">Звычай</string>
+    <string name="status_bar_logo_style_title">Стыль лагатыпу</string>
+    <string name="status_bar_logo_style_adidas">Adidas</string>
+    <string name="status_bar_logo_style_airjordan">Air Jordan</string>
+    <string name="status_bar_logo_style_alien">Прышэлец</string>
+    <string name="status_bar_logo_style_amogus">Amogus</string>
+    <string name="status_bar_logo_style_apple">Apple</string>
+    <string name="status_bar_logo_style_avengers">Мсціўцы</string>
+    <string name="status_bar_logo_style_batman">Бэтман</string>
+    <string name="status_bar_logo_style_batman_tdk">Бэтман Цёмны рыцар</string>
+    <string name="status_bar_logo_style_beats">Beats</string>
+    <string name="status_bar_logo_style_biohazard">Biohazard</string>
+    <string name="status_bar_logo_style_blackberry">BlackBerry</string>
+    <string name="status_bar_logo_style_captain_america">Капітан Амерыка</string>
+    <string name="status_bar_logo_style_cannabis">Канабіс</string>
+    <string name="status_bar_logo_style_flash">Маланка</string>
+    <string name="status_bar_logo_style_fire">Агонь</string>
+    <string name="status_bar_logo_style_ghost">Прывід</string>
+    <string name="status_bar_logo_style_heart">Сэрца</string>
+    <string name="status_bar_logo_style_ironman">Жалезны чалавек</string>
+    <string name="status_bar_logo_style_mint">Linux Mint</string>
+    <string name="status_bar_logo_style_nike">Nike</string>
+    <string name="status_bar_logo_style_ninja">Ніндзя</string>
+    <string name="status_bar_logo_style_pac_man">Пак-Чалавек</string>
+    <string name="status_bar_logo_style_puma">Puma</string>
+    <string name="status_bar_logo_style_robot">Робат</string>
+    <string name="status_bar_logo_style_rog">ROG</string>
+    <string name="status_bar_logo_style_spiderman">Чалавек павук</string>
+    <string name="status_bar_logo_style_superman">Супермэн</string>
+    <string name="status_bar_logo_style_tux">Tux</string>
+    <string name="status_bar_logo_style_ubuntu">Ubuntu</string>
+    <string name="status_bar_logo_style_windows">Windows</string>
+    <string name="status_bar_logo_style_xbox">Xbox</string>
+    
+    
+    <string name="qs_transparency_summary">Выберыце, Наколькі Празрыстымі Вы Хочаце, Каб Ваш Qs Быў</string>
+    <string name="qs_transparency_title">Празрыстасць Qs</string>
+
+    
+    <string name="statusbar_clock_chip_title">Размыццё фону</string>
+    <string name="statusbar_clock_chip_summary">Адлюстроўваць фон з галоўным колерам ззаду гадзінніка ў радку стану</string>
+    <string name="solid_accent">Акцэнт</string>
+    <string name="outline">Накіраваць</string>
+    <string name="solid_accent_gradient">Градыянт</string>
+    <string name="solid_gradient">Цвёрды Градыент</string>
+    <string name="solid_gradient_corner">Цвёрды Градыент Акцэнту Востры</string>
+    <string name="solid_gradient_void">Градыент Пустэча</string>
+    <string name="solid_gradient_neumorph">Градыент Neumerph</string>
+    <string name="solid_gradient_stroke">Рэзкі Градыент Інсульт</string>
+    <string name="solid_accent_transperent">Акцэнт Празрысты</string>    
+    <string name="solid_gradient_light">Градыентнае Святло</string>
+    <string name="solid_gradient_shape">Востры Градыентны Кут</string>
+    <string name="solid_gradient_void_light">Градыент Несапраўднае Святло</string>
+    
+    
+    
+    
+    <string name="volume_panel_on_left_title">Панэль гучнасці злева</string>
+    
+    
+    <string name="data_disabled_icon_title">Індыкатар адключэння перадачы дадзеных</string>
+    <string name="data_disabled_icon_summary">Паказваць крыж над значком сеткі, калі перадача дадзеных адключаная</string>
+    
+    
+    <string name="status_bar_4g_icon_title">Значок 4G</string>
+
+    
+    <string name="roaming_indicator_icon_title">Паказаць Значок Індыкатара Роўмінгу</string>
+    <string name="roaming_indicator_icon_summary">Паказаць Індыкатар Роўмінгу Вышэй Значка Сігналу, Калі Ў Рэжыме Роўмінгу</string>
+
+    
+    <string name="wifi_standard_icon_title">Стандартны значок WiFi</string>
+    <string name="wifi_standard_icon_summary">Паказваць стандарт WiFi побач з сігналам WiFi</string>
+    
+    
+    <string name="bluetooth_battery_title">Зарад Bluetooth-прылады</string>
+    <string name="bluetooth_battery_summary">Паказваць зарад батарэі падлучанай bluetooth-прылады, калі даступна</string> 
+    
+    
+    <string name="show_fiveg_icon_summary">Сіла Пакажыце Значок Сеткі 5G Замест Lte &amp; 4G</string>
+    <string name="show_fiveg_icon_title">Падробка 5G Індыкатар</string>
+    
+    
+    <string name="qs_brightness_slider_haptic_title">Вібраводгук</string>
+    <string name="qs_brightness_slider_haptic_summary">Забяспечце тактыльную зваротную сувязь пры змене яркасці з дапамогай паўзунка</string>
+    
+    
+    <string name="statusbar_padding">Паводле Планкі Стану</string>
+    <string name="statusbar_top_padding">Верхняя Накладка</string>
+    <string name="statusbar_left_padding">Левая Накладка</string>
+    <string name="statusbar_right_padding">Правая Накладка</string>
+    
+    
+    <string name="less_boring_heads_up_title">Не надакучаць</string>
+    <string name="less_boring_heads_up_summary">Паказваць усплывальныя апавяшчэнні толькі для напамінаў, званкоў і паведамленняў</string>
+
+    
+    <string name="headsup_category">Налады Headsup</string>
+    <string name="heads_up_notifications">Накіроўваецца Ўверх</string>
+    <string name="heads_up_notifications_summary">Карыстальніцкія Налады Апавяшчэнняў Уверх</string>
+    <string name="summary_heads_up_enabled">Уключаны Ўсплываючыя Апавяшчэнні</string>
+    <string name="summary_heads_up_disabled">Паведамленні Пра Ўсплывальнае Акно Адключаныя</string>
+    <string name="add_heads_up_package">Дадаць Прыкладанне</string>
+    <string name="add_heads_up_stoplist_summary">Адключыць У Гэтых Дадатках Апавяшчэнні</string>
+    <string name="add_heads_up_blacklist_summary">Адключыць Галавы З Гэтых Прыкладанняў</string>
+    <string name="heads_up_stoplist_title">Стойліст</string>
+    <string name="heads_up_blacklist_title">Чорны Спіс</string>
+    <string name="profile_choose_app">Выберыце Прыкладанне</string>
+    <string name="dialog_delete_title">Выдаляць</string>
+    <string name="dialog_delete_message">Выдаліць Выбраны Прадмет?</string>
+
+    
+    <string name="heads_up_time_out_title">Тайм -Аўт</string>
+    <string name="heads_up_time_out_summary">Выгляд Апавяшчэнняў Будзе Паказана Для<ns0:g id="number">%d</ns0:g> seconds</string>
+    <string name="heads_up_time_out_2sec">2 Секунды</string>
+    <string name="heads_up_time_out_4sec">4 Секунды</string>
+    <string name="heads_up_time_out_5sec">5 Секунд</string>
+    <string name="heads_up_time_out_6sec">6 Секунд</string>
+    <string name="heads_up_time_out_8sec">8 Секунд</string>
+    <string name="heads_up_time_out_10sec">10 Секунд</string>
+
+    
+    <string name="heads_up_snooze_title">Таймер Састарэў</string>
+    <string name="heads_up_snooze_summary_one_minute">Заглядаючы Апавяшчэнні, Якія Зазіраюць, На 1 Хвіліну Загінаецца З Гэтага Прыкладання</string>
+    <string name="heads_up_snooze_summary">Правядзенне Апавяшчэнняў, Якія Выглядаюць На Зазіранне<ns0:g id="number">%d</ns0:g> minutes</string>
+    <string name="heads_up_snooze_disabled_summary">Таймер Адключаны</string>
+    <string name="heads_up_snooze_1min">1 Хвіліна</string>
+    <string name="heads_up_snooze_5min">5 Хвілін</string>
+    <string name="heads_up_snooze_10min">10 Хвілін</string>
+    <string name="heads_up_snooze_15min">15 Хвілін</string>
+    <string name="heads_up_snooze_20min">20 Хвілін</string>
+    
+    
+    <string name="volume_button_music_control_title">Кантроль Прайгравання</string>
+    <string name="volume_button_music_control_summary">Калі Экран Выключаецца, Ключы Ад Доўгага Націску Будзе Прапусціць Музычныя Трэкі</string>
+    
+    
+    <string name="volume_rocker_wake_summary">Прачніце Прыладу, Націснуўшы Клавішы Гучнасці</string>
+    
+    
+    <string name="volume_answer_call_title">Адказваць на выклік</string>
+    <string name="volume_answer_call_summary">Адказваць на выклік клавішамі гучнасці</string>
+    
+    
+    <string name="pulse_help_policy_notice_title">Аб Pulse</string>
+    <string name="pulse_help_policy_notice_summary">Пульсацыя - гэта яркі графічны гукавы эквалайзер музыкі, якая грае на прыладзе</string>
+    <string name="pulse_settings">Пульс</string>
+    <string name="pulse_settings_summary">Графічны гукавы эквалайзер для навігацыйнай панэлі і блакавання экрана</string>
+    <string name="show_navbar_pulse_title">Пульсацыя на навігацыйнай панэлі</string>
+    <string name="show_navbar_pulse_summary">Уключыць візуалізацыю аўдыё на панэлі навігацыі</string>
+    <string name="show_lockscreen_pulse_title">Пульсацыя на заблакаваным экране</string>
+    <string name="show_lockscreen_pulse_summary">Графічны гукавы эквалайзер на заблакаваным экране</string>
+    <string name="show_ambient_pulse_title">Пульсацыя на Актыўным дысплеі</string>
+    <string name="show_ambient_pulse_summary">Аўдыя графічны эквалайзер на актыўным экране</string>
+    <string name="pulse_render_mode_title">Рэжым візуалізацыі</string>
+    <string name="pulse_render_mode_fading_bars">Згасаючыя блокі</string>
+    <string name="pulse_render_mode_solid_lines">Суцэльныя лініі</string>
+    <string name="pulse_legacy_mode_advanced_category">Налады рэжыму загасальных блокаў</string>
+    <string name="pulse_custom_fudge_factor">Узровень адчувальнасці</string>
+    <string name="pulse_lavalamp_speed_title">Хуткасць Lava лямпы</string>
+    <string name="pulse_solid_units_count">Колькасць суцэльных ліній</string>
+    <string name="pulse_solid_units_opacity">Празрыстасць суцэльных ліній</string>
+    <string name="pulse_solid_dimen_category">Налады рэжыму суцэльных ліній</string>
+    <string name="pulse_color_mode_title">Колер</string>
+    <string name="pulse_color_accent">Акцэнт</string>
+    <string name="pulse_color_custom">Карыстацкі</string>
+    <string name="pulse_color_lava_lamp">Lava лямпа</string>
+    <string name="pulse_color_user_title">Выбраць колер</string>
+    <string name="pulse_color_auto">Альбом</string>
+    <string name="pulse_smoothing_enabled_title">Уключыць згладжванне</string>
+    <string name="pulse_smoothing_enabled_summary">Больш гладкая анімацыя слупкоў</string>
+    <string name="pulse_custom_dimen">Шырыня панэлі</string>
+    <string name="pulse_custom_div">Адлегласць паміж панэлямі</string>
+    <string name="pulse_filled_block_size">Памер блокаў</string>
+    <string name="pulse_empty_block_size">Адлегласць паміж блокамі</string>
+    <string name="pulse_solid_units_rounded_title">Скругленыя вуглы</string>
+    <string name="pulse_solid_units_rounded_summary">Суцэльныя лініі з закругленым кончыкам</string>
+
+    
+    <string name="pulse_custom_gravity_bottom">Дно</string>
+    <string name="pulse_custom_gravity_top">Вяршыня</string>
+    <string name="pulse_custom_gravity_center">Цэнтр</string>
+    <string name="visualizer_center_mirrored_title">Цэнтральны Люстраны</string>
+    <string name="visualizer_center_mirrored_summary">Усталюйце Візуалізатар У Цэнтры Люстранага Рэжыму</string>
+    <string name="pulse_vertical_mirror_title">Вертыкальнае Люстэрка</string>
+    <string name="pulse_vertical_mirror_summary">Стварыце Іншыя Імпульс І Перавярніце Вертыкальна</string>
+
+    
+    <string name="pocket_mode">Кішэнны Рэжым</string>
+    <string name="pocket_mode_summary">Блок Уводу Экрана, Пакуль Прылада Знаходзіцца Ў Кішэні</string>
+    
+    
+    <string name="status_bar_notif_count_title">Колькасць Апавяшчэнняў</string>
+    <string name="status_bar_notif_count_summary">Пакажыце Колькасць Непрачытаных Апавяшчэнняў На Кожным Значку Прыкладання</string>
+
+    
+    <string name="mic_camera_privacy_indicator_title">Індыкатар прыватнасці мікрафона і камеры</string>
+    <string name="mic_camera_privacy_indicator_summary">Паказваць асобны індыкатар, калі якая-небудзь праграма выкарыстоўвае мікрафон або камеру</string>
+    <string name="location_privacy_indicator_title">Індыкатар прыватнасці месцазнаходжання</string>
+    <string name="location_privacy_indicator_summary">Паказваць асобны індыкатар, калі любая праграма выкарыстоўвае месцазнаходжанне</string>
+    <string name="projection_privacy_indicator_title">Індыкатар прыватнасці медыя праекцыі</string>
+    <string name="projection_privacy_indicator_summary">Паказваць індыкатар пры праецыраванні экрана прылады</string>
+    
+    
+    <string name="battery_bar_title">Індыкатар зарада батарэі</string>
+    <string name="battery_bar_summary">Адлюстраванне і налада паласы батарэі каля радка стану ці панэлі навігацыі</string>
+    <string name="battery_bar_color">Колер</string>
+    <string name="battery_bar_charging_color">Колер зарадкі</string>
+    <string name="battery_bar_battery_low_color">Колер пры нізкім зарадзе</string>
+    <string name="battery_bar_style_title">Выраўноўванне</string>
+    <string name="battery_bar_thickness_title">Таўшчыня</string>
+    <string name="battery_bar_animate_title">Анімацыя зарадкі</string>
+    <string name="battery_bar_style_regular">Звычайны</string>
+    <string name="battery_bar_style_center_mirrored">Па цэнтры (люстрана)</string>
+    <string name="battery_bar_style_reversed">Наадварот</string>
+    <string name="battery_bar_use_charging_color">Наладзіць колер пры зарадцы</string>
+    <string name="battery_bar_blend_color_title">Змешваць колеры</string>
+    <string name="battery_bar_blend_color_summary">Змешаныя поўныя/пустыя колеры ў адпаведнасці з адсоткаў акумулятара</string>
+    <string name="battery_bar_blend_color_reverse_title">Адваротны напрамак колеру</string>
+    <string name="battery_bar_blend_color_reverse_summary_off">Поўны → пусты: чырвоны ← зялёны ← сіні ← чырвоны</string>
+    <string name="battery_bar_blend_color_reverse_summary_on">Поўны → пусты: чырвоны → зялёны → сіні → чырвоны</string>
+
+    
+    <string name="network_traffic_state_title">Індыкатар Сеткавага Руху</string>
+    <string name="network_traffic_state_summary">Уключыць Або Адключыць Індыкатар Хуткасці Сеткі Ў Радку Стану</string>
+    <string name="network_traffic_title">Індыкатар Сеткавага Руху</string>
+    <string name="network_traffic_master_switch_title">Выкарыстоўвайце Індыкатар Сеткавага Руху</string>
+    <string name="network_options_title">Варыянты</string>
+    <string name="network_traffic_autohide_title">Схаваць Індыкатар Сеткавага Руху, Калі Неактыўны</string>
+    <string name="network_traffic_autohide_summary">Хаваць індыкатар сеткавага трафіку, калі сетка неактыўная</string>
+    
+    
+    <string name="ambient_text_category">Налада Тэксту</string>
+    <string name="ambient_image_category">Налада Малюнка</string>
+    <string name="ambient_text_category_summary">Налада Выгляду Ambient-Aod</string>
+    <string name="ambient_text_title">Навакольны Тэкст</string>
+    <string name="ambient_text_summary">Паказаць Навакольны Тэкст У Aod</string>
+    <string name="ambient_text_animation_title">Анімацыя Навакольнага Тэксту</string>
+    <string name="ambient_text_animation_summary">Пакажыце Анімацыю, Калі Пакажыце Aod</string>
+    <string name="ambient_text_size_title">Памер Навакольнага Тэксту</string>
+    <string name="ambient_text_font_title">Шрыфт Навакольнага Тэксту</string>
+    <string name="ambient_text_string_title">Усталюйце Тэкст Навакольнага Асяроддзя</string>
+    <string name="ambient_text_align_title">Навакольны Тэкст Выраўноўваецца</string>
+    <string name="ambient_text_align_start_top">Правы N Зверху</string>
+    <string name="ambient_text_align_start_center">Правы N -Цэнтр</string>
+    <string name="ambient_text_align_start_bottom">Направа І Дно</string>
+    <string name="ambient_text_align_center">Цэнтр</string>
+    <string name="ambient_text_align_end_top">Злева N Зверху</string>
+    <string name="ambient_text_align_end_center">Левы N -Цэнтр</string>
+    <string name="ambient_text_align_end_bottom">Злева N Дна</string>
+    <string name="ambient_text_type_color_title">Колер Тыпу Навакольнага Тэксту</string>
+    <string name="ambient_text_color_title">Колер Навакольнага Тэксту</string>
+    <string name="ambient_notification_light_color_mode_accent">Акцэнтны Колер Сістэмы</string>
+    <string name="ambient_notification_light_color_mode_custom">Карыстальніцкі Колер</string>
+    <string name="ambient_notification_light_color_mode_wall">Колер Шпалер</string>
+    <string name="ambient_image_title">Вобраз Навакольнага</string>
+    <string name="file_header_select_title">Выберыце Мясцовы Малюнак</string>
+    <string name="file_header_select_summary">Выберыце Малюнак З Захоўвання</string>
+    
+    
+    <string name="qs_compact_media_player_mode_title">Кампактны Медыяпрайгравальнік Qs</string>
+    <string name="qs_compact_media_player_mode_summary">Уключыць Кампактны Рэжым Для Media Player Quicksettings</string>
+
+    
+    <string name="smart_pixels_warning_text">Разумныя пікселі - сродак эканоміі зарада. У залежнасці ад таго, колькі пікселяў вы захочаце адключыць, гэта можа прывесці да павелічэння часу жыцця батарэі.</string>
+    <string name="smart_pixels_title">Разумныя пікселі</string>
+    <string name="smart_pixels_summary">Эканомце зарад батарэі, адключаючы дадатковыя пікселі</string>
+    <string name="smart_pixels_enable_title">Уключыць разумныя пікселі</string>
+    <string name="smart_pixels_enable_summary">Для таго, каб паменшыць спажыванне энергіі, перакрыць пікселі</string>
+    <string name="smart_pixels_on_power_save_title">Аўтаматычнае ўключэнне пры энэргазахаванні</string>
+    <string name="smart_pixels_on_power_save_summary">Актываваць разумныя пікселі пры ўключэнні энэргазахавання</string>
+    <string name="smart_pixels_percent">Адсотак пікселяў, для адключэння</string>
+    <string name="smart_pixels_shift_title">Абарона ад выгарання</string>
+    <string name="smart_pixels_shift_summary">Пазбягайце выгаранне экрана OLED, перамяшчаючы час ад часу пікселі</string>
+    
+    
+    <string name="custom_timeout_summary_never">Ніколі</string>
+    <string name="custom_timeout_summary_15secs">15 секунд</string>
+    <string name="custom_timeout_summary_30secs">30 секунд</string>
+    <string name="custom_timeout_summary_1min">1 хвіліна</string>
+    <string name="custom_timeout_summary_2mins">2 хвіліны</string>
+    <string name="custom_timeout_summary_5mins">5 хвілін</string>
+    <string name="custom_timeout_summary_10mins">10 хвілін</string>
+    <string name="custom_timeout_summary_20mins">20 хвілін</string>
+    <string name="custom_timeout_summary_30mins">30 хвілін</string>
+    <string name="custom_timeout_summary_1hour">1 гадзіна</string>
+    <string name="custom_timeout_summary_2hours">2 гадзіны</string>
+    
+    
+    <string name="pulse_on_new_tracks_title">Музычны цікер</string>
+    <string name="pulse_on_new_tracks_summary">Адлюстроўваць назву трэка на Ambient Display пры змене трэка</string>
+
+    
+    <string name="screen_off_animation_title">Анімацыя выключэння экрана</string>
+    <string name="screen_off_animation_default">Па змаўчанні</string>
+    <string name="screen_off_animation_crt">Эфект старога тэлевізара</string>
+    <string name="screen_off_animation_scale">Маштабаванне</string>
+
+    
+    <string name="system_charging">Параметры Зарадкі Сістэмы</string>
+    <string name="charging_animation_bg_title">Зарадка Фон</string>
+    <string name="charging_animation_bg_summary">Уключэнне Гэтай Опцыі Зробіць Фон Па Сістэмнай Анімацыі Да Чорнага Колеру</string>
+    
+    
+    <string name="hide_screen_capture_status_title">Схаваць Статус Захопу Экрана</string>
+    <string name="hide_screen_capture_status_summary">Схаваць Стан Захопу Экрана І Запісаў Экрана З Усіх Прыкладанняў.У Некаторых Выпадках Можа Быць Зручным, Але Можа Прывесці Да Ўцечак Прыватнасці.Неабходна Перазапусціць Заяўкі На Змены, Каб Уступіць У Сілу.</string>
+
+    
+    <string name="no_storage_restrict_title">Няма Абмежавання Сховішча</string>
+    <string name="no_storage_restrict_summary">Выдаліце ​​Абмежаванне Пры Выбары Папак Праз Рамку Доступу Да Захоўвання.У Некаторых Выпадках Можа Быць Зручным, Але Можа Прывесці Да Ўцечак Прыватнасці.</string>
+    
+    
+    <string name="hide_developer_status_title">Схаваць Статус Распрацоўніка</string>
+    <string name="hide_developer_status_summary">Прадухіліць Праверку Стану Adb І Рэжыму Распрацоўшчыка</string>
+    <string name="search">Пошукі</string>
+    <string name="search_apps">Пошукавыя Прыкладанні</string>
+
+    
+    <string name="spoof_storage_encryption_status_title">Выкарыстоўвайце Падробку Шыфравання Сховішчаў</string>
+    <string name="spoof_storage_encryption_status_summary">Статус Шыфравання Падробкі Для Зашыфраванага</string>
+    
+    
+    <string name="media_controls_always_show_time_title">Смі Паказваюць Час</string>
+    <string name="media_controls_always_show_time_summary">Заўсёды Паказвайце, І Агульны Час На Медыя -Плэер</string>
+    <string name="media_controls_squiggle_title">Прыкметны Прагрэс</string>
+    <string name="media_controls_squiggle_summary">Пакажыце Панэль Прагрэсу На Медыя -Прайгравальніку \ Nrequires Systemui Перазагрузка, Каб Уступіць У Сілу</string>
+    <string name="media_controls_actions_title">Карыстальніцкія Дзеянні Ліміт</string>
+    <string name="media_controls_actions_summary">Максімальная Колькасць Кнопак, Якія Дадаюць Прыкладанням, Дадаць Да Прайгравальніка</string>
+    <string name="media_controls_time_as_next_title">Час Як Наступны / Папярэдні</string>
+    <string name="media_controls_time_as_next_summary">Схаваць Наступныя / Папярэднія Кнопкі І Замест Гэтага Выкарыстоўвайце Заўсёды Паказаны Час</string>
+    <string name="media_controls_ripple_title">Эфекты Пульсацыі</string>
+    <string name="media_controls_ripple_summary">Кіраванне Эфектамі Пульсацыі Пры Ўзаемадзеянні З Кантролем Над Смі</string>
+    <string name="media_controls_turbulence_title">Эфект Турбулентнасці</string>
+    <string name="media_controls_turbulence_summary">Актывуйце Эфект Турбулентнасці Для Дынамічнага Кантролю Над Асяроддзем</string>
+    
+    
+    <string name="enable_fingerprint_ripple_effect_title">Эфект пульсацыі</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Паказваць эфект пульсацыі пры разблакіроўцы з дапамогай адбітка пальца</string>
+    
+    <string name="ambient_display_always_on_title">Заўсёды Далей</string>
+    <string name="ambient_display_always_on_summary">Пакажыце Час, Абразкі Апавяшчэнняў І Іншую Інфармацыю.Павелічэнне Выкарыстання Акумулятара.</string>
+
+    
+    <string name="ambient_ui">Навакольная Батарэя</string>
+    <string name="ambient_battery_settings_title">Aod Батарэя</string>
+    <string name="ambient_battery_settings_summary">Адлюстраваць Батарэю На Дысплеі Навакольнага Асяроддзя</string>
+    <string name="keyguard_show_battery_title">Батарэя Пры Зарадцы</string>
+    <string name="keyguard_show_battery_summary">Пакажыце Панэль Батарэі На Навакольным Дысплеі Пры Зарадцы</string>
+    <string name="keyguard_show_battery_always_title">Заўсёды Паказвайце Батарэю</string>
+    <string name="keyguard_show_battery_always_summary">Заўсёды Паказвайце Батарэю На Дысплеі Навакольнага Асяроддзя</string>
+    <string name="keyguard_batterybar_color_source">Крыніца Колеру Батарэі</string>
+    <string name="keyguard_batterybar_custom_color">Акумулятарная Панэль Карыстацкага Колеру</string>
+    <string name="keyguard_batterybar_white">Белы (Па Змаўчанні)</string>
+    <string name="keyguard_batterybar_accent">Акцэнтны Колер</string>
+    <string name="keyguard_batterybar_custom">Звычай</string>
+    
+    
+    <string name="incall_vibration_category">Параметры вібрацыі пры выкліку</string>
+    <string name="incall_vibrate_connect_title">Вібрацыя пры падлучэнні</string>
+    <string name="incall_vibrate_call_wait_title">Вібрацыя падчас чакання выкліку</string>
+
+    
+    <string name="incall_category">Параметры Ў Выкліку</string>
+    <string name="flashlight_on_call_title">Мігценне ліхтарыка пры выкліку</string>
+    <string name="flashlight_on_call_disabled">Адключана</string>
+    <string name="flashlight_on_call_ringer">Пры званку</string>
+    <string name="flashlight_on_call_no_ringer">Калі званок бязгучны</string>
+    <string name="flashlight_on_call_silent">Калі цалкам бясшумны (без званка або вібрацыі)</string>
+    <string name="flashlight_on_call_always">Заўсёды</string>
+    <string name="flashlight_on_call_ignore_dnd_title">Ігнараваць рэжым \"Не турбаваць\".</string>
+    <string name="flashlight_on_call_ignore_dnd_summary">Міргаць у рэжыме \"Не турбаваць\"</string>
+    <string name="flashlight_on_call_rate_title">Частата мігцення</string>
+    <string name="flashlight_on_call_rate_summary">Ліхтар На Хуткасць Мігцення Выклікаў</string>
+
+    
+    <string name="qs_colored_icons_title">Каляровыя Значкі Апавяшчэнняў Qs</string>
+    <string name="qs_colored_icons_summary">Паказаць Каляровае Значок Прыкладання Замест Аднатонных Абразоў</string>
+
+    
+    <string name="depth_wallpaper_category">Шпалеры Глыбіні</string>
+    <string name="dw_file_header_select_title">Выберыце Тэму Шпалер Глыбіні</string>
+    <string name="dw_file_header_select_summary">Выберыце З Сховішчаў З Сховішчам.</string>
+    <string name="dw_wallpaper_enabled_title">Шпалеры Глыбіні</string>
+    <string name="dw_wallpaper_enabled_summary">Уключыце Шпалеры З Глыбінёй, Натхнёнай Ios.Патрабуецца Вобраз Прадмета.</string>
+    <string name="dw_wallpaper_opacity_title">Глыбіня Шпалеры Непразрыстасць</string>
+
+    
+    <string name="revamped_aosp_style">Абноўлены Стыль Aosp Ui</string>
+    <string name="rui_style">Стыль Realme Ui</string>
+    <string name="stock_style">Стыль Інтэрфейсу</string>
+    <string name="double_layer_style">Стыль Падвойнага Пласта</string>
+    <string name="gradient_style">Стыль Градыента</string>
+    <string name="neumorph_style">Стыль Neummerph</string>
+    <string name="neumorph_outline_style">Стыль Neumerph Стыль</string>
+    <string name="outline_style">Стыль Контуру</string>
+    <string name="shaded_layer_style">Заценены Стыль Пласта</string>
+    
+    
+    <string name="charging_animation_title">Анімацыя зарадкі</string>
+    <string name="charging_animation_summary">Паказваць анімацыю пры падключэнні зараднай прылады</string>
+
+    
+    <string name="doze_on_charge_title">Заўсёды паказваць падчас зарадкі</string>
+    <string name="doze_on_charge_summary">Паказваць актыўны экран падчас зарадкі прылады</string>
+    
+    
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
+
+     
+     <string name="lockscreen_weather_location_title">Бягучае месцазнаходжанне</string>
+     <string name="lockscreen_weather_text_title">Бягучы стан</string>
+     
+     
+    <string name="lockscreen_clock_colored_title">Каляровы Гадзіннік</string>
+    <string name="lockscreen_clock_colored_summary_on">Манэ Ўплывае На Колер Гадзінніка</string>
+    <string name="lockscreen_clock_colored_summary_off">Колер Гадзіннікаў Заўсёды Чорны Ці Белы</string>
+    <string name="clock_luminance_title">Гадзіннік Свяціла</string>
+    <string name="clock_luminance_summary">Адрэгулюйце Яркасць Колеру Гадзінніка</string>
+    
+    
+    <string name="custom_clock_top_margin_title">Падарожжа З Гадзіннікавага Экрана Для Экрана</string>
+    
+    
+    <string name="disable_qs_title">Не раскрываць меню хуткіх налад на экране блакавання</string>
+    <string name="disable_qs_summary">Забараніць доступ да хуткіх налад на экране блакавання</string>
+    
+    
+    <string name="qstile_requires_unlocking_title">Забяспечце Пліткі Qs</string>
+    <string name="qstile_requires_unlocking_summary">Патрабуйце Разблакіроўкі Для Выкарыстання Адчувальных Qs Пліткі</string>
+
+    
+    <string name="notification_material_dismiss_title">Кнопка ачысткі ўсіх апавяшчэнняў</string>
+    <string name="notification_material_dismiss_summary">Замяняе тэкст \"Ачысціць усё\" на кнопку</string>
+    
+    
+    <string name="qs_dual_tone_title">Dual tone themed</string>
+    <string name="qs_dual_tone_summary">Use dual tone background colors instead of AOSP single tone</string>
+    
+    
+    <string name="wallpaper_blur_title">Шпалеры Размываюцца</string>
+    <string name="wallpaper_blur_summary">Уключыць Або Адключыць Эфект Размыцця Шпалер</string>
+
+    
+    <string name="udfps_category">Udfps</string>
+    <string name="udfps_settings_title">Налады UDFPS</string>
+    <string name="udfps_settings_summary">Наладзіць пад экранны сканар адбітка пальца</string>
+
+    
+    <string name="screen_off_udfps_title">Адбітак на выключаным экране</string>
+    <string name="screen_off_udfps_summary">Захоўваць UDFPS уключаным, калі экран выключаны</string>
+
+    
+    <string name="udfps_icon_picker_title">Выбар значка UDFPS</string>
+    <string name="udfps_icon_picker_summary">Выберыце ваш любімы значок адбітка пальца</string>
+
+    
+    <string name="udfps_recog_animation_effect_title">Налада анімацыі UDFPS</string>
+    <string name="udfps_recog_animation_effect_summary">Выберыце эфект анімацыі</string>
+
+    
+    <string name="fprint_success_vib_title">Вібрацыя Праверкі Сапраўднасці Адбіткаў Пальцаў</string>
+    <string name="fprint_success_vib_summary">Вібраваць На Паспяховай Аўтэнтыфікацыі Адбіткаў Пальцаў</string>
+    <string name="fprint_error_vib_title">Вібрацыя Памылак Адбіткаў Пальцаў</string>
+    <string name="fprint_error_vib_summary">Вібраваць На Праверцы Праверкі Адбіткаў Пальцаў Памылкі</string>
+    
+    
+    <string name="notification_sound_vib_screen_on_title">Гукавое апавяшчэнне</string>
+    <string name="notification_sound_vib_screen_on_summary">Прайграваць гук і вібрацыю для апавяшчэнняў пры ўключаным экране</string>
+    
+    
+    <string name="spoofing_title">Падробка</string>
+    <string name="spoofing_title_summary">Падману Як Розныя Прылады, Каб Разблакаваць Функцыі Прыкладання</string>
+    <string name="all_props_title">Уключыце Параметры Падробкі</string>
+    <string name="all_props_summary">Уключае Ўсе Варыянты Падробкі Ў Pixelprops</string>
+    <string name="google_spoof_title">Падробка Google Apps</string>
+    <string name="google_spoof_summary">Падмацаваны Выбраны Google Apps Да Pixel 9 Pro Xl</string>
+    <string name="google_spoof_option_disabled">Уключэнне Падробкі Google Apps Не Патрэбна Бягучай Прыладай</string>
+    <string name="gms_spoof_title">Уключыць Gms Падробкі</string>
+    <string name="gms_spoof_summary">Падробкай Вашага Прылады, Каб Прайсці Атэстацыю Google Play</string>
+    <string name="gameprops_title">Разблакуйце Больш Высокія Fps У Гульнях</string>
+    <string name="gameprops_summary">Падмануе Мадэль Прылады Для Гульняў На Флагманскае Прылада</string>
+    <string name="gameprops_load_json_title">Імпартуйце Карыстацкі Файл Gameprops Json (Неабавязкова)</string>
+    <string name="gameprops_load_json_summary">Выберыце Карыстацкі Файл Gameprops Json, Калі Вы Хочаце Падмануць Гульні Ў Патрэбную Мадэль Прылады</string>
+    <string name="pif_spoofing_title">Выберыце Карыстацкі Файл Pif Json</string>
+    <string name="pif_spoofing_summary">Выберыце Карыстацкі Файл Pif Json, Які Будзе Выкарыстоўвацца Для Падробкі Цэласнасці Гульні</string>
+    
+    <string name="use_photos_spoof_title">Безлімітнае \"Google Фота\"</string>
+    <string name="use_photos_spoof_summary">Падрабляем свая прылада пад Pixel XL для \"Google Фота\", каб падаць неабмежаваную сховішча для рэзервовага капіявання фатаграфій</string>
+    <string name="use_games_spoof_title">Разблакаваць настройку высокага FPS у гульнях</string>
+    <string name="use_games_spoof_summary">Падрабляем сваю прыладу пад іншую мадэль, для пэўных гульняў, каб разблакаваць больш высокі FPS</string>   
+    <string name="spoof_option_disabled">Адключэнне Падробкі Pixelprops Не Падтрымліваецца Бягучым Прыладай</string>
+    <string name="netflix_spoof_title">Падробка Netflix</string>
+    <string name="netflix_spoof_summary">Падрабляем сваю прыладу пад іншую мадэль для Netflix</string>
+    
+    
+    <string name="toast_spoofing_success">Паспяхова Загружаны Pif.Json.Падробка Як %1$s Для Добрасумленнасці.</string>
+    <string name="toast_spoofing_failure">Не Атрымалася Падмануць Уласцівасці.</string>
+    <string name="update_pif_json_title">Абнавіць Play Contrictity Fix</string>
+    <string name="update_pif_json_summary">Абнавіць Прыладу Для Падману Pif, Патрабуе Падключэння Да Інтэрнэту.</string>
+    <string name="show_pif_properties_title">Прайграйце Ўласцівасці Fix Legnity</string>
+    <string name="show_pif_properties_summary">Паказаць Усе Ў Цяперашні Час Усталяваныя Ўласцівасці Pif</string>
+    <string name="error_loading_properties">Памылка Загрузкі Ўласцівасцей Pif</string>
+     
+     
+    <string name="ambient_edge_light_action_title">Асвятленне Навакольнага Краю</string>
+    <string name="ambient_edge_light_title">Асвятленне Краю</string>
+    <string name="ambient_edge_light_enable_title">Асвятленне Краю</string>
+    <string name="ambient_edge_light_enable_summary">Пераключыцца, Каб Уключыць Асвятленне Краю</string>
+    <string name="ambient_edge_light_summary">Запаліце ​​Бакавыя Краю Экрана На Імпульсе Апавяшчэнняў</string>
+    <string name="ambient_edge_light_color_mode_category_title">Колер</string>
+    <string name="ambient_edge_light_color_mode_auto">Аўтазавод</string>
+    <string name="ambient_edge_light_color_mode_app">Колер Прыкладання</string>
+    <string name="ambient_edge_light_color_mode_manual">Дапаможнік</string>
+    <string name="ambient_edge_light_advanced_category_title">Прасунуты</string>
+    <string name="ambient_edge_light_duration_title">Працягласць Святла</string>
+    <string name="ambient_edge_light_repeat_count_title">Паўтарыць Колькасць</string>
+    <string name="ambient_edge_light_width_title">Шырыня Святла</string>
+    <string name="ambient_edge_light_face_down_title">Перавярніце, Каб Актываваць</string>
+    <string name="ambient_edge_light_face_down_summary">Паказаць Edge Light Толькі Тады, Калі Тэлефон Перад</string>
+    <string name="ambient_edge_light_layout_title">Лёгкі Выгляд</string>
+    <string name="ambient_edge_light_layout_solid">Трывалы</string>
+    <string name="ambient_edge_light_layout_faded">Знікалі</string>
+    
+    
+    <string name="island_notification_title">Island notification</string>
+    <string name="island_notification_summary">Адлюстраванне апавяшчэнняў у стылі Дынамічны востраў</string>
+    <string name="island_notification_now_playing_title">Зараз гучыць</string>
+    <string name="island_notification_now_playing_summary">Адлюстраванне песні, якая зараз гучыць, у стылі Дынамічны востраў</string>
+</resources>

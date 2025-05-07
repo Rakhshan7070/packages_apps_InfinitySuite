@@ -1,0 +1,865 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2">
+
+    
+
+    
+    <string name="button_title">Knappar</string>
+    <string name="gestures_title">Gester</string>
+    <string name="lockscreen_title">Skärmlåset</string>
+    <string name="misc_title">Diverse</string>
+    <string name="navbar_title">Navigationsfält</string>
+    <string name="powermenu_title">Strömmeny</string>
+    <string name="quicksettings_title">Snabbinställningar</string>
+    <string name="themes_title">Teman</string>
+    <string name="statusbar_title">Statusfält</string>
+    <string name="notifications_title">Aviseringar</string>
+    <string name="ambient_text_category_title">Ambient-Aod-Anpassning</string>
+    <string name="monet_title">Inställningar för Monet</string>
+    <string name="fingerprint_category">Fingeravtryck</string>
+
+    
+    <string name="ok">OK</string>
+    <string name="reset">Återställ</string>
+    <string name="cancel">Avbryt</string>
+    <string name="save">Spara</string>
+    
+    
+    <string name="notif_title">Meddelanden</string>
+    <string name="power_title">Strömmeny</string>
+    <string name="gesture_title">Gester</string>
+
+     
+     <string name="unit_seconds">sekunder</string>
+     <string name="unit_milliseconds">millisekunder</string>
+     <string name="unit_pixels">Kardp</string>
+    
+    
+    <string name="team_title">Om Lag</string>
+    
+    
+    <string name="lead_devs">Blyutvecklare</string>
+    <string name="honorable_mentions">Hederliga Omnämnanden</string>
+    <string name="designers">Projektdesigners</string>
+    
+    
+    <string name="general_category">Allmän</string>
+    <string name="media_category">Mediepanel</string>
+    <string name="statusbar_icons">Ikoner</string>
+    <string name="pocket_category">Ficka</string>
+    
+    
+    <string name="statusbar_items_title">Statusfält Imsems</string>
+    <string name="statusbar_items_summary">Melosera Standhandbara Föremål</string>
+    
+    
+    <string name="qs_quick_pulldown">Snabb Qs -Pulldown</string>
+    <string name="quick_pulldown_none">Funktionshindrad</string>
+    <string name="quick_pulldown_right">Pulldown -Statusbar Från Höger Sida</string>
+    <string name="quick_pulldown_left">Pulldown -Statusbar Från Vänster Sida</string>
+    
+    
+    <string name="power_menu_title">Avstängningsmeny</string>
+    <string name="power_menu_title_summary">Visa Eller Ändra Power Menu -Poster</string>
+    <string name="powermenu_screenshot">Skärmdump</string>
+    <string name="powermenu_power">Driva</string>
+    <string name="powermenu_advanced">Avancerade Omstartsalternativ</string>
+    <string name="powermenu_restart">Starta Om</string>
+    <string name="powermenu_airplane">Flygplan</string>
+    <string name="powermenu_settings">Inställningar</string>
+    <string name="powermenu_lockdown">Nedstängning</string>
+    <string name="powermenu_soundpanel">Ljudpanel</string>
+    <string name="powermenu_users">Användare</string>
+    <string name="powermenu_logout">Utloggning</string>
+    <string name="powermenu_emergency">Nödsituation</string> 
+    
+    
+    <string name="lockscreen_enable_power_menu_title">Avstängningsmeny</string>
+    <string name="lockscreen_enable_power_menu_summary">Tillåt åtkomst till avstängningsmenyn från låsskärmen</string>
+          
+    
+    <string name="system_navigation_summary">Konfigurera Navigationsmenyer</string>
+    
+    
+    <string name="monet_engine_custom_color_title">Accentfärg</string>
+    <string name="monet_engine_custom_color_summary">Välj anpassad accentfärg</string>
+    <string name="monet_engine_custom_bgcolor_title">Bakgrundsfärg</string>
+    <string name="monet_engine_custom_bgcolor_summary">Välj anpassad färg för bakgrunden</string>
+    <string name="monet_engine_color_override_title">Anpassad färg</string>
+    <string name="monet_engine_luminance_factor_title">Ljusstyrka</string>
+    <string name="monet_engine_luminance_factor_summary">Högre värden ger ljusare färger</string>
+    <string name="monet_engine_chroma_factor_title">Chromafaktor</string>
+    <string name="monet_engine_chroma_factor_summary">Högre värden ger starkare färger</string>
+    <string name="monet_engine_whole_palette_title">Whole palette</string>
+    <string name="monet_engine_whole_palette_summary">Make Luminance and Chroma selection affect secondary colors as well</string>
+    <string name="monet_engine_tint_background_title">Tona bakgrund</string>
+    <string name="monet_engine_tint_background_summary">Gör så att luminans och chroma även påverkar bakgrundsfärger</string>
+    <string name="monet_engine_style_title">Theme style</string>
+    <string name="monet_engine_style_tonal_spot">Tonal Spot (Default)</string>
+    <string name="monet_engine_style_vibrant">Vibrant</string>
+    <string name="monet_engine_style_expressive">Expressive</string>
+    <string name="monet_engine_style_spritz">Spritz</string>
+    <string name="monet_engine_style_rainbow">Rainbow</string>
+    <string name="monet_engine_style_fruit_salad">Fruit Salad</string>
+    <string name="monet_engine_style_monochromatic">Monochromatic</string>
+    <string name="monet_engine_color_source_title">Color source</string>
+    <string name="monet_engine_color_source_both">Both (Default)</string>
+    <string name="monet_engine_color_source_home">Home wallpaper</string>
+    <string name="monet_engine_color_source_lock">Lock wallpaper</string>
+    <string name="monet_engine_color_source_preset">Preset</string>
+    
+    
+     <string name="theme_customization_font_title">Typsnitt</string>
+     <string name="theme_customization_font_summary">Ange stil för systemtypsnitt</string>
+     <string name="theme_customization_icon_pack_title">Ikonpaket</string>
+     <string name="theme_customization_icon_pack_summary">Ange anpassad stil för ikonpaket</string>
+     <string name="theme_customization_icon_shape_title">Form på Ikon</string>
+     <string name="theme_customization_icon_shape_summary">Ange form för systemikoner</string>
+     <string name="theme_customization_signal_icon_title">Ikonstil för signal</string>
+     <string name="theme_customization_signal_icon_summary">Ange anpassa ikonstil för signal</string>
+     <string name="theme_customization_wifi_icon_title">Ikonstil för WiFi</string>
+     <string name="theme_customization_wifi_icon_summary">Ange anpassa ikonstil för wifi</string>
+     <string name="theme_customization_navbar_title">Stil på navigeringsfält</string>
+     <string name="theme_customization_navbar_summary">Välj anpassad stil på navigeringsfältet</string>
+     <string name="theme_customization_data_title">Dataikonstil</string>
+     <string name="theme_customization_data_summary">Ställ In Anpassad Dataikonstil</string>
+     <string name="theme_customization_lock_clock_title">Typsnitt för klocka</string>
+     <string name="theme_customization_lock_clock_summary">Set lockscreen clock font style</string>
+          
+    
+     <string name="lockscreen_battery_info_title">Batteriinformation</string>
+     <string name="lockscreen_battery_info_summary">Visa batteriinformation vid laddning</string>
+    
+        
+    <string name="status_bar_battery_category_title">Anpassningar av batteri</string>
+    <string name="status_bar_battery_style_title">Stil på batteri</string>
+    <string name="status_bar_battery_style_summary">Statusbar Och Qs -Batteritilar</string>
+    <string name="status_bar_battery_style_icon_portrait">Ikon i stående läge</string>
+    <string name="status_bar_battery_style_icon_rlandscape">Ikon i landskapsläge (Höger)</string>
+    <string name="status_bar_battery_style_icon_landscape">Ikon i landskapsläge (Vänster)</string>
+    <string name="status_bar_battery_style_circle">Cirkel</string>
+    <string name="status_bar_battery_style_dotted_circle">Prickad cirkel</string>
+    <string name="status_bar_battery_style_filled_circle">Fylld cirkel</string>
+    <string name="status_bar_battery_style_big_circle">Stor Cirkel</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Stor Prickad Cirkel</string>
+    <string name="status_bar_battery_style_land_a">Landskap Helt Enkelt</string>
+    <string name="status_bar_battery_style_land_b">Landskapsnenin</string>
+    <string name="status_bar_battery_style_land_c">Landskap Coloros</string>
+    <string name="status_bar_battery_style_land_d">Landskap Kärlek</string>
+    <string name="status_bar_battery_style_land_e">Landskapsbaseball</string>
+    <string name="status_bar_battery_style_land_f">Landskap Halvfyllning</string>
+    <string name="status_bar_battery_style_land_g">Landscape Dagis Är Vänlig</string>
+    <string name="status_bar_battery_style_land_h">Landskapsmiui</string>
+    <string name="status_bar_battery_style_land_i">Landskapskompis</string>
+    <string name="status_bar_battery_style_land_j">Landskapsstrip</string>
+    <string name="status_bar_battery_style_land_k">Landskap Ios Fjorton</string>
+    <string name="status_bar_battery_style_land_l">Landskap Ios Sexton</string>
+    <string name="status_bar_battery_style_land_m">Landskap Ios</string>
+    <string name="status_bar_battery_style_land_n">Landskapsledare</string>
+    <string name="status_bar_battery_style_land_o">Landskapsfönster</string>
+    <string name="status_bar_battery_style_text">Text</string>
+    <string name="status_bar_battery_style_hidden">Dold</string>
+    <string name="status_bar_battery_percent_title">Batteriprocent</string>
+    <string name="status_bar_battery_percent_hidden">Dold</string>
+    <string name="status_bar_battery_percent_text_inside">Inuti ikonen</string>
+    <string name="status_bar_battery_percent_text_next_right">Bredvid ikonen (till höger)</string>
+    <string name="status_bar_battery_percent_text_next_left">Bredvid ikonen (till vänster)</string>
+    <string name="status_bar_battery_text_charging_title">Visa batteriprocent när enheten laddas</string>
+    <string name="status_bar_battery_text_charging_summary">Visa alltid batteriprocent när enheten laddas</string>
+
+    
+    <string name="qs_battery_category_title">Qs -Batterianpassningar</string>
+    <string name="qs_use_status_bar_battery_style">Följ statusfältets stil</string>
+    
+    
+    <string name="color_default">Standard</string>
+    <string name="custom_battery_charging_icon_title">Laddningsikoner</string>
+    <string name="custom_battery_charging_icon_summary">Visa Laddningsikon På Sidan Av Batteriet</string>
+    <string name="custom_battery_charging_icon_style_title">Laddningsikoner Stil</string>
+    <string name="custom_battery_charging_icon_wh_title">Skalabredd Och Höjd</string>
+
+    
+    <string name="custom_icon_charging_symbol_title">Laddningssymbol För Batteritext</string>
+    <string name="custom_symbol_charging_default">Standard (Bult)</string>
+    <string name="custom_symbol_charging_type1">Biohazard</string>
+    <string name="custom_symbol_charging_type2">Stjärna</string>
+    <string name="custom_symbol_charging_type3">Leende</string>
+    <string name="custom_symbol_charging_type4">Återvinna</string>
+    <string name="custom_symbol_charging_type5">Oändlighet</string>
+    <string name="custom_symbol_charging_type6">Solblomning</string>
+    <string name="custom_symbol_charging_type7">Tear Dropp</string>
+    <string name="custom_symbol_charging_type8">Snö</string>
+    <string name="custom_symbol_charging_type9">Trippel Tilde</string>
+
+    
+    <string name="flip_batre_image_title">Batterilag</string>
+    <string name="flip_batre_image_summary">Vänd Batteribilden</string>
+    <string name="flip_batre_title">Batterilayout</string>
+    <string name="flip_batre_summary">Vänd Batterylayouten</string>
+
+    
+    <string name="custom_battery_drawable_title">Misc On Battery Drawable</string>
+    <string name="custom_battery_scaled_perimeter_alpha_title">Skalad Omkretsalfa</string>
+    <string name="custom_battery_scaled_perimeter_alpha_summary">Använd Skalad Omkretsalfa</string>
+    <string name="custom_battery_scaled_fill_alpha_title">Använd Skalad Backfyllning Alfa</string>
+    <string name="custom_battery_scaled_fill_alpha_summary">Skalad Tillbaka Påfyllning Alfa</string>
+    <string name="custom_battery_color_title">Batterianpassad Färg</string>
+    <string name="custom_battery_color_summary">Ställ In På #Ff000000 För Standardblandningsfärg</string>
+    <string name="custom_battery_charging_color_title">Förändringsfärg</string>
+    <string name="custom_battery_fill_color_title">Fyll Anpassad Färg</string>
+    <string name="custom_battery_fill_grad_color_title">Fyll Gradientfärg</string>
+    <string name="custom_battery_fill_grad_color_summary">#Ff000000 För Inaktiverad Gradient</string>
+    <string name="custom_battery_powersave_color_title">Kraftfärg</string>
+    <string name="custom_battery_powersave_fill_color_title">Powersave Fill Color</string>
+    <string name="custom_battery_rainbow_fill_title">Rainbow Fill Color</string>
+    <string name="custom_battery_rainbow_fill_summary">Endast För Style Buddy &amp; Strip Path</string>
+    <string name="sthumb_new_tint_picker_summary">Använd Rgb -Färgväljare</string>
+
+    
+    <string name="custom_battery_layout_title">Misc On Battery Layout</string>
+    <string name="custom_battery_rotation_title">Batterilikrotation</string>
+    <string name="custom_battery_rotation_summary">För Att Rotera Landskapsbatteriet</string>
+    <string name="custom_battery_leftpct_title">Vänsterbatteriprocent</string>
+    <string name="custom_battery_leftpct_summary">För Att Sätta Batteripeprocent Till Vänster</string>
+
+    
+    <string name="custom_battery_dimension_title">Batterianpassad Dimension</string>
+    <string name="custom_battery_dimension_summary">Använd Anpassade Tilläggsbara Dimenvärden</string>
+    <string name="custom_battery_height">Höjd</string>
+    <string name="custom_battery_width">Bredd</string>
+    <string name="custom_battery_top">Marginal</string>
+    <string name="custom_battery_bottom">Marginalbotten</string>
+    <string name="custom_battery_left">Marginal Kvar</string>
+    <string name="custom_battery_right">Marginal</string>
+     
+    
+     <string name="qs_show_brightness_slider_title">Ljusstyrkereglage</string>
+     <string name="qs_show_brightness_slider_never">Visa aldrig</string>
+     <string name="qs_show_brightness_slider_expanded">Visa om utökad</string>
+     <string name="qs_show_brightness_slider_always">Visa alltid</string>
+     <string name="qs_show_brightness_slider_not_expanded">Visa om ej utökad</string>
+     <string name="qs_brightness_slider_position_title">Position</string>
+     <string name="qs_brightness_slider_position_top">Överst</string>
+     <string name="qs_brightness_slider_position_bottom">Underkant</string>
+
+    
+     <string name="qs_show_auto_brightness_title">Ikon för automatisk ljusstyrka</string>
+     <string name="qs_show_auto_brightness_summary">Visa knappen för automatisk ljusstyrka nära reglaget</string>
+    
+    
+     <string name="status_bar_clock_title">Klocka &amp; datum</string>
+     <string name="status_bar_clock_summary">Anpassa klocka &amp; datum</string>
+     <string name="status_bar_clock_seconds_title">Sekunder på klockan</string>
+     <string name="status_bar_clock_seconds_summary">Visa sekunder på klockan i statusfältet</string>
+     <string name="status_bar_clock_position_title">Klockstil</string>
+     <string name="status_bar_clock_position_right">Höger</string>
+     <string name="status_bar_clock_position_left">Vänster</string>
+     <string name="status_bar_clock_position_center">Centrerad</string>
+     <string name="status_bar_clock_position_hidden">Dold</string>
+     <string name="status_bar_clock_auto_hide_title">Dölj automatiskt</string>
+     <string name="status_bar_clock_auto_hide_launcher_summary">Dölj klockan om launcher är synlig</string>
+     <string name="status_bar_clock_auto_hide_summary">Dölj klockan vid regelbundet intervall</string>
+     <string name="status_bar_clock_auto_hide_hdur_title">Tidsperiod att dölja</string>
+     <string name="status_bar_clock_auto_hide_hdur_summary">Antal sekunder som klockan döljs</string>
+     <string name="status_bar_clock_auto_hide_sdur_title">Tidsperiod att visa</string>
+     <string name="status_bar_clock_auto_hide_sdur_summary">Antal sekunder som inväntas innan klockan döljs</string>
+     <string name="status_bar_am_pm_title">FM/EM-stil</string>
+     <string name="status_bar_am_pm_info">24-timmarsklocka är aktiverad</string>
+     <string name="status_bar_am_pm_normal">Normal</string>
+     <string name="status_bar_am_pm_small">Liten</string>
+     <string name="status_bar_am_pm_hidden">Dold</string>
+     <string name="status_bar_date_title">Datum</string>
+     <string name="status_bar_date_none">Dold</string>
+     <string name="status_bar_date_small">Liten</string>
+     <string name="status_bar_date_normal">Normal</string>
+     <string name="status_bar_date_format_title">Datumformat</string>
+     <string name="status_bar_date_style">Datumstil</string>
+     <string name="status_bar_date_style_normal">Normal</string>
+     <string name="status_bar_date_style_lowercase">Gemener</string>
+     <string name="status_bar_date_style_uppercase">Versaler</string>
+     <string name="status_bar_date_format_custom">Anpassat javaformat</string>
+     <string name="status_bar_date_string_edittext_title">Måste vara i datumformat liknande MM/dd/åå</string>
+     <string name="status_bar_date_string_edittext_summary">Ange textsträng</string>
+     <string name="clock_date_position">Datumposition</string>
+     <string name="clock_date_right">Till höger om tid</string>
+     <string name="clock_date_left">Till vänster om tid</string>
+
+    
+    <string name="qs_footer_text_title">Qs Sidfot Text</string>
+    <string name="qs_footer_text_summary">Visa Text Längst Ner På Qs -Panelen</string>
+    <string name="qs_footer_text_string_title">Anpassa Sidfotstext</string>
+    <string name="qs_footer_text_string_summary">Inställd På Att Tömma För Standard Oändlighet</string>
+
+   
+    <string name="qs_show_data_usage_title">Visa Dataanvändning</string>
+    <string name="qs_show_data_usage_summary">Visa Daglig Användning Av Cellulär/Wi-Fi I Qs-Sidfot</string>
+    
+   
+    <string name="laboratory_ignore_window_secure_title">Ignorera Fönstersäkra Flaggor</string>
+    <string name="laboratory_ignore_window_secure_summary">Detta Tar Bort Skärmdumparna Och Skärmrekordens Gränser För Alla Applikationer.Normalt Ersätts Specialapplikationer Med Svarta Områden I Poster.Detta Kan Vara Bekvämt I Vissa Fall Men Kan Leda Till Integritetsläckor.Efter Att Ha Ändrat Denna Växel Kan Du Behöva Starta Om Ansökningar Om Att Ändringen Ska Träda I Kraft.</string>
+    
+    
+    <string name="app_downgrade_title">Tillåt Nedgradering Av Applikationer</string>
+    <string name="app_downgrade_summary">Detta Gör Att Du Kan Nedgradera Applikationer.Observera Att Detta Kan Leda Till Kraschar Och Datakorruption.</string>
+
+   
+    <string name="statusbar_colored_icons_title">Färgade ikoner</string>
+    <string name="statusbar_colored_icons_summary">Använd korrekta applikationsikoner som aviseringsikoner i statusfältet</string>
+    
+   
+    <string name="status_bar_logo_title">Logotyp</string>
+    <string name="default_string">Standard</string>
+    <string name="status_bar_logo_summary">Display a custom logo on left or right of the status bar</string>
+    <string name="status_bar_logo_primary_switch_title">Använd Logotyp</string>
+    <string name="status_bar_logo_position_title">Position på logotyp</string>
+    <string name="status_bar_logo_position_summary">Välj Vilken Sida Du Ska Visa Logotypen Till Vänster Eller Höger</string>
+    <string name="status_bar_logo_position_right">Rätt</string>
+    <string name="status_bar_logo_position_left">Vänster</string>
+    <string name="status_bar_logo_color_title">Färg</string>
+    <string name="status_bar_logo_color_default">Standard (Vit)</string>
+    <string name="status_bar_logo_color_accent">Accent</string>
+    <string name="status_bar_logo_color_custom">Beställnings</string>
+    <string name="status_bar_logo_style_title">Stil på logotyp</string>
+    <string name="status_bar_logo_style_adidas">Adidas</string>
+    <string name="status_bar_logo_style_airjordan">Air Jordan</string>
+    <string name="status_bar_logo_style_alien">Alien</string>
+    <string name="status_bar_logo_style_amogus">Amogus</string>
+    <string name="status_bar_logo_style_apple">Apple</string>
+    <string name="status_bar_logo_style_avengers">Avengers</string>
+    <string name="status_bar_logo_style_batman">Batman</string>
+    <string name="status_bar_logo_style_batman_tdk">Batman The Dark Knight</string>
+    <string name="status_bar_logo_style_beats">Beats</string>
+    <string name="status_bar_logo_style_biohazard">Biologisk kontamination</string>
+    <string name="status_bar_logo_style_blackberry">BlackBerry</string>
+    <string name="status_bar_logo_style_captain_america">Captain America</string>
+    <string name="status_bar_logo_style_cannabis">Cannabis</string>
+    <string name="status_bar_logo_style_flash">Blixt</string>
+    <string name="status_bar_logo_style_fire">Fire</string>
+    <string name="status_bar_logo_style_ghost">Spöke</string>
+    <string name="status_bar_logo_style_heart">Hjärta</string>
+    <string name="status_bar_logo_style_ironman">Iron Man</string>
+    <string name="status_bar_logo_style_mint">Linux Mint</string>
+    <string name="status_bar_logo_style_nike">Nike</string>
+    <string name="status_bar_logo_style_ninja">Ninja</string>
+    <string name="status_bar_logo_style_pac_man">Pac-Man</string>
+    <string name="status_bar_logo_style_puma">Puma</string>
+    <string name="status_bar_logo_style_robot">Robot</string>
+    <string name="status_bar_logo_style_rog">ROG</string>
+    <string name="status_bar_logo_style_spiderman">Spider-Man</string>
+    <string name="status_bar_logo_style_superman">Stålmannen</string>
+    <string name="status_bar_logo_style_tux">Tux</string>
+    <string name="status_bar_logo_style_ubuntu">Ubuntu</string>
+    <string name="status_bar_logo_style_windows">Windows</string>
+    <string name="status_bar_logo_style_xbox">Xbox</string>
+    
+    
+    <string name="qs_transparency_summary">Välj Hur Transparent Du Vill Att Dina Qs Ska Vara</string>
+    <string name="qs_transparency_title">Qs -Öppenhet</string>
+
+    
+    <string name="statusbar_clock_chip_title">Background chip</string>
+    <string name="statusbar_clock_chip_summary">Display accented chip behind clock</string>
+    <string name="solid_accent">Accent</string>
+    <string name="outline">Skissera</string>
+    <string name="solid_accent_gradient">Lutning</string>
+    <string name="solid_gradient">Fast Lutningssida</string>
+    <string name="solid_gradient_corner">Solid Accentgradient Skarp</string>
+    <string name="solid_gradient_void">Lutning</string>
+    <string name="solid_gradient_neumorph">Neumorph -Lutning</string>
+    <string name="solid_gradient_stroke">Skarp Gradientslag</string>
+    <string name="solid_accent_transperent">Accent Transparent</string>    
+    <string name="solid_gradient_light">Lutningsljus</string>
+    <string name="solid_gradient_shape">Skarp Gradienthörn</string>
+    <string name="solid_gradient_void_light">Gradient Tomrum</string>
+    
+    
+    <string name="haptic_on_volume_slider_title">Volymreglage Haptic</string>
+    <string name="haptic_on_volume_slider_summary">Ge Haptisk Feedback Om Att Ändra Volym Med Skjutreglaget</string>
+    
+    
+    <string name="volume_panel_on_left_title">Volympanel till vänster</string>
+    <string name="volume_panel_on_left_summary">Visa Volympanel På Vänster Sida Av Skärmen</string>
+    
+    
+    <string name="data_disabled_icon_title">Indikator för inaktiverad data</string>
+    <string name="data_disabled_icon_summary">Visa en indikator intill signalikonen när datatrafik är inaktiverad</string>
+    
+    
+    <string name="status_bar_4g_icon_title">4G -Ikon</string>
+
+    
+    <string name="roaming_indicator_icon_title">Visa Roamingindikatorikon</string>
+    <string name="roaming_indicator_icon_summary">Visa Roamingindikator Ovanför Signalikonen När Du Är I Roamingläge</string>
+
+    
+    <string name="wifi_standard_icon_title">WiFi standard</string>
+    <string name="wifi_standard_icon_summary">Visa WiFi-standard bredvid WiFi-signal</string>
+    
+    
+    <string name="bluetooth_battery_title">Batteristatus på bluetooth</string>
+    <string name="bluetooth_battery_summary">Visa batteristatus för den anslutna bluetooth-enheten, om tillgängligt</string> 
+    
+    
+    <string name="show_fiveg_icon_summary">Visa Kraftigt 5G -Nätverksikon Istället För Lte &amp; 4G</string>
+    <string name="show_fiveg_icon_title">Spoof 5G -Indikator</string>
+    
+    
+    <string name="qs_brightness_slider_haptic_title">Haptic feedback</string>
+    <string name="qs_brightness_slider_haptic_summary">Provide haptic feedback on changing brightness using slider</string>
+    
+    
+    <string name="statusbar_padding">Statusfältstopp</string>
+    <string name="statusbar_top_padding">Toppstörning</string>
+    <string name="statusbar_left_padding">Vänster Stoppning</string>
+    <string name="statusbar_right_padding">Höger Stoppning</string>
+    
+    
+    <string name="less_boring_heads_up_title">Mindre tråkigt</string>
+    <string name="less_boring_heads_up_summary">Visa enbart statusuppdatering för alarm, telefonen och meddelandeapplikationen</string>
+
+    
+    <string name="headsup_category">Headsup -Inställningar</string>
+    <string name="heads_up_notifications">Heads</string>
+    <string name="heads_up_notifications_summary">Anpassade Inställningar För Aviseringar</string>
+    <string name="summary_heads_up_enabled">Pop-Up-Aviseringar Är Aktiverade</string>
+    <string name="summary_heads_up_disabled">Pop-Up-Aviseringar Är Inaktiverade</string>
+    <string name="add_heads_up_package">Lägg Till App</string>
+    <string name="add_heads_up_stoplist_summary">Inaktivera Heads Up -Aviseringar I Dessa Applikationer</string>
+    <string name="add_heads_up_blacklist_summary">Inaktivera Huvudet Från Dessa Applikationer</string>
+    <string name="heads_up_stoplist_title">Stopplista</string>
+    <string name="heads_up_blacklist_title">Svartlista</string>
+    <string name="profile_choose_app">Välj App</string>
+    <string name="dialog_delete_title">Radera</string>
+    <string name="dialog_delete_message">Ta Bort Valt Objekt?</string>
+
+    
+    <string name="heads_up_time_out_title">Tid</string>
+    <string name="heads_up_time_out_summary">Peeking -Aviseringar Kommer Att Visas För<ns0:g id="number">%d</ns0:g> seconds</string>
+    <string name="heads_up_time_out_2sec">2 Sekunder</string>
+    <string name="heads_up_time_out_4sec">4 Sekunder</string>
+    <string name="heads_up_time_out_5sec">5 Sekunder</string>
+    <string name="heads_up_time_out_6sec">6 Sekunder</string>
+    <string name="heads_up_time_out_8sec">8 Sekunder</string>
+    <string name="heads_up_time_out_10sec">10 Sekunder</string>
+
+    
+    <string name="heads_up_snooze_title">Snooze Timer</string>
+    <string name="heads_up_snooze_summary_one_minute">Att Svepa Upp På Kikar Aviseringar Kommer Att Snooze Huvudet Upp Från Den Applikationen I 1 Minut</string>
+    <string name="heads_up_snooze_summary">Att Svepa Upp På Kikning Av Meddelanden Kommer Att Snooze Upp Från Den Ansökan Om<ns0:g id="number">%d</ns0:g> minutes</string>
+    <string name="heads_up_snooze_disabled_summary">Snooze Timer Är Inaktiverad</string>
+    <string name="heads_up_snooze_1min">1 Minut</string>
+    <string name="heads_up_snooze_5min">5 Minuter</string>
+    <string name="heads_up_snooze_10min">10 Minuter</string>
+    <string name="heads_up_snooze_15min">15 Minuter</string>
+    <string name="heads_up_snooze_20min">20 Minuter</string>
+    
+    
+    <string name="volume_button_music_control_title">Uppspelningskontroll</string>
+    <string name="volume_button_music_control_summary">När Skärmen Är Av Kommer Långtryckande Volymnycklar Att Hoppa Över Musikspår</string>
+    
+    
+    <string name="volume_rocker_wake_title">Väckning</string>
+    <string name="volume_rocker_wake_summary">Vakna Upp Enheten Genom Att Trycka På Volymnycklarna</string>
+    
+    
+    <string name="volume_answer_call_title">Besvara samtal</string>
+    <string name="volume_answer_call_summary">Svara på inkommande samtal genom att trycka på volymknapparna</string>
+    
+    
+    <string name="pulse_help_policy_notice_title">Information om Puls</string>
+    <string name="pulse_help_policy_notice_summary">Puls är enastående på att grafiskt visualisera ljud när musik spelas på enheten</string>
+    <string name="pulse_settings">Puls</string>
+    <string name="pulse_settings_summary">Grafisk visualisering av ljud på navigeringsfältet och låsskärmen</string>
+    <string name="show_navbar_pulse_title">Puls i navigeringsfältet</string>
+    <string name="show_navbar_pulse_summary">Grafisk visualisering av ljud på navigeringsfältet</string>
+    <string name="show_lockscreen_pulse_title">Puls på Låsskärmen</string>
+    <string name="show_lockscreen_pulse_summary">Grafisk visualisering av ljud på låsskärmen</string>
+    <string name="show_ambient_pulse_title">Puls på aktiv låsskärm</string>
+    <string name="show_ambient_pulse_summary">Grafisk visualisering av ljud på aktiva låsskärmen</string>
+    <string name="pulse_render_mode_title">Återgivningsläge</string>
+    <string name="pulse_render_mode_fading_bars">Block som tonar ut</string>
+    <string name="pulse_render_mode_solid_lines">Fasta rader</string>
+    <string name="pulse_legacy_mode_advanced_category">Inställningar för läge med uttonande block</string>
+    <string name="pulse_custom_fudge_factor">Vettig nivå</string>
+    <string name="pulse_lavalamp_speed_title">Hastighet för lava-lampa</string>
+    <string name="pulse_solid_units_count">Antal fasta linjer</string>
+    <string name="pulse_solid_units_opacity">Genomskinlighet för fasta rader</string>
+    <string name="pulse_solid_dimen_category">Inställningar för läge med fasta rader</string>
+    <string name="pulse_color_mode_title">Färg</string>
+    <string name="pulse_color_accent">Accentfärg</string>
+    <string name="pulse_color_custom">Anpassad</string>
+    <string name="pulse_color_lava_lamp">Lavalampa</string>
+    <string name="pulse_color_user_title">Välj färg</string>
+    <string name="pulse_color_auto">Album</string>
+    <string name="pulse_smoothing_enabled_title">Aktivera utjämning</string>
+    <string name="pulse_smoothing_enabled_summary">Varje stapel animeras mjukare</string>
+    <string name="pulse_custom_dimen">Stapelbredd</string>
+    <string name="pulse_custom_div">Mellanrum mellan staplar</string>
+    <string name="pulse_filled_block_size">Blockstorlek</string>
+    <string name="pulse_empty_block_size">Mellanrum mellan block</string>
+    <string name="pulse_solid_units_rounded_title">Rundade hörn</string>
+    <string name="pulse_solid_units_rounded_summary">Fasta rader med rundad spets</string>
+
+    
+    <string name="pulse_custom_gravity_title">Allvar</string>
+    <string name="pulse_custom_gravity_bottom">Botten</string>
+    <string name="pulse_custom_gravity_top">Bästa</string>
+    <string name="pulse_custom_gravity_center">Centrum</string>
+    <string name="visualizer_center_mirrored_title">Centrum Speglad</string>
+    <string name="visualizer_center_mirrored_summary">Ställ In Visualizer I Mittspeglat Läge</string>
+    <string name="pulse_vertical_mirror_title">Vertikal Spegel</string>
+    <string name="pulse_vertical_mirror_summary">Skapa Annan Puls Och Vänd Vertikalt</string>
+
+    
+    <string name="pocket_mode">Fickläge</string>
+    <string name="pocket_mode_summary">Blockskärmingångar Medan Enheten Är I Fickan</string>
+    
+    
+    <string name="status_bar_notif_count_title">Anmälningsantal</string>
+    <string name="status_bar_notif_count_summary">Visa Antalet Olästa Aviseringar På Varje Appikon</string>
+
+    
+    <string name="mic_camera_privacy_indicator_title">Privatlivsindikator för mikrofon och kamera</string>
+    <string name="mic_camera_privacy_indicator_summary">Visa en separat indikator när en app använder mikrofon eller kamera</string>
+    <string name="location_privacy_indicator_title">Privatlivsindikator för plattsåtkomst</string>
+    <string name="location_privacy_indicator_summary">Visa en separat indikator när en app får åtkomst till platsinformation</string>
+    <string name="projection_privacy_indicator_title">Media projection privacy indicator</string>
+    <string name="projection_privacy_indicator_summary">Show indicator when device screen is projected</string>
+    
+    
+    <string name="battery_bar_title">Batterifält</string>
+    <string name="battery_bar_summary">Visa och anpassa batterifältet ovanför statusfältet</string>
+    <string name="battery_bar_color">Färg</string>
+    <string name="battery_bar_charging_color">Färg vid laddning</string>
+    <string name="battery_bar_battery_low_color">Färg på låg batterinivå</string>
+    <string name="battery_bar_style_title">Justering</string>
+    <string name="battery_bar_thickness_title">Tjocklek</string>
+    <string name="battery_bar_animate_title">Animation vid laddning</string>
+    <string name="battery_bar_style_regular">Vanlig</string>
+    <string name="battery_bar_style_center_mirrored">Centerspeglad</string>
+    <string name="battery_bar_style_reversed">Omvänd</string>
+    <string name="battery_bar_use_charging_color">Anpassad laddningsfärg</string>
+    <string name="battery_bar_blend_color_title">Blandfärger</string>
+    <string name="battery_bar_blend_color_summary">Blanda färger för full och tom som motsvarar batteriets laddning i procent</string>
+    <string name="battery_bar_blend_color_reverse_title">Omvänd färgriktning</string>
+    <string name="battery_bar_blend_color_reverse_summary_off">Full → tom: röd ← grön ← blå ← röd</string>
+    <string name="battery_bar_blend_color_reverse_summary_on">Full → tom: röd → grön → blå → röd</string>
+
+    
+    <string name="network_traffic_state_title">Nätverkstrafikindikator</string>
+    <string name="network_traffic_state_summary">Aktivera Eller Inaktivera Nätverkshastighetsindikator I Statusfältet</string>
+    <string name="network_traffic_title">Nätverkstrafikindikator</string>
+    <string name="network_traffic_master_switch_title">Använd Nätverkstrafikindikator</string>
+    <string name="network_options_title">Alternativ</string>
+    <string name="network_traffic_autohide_title">Dölj Nätverkstrafikindikator Om Den Är Inaktiv</string>
+    <string name="network_traffic_autohide_summary">Dölj nätverkstrafiken när det inte finns någon aktivitet</string>
+    
+    
+    <string name="ambient_text_category">Textanpassning</string>
+    <string name="ambient_image_category">Bildanpassning</string>
+    <string name="ambient_text_category_summary">Anpassa Utseendet På Ambient-Aod</string>
+    <string name="ambient_text_title">Omgivningstext</string>
+    <string name="ambient_text_summary">Visa Omgivningstext I Aod</string>
+    <string name="ambient_text_animation_title">Omgivningstextanimering</string>
+    <string name="ambient_text_animation_summary">Visa En Animation När Show Aod</string>
+    <string name="ambient_text_size_title">Omgivande Textstorlek</string>
+    <string name="ambient_text_font_title">Omgivningstexteckensnitt</string>
+    <string name="ambient_text_string_title">Ställ In Omgivningstext</string>
+    <string name="ambient_text_align_title">Omgivningstext Justera</string>
+    <string name="ambient_text_align_start_top">Höger N Topp</string>
+    <string name="ambient_text_align_start_center">Höger N Centrum</string>
+    <string name="ambient_text_align_start_bottom">Höger Och Botten</string>
+    <string name="ambient_text_align_center">Centrum</string>
+    <string name="ambient_text_align_end_top">Vänster N Toppen</string>
+    <string name="ambient_text_align_end_center">Vänster N Centrum</string>
+    <string name="ambient_text_align_end_bottom">Vänster N Botten</string>
+    <string name="ambient_text_type_color_title">Färg Av Omgivningstextyp</string>
+    <string name="ambient_text_color_title">Omgivningstextfärg</string>
+    <string name="ambient_notification_light_color_mode_accent">System Accentfärg</string>
+    <string name="ambient_notification_light_color_mode_custom">Anpassad Färg</string>
+    <string name="ambient_notification_light_color_mode_wall">Tapetfärg</string>
+    <string name="ambient_image_title">Omgivningsbild</string>
+    <string name="file_header_select_title">Välj Lokal Bild</string>
+    <string name="file_header_select_summary">Välj Bild Från Lagring</string>
+    
+    
+    <string name="qs_compact_media_player_mode_title">Kompakt Qs -Mediaspelare</string>
+    <string name="qs_compact_media_player_mode_summary">Aktivera Kompaktläge För Quicksettings Media Player</string>
+
+    
+    <string name="smart_pixels_warning_text">Smarta pixlar är en energisparfunktion. Beroende på hur många pixlar du väljer att stänga av, kan du se förbättringar i batteriets livslängd. Observera att i vissa fall kan det resultera i okänsliga områden på pekskärmen</string>
+    <string name="smart_pixels_title">Smarta Pixlar</string>
+    <string name="smart_pixels_summary">Spara batteri genom att stänga av extra pixlar</string>
+    <string name="smart_pixels_enable_title">Aktivera Smarta Pixlar</string>
+    <string name="smart_pixels_enable_summary">Stäng av pixlar för att minska strömförbrukningen</string>
+    <string name="smart_pixels_on_power_save_title">Automatisk aktivering vid batterisparläge</string>
+    <string name="smart_pixels_on_power_save_summary">Aktivera Smarta Pixlar när batterisparläget är aktiverat</string>
+    <string name="smart_pixels_percent">Procent av pixlar att inaktivera</string>
+    <string name="smart_pixels_shift_title">Skydd mot inbränning</string>
+    <string name="smart_pixels_shift_summary">Förhindrar inbränning på OLED enheter genom att skifta pixlar så ofta</string>
+    
+    
+    <string name="custom_timeout_summary_never">Aldrig</string>
+    <string name="custom_timeout_summary_15secs">15 sekunder</string>
+    <string name="custom_timeout_summary_30secs">30 sekunder</string>
+    <string name="custom_timeout_summary_1min">1 minut</string>
+    <string name="custom_timeout_summary_2mins">2 minuter</string>
+    <string name="custom_timeout_summary_5mins">5 minuter</string>
+    <string name="custom_timeout_summary_10mins">10 minuter</string>
+    <string name="custom_timeout_summary_20mins">20 minuter</string>
+    <string name="custom_timeout_summary_30mins">30 minuter</string>
+    <string name="custom_timeout_summary_1hour">1 timme</string>
+    <string name="custom_timeout_summary_2hours">2 timmar</string>
+    
+    
+    <string name="pulse_on_new_tracks_title">Musiknotering</string>
+    <string name="pulse_on_new_tracks_summary">Visa musiknotering på aktiv låsskärm vid låtbyte</string>
+
+    
+    <string name="screen_off_animation_title">Avstängningsanimering</string>
+    <string name="screen_off_animation_default">Standard</string>
+    <string name="screen_off_animation_crt">CRT</string>
+    <string name="screen_off_animation_scale">Skala</string>
+
+    
+    <string name="system_charging">Systemladdningsalternativ</string>
+    <string name="charging_animation_bg_title">Laddningsbakgrund</string>
+    <string name="charging_animation_bg_summary">Att Aktivera Detta Alternativ Kommer Att Göra Bakgrunden Till Systemanimering Till Svart</string>
+    
+    
+    <string name="hide_screen_capture_status_title">Dölj Skärmupptagningsstatus</string>
+    <string name="hide_screen_capture_status_summary">Dölj Skärmupptagning Och Skärmregistreringsstatus Från Alla Applikationer.Kan Vara Praktiskt I Vissa Fall Men Kan Leda Till Integritetsläckor.Behov Av Att Starta Om Ansökningar Om Ändringen Ska Träda I Kraft.</string>
+
+    
+    <string name="no_storage_restrict_title">Ingen Lagringsbegränsning</string>
+    <string name="no_storage_restrict_summary">Ta Bort Begränsningen När Du Väljer Mappar Via Ramverk För Lagring.Kan Vara Praktiskt I Vissa Fall Men Kan Leda Till Integritetsläckor.</string>
+    
+    
+    <string name="hide_developer_status_title">Dölj Utvecklarstatus</string>
+    <string name="hide_developer_status_summary">Förhindra Att Appar Kontrollerar Adb Och Utvecklarläge Status</string>
+    <string name="search">Söka</string>
+    <string name="search_apps">Sökappar</string>
+
+    
+    <string name="spoof_storage_encryption_status_title">Använd Lagringskrypteringsförfalskning</string>
+    <string name="spoof_storage_encryption_status_summary">Spoof Lagrage Krypteringsstatus Till Krypterad</string>
+    
+    
+    <string name="media_controls_always_show_time_title">Media Show Time</string>
+    <string name="media_controls_always_show_time_summary">Alltid Visa Passerad Och Total Tid På Mediaspelaren</string>
+    <string name="media_controls_squiggle_title">Squiggly Framsteg</string>
+    <string name="media_controls_squiggle_summary">Visa Framstegsfältet På Mediaspelaren \ Nrequires Systemui Omstart För Att Träda I Kraft</string>
+    <string name="media_controls_actions_title">Anpassade Åtgärder Gränser</string>
+    <string name="media_controls_actions_summary">Det Maximala Antalet Knappar Som Appar Får Lägga Till Spelaren</string>
+    <string name="media_controls_time_as_next_title">Tid Som Nästa / Tidigare</string>
+    <string name="media_controls_time_as_next_summary">Dölj Nästa / Föregående Knappar Och Använd Den Alltid Visade Tiden För Det Istället</string>
+    <string name="media_controls_ripple_title">Rippeleffekter</string>
+    <string name="media_controls_ripple_summary">Kontrollera Krusningseffekter När Du Interagerar Med Mediekontroller</string>
+    <string name="media_controls_turbulence_title">Turbulenseffekt</string>
+    <string name="media_controls_turbulence_summary">Aktivera Turbulenseffekten För En Dynamisk Mediekontroll</string>
+    
+    
+    <string name="enable_fingerprint_ripple_effect_title">Rippel effekt</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Visa rippel effekt vid upplåsning med fingeravtryck</string>
+    
+    <string name="ambient_display_always_on_title">Alltid Vidare</string>
+    <string name="ambient_display_always_on_summary">Visa Tid, Aviseringsikoner Och Annan Information.Ökat Batterianvändning.</string>
+
+    
+    <string name="ambient_ui">Omgivningsbatteri</string>
+    <string name="ambient_battery_settings_title">Aod Batterisbar</string>
+    <string name="ambient_battery_settings_summary">Visa En Batterisfält På Omgivningsdisplayen</string>
+    <string name="keyguard_show_battery_title">Batterisbar Vid Laddning</string>
+    <string name="keyguard_show_battery_summary">Visa En Batterisfält På Omgivningsdisplayen Vid Laddning</string>
+    <string name="keyguard_show_battery_always_title">Visa Alltid Batterisbar</string>
+    <string name="keyguard_show_battery_always_summary">Visa Alltid En Batterisfält På Omgivningsdisplayen</string>
+    <string name="keyguard_batterybar_color_source">Batterisbar Färgkälla</string>
+    <string name="keyguard_batterybar_custom_color">Batterifält Anpassad Färg</string>
+    <string name="keyguard_batterybar_white">Vit (Standard)</string>
+    <string name="keyguard_batterybar_accent">Accentfärg</string>
+    <string name="keyguard_batterybar_custom">Beställnings</string>
+    
+    
+    <string name="incall_vibration_category">Vibrationsalternativ vid samtal</string>
+    <string name="incall_vibrate_connect_title">Vibrera vid anslutning</string>
+    <string name="incall_vibrate_call_wait_title">Vibrera vid samtal väntar</string>
+    <string name="incall_vibrate_disconnect_title">Vibrera vid frånkoppling</string>
+
+    
+    <string name="incall_category">Alternativ I Samtal</string>
+    <string name="flashlight_on_call_title">Låt ficklampan blinka vid inkommande samtal</string>
+    <string name="flashlight_on_call_disabled">Inaktiverad</string>
+    <string name="flashlight_on_call_ringer">När det ringer</string>
+    <string name="flashlight_on_call_no_ringer">Vid ljudlös ringsignal</string>
+    <string name="flashlight_on_call_silent">Vid helt ljudlös (ingen ringsignal eller vibrator)</string>
+    <string name="flashlight_on_call_always">Alltid</string>
+    <string name="flashlight_on_call_ignore_dnd_title">Ignorera Stör-Ej</string>
+    <string name="flashlight_on_call_ignore_dnd_summary">Huruvida blinkning med ficklampa skall utföras när Stör-Ej läge är aktiverat</string>
+    <string name="flashlight_on_call_rate_title">Blinkandets frekvens</string>
+    <string name="flashlight_on_call_rate_summary">Ficklampan På Samtal Blink Rate</string>
+
+    
+    <string name="qs_colored_icons_title">Färgade Qs -Anmälningsikoner</string>
+    <string name="qs_colored_icons_summary">Visa Färgad Appikon Istället För Monokroma Ikoner</string>
+
+    
+    <string name="depth_wallpaper_category">Djup Tapet</string>
+    <string name="dw_file_header_select_title">Välj Djup Tapetämne</string>
+    <string name="dw_file_header_select_summary">Välj Djup Wallpaper Ämne Bild Från Lagring.</string>
+    <string name="dw_wallpaper_enabled_title">Djup Tapet</string>
+    <string name="dw_wallpaper_enabled_summary">Aktivera Ios-Inspirerade Djup Tapeter.Kräver En Ämnesbild.</string>
+    <string name="dw_wallpaper_opacity_title">Djup Tapet Opacitet</string>
+
+    
+    <string name="revamped_aosp_style">Renoverad Aosp Ui -Stil</string>
+    <string name="rui_style">Realme Ui -Stil</string>
+    <string name="stock_style">Lagergränssnitt</string>
+    <string name="double_layer_style">Dubbelskiktstil</string>
+    <string name="gradient_style">Lutstil</string>
+    <string name="neumorph_style">Neumorfstil</string>
+    <string name="neumorph_outline_style">Neumorph Disposition</string>
+    <string name="outline_style">Konturstil</string>
+    <string name="shaded_layer_style">Skuggad Lagerstil</string>
+    <string name="volume_style_title">Volympanelstilar</string>
+    
+    
+    <string name="charging_animation_title">Animering vid laddning</string>
+    <string name="charging_animation_summary">Visa en animering när enheten ansluts</string>
+
+    
+    <string name="doze_on_charge_title">Visa alltid vid laddning</string>
+    <string name="doze_on_charge_summary">Visa att enheten laddas</string>
+    
+    
+    <string name="lockscreen_show_carrier_title">Carrier name</string>
+    <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
+
+     
+     <string name="weather_category_title">Väder</string>
+     <string name="weather_settings_title">Väderinställningar</string>
+     <string name="weather_settings_summary">Ställ in ikonpaket och vädertjänst</string>
+     <string name="lockscreen_weather_title">Weather update</string>
+     <string name="lockscreen_weather_summary">Display current weather update</string>
+     <string name="lockscreen_weather_enabled_info">Requires weather service to be enabled</string>
+     <string name="lockscreen_weather_location_title">Current location</string>
+     <string name="lockscreen_weather_location_summary">Visa aktuell väderposition</string>
+     <string name="lockscreen_weather_text_title">Current condition</string>
+     <string name="lockscreen_weather_text_summary">Display current weather condition summary</string>
+     
+     
+    <string name="lockscreen_clock_colored_title">Färgad Klocka</string>
+    <string name="lockscreen_clock_colored_summary_on">Klockfärg Påverkas Av Monet</string>
+    <string name="lockscreen_clock_colored_summary_off">Klockfärg Är Alltid Svart Eller Vit</string>
+    <string name="clock_luminance_title">Klockslaginans</string>
+    <string name="clock_luminance_summary">Justera Klockfärgen Ljusstyrkan</string>
+    
+    
+    <string name="custom_clock_top_margin_title">Låsskärmens Klockbottenavstånd</string>
+    
+    
+    <string name="disable_qs_title">Dölj QS på säker låsskärm</string>
+    <string name="disable_qs_summary">Förhindra åtkomst till QS brickor på säker låsskärm</string>
+    
+    
+    <string name="qstile_requires_unlocking_title">Säkra Qs -Plattor</string>
+    <string name="qstile_requires_unlocking_summary">Kräva Låsning För Att Använda Känsliga Qs -Plattor</string>
+
+    
+    <string name="notification_material_dismiss_title">Knapp för att rensa alla aviseringar</string>
+    <string name="notification_material_dismiss_summary">Replace clear all notification text with material style floating button</string>
+    
+    
+    <string name="qs_dual_tone_title">Dual tone themed</string>
+    <string name="qs_dual_tone_summary">Use dual tone background colors instead of AOSP single tone</string>
+    
+    
+    <string name="wallpaper_blur_title">Tapet Oskärpa</string>
+    <string name="wallpaper_blur_summary">Aktivera Eller Inaktivera Tapetens Oskärpa Effekt</string>
+
+    
+    <string name="udfps_category">Udfps</string>
+    <string name="udfps_settings_title">UDFPS anpassning</string>
+    <string name="udfps_settings_summary">Anpassa fingeravtrycksläsare under display</string>
+
+    
+    <string name="screen_off_udfps_title">Skärm av UDFPS</string>
+    <string name="screen_off_udfps_summary">Håll UDFPS aktiverat när skärmen är avstängd</string>
+
+    
+    <string name="udfps_icon_picker_title">UDFPS ikonväljare</string>
+    <string name="udfps_icon_picker_summary">Välj din favoritikon för fingeravtryck</string>
+
+    
+    <string name="udfps_recog_animation_effect_title">UDFPS anpassad animering</string>
+    <string name="udfps_recog_animation_effect_summary">Välj animeringseffekt</string>
+
+    
+    <string name="fprint_success_vib_title">Fingeravtrycksautentiseringsvibration</string>
+    <string name="fprint_success_vib_summary">Vibrera Vid Framgångsrik Fingeravtrycksautentisering</string>
+    <string name="fprint_error_vib_title">Fingeravtrycksfelvibration</string>
+    <string name="fprint_error_vib_summary">Vibrera På Felfingeravtrycksautentisering</string>
+    
+    
+    <string name="notification_sound_vib_screen_on_title">Högljudda aviseringar</string>
+    <string name="notification_sound_vib_screen_on_summary">Spela upp ljud och vibration för aviseringar när skärmen är påslagen</string>
+    
+    
+    <string name="spoofing_title">Falsk</string>
+    <string name="spoofing_title_summary">Spoof Som Olika Enheter För Att Låsa Upp Applikationsfunktioner</string>
+    <string name="all_props_title">Aktivera Förfalskningsalternativ</string>
+    <string name="all_props_summary">Aktiverar Alla Förfalskningsalternativ Inom Pixelproporna</string>
+    <string name="google_spoof_title">Spoof Google Apps</string>
+    <string name="google_spoof_summary">Spoof Valda Google Apps Till Pixel 9 Pro Xl</string>
+    <string name="google_spoof_option_disabled">Att Aktivera Google Apps -Förfalskning Behövs Inte Av Den Aktuella Enheten</string>
+    <string name="gms_spoof_title">Aktivera Gms -Förfalskning</string>
+    <string name="gms_spoof_summary">Spoof Din Enhet För Att Skicka Google Play -Intyg Om</string>
+    <string name="gameprops_title">Lås Upp Högre Fps I Spel</string>
+    <string name="gameprops_summary">Förfalskar Din Enhetsmodell För Spel Till En Flaggskeppsenhet</string>
+    <string name="gameprops_load_json_title">Importera Anpassade Gameprops Json -Fil (Valfritt)</string>
+    <string name="gameprops_load_json_summary">Välj En Anpassad Gameprops Json -Fil Om Du Vill Förfalska Spel Till Din Önskade Enhetsmodell</string>
+    <string name="pif_spoofing_title">Välj Anpassad Pif Json -Fil</string>
+    <string name="pif_spoofing_summary">Välj Anpassad Pif Json -Fil Som Ska Användas För Att Förfalska Spelintegritet</string>
+    
+    <string name="use_photos_spoof_title">Obegränsat lagringsutrymme för foton</string>
+    <string name="use_photos_spoof_summary">Spoofa din enhet som Pixel XL för Google Foto-appen bara för att ge obegränsat lagringsutrymme för säkerhetskopiering</string>
+    <string name="use_games_spoof_title">Lås upp högre FPS i spel</string>
+    <string name="use_games_spoof_summary">Spoofa din enhet som en annan modell för att låsa upp högre FPS till specifika spel</string>   
+    <string name="spoof_option_disabled">Inaktivering Av Pixelprops Förfalskning Stöds Inte Av Nuvarande Enhet</string>
+    <string name="netflix_spoof_title">Netflix spoof</string>
+    <string name="netflix_spoof_summary">Spoof your device as different model for Netflix</string>
+    
+    
+    <string name="toast_spoofing_success">Ladda Ner Pif.Json Framgångsrikt.Förfalskning Som %1$s För Spelintegritet.</string>
+    <string name="toast_spoofing_failure">Det Gick Inte Att Förfalska Egenskaper.</string>
+    <string name="update_pif_json_title">Uppdatera Play Integrity Fix</string>
+    <string name="update_pif_json_summary">Uppdatera Pif -Förfalskningsenhet, Kräver Internetanslutning.</string>
+    <string name="show_pif_properties_title">Spela Integrity Fix -Egenskaper</string>
+    <string name="show_pif_properties_summary">Visa Alla För Närvarande Set Pif -Egenskaper</string>
+    <string name="error_loading_properties">Felbelastning Av Pif -Egenskaper</string>
+     
+     
+    <string name="ambient_edge_light_action_title">Omgivningskantbelysning</string>
+    <string name="ambient_edge_light_title">Kantbelysning</string>
+    <string name="ambient_edge_light_enable_title">Kantbelysning</string>
+    <string name="ambient_edge_light_enable_summary">Växla För Att Möjliggöra Kantbelysning</string>
+    <string name="ambient_edge_light_summary">Tänd Upp Sidokanten På Skärmen På Anmälningspuls</string>
+    <string name="ambient_edge_light_color_mode_category_title">Färg</string>
+    <string name="ambient_edge_light_color_mode_auto">Bil</string>
+    <string name="ambient_edge_light_color_mode_app">Appfärg</string>
+    <string name="ambient_edge_light_color_mode_manual">Manuell</string>
+    <string name="ambient_edge_light_advanced_category_title">Avancerad</string>
+    <string name="ambient_edge_light_duration_title">Lätt Varaktighet</string>
+    <string name="ambient_edge_light_repeat_count_title">Upprepning</string>
+    <string name="ambient_edge_light_width_title">Lättbredd</string>
+    <string name="ambient_edge_light_face_down_title">Vänd För Att Aktivera</string>
+    <string name="ambient_edge_light_face_down_summary">Visa Kantljus Endast När Telefonen Står Inför</string>
+    <string name="ambient_edge_light_layout_title">Lättvy</string>
+    <string name="ambient_edge_light_layout_solid">Fast</string>
+    <string name="ambient_edge_light_layout_faded">Urblekt</string>
+    
+    
+    <string name="island_notification_title">Island notification</string>
+    <string name="island_notification_summary">Display heads-up notification in Dynamic Island style</string>
+    <string name="island_notification_now_playing_title">Now playing</string>
+    <string name="island_notification_now_playing_summary">Display currently playing song in Dynamic Island style</string>
+</resources>

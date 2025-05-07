@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2024 Project Infinity X
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+    android:title="@string/themes_title">
+    
+    <!-- Wallpaper Settings -->
+    <Preference
+        android:key="wallpaper_settings"
+        android:title="@string/wallpaper_settings_title"
+        android:summary="@string/wallpaper_settings_summary"
+        android:fragment="com.infinity.suite.fragments.Wallpaper" />
+
+            <!-- Boot animation -->
+        <Preference
+            android:key="boot_animation"
+            android:title="@string/themes_boot_animation_title"
+            android:summary="@string/themes_boot_animation_summary"
+            android:fragment="com.infinity.suite.fragments.BootAnimation" />
+
+    <!-- Settings Icons-->
+    <Preference
+        android:key="settings_icon"
+        android:title="@string/settings_icon_title"
+        android:summary="@string/settings_icon_summary"
+        android:fragment="com.infinity.suite.fragments.SettingIcons" />
+
+    <!-- Font style -->
+    <Preference
+        android:key="android.theme.customization.fonts"
+        android:title="@string/theme_customization_font_title"
+        android:summary="@string/theme_customization_font_summary"
+        android:fragment="com.infinity.suite.fragments.FontsPicker"/>
+
+    <!-- Icon pack -->
+    <Preference
+        android:key="android.theme.customization.icon_pack"
+        android:title="@string/theme_customization_icon_pack_title"
+        android:summary="@string/theme_customization_icon_pack_summary"
+        android:fragment="com.infinity.suite.fragments.StatusbarIcons"/>    
+
+    <!-- Adaptive icon pack -->
+    <Preference
+        android:key="android.theme.customization.adaptive_icon_shape"
+        android:title="@string/theme_customization_icon_shape_title"
+        android:summary="@string/theme_customization_icon_shape_summary"
+        android:fragment="com.infinity.suite.fragments.IconShapes"/>
+        
+    <!-- Signal icon style -->
+    <Preference
+        android:key="android.theme.customization.signal_icon"
+        android:title="@string/theme_customization_signal_icon_title"
+        android:summary="@string/theme_customization_signal_icon_summary"
+        android:fragment="com.infinity.suite.fragments.SignalIcons"/>
+
+    <!-- Wifi icon style -->
+    <Preference
+        android:key="android.theme.customization.wifi_icon"
+        android:title="@string/theme_customization_wifi_icon_title"
+        android:summary="@string/theme_customization_wifi_icon_summary"
+        android:fragment="com.infinity.suite.fragments.WifiIcons"/>
+        
+    <!-- Volume Styles -->      
+    <com.infinity.support.preferences.SystemSettingListPreference
+        android:key="custom_volume_styles"
+        android:title="@string/volume_style_title"
+        android:dialogTitle="@string/volume_style_title"
+        android:entries="@array/volume_styles_entries"
+        android:entryValues="@array/volume_styles_values"
+        android:summary="%s"
+        android:defaultValue="2" />
+        
+    <!-- Data icon style -->  
+    <Preference
+        android:key="android.theme.customization.sb_data"
+        android:title="@string/theme_customization_data_title"
+        android:summary="@string/theme_customization_data_summary"
+        android:fragment="com.infinity.suite.fragments.DataStyles" />
+
+    <!-- Navbar Style -->
+    <Preference
+        android:key="android.theme.customization.navbar"
+        android:title="@string/theme_customization_navbar_title"
+        android:summary="@string/theme_customization_navbar_summary"
+        android:fragment="com.infinity.suite.fragments.NavbarStyles"/>
+
+</PreferenceScreen>
